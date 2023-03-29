@@ -3,5 +3,5 @@ links:
   - title: Menu Title
     url: /permalink
     sublinks:
-      - title: Submenu Title
-        url: /permalink
+      - title: Who We Are
+        url: /who-we-are
