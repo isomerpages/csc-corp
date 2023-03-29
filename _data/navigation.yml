@@ -1,7 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Menu Title
-    url: /permalink
+  - title: Who We Are‎‎
+    url: /who-we-are
     sublinks:
-      - title: Who We Are
-        url: /who-we-are
+      - title: Board of Directors
+        url: /permalink
+      - title: Organization Structure
+        url: /permalink
+      - title: Fellowships
+        url: /permalink
+      - title: Our Partners
+        url: /permalink
