@@ -1,17 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Who We Are‎‎
-    url: /who-we-are
-    sublinks:
-      - title: Board of Directors
-        url: /board-of-directors
-      - title: Organization Structure
-        url: /organization-structure
-      - title: Fellowships
-        url: /fellowships
-      - title: Our Partners
-        url: /our-partners
-  - title: What We Do
-    url: /what-we-do
   - title: Who We Are
     collection: who-we-are
+  - title: What We Do
+    url: /what-we-do
