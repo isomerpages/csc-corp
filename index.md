@@ -9,13 +9,11 @@ sections:
   - hero:
       title: Hero title
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Learn at CSC
           description: ""
           url: https://google.com
         - title: About CSC
           description: ""
-          url: https://gmail.com
+          url: /who-we-are
 ---
