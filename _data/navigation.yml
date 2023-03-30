@@ -7,6 +7,11 @@ links:
   - title: Join Us
     url: /join-us
   - title: Reach Us
-    url: /contact-us
-  - title: Menu Title
-    collection: example-folder
+    url: /permalink
+    sublinks:
+      - title: Contact Us
+        url: /contact-us
+      - title: Rent Our Facility
+        url: /rent-our-facility
+      - title: Our Amenities
+        url: /our-amenities
