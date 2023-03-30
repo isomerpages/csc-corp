@@ -8,3 +8,5 @@ links:
     url: /join-us
   - title: Reach Us
     url: /contact-us
+  - title: Menu Title
+    collection: example-folder
