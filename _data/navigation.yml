@@ -1,7 +1,16 @@
 logo: /images/civil_service_college_singapore_logo.png
 links:
   - title: Who We Are
-    collection: who-we-are
+    url: /who-we-are
+    sublinks:
+      - title: Board of Directors
+        url: /board-of-directors
+      - title: Organization Structure
+        url: /organization-structure
+      - title: Our Fellowships
+        url: /fellowships
+      - title: Our Partners
+        url: /our-partners
   - title: What We Do
     url: /what-we-do
   - title: Join Us
