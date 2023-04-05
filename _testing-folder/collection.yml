@@ -1,4 +1,5 @@
 collections:
   testing-folder:
     output: true
-    order: []
+    order:
+      - Current Test.md
