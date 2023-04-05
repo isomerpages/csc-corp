@@ -38,10 +38,11 @@ description: ""
 <div class="BOD-float-child">
 	<h4>Ms Ong Toon Hui</h4>
 	<p class="role">Member</p>
-	<div class="TheTitle"></div>
-	<div class="TheTitle"></div>
-	<div class="TheTitle"></div>
-	<div class="TheTitle"></div>
+	<div class="TheTitle">Dean &amp; CEO</div>
+	<div class="TheTitle">Civil Service College</div>
+	<div class="TheTitle">Deputy Secretary (Leadership)</div>
+	<div class="TheTitle">Prime Service Division,</div>
+	<div class="TheTitle">Prime Minister's Office</div>
 </div>
 <div class="BOD-float-child">test</div>
 </div>
