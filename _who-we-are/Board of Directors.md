@@ -17,7 +17,8 @@ description: ""
 	}
 	
 	.role{
-		font-family: Calibri, Lato, sans-serif
+		font-size: 12px;
+	
 	}
 
 </style>
@@ -25,13 +26,11 @@ description: ""
 	<div class="BOD-float-child"><h4>Mr Loh Kum Yean</h4>
 		<p class="role">CHAIRMAN</p>
 		
-<p>Permanent Secretary  
-Public Service Division,  
-Prime Minister's Office
-
-Permanent Secretary​  
-Ministry of Law
-		</p>		
+<p>Permanent Secretary</p> 
+<p>Public Service Division,</p> 
+<p>Prime Minister's Office</p>
+<p>Permanent Secretary</p>  
+<p>Ministry of Law</p>		
 		
 </div>
 <div class="BOD-float-child">test</div>
