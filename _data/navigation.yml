@@ -26,3 +26,5 @@ links:
         url: /rent-our-facility
       - title: Our Amenities
         url: /our-amenities
+  - title: testing folder
+    collection: testing-folder
