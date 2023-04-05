@@ -19,6 +19,12 @@ Singapore 275983
 <p>We are a five-minute walk from several public transport stops.</p>
 <b>By MRT</b>
 <p>Take the Circle Line or East-West line and alight at Buona Vista MRT station. Look out for directions towards 'Civil Service College'.</p>
+<b>By Bus</b>
+<ul>
+	<li>Alight at Blk 46 Holland Drive: 32, 48, 74, 74e, 91, 145, 185, 191, 200.</li> 
 
-
+<li>Alight at Blk 43, along Commonwealth Avenue: 95, 100, 105, 111, 147, 16, 198. </li>
+</ul>
+	
+	
 <img style="width:1000px;height:700px;" src="/images/civilservicecollege_gettinghere.jpg">
