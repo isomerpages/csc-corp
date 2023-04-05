@@ -4,12 +4,15 @@ permalink: /board-of-directors/
 description: ""
 ---
 <style>
-	.BOD_div{
-	float: left;
-	margin: 10px;
+.grid-container{
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 20px;
+	
 	}
+
 </style>
-<div class="BOD_div">Hello there</div>
-<div class="BOD_div">Hello there</div>
-<div class="BOD_div">Hello there</div>
-<div class="BOD_div">Hello there</div>
+<div class="grid-container">
+<div class="BOD-float-child">test</div>
+<div class="BOD-float-child">test</div>
+</div>
