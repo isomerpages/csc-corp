@@ -15,7 +15,7 @@ Singapore 275983
 	<li>8.30am to 5.00pm (Fridays)</li>
 	<li>Closed on Saturdays, Sundays and public holidays</li>
 	</ul>
-
+<b>Getting Here</b>
 
 
 <img style="width:1000px;height:700px;" src="/images/civilservicecollege_gettinghere.jpg">
