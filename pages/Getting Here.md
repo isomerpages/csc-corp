@@ -9,7 +9,12 @@ description: ""
 Singapore 275983
 <p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p>
 
-
+<b>Operating Hours</b>
+<ul>
+	<li>8.30am to 5.30pm ( Monday to Thursdays )</li>
+	<li>8.30am to 5.00pm (Fridays)</li>
+	<li>Closed on Saturdays, Sundays and public holidays</li>
+	</ul>
 
 
 
