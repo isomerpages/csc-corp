@@ -35,6 +35,13 @@ description: ""
 <div class="TheTitles">Ministry of Law</div>		
 		
 </div>
-<div class="BOD-float-child">test</div>
+<div class="BOD-float-child">
+	<h4>Ms Ong Toon Hui</h4>
+	<p class="role">Member</p>
+	<div class="TheTitle"></div>
+	<div class="TheTitle"></div>
+	<div class="TheTitle"></div>
+	<div class="TheTitle"></div>
+</div>
 <div class="BOD-float-child">test</div>
 </div>
