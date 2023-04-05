@@ -13,13 +13,23 @@ description: ""
 	
 	.BOD-float-child{
 	
-	text-align:center;
-	
+
 	}
 
 </style>
 <div class="grid-container">
-<div class="BOD-float-child">test</div>
+	<div class="BOD-float-child"><h6>Mr Loh Kum Yean</h6><p>CHAIRMAN
+
+Permanent Secretary  
+Public Service Division,  
+Prime Minister's Office
+
+Permanent Secretary​  
+Ministry of Law</p>
+		
+		
+		
+</div>
 <div class="BOD-float-child">test</div>
 <div class="BOD-float-child">test</div>
 </div>
