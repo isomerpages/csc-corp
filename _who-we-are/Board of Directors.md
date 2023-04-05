@@ -12,6 +12,7 @@ description: ""
 	}
 	
 	.BOD-float-child{
+	
 	text-align:center;
 	
 	}
