@@ -15,10 +15,15 @@ description: ""
 	
 
 	}
+	
+	.role{
+		font-family: Calibri, Lato, sans-serif
+	}
 
 </style>
 <div class="grid-container">
-	<div class="BOD-float-child"><h4>Mr Loh Kum Yean</h4><p>CHAIRMAN</p>
+	<div class="BOD-float-child"><h4>Mr Loh Kum Yean</h4>
+		<p class="role">CHAIRMAN</p>
 		
 <p>Permanent Secretary  
 Public Service Division,  
