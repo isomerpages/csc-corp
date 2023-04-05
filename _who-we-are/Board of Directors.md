@@ -44,5 +44,10 @@ description: ""
 	<div class="TheTitle">Prime Service Division,</div>
 	<div class="TheTitle">Prime Minister's Office</div>
 </div>
-<div class="BOD-float-child">test</div>
+<div class="BOD-float-child">
+	<h4>Ms Ang Wan May</h4>
+	<p class="role">Member</p>
+	<div class="TheTitle">Managing Partner,</div>
+	<div class="TheTitle">Egon Zehnder International, Singapore</div>
+</div>
 </div>
