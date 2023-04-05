@@ -2,4 +2,5 @@ collections:
   testing-folder:
     output: true
     order:
+      - Testing Indepth/.keep
       - Current Test.md
