@@ -31,4 +31,4 @@ Singapore 275983
 
 
 
-<img style="width:1000px;height:550px;" src="/images/civilservicecollege_gettinghere.jpg">
+<img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
