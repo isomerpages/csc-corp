@@ -3,8 +3,4 @@ title: Getting Here
 permalink: /getting-here/
 description: ""
 ---
-![](/images/civilservicecollege_gettinghere.jpg)
-
-
-<img src="/images/civilservicecollege_gettinghere.jpg">
-
+<img style="width:1000px;height:600px;" src="/images/civilservicecollege_gettinghere.jpg">
