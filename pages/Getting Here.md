@@ -7,8 +7,7 @@ description: ""
 <p><b>Address</b></p>
 31 North Buona Vista Road <br>
 Singapore 275983
-<p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/ 
-main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p>
+<p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p>
 
 
 
