@@ -32,3 +32,18 @@ Singapore 275983
 
 
 <img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
+
+
+
+&nbsp; 
+&nbsp; &nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp; 
+&nbsp; <table><tbody><tr><td>test1</td><td>Test2</td><td>test3</td></tr>
+</tbody></table>
+
+
+
+
+
+
