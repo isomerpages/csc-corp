@@ -25,6 +25,10 @@ Singapore 275983
 
 <li>Alight at Blk 43, along Commonwealth Avenue: 95, 100, 105, 111, 147, 16, 198. </li>
 </ul>
-	
-	
-<img style="width:1000px;height:700px;" src="/images/civilservicecollege_gettinghere.jpg">
+<b>By Car</b>	
+<p>We have limited parking lots at CSC. It might be easier and faster to find a parking lot at these nearby carparks: </p>
+
+
+
+
+<img style="width:1000px;height:550px;" src="/images/civilservicecollege_gettinghere.jpg">
