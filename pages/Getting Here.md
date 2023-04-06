@@ -65,10 +65,7 @@ Singapore 275983
 <tr align="center">
 		<td></td>
 	  <td>Motorcycles</td>
-	  <td>7am - 11pm</td>
+	  <td>7am - 11pm: $1.00 per entry</td>
 </tr>
 						 
 </tbody></table>
-
-
-
