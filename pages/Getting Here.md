@@ -49,23 +49,23 @@ Singapore 275983
 	<tr align="center">
 		<td>Monday to Friday</td>
 		<td>Cars</td>
-		<td>7am - 11pm: $1.20 per hour
+		<td>7am - 11pm: <br> $1.20 per hour <br>
 		$0.02 per minute</td>
 </tr>
 <tr align="center">
 	<td></td>
 	<td>Motorcycles</td>
-	<td>7am - 11pm: $1.00 per entry</td>
+	<td>7am - 11pm: <br> $1.00 per entry</td>
 </tr>
 <tr align="center">
 	<td>Saturday</td>
 	<td>Cars</td>
-	<td>7am - 6pm: $1.20 per hour $0.02 per minute</td>
+	<td>7am - 6pm: <br> $1.20 per hour <br> $0.02 per minute</td>
 </tr>
 <tr align="center">
 		<td></td>
 	  <td>Motorcycles</td>
-	  <td>7am - 11pm: $1.00 per entry</td>
+	  <td>7am - 11pm: <br> $1.00 per entry</td>
 </tr>
 						 
 </tbody></table>
