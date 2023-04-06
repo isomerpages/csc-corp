@@ -35,15 +35,11 @@ Singapore 275983
 
 
 
-&nbsp; 
-&nbsp; &nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp; 
-&nbsp; <table><tbody><tr><td>test1</td><td>Test2</td><td>test3</td></tr>
+<table>
+<tbody><tr>
+		<td>test1</td>
+		<td>Test2</td>
+		<td>test3</td>
+</tr>
+
 </tbody></table>
-
-
-
-
-
-
