@@ -6,7 +6,7 @@ description: ""
 <style>
 table {
 	border: 1px solid black;
-
+  border-collapse: collapse;
 	}
 
 	td {
@@ -51,10 +51,16 @@ Singapore 275983
 
 
 <table>
-<tbody><tr>
+<tbody>
+	<tr>
 		<td>test1</td>
 		<td>Test2</td>
 		<td>test3</td>
+</tr>
+<tr>
+	<td>Test</td>
+	<td>Test 2</td>
+	<td>Test 3</td>
 </tr>
 
 </tbody></table>
