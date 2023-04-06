@@ -75,5 +75,9 @@ Singapore 275983
 </ul>
 
 <h2 style="text-align:center">How to Contact Us</h2>
-
-
+<h3>If you'd like to reach us, you can:</h3>
+<ul>
+	<li></li>
+	<li></li>
+	<li></li>
+</ul>
