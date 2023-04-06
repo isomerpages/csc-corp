@@ -77,7 +77,7 @@ Singapore 275983
 <h2 style="text-align:center">How to Contact Us</h2>
 <h3>If you'd like to reach us, you can:</h3>
 <ul>
-	<li></li>
-	<li></li>
-	<li></li>
-</ul>
+	<li>Contact us at 6874 1733</li>
+	<li>Submit an <a href="">online feedback form</a><a></a></li><a>
+	<li>Email us at cscollege@cscollege.gov.sg ( Please indicate your organisation/agency and your work email address in your correspondence )</li>
+</a></ul>
