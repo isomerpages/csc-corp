@@ -51,19 +51,11 @@ description: ""
 	<div class="TheTitle">Egon Zehnder International, Singapore</div>
 </div>
 </div>
-
+<br>
 <div class="grid-container">
 <div class="BOD-float-child">
 	<h4>Mr Clarence Ti</h4>	
 </div>
 	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4></div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4></div>
-
-
-
-
 </div>
-
-
-
-
