@@ -69,3 +69,7 @@ Singapore 275983
 </tr>
 						 
 </tbody></table>
+<ul>
+	<li>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays</li>
+	<li></li>
+</ul>
