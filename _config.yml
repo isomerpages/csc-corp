@@ -2,8 +2,8 @@ title: Title
 url: https://www.csc.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#f68b1f"
+  secondary-color: "#9f2943"
   media-colors:
     - title: media-color-one
       color: "#49759a"
