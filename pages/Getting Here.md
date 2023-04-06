@@ -5,17 +5,11 @@ description: ""
 ---
 <style>
 table {
-	border: 1px solid black;
+	border: black 1px solid;
   border-collapse: collapse;
 	}
-
-	td {
-	 border: 1px solid black;
-	}
 	
-	tr {
-	 border: 1px solid black;
-	}
+
 
 </style>
 <h2>How to get here</h2>
@@ -52,19 +46,29 @@ Singapore 275983
 
 <table>
 <tbody>
-	<tr>
-		<td>test1</td>
-		<td>Test2</td>
-		<td>test3</td>
+	<tr align="center">
+		<td>Monday to Friday</td>
+		<td>Cars</td>
+		<td>7am - 11pm: $1.20 per hour
+		$0.02 per minute</td>
 </tr>
-<tr>
-	<td>Test</td>
-	<td>Test 2</td>
-	<td>Test 3</td>
+<tr align="center">
+	<td></td>
+	<td>Motorcycles</td>
+	<td>7am - 11pm: $1.00 per entry</td>
 </tr>
-<tr>
-	<td>test</td>
-	<td>test</td>
-	<td>test </td>
+<tr align="center">
+	<td>Saturday</td>
+	<td>Cars</td>
+	<td>7am - 6pm: $1.20 per hour $0.02 per minute</td>
 </tr>
+<tr align="center">
+		<td></td>
+	  <td>Motorcycles</td>
+	  <td>7am - 11pm</td>
+</tr>
+						 
 </tbody></table>
+
+
+
