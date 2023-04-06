@@ -3,6 +3,6 @@ collections:
     output: true
     order:
       - Board of Directors.md
-      - Organization Structure.md
+      - Organisation Structure.md
       - Fellowships.md
       - Our Partners.md
