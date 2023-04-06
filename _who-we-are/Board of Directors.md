@@ -106,7 +106,12 @@ description: ""
 		<div class="TheTitle">Permanent Secretary,</div>
 		<div class="TheTitle">Ministry of Home Affairs</div>
 </div>
-	<div class="BOD-float-child"><h4></h4></div>
+	<div class="BOD-float-child"><h4>Mr Paul Choo</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Chief HR Officer,</div>
+		<div class="TheTitle">Bridgestone Asia Pacific</div>
+	
+</div>
 	<div class="BOD-float-child"><h4></h4></div>
 </div>
 <br>
