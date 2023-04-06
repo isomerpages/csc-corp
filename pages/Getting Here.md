@@ -9,6 +9,13 @@ table {
   border-collapse: collapse;
 	}
 	
+	.grid-container {
+	 display: grid;
+	 grid-template-columns: 1fr 1fr;
+	
+	
+	
+	}
 
 	
 </style>
@@ -75,11 +82,21 @@ Singapore 275983
 </ul>
 
 <h2 style="text-align:center">How to Contact Us</h2>
-<div>
+<div class="grid-container">
+	<div class="grid-child">
 <h3>If you'd like to reach us, you can:</h3>
 <ul>
 	<li>Contact us at 6874 1733</li>
 	<li>Submit an <a href="">online feedback form</a><a></a></li><a>
 	<li>Email us at cscollege@cscollege.gov.sg ( Please indicate your organisation/agency and your work email address in your correspondence )</li>
 </a></ul>
-	</div>
+		</div>
+	<div class="grid-child">
+		<h3>Or if you wish to let us know how we're doing, you can:</h3>
+		
+	 
+	
+	
+	
+</div>
+</div>
