@@ -95,14 +95,20 @@ description: ""
 </div>
 <br>
 <div class="grid-container">
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
 
 </div>
 <br>
 <div class="grid-container">
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
 </div>
 <br>
-<div class="grid-container"></div>
-
-
-
-
+<div class="grid-container">
+<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+</div>
