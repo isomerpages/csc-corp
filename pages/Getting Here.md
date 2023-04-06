@@ -73,3 +73,7 @@ Singapore 275983
 	<li>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays.</li>
 	<li>There is a 10-minute grace period before car park charging begins.</li>
 </ul>
+
+<h2 style="text-align:center">How to Contact Us</h2>
+
+
