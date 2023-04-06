@@ -59,7 +59,11 @@ description: ""
 	<div class="TheTitle">Deputy President (Administration)</div>
 	<div class="TheTitle">National University of Singapore</div>
 </div>
-	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4></div>
+	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Managing Director,Robinson LLC</div>
+	
+</div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4></div>
 </div>
 <br>
