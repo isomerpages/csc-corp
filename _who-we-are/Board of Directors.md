@@ -54,7 +54,10 @@ description: ""
 <br>
 <div class="grid-container">
 <div class="BOD-float-child">
-	<h4>Mr Clarence Ti</h4>	
+	<h4>Mr Clarence Ti</h4>
+	<p class="role">Member</p>
+	<div class="TheTitle">Deputy President (Administration)</div>
+	<div class="TheTitle">National University of Singapore</div>
 </div>
 	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4></div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4></div>
