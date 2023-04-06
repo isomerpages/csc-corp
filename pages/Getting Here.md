@@ -66,8 +66,5 @@ Singapore 275983
 	<td>test</td>
 	<td>test</td>
 	<td>test </td>
-	
-	
-	
 </tr>
 </tbody></table>
