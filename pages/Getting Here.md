@@ -3,6 +3,21 @@ title: Getting Here
 permalink: /getting-here/
 description: ""
 ---
+<style>
+table {
+	border: 1px solid black;
+
+	}
+
+	td {
+	 border: 1px solid black;
+	}
+	
+	tr {
+	 border: 1px solid black;
+	}
+
+</style>
 <h2>How to get here</h2>
 <p><b>Address</b></p>
 31 North Buona Vista Road <br>
