@@ -93,6 +93,11 @@ Singapore 275983
 		</div>
 	<div class="grid-child">
 		<h3>Or if you wish to let us know how we're doing, you can:</h3>
+<ul>
+			<li>Call our Quality Service Manager ( QSM ) at 1800 874 0604 ( Service-related matters )</li>
+			<li>Email Ms Shireen Lim, Head, Communications and Customer Relations, at Shireen_lim@cscollege.gov.sg</li>
+		
+</ul>
 		
 	 
 	
