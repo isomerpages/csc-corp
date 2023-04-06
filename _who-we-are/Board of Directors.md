@@ -71,7 +71,7 @@ description: ""
 </div>
 <br>
 <div class="grid-container">
-	<div class="BOD-float-child"></div>
-	<div class="BOD-float-child"></div>
-	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"><h4></h4></div>
+	<div class="BOD-float-child"><h4></h4></div>
+	<div class="BOD-float-child"><h4></h4></div>
 </div>
