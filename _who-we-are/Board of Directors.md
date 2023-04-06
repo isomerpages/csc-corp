@@ -76,7 +76,9 @@ description: ""
 		<div class="TheTitle">Ministry of communications and Information</div>	
 		<div class="TheTitle">Permanent Secretary (Cybersecurity),</div>	
 		<div class="TheTitle">Prime Minister's Office</div>	
-		<div class="TheTitle"></div>	
+		<div class="TheTitle">Permanent Secretary,</div>
+		<div class="TheTitle">Smart Nation and Digital Government Office,</div>
+		<div class="TheTitle">Prime Minister's Office</div>
  </div>
 	<div class="BOD-float-child"><h4></h4></div>
 	<div class="BOD-float-child"><h4></h4></div>
