@@ -80,6 +80,16 @@ description: ""
 		<div class="TheTitle">Smart Nation and Digital Government Office,</div>
 		<div class="TheTitle">Prime Minister's Office</div>
  </div>
-	<div class="BOD-float-child"><h4></h4></div>
-	<div class="BOD-float-child"><h4></h4></div>
+	<div class="BOD-float-child"><h4>Dr Lee Shiang Long</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Group Chief Technology and Digital Officer,</div>
+		<div class="TheTitle">ST Engineering</div>
+
+</div>
+	<div class="BOD-float-child"><h4>Mr Mohammad Shariq Barmaky</h4><p class="role">Member</p>
+		<div class="TheTitle">Regional Managing Partner,</div>
+		<div class="TheTitle">Audit and Assurance,</div>
+		<div class="TheTitle">Deloitte Southeast Asia</div>
+	
+</div>
 </div>
