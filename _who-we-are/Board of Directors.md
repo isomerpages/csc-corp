@@ -59,3 +59,9 @@ description: ""
 	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4></div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4></div>
 </div>
+<br>
+<div class="grid-container">
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"></div>
+</div>
