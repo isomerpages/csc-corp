@@ -112,7 +112,13 @@ description: ""
 		<div class="TheTitle">Bridgestone Asia Pacific</div>
 	
 </div>
-	<div class="BOD-float-child"><h4></h4></div>
+	<div class="BOD-float-child"><h4>Ms Sasha Foo</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Managing Director,</div>
+		<div class="TheTitle">DBS Bank Limited</div>
+	
+	
+</div>
 </div>
 <br>
 <div class="grid-container">
