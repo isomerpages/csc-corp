@@ -11,6 +11,11 @@ description: ""
 	 
 	}
 
+	.header-left {
+		text-align: left;
+	
+	
+	}
 
 
 </style>
@@ -20,7 +25,7 @@ description: ""
 
 <hr>
 <div class="grid-container">
-<div class="grid-child-OS"><h2 style="text-align:left;">Dean's Office</h2></div>
+<div class="grid-child-OS"><h2 style="text-align:left;" class="header-left">Dean's Office</h2></div>
 <div class="grid-child-OS">
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
@@ -34,3 +39,28 @@ description: ""
 
 
 <hr>
+<div class="grid-container">
+	<div class="grid-child-OS"><h2 class="header-left">Institues</h2></div>
+	<div class="grid-child-OS">
+		<ul>
+		 <li></li>
+		 <li></li>
+		 <li></li>
+		 <li></li>
+		</ul>
+	
+	
+ 
+ </div>
+</div>
+
+<hr>
+
+
+
+
+
+
+
+
+
