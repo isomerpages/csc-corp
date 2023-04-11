@@ -116,13 +116,23 @@ description: ""
 		<p class="role">Member</p>
 		<div class="TheTitle">Managing Director,</div>
 		<div class="TheTitle">DBS Bank Limited</div>
-	
-	
-</div>
+	 </div>
 </div>
 <br>
 <div class="grid-container">
-<div class="BOD-float-child"></div>
-	<div class="BOD-float-child"></div>
+	<div class="BOD-float-child"><h4>Ms Tan Gee Keow</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Permanent Secretary</div>
+		<div class="TheTitle">Ministry of Culture, Community and Youth</div>
+	
+ </div>
+	<div class="BOD-float-child"><h4>Mr Wahab Yusoff</h4>
+		<p class="role">Member</p>
+		<div class="TheTitle">Vice-President,</div>
+		<div class="TheTitle">Asia Pacific and Japan, Delinea</div>
+ 
+ 
+	
+</div>
 	<div class="BOD-float-child"></div>
 </div>
