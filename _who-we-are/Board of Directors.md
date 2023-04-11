@@ -131,8 +131,6 @@ description: ""
 		<div class="TheTitle">Vice-President,</div>
 		<div class="TheTitle">Asia Pacific and Japan, Delinea</div>
  
- 
-	
 </div>
 	<div class="BOD-float-child"></div>
 </div>
