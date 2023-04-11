@@ -3,11 +3,25 @@ title: Organisation Structure
 permalink: /organisation-structure/
 description: ""
 ---
+<style>
+
+.grid-container {
+	  display: grid;
+	  grid-template-columns: 1fr 1fr;
+	 
+	}
+
+
+
+</style>
+
+
 <p>CSC's five Institutes, three Business Support units and six Corporate Services departments work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                         </p>
 
 <hr>
-<div><h2 style="text-align:left;">Dean's Office</h2></div>
-<div>
+<div class="grid-container">
+<div class="grid-child-OS"><h2 style="text-align:left;">Dean's Office</h2></div>
+<div class="grid-child-OS">
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
 	<li>Mr Hoe Wee Meng, Assistant CEO (Corporate)</li>
@@ -16,7 +30,7 @@ description: ""
 
 </ul>
 </div>
-
+</div>
 
 
 <hr>
