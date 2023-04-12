@@ -42,12 +42,13 @@ description: ""
 <div class="grid-container">
 	<div class="grid-child-OS"><h2 class="header-left">Institues</h2></div>
 	<div class="grid-child-OS">
-		<ul>
-		 <li></li>
-		 <li></li>
-		 <li></li>
-		 <li></li>
-		</ul>
+		<details>
+			<summary><h5>Institute of Governance and Policy</h5>
+			</summary>
+			<p>Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.
+			</p>
+			
+</details>
 	
 	
  
@@ -63,11 +64,3 @@ description: ""
 </div>
 
 <hr>
-
-
-
-
-
-
-
-
