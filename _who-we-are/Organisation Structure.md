@@ -26,7 +26,7 @@ description: ""
 	
 	}
 	
-	.content {
+	.accordiancontent {
 		box-shadow: 0px 0px 20px #d4d4d4;
 	  background: #ffff;
 		padding: 10px 25px;
@@ -110,7 +110,7 @@ description: ""
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
 		<label for="accordian1">Hello there Tester1234</label>
-		<div class="content hidecontent">
+		<div class="accordiancontent hidecontent">
 			<p>Hello there </p>
 </div>
 	</div>
