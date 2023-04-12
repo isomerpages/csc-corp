@@ -61,9 +61,10 @@ description: ""
 </div>
 	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4>
 		<p class="role">Member</p>
-		<div class="TheTitle">Managing Director,Robinson LLC</div>
-	
-</div>
+		<div class="TheTitle">Managing Director</div>
+		<div class="TheTitle">Robinson LLC</div>
+         	 
+ </div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
 		<p class="role">Member</p>
 		<div class="TheTitle">Associate Professor (Organisational Behaviour),INSEAD</div>
