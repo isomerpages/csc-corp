@@ -60,7 +60,7 @@ description: ""
 	
 .grid-container {
 	  display: grid;
-	  grid-template-columns: 1fr 1fr;
+	  grid-template-columns:  30% 70%;
 	 
 	}
 
