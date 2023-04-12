@@ -131,12 +131,9 @@ description: ""
 
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS-1"></div>
+	<div class="grid-child-OS-1">
+		<h2>Corporate Services</h2>
+  </div>
 	<div class="grid-child-OS-2"></div>
 
 </div>
-
-
-
-
-
