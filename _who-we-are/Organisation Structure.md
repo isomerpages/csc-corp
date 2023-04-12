@@ -35,7 +35,6 @@ description: ""
 	
 	.accordiancontent {
 		box-shadow: 0px 0px 20px #d4d4d4;
-	  background: #ffff;
 		padding: 10px 25px;
 	  border: 1px solid #d4d4d4;
 	}
