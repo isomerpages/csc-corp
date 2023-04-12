@@ -101,13 +101,6 @@ description: ""
 <div class="grid-container">
 	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3></div>
 	<div class="grid-child-OS-2">
-		<details>
-			<summary><h5>Institute of Governance and Policy</h5>
-			</summary>
-			<p class="Accordian-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.
-			</p>
-			
-</details>
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
 			<label for="accordian1">Institute of Governance and Policy</label>
