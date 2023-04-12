@@ -114,7 +114,13 @@ description: ""
 			<p class="Accordian-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
 </div>
 	</div>
-	
+	<div id="myaccordian">
+			<input class="hidecontent" id="accordian1" type="checkbox">
+			<label class="Label_alignment" for="accordian1">Institute of Leadership and Organisation Development</label>
+		<div class="accordiancontent hidecontent">
+			<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
+</div>
+	</div>
 	
  
  </div>
