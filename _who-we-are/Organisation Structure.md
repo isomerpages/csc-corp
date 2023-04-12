@@ -17,6 +17,11 @@ description: ""
 	
 	}
 
+	.Accordian-Paragraph {
+	 
+	
+	}
+	
 
 </style>
 
@@ -45,7 +50,7 @@ description: ""
 		<details>
 			<summary><h5>Institute of Governance and Policy</h5>
 			</summary>
-			<p>Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.
+			<p class="Accordian-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.
 			</p>
 			
 </details>
