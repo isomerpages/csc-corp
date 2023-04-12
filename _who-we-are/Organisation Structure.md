@@ -89,8 +89,8 @@ description: ""
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
 	<li>Mr Hoe Wee Meng, Assistant CEO (Corporate)</li>
-	<li>Mr Patrick Lau, Assistant CEO ( Strategy and Transformation )</li>
-	<li>Mr Roger Tan, Assistant CEO ( International ) Institutes</li>
+	<li>Mr Patrick Lau, Assistant CEO (Strategy and Transformation)</li>
+	<li>Mr Roger Tan, Assistant CEO (International)</li>
 
 </ul>
 </div>
