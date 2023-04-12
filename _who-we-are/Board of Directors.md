@@ -67,7 +67,8 @@ description: ""
  </div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
 		<p class="role">Member</p>
-		<div class="TheTitle">Associate Professor (Organisational Behaviour),INSEAD</div>
+		<div class="TheTitle">Associate Professor(Organisational Behaviour)</div>
+		<div class="TheTitle">INSEAD</div>
 </div>
 </div>
 <br>
@@ -93,13 +94,6 @@ description: ""
 		<div class="TheTitle">Deloitte Southeast Asia</div>
 	
 </div>
-</div>
-<br>
-<div class="grid-container">
-	<div class="BOD-float-child"></div>
-	<div class="BOD-float-child"></div>
-	<div class="BOD-float-child"></div>
-
 </div>
 <br>
 <div class="grid-container">
