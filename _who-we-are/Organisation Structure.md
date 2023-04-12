@@ -115,8 +115,8 @@ description: ""
 </div>
 	</div>
 	<div id="myaccordian">
-			<input class="hidecontent" id="accordian1" type="checkbox">
-			<label class="Label_alignment" for="accordian1">Institute of Leadership and Organisation Development</label>
+			<input class="hidecontent" id="accordian2" type="checkbox">
+			<label class="Label_alignment" for="accordian2">Institute of Leadership and Organisation Development</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
 </div>
