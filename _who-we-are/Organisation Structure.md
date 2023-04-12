@@ -33,7 +33,7 @@ description: ""
 	  border: 1px solid #d4d4d4;
 	}
 	
-	#myaccordian input:checked + label + .content{
+	#myaccordian input:checked + label + .accordiancontent{
 	  display: block;
 	  web-kit animation: fadeIn 0.5s ease-out;
 		-moz-animation: fadeIn 0.5s ease-out;
