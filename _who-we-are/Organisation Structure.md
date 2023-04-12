@@ -4,7 +4,18 @@ permalink: /organisation-structure/
 description: ""
 ---
 <style>
-
+.hidecontent {
+	 display: none;
+	
+	}
+#myaccordian label {
+	box-shadow:0 0 20px #d4d4d4
+	
+	
+	}
+	
+	
+	
 .grid-container {
 	  display: grid;
 	  grid-template-columns: 1fr 1fr;
@@ -54,6 +65,13 @@ description: ""
 			</p>
 			
 </details>
+		<div id="myaccordian">
+			<input class="hidecontent" id="accordian1" type="checkbox">
+		<label for="accordian1"></label>
+		<div class="content hidecontent">
+			<p>Hello there </p>
+</div>
+	</div>
 	
 	
  
