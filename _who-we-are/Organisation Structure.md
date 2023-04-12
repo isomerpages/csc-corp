@@ -109,7 +109,7 @@ description: ""
 </details>
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
-			<label for="accordian1"><i class="icon-circle-right"></i><h5>Institute of Governance and Policy</h5></label>
+			<label for="accordian1"><i class="icon-circle-right"></i><p>Institute of Governance and Policy</p></label>
 		<div class="accordiancontent hidecontent">
 			<p>Hello there </p>
 </div>
