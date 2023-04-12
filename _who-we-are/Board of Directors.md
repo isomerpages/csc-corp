@@ -67,7 +67,7 @@ description: ""
  </div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
 		<p class="role">Member</p>
-		<div class="TheTitle">Associate Professor(Organisational Behaviour)</div>
+		<div class="TheTitle">Associate Professor (Organisational Behaviour)</div>
 		<div class="TheTitle">INSEAD</div>
 </div>
 </div>
