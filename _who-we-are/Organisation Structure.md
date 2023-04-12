@@ -15,10 +15,28 @@ description: ""
 	margin: 20px 0px 1px 0px;
 	cursor: pointer;
 	background: #5f75a4;
+	color: #FFF
+	transition: ease .5s;
 	
 	
 	}
 	
+	#myaccordian label:hover{
+		background: #5f75ff
+	
+	}
+	
+	.content {
+		box-shadow: 0px 0px 20px #d4d4d4;
+	  background: #ffff;
+		padding: 10px 25px;
+	  border: 1px solid #d4d4d4;
+	}
+	
+	#myaccordian input:checked + label + .content{
+	
+	
+	}
 	
 	
 .grid-container {
@@ -72,7 +90,7 @@ description: ""
 </details>
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
-		<label for="accordian1"></label>
+		<label for="accordian1">Hello there Tester1234</label>
 		<div class="content hidecontent">
 			<p>Hello there </p>
 </div>
