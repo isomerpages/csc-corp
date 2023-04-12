@@ -21,6 +21,7 @@ description: ""
 	}
 	.TheTitles{
 	 font-size: 15px;
+
 	}
 
 </style>
@@ -38,11 +39,11 @@ description: ""
 <div class="BOD-float-child">
 	<h4>Ms Ong Toon Hui</h4>
 	<p class="role">Member</p>
-	<div class="TheTitle">Dean &amp; CEO</div>
-	<div class="TheTitle">Civil Service College</div>
-	<div class="TheTitle">Deputy Secretary (Leadership)</div>
-	<div class="TheTitle">Prime Service Division,</div>
-	<div class="TheTitle">Prime Minister's Office</div>
+	<div class="TheTitles">Dean &amp; CEO</div>
+	<div class="TheTitles">Civil Service College</div>
+	<div class="TheTitles">Deputy Secretary (Leadership)</div>
+	<div class="TheTitles">Prime Service Division,</div>
+	<div class="TheTitles">Prime Minister's Office</div>
 </div>
 <div class="BOD-float-child">
 	<h4>Ms Ang Wan May</h4>
