@@ -18,7 +18,7 @@ description: ""
 	}
 
 	.Accordian-Paragraph {
-	 
+	 font-size: 0.5em;
 	
 	}
 	
