@@ -15,7 +15,7 @@ description: ""
 	margin: 20px 0px 1px 0px;
 	cursor: pointer;
 	background: #F68B1F;
-	color: #FFF
+	color: black;
 	transition: ease .5s;
 	
 	
