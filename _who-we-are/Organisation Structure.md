@@ -111,7 +111,7 @@ description: ""
 			<input class="hidecontent" id="accordian1" type="checkbox">
 			<label for="accordian1">Institute of Governance and Policy</label>
 		<div class="accordiancontent hidecontent">
-			<p>Hello there </p>
+			<p>Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
 </div>
 	</div>
 	
