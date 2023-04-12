@@ -18,7 +18,7 @@ description: ""
 	box-shadow:0 0 20px #d4d4d4;
 	display: block;
 	padding 8px 22px;
-	margin: 20px 0px 1px 0px;
+	margin: 10px 0px 1px 0px;
 	cursor: pointer;
 	background: #f7dbbe;
 	font-weight: bold ;
