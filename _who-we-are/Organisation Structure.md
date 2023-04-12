@@ -14,7 +14,7 @@ description: ""
 	padding 8px 22px;
 	margin: 20px 0px 1px 0px;
 	cursor: pointer;
-	background: #5f75a4;
+	background: #9F2943;
 	color: #FFF
 	transition: ease .5s;
 	
@@ -109,7 +109,7 @@ description: ""
 </details>
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
-		<label for="accordian1">Hello there Tester1234</label>
+			<label for="accordian1"><i class="icon-circle-right"></i><h5>Institute of Governance and Policy</h5></label>
 		<div class="accordiancontent hidecontent">
 			<p>Hello there </p>
 </div>
