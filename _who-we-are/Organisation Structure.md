@@ -14,7 +14,7 @@ description: ""
 	padding 8px 22px;
 	margin: 20px 0px 1px 0px;
 	cursor: pointer;
-	background: #F68B1F;
+	background: #f7dbbe;
 	font-weight: bold ;
 	transition: ease .5s;
 	
@@ -22,7 +22,7 @@ description: ""
 	}
 	
 	#myaccordian label:hover{
-		background: #5f75ff
+		background :#F68B1F
 	
 	}
 	
