@@ -36,7 +36,7 @@ description: ""
 	.accordiancontent {
 		/* box-shadow: 0px 0px 20px #d4d4d4; */
 		padding: 10px 25px;
-	  border: 1px solid #d4d4d4;
+	  /* border: 1px solid #d4d4d4; */
 	}
 	
 	#myaccordian input:checked + label + .accordiancontent{
