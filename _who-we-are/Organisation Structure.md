@@ -10,7 +10,7 @@ description: ""
 	}
 	
 	.Label_alignment {
-	 text-align: Center;
+	 padding-left:10px
 	
 	}
 	
