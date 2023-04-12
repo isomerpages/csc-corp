@@ -48,8 +48,8 @@ description: ""
 <div class="BOD-float-child">
 	<h4>Ms Ang Wan May</h4>
 	<p class="role">Member</p>
-	<div class="TheTitle">Managing Partner,</div>
-	<div class="TheTitle">Egon Zehnder International, Singapore</div>
+	<div class="TheTitles">Managing Partner,</div>
+	<div class="TheTitles">Egon Zehnder International, Singapore</div>
 </div>
 </div>
 <br>
@@ -57,13 +57,13 @@ description: ""
 <div class="BOD-float-child">
 	<h4>Mr Clarence Ti</h4>
 	<p class="role">Member</p>
-	<div class="TheTitle">Deputy President (Administration)</div>
-	<div class="TheTitle">National University of Singapore</div>
+	<div class="TheTitles">Deputy President (Administration)</div>
+	<div class="TheTitles">National University of Singapore</div>
 </div>
 	<div class="BOD-float-child"><h4>Mr Cyril Chua</h4>
 		<p class="role">Member</p>
-		<div class="TheTitle">Managing Director</div>
-		<div class="TheTitle">Robinson LLC</div>
+		<div class="TheTitles">Managing Director</div>
+		<div class="TheTitles">Robinson LLC</div>
          	 
  </div>
 	<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
