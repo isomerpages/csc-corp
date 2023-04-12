@@ -99,7 +99,7 @@ description: ""
 
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS-1"><h2 class="header-left">Institutes</h2></div>
+	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3></div>
 	<div class="grid-child-OS-2">
 		<details>
 			<summary><h5>Institute of Governance and Policy</h5>
