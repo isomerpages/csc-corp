@@ -131,10 +131,10 @@ description: ""
 	</div>
 <!-- Above is Institue of Public Administration and Management accordian. Below is the Institute of public sector leadership accordian.-->		
 <div id="myaccordian">
-			<input class="hidecontent" id="accordian3" type="checkbox">
-			<label class="Label_alignment" for="accordian3">Institute of Public Administration and Management</label>
+			<input class="hidecontent" id="accordian4" type="checkbox">
+			<label class="Label_alignment" for="accordian4">Institute of Public Sector Leadership</label>
 		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.</p>
+			<p class="Accordian-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
 </div>
 	</div>
  
