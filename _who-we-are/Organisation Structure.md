@@ -8,6 +8,12 @@ description: ""
 	 display: none;
 	
 	}
+	
+	.Label_alignment {
+	 text-align: Center;
+	
+	}
+	
 #myaccordian label {
 	box-shadow:0 0 20px #d4d4d4;
 	display: block;
@@ -103,7 +109,7 @@ description: ""
 	<div class="grid-child-OS-2">
 		<div id="myaccordian">
 			<input class="hidecontent" id="accordian1" type="checkbox">
-			<label for="accordian1">Institute of Governance and Policy</label>
+			<label class="Label_alignment" for="accordian1">Institute of Governance and Policy</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
 </div>
