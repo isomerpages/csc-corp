@@ -29,7 +29,7 @@ description: ""
 	
 	#myaccordian label:hover{
 		background :#F68B1F;
-	 
+	  color: white;
 	
 	}
 	
