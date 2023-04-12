@@ -9,7 +9,12 @@ description: ""
 	
 	}
 #myaccordian label {
-	box-shadow:0 0 20px #d4d4d4
+	box-shadow:0 0 20px #d4d4d4;
+	display: block;
+	padding 8px 22px;
+	margin: 20px 0px 1px 0px;
+	cursor: pointer;
+	background: #5f75a4;
 	
 	
 	}
