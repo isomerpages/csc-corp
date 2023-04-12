@@ -123,8 +123,8 @@ description: ""
 	</div>
 		<!-- Institute of Leadership and Organisation development is above. Institute of Public Administration and Management is below.-->
 <div id="myaccordian">
-			<input class="hidecontent" id="accordian2" type="checkbox">
-			<label class="Label_alignment" for="accordian2">Institute of Public Administration and Management</label>
+			<input class="hidecontent" id="accordian3" type="checkbox">
+			<label class="Label_alignment" for="accordian3">Institute of Public Administration and Management</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.</p>
 </div>
