@@ -34,6 +34,11 @@ description: ""
 	}
 	
 	#myaccordian input:checked + label + .content{
+	  display: block;
+	  web-kit animation: fadeIn 0.5s ease-out;
+		-moz-animation: fadeIn 0.5s ease-out;
+	  -o-animation: fadeIn 0.5s ease-out;
+		animation: fadeIn 0.5s ease-out;
 	
 	
 	}
