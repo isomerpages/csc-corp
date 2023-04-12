@@ -56,7 +56,7 @@ description: ""
 
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS"><h2 class="header-left">Institues</h2></div>
+	<div class="grid-child-OS"><h2 class="header-left">Institutes</h2></div>
 	<div class="grid-child-OS">
 		<details>
 			<summary><h5>Institute of Governance and Policy</h5>
