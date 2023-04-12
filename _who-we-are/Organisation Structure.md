@@ -121,7 +121,15 @@ description: ""
 			<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
 </div>
 	</div>
-	
+		<!-- Institute of Leadership and Organisation development is above. Institute of Public Administration and Management is below.-->
+<div id="myaccordian">
+			<input class="hidecontent" id="accordian2" type="checkbox">
+			<label class="Label_alignment" for="accordian2">Institute of Public Administration and Management</label>
+		<div class="accordiancontent hidecontent">
+			<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
+</div>
+	</div>
+		
  
  </div>
 </div>
