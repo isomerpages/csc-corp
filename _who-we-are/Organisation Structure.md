@@ -83,8 +83,8 @@ description: ""
 
 <hr>
 <div class="grid-container">
-<div class="grid-child-OS"><h2 style="text-align:left;" class="header-left">Dean's Office</h2></div>
-<div class="grid-child-OS">
+<div class="grid-child-OS-1"><h2 style="text-align:left;" class="header-left">Dean's Office</h2></div>
+<div class="grid-child-OS-2">
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
 	<li>Mr Hoe Wee Meng, Assistant CEO (Corporate)</li>
@@ -98,8 +98,8 @@ description: ""
 
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS"><h2 class="header-left">Institutes</h2></div>
-	<div class="grid-child-OS">
+	<div class="grid-child-OS-1"><h2 class="header-left">Institutes</h2></div>
+	<div class="grid-child-OS-2">
 		<details>
 			<summary><h5>Institute of Governance and Policy</h5>
 			</summary>
