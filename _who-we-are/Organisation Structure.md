@@ -108,7 +108,7 @@ description: ""
 	</div>
 	<div class="grid-child-OS-2">
 		<div id="myaccordion">
-			<input class="hidecontent" id="accordian1" type="checkbox">
+			<input class="hidecontent" id="accordion1" type="checkbox">
 			<label class="Label_alignment" for="accordion1">Institute of Governance and Policy</label>
 		<div class="accordioncontent hidecontent">
 			<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
@@ -157,13 +157,13 @@ description: ""
 	<!-- Above is the Digital Learning Services Accordian. Below is the Learning Futures Group accordian.-->
 	<input class="hidecontent" id="accordion7" type="checkbox">
 	<label class="Label_alignment" for="accordion7">Learning Futures Group</label>
-		<div class="accordiancontent hidecontent">
+		<div class="accordioncontent hidecontent">
 			<p class="Accordion-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
      </div>
 	<!-- Above is the Learning Futures Group accordian. Below is the Programme Management Unit accordian. -->
 			<input class="hidecontent" id="accordion8" type="checkbox">
 			<label class="Label_alignment" for="accordion8">Programme Management Unit</label>
-		<div class="accordiancontent hidecontent">
+		<div class="accordioncontent hidecontent">
 			<p class="Accordion-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
 	  	</div>	
    </div>
