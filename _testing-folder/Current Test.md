@@ -75,7 +75,8 @@ description: ""
 <h3>This is a testing page.</h3>
 
    <a href="#open-modal">Open Modal</a>
-    <div class="modal-window" id="open-modal">
+  
+<div class="modal-window" id="open-modal">
 
       <div>
         <a class="modal-close" title="Close" href="#modal-close">close ×</a>
