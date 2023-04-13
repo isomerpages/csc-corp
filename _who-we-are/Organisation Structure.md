@@ -167,8 +167,11 @@ description: ""
 			<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
+    </div>
 </div>
-	</div>
+	
+	
+	
 	
 	
 </div>
