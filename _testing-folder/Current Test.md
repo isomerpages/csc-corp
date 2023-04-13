@@ -9,12 +9,12 @@ description: ""
 	
 	}
 	
-	.Label\_alignment {
+	.Label_alignment {
 	 padding-left:10px
 	
 	}
 	
-#myaccordian label {
+#myaccordion label {
 	box-shadow:0 0 20px #d4d4d4;
 	display: block;
 	padding 8px 22px;
@@ -27,19 +27,19 @@ description: ""
 	
 	}
 	
-	#myaccordian label:hover{
+	#myaccordion label:hover{
 		background :#F68B1F;
 	  color: white;
 	
 	}
 	
-	.accordiancontent {
+	.accordioncontent {
 		/\* box-shadow: 0px 0px 20px #d4d4d4; \*/
 		padding: 10px 25px;
 	  /\* border: 1px solid #d4d4d4; \*/
 	}
 	
-	#myaccordian input:checked + label + .accordiancontent{
+	#myaccordion input:checked + label + .accordioncontent{
 	  display: block;
 	  web-kit animation: fadeIn 0.5s ease-out;
 		-moz-animation: fadeIn 0.5s ease-out;
@@ -76,7 +76,7 @@ description: ""
 	
 	}
 
-	.Accordian-Paragraph {
+	.Accordion-Paragraph {
 	 font-size: 1em;
 	
 	}
@@ -130,5 +130,3 @@ description: ""
     <p class="Accordion-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College's resources, including strategy, data, and business model.</p>
   </div>
 </div>
-
-
