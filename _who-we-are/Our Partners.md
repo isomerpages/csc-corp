@@ -159,7 +159,14 @@ description: ""
   <input type="checkbox" id="accordion5" class="hidecontent">
   <label for="accordion5" class="Label_alignment">Africa</label>
   <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph"></p>
+    <ul>
+			<li>Botswana, Department of Public Service Management</li>
+			<li>Botswana, Public Service College</li>
+			<li>Namibia, Namibia Institute of Public Administration</li>
+			<li>South Africa, Department of International Relations and Cooperation</li>
+			<li>South Africa, National School of Government</li>
+</ul>
+
   </div>
 
   <input type="checkbox" id="accordion6" class="hidecontent">
