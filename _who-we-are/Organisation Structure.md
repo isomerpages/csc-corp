@@ -148,23 +148,23 @@ description: ""
 	 </div>
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 3 Business Support unit accordians-->
-	<div id="myaccordian">
-			<input class="hidecontent" id="accordian6" type="checkbox">
-			<label class="Label_alignment" for="accordian6">Digital Learning Services</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
+	<div id="myaccordion">
+			<input class="hidecontent" id="accordion6" type="checkbox">
+			<label class="Label_alignment" for="accordion6">Digital Learning Services</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
      </div>
 	<!-- Above is the Digital Learning Services Accordian. Below is the Learning Futures Group accordian.-->
-	<input class="hidecontent" id="accordian7" type="checkbox">
-	<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
+	<input class="hidecontent" id="accordion7" type="checkbox">
+	<label class="Label_alignment" for="accordion7">Learning Futures Group</label>
 		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
+			<p class="Accordion-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
      </div>
 	<!-- Above is the Learning Futures Group accordian. Below is the Programme Management Unit accordian. -->
-			<input class="hidecontent" id="accordian8" type="checkbox">
-			<label class="Label_alignment" for="accordian8">Programme Management Unit</label>
+			<input class="hidecontent" id="accordion8" type="checkbox">
+			<label class="Label_alignment" for="accordion8">Programme Management Unit</label>
 		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
+			<p class="Accordion-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
 	  	</div>	
    </div>
 	</div>
