@@ -134,13 +134,25 @@ description: ""
   <input type="checkbox" id="accordion3" class="hidecontent">
   <label for="accordion3" class="Label_alignment">East Asia</label>
   <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph"></p>
-  </div>
+        <ul>
+			<li>China, Executive Leadership Academy Pudong</li>
+			<li>China, Shanghai Administrative Institute</li>
+			<li>China, Suzhou Industrial Park Administrative Committee</li>
+			<li>China, Tianjian Administrative Institute</li>
+			<li>China, Sino-Singapore Tianjin Eco-City</li>
+			<li>China, Zhejiang Administrative Institute</li>
+			<li>Korea, National Human Resource Development Institute</li>
+			<li>Mongolia, Cabinet Secretariat</li>
+			<li>Mongolia, National Academy of Governance</li>
+			<li>Mongolia, Ulaanbaatar City Training Centre</li>
+  </ul>
 
+  </div>
+<!-- Above is East Asia accordion. Below is Central Asia Accordion. -->
   <input type="checkbox" id="accordion4" class="hidecontent">
   <label for="accordion4" class="Label_alignment">Central Asia</label>
   <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph"></p>
+    
   </div>
 
   <input type="checkbox" id="accordion5" class="hidecontent">
