@@ -165,7 +165,30 @@ description: ""
   <input type="checkbox" id="accordion6" class="hidecontent">
   <label for="accordion6" class="Label_alignment">South East Asia</label>
   <div class="accordioncontent hidecontent">
-    <ul> <li>China, Executive Leadership Academy Pudong</li> <li>China, Shanghai Administrative Institute</li> <li>China, Suzhou Industrial Park Administrative Committee</li> <li>China, Tianjian Administrative Institute</li> <li>China, Sino-Singapore Tianjin Eco-City</li> <li>China, Zhejiang Administrative Institute</li> <li>Korea, National Human Resource Development Institute</li> <li>Mongolia, Cabinet Secretariat</li> <li>Mongolia, National Academy of Governance</li> <li>Mongolia, Ulaanbaatar City Training Centre</li> <li>Brunei, Civil Service Institute</li> <li>Brunei, Ministry of Finance and Economy</li> <li>Cambodia, Ministry of Civil Service</li> <li>Cambodia, Royal School of Administration</li> <li>Cambodia, Ministry of Finance</li> <li>Cambodia, Economics and Finance Institute</li> <li>Indonesia, National Civil Service Agency</li> <li>Indonesia, National Institute of Public Administration</li> <li>People's Democratic Republic of Laos (Lao PDR), Ministry of Home Affairs</li> <li>Lao PDR, Public Administration, Research and Training Institute</li> <li>Malaysia, National Institute of Public Administration</li> <li>Myanmar, Union Civil Service Board</li> <li>Myanmar, Central Institute of Civil Service</li> <li>Philippines, Civil Service Institute</li> <li>Thailand, Civil Service Training Institute</li> <li>Thailand, Office of Civil Service Commission</li> <li>Thailand, Securities and Exchange Commission</li> <li>Vietnam, Communist Part of Vietnam Central Inspectorate</li> <li>Vietnam, Monitoring Office of Programme 165</li> <li>Vietnam, National Academy of Public Administration</li> <li>Vietnam, Office of the Government</li> </ul>
+    <ul>
+				<li>China, Executive Leadership Academy Pudong</li> 
+				<li>China, Shanghai Administrative Institute</li> 
+				<li>China, Suzhou Industrial Park Administrative Committee</li> 
+				<li>China, Tianjian Administrative Institute</li> 
+				<li>China, Sino-Singapore Tianjin Eco-City</li> 
+				<li>China, Zhejiang Administrative Institute</li> 
+				<li>Korea, National Human Resource Development Institute</li> 
+				<li>Mongolia, Cabinet Secretariat</li> <li>Mongolia, National Academy of Governance</li> 
+				<li>Mongolia, Ulaanbaatar City Training Centre</li> 
+					<li>Brunei, Civil Service Institute</li> <li>Brunei, Ministry of Finance and Economy</li> <li>Cambodia, Ministry of Civil Service</li> <li>Cambodia, Royal School of Administration</li> 
+				<li>Cambodia, Ministry of Finance</li> <li>Cambodia, Economics and Finance Institute</li> 
+				<li>Indonesia, National Civil Service Agency</li> 
+				<li>Indonesia, National Institute of Public Administration</li> 
+				<li>People's Democratic Republic of Laos (Lao PDR), Ministry of Home Affairs</li> 
+				<li>Lao PDR, Public Administration, Research and Training Institute</li> 
+				<li>Malaysia, National Institute of Public Administration</li> 
+				<li>Myanmar, Union Civil Service Board</li> <li>Myanmar, Central Institute of Civil Service</li> 
+				<li>Philippines, Civil Service Institute</li> <li>Thailand, Civil Service Training Institute</li> <li>Thailand, Office of Civil Service Commission</li> 
+				<li>Thailand, Securities and Exchange Commission</li> 
+				<li>Vietnam, Communist Part of Vietnam Central Inspectorate</li>
+				<li>Vietnam, Monitoring Office of Programme 165</li> 
+				<li>Vietnam, National Academy of Public Administration</li> 
+				<li>Vietnam, Office of the Government</li> </ul>
   </div>
   
   <input type="checkbox" id="accordion7" class="hidecontent">
