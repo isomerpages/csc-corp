@@ -24,7 +24,7 @@ description: ""
 	
 	}
 	
-	.Label\_alignment {
+	.Label_alignment {
 	 padding-left:10px
 	
 	}
