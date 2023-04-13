@@ -194,7 +194,18 @@ description: ""
   <input type="checkbox" id="accordion7" class="hidecontent">
   <label for="accordion7" class="Label_alignment">International and Other Organisations</label>
   <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph"></p>
+    <ul>
+  <li>ASEAN Secretariat</li>
+  <li>Asian Development Bank</li>
+  <li>Australia and New Zealand School of Government</li>
+  <li>Chilean International Cooperation Agency (AGCI)</li>
+  <li>Japan International Cooperation Agency (JICA)</li>
+  <li>Korea International Cooperation Agency (KICA)</li>
+  <li>Temasek Foundation (TF)</li>
+  <li>Global Education and Training Institute (GETI), United Nation Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
+  <li>Moroccan Agency for International Cooperation (AMCI)</li>
+</ul>
+
   </div>
 
 
