@@ -140,11 +140,12 @@ description: ""
  
  </div>
 </div>
-
+</div>
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS-1"><h3 class="header-left">Business Support Units</h3>
-	</div>
+	<div class="grid-child-OS-1">
+		<h3 class="header-left">Business Support Units</h3>
+	 </div>
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 3 Business Support unit accordians-->
 	<div id="myaccordian">
@@ -153,15 +154,12 @@ description: ""
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
      </div>
-	</div>
 	<!-- Above is the Digital Learning Services Accordian. Below is the Learning Futures Group accordian.-->
-   <div id="myaccordian">
-			<input class="hidecontent" id="accordian7" type="checkbox">
-			<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
+	<input class="hidecontent" id="accordian7" type="checkbox">
+	<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
      </div>
-    </div>
 	<!-- Above is the Learning Futures Group accordian. Below is the Programme Management Unit accordian. -->
 	<div id="myaccordian">
 			<input class="hidecontent" id="accordian8" type="checkbox">
