@@ -101,7 +101,8 @@ description: ""
 		<h2>Foreign Partners</h2>
 	</div>
 	 <div class="grid-child-OP-2">
-	       <div id="myaccordion">
+<!--  Start of the Foreign partners accordion.-->		 
+<div id="myaccordion">
   <input type="checkbox" id="accordion1" class="hidecontent">
   <label for="accordion1" class="Label_alignment">Middle East</label>
   <div class="accordioncontent hidecontent">
@@ -118,7 +119,7 @@ description: ""
 		
 </ul>
   </div>
-
+<!-- Above is the Middle East Accordion. Below is the South Asia Accordion.-->
   <input type="checkbox" id="accordion2" class="hidecontent">
   <label for="accordion2" class="Label_alignment">South Asia</label>
   <div class="accordioncontent hidecontent">
@@ -130,7 +131,7 @@ description: ""
 					<li>Sri Lanka, Institute of Development and Administration</li>
 		</ul>
   </div>
-
+<!-- Above is the South Asia accordion. Below is the Central Asia Accordion.-->
   <input type="checkbox" id="accordion3" class="hidecontent">
   <label for="accordion3" class="Label_alignment">East Asia</label>
   <div class="accordioncontent hidecontent">
