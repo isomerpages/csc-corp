@@ -163,10 +163,10 @@ description: ""
 	</div>
 	<!-- Above is the Digital Learning Services Accordian. Below is the Learning Futures Group accordian.-->
 <div id="myaccordian">
-			<input class="hidecontent" id="accordian6" type="checkbox">
-			<label class="Label_alignment" for="accordian6">Digital Learning Services</label>
+			<input class="hidecontent" id="accordian7" type="checkbox">
+			<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
 		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
+			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
 </div>
 	</div>
 	
