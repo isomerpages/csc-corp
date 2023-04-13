@@ -105,7 +105,18 @@ description: ""
   <input type="checkbox" id="accordion1" class="hidecontent">
   <label for="accordion1" class="Label_alignment">Middle East</label>
   <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph"></p>
+	<ul>
+			<li>Jordan, Ministry of Public Sector Development</li>
+		<li>Kuwait, Civil Service Commission</li>
+		<li>Oman, State Audit Institution</li>
+		<li>Oman, Diwan of Royal Court</li>
+		<li>Palestine, Palestine National Authority</li>
+		<li>Qatar, Qatar Leadership Centre</li>
+		<li>Qatar, Institute of Public Administration</li>
+		<li>UAE, Abu Dhabi School of Government</li>
+		
+		
+</ul>
   </div>
 
   <input type="checkbox" id="accordion2" class="hidecontent">
