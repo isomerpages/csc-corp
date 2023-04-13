@@ -153,7 +153,10 @@ description: ""
   <input type="checkbox" id="accordion4" class="hidecontent">
   <label for="accordion4" class="Label_alignment">Central Asia</label>
   <div class="accordioncontent hidecontent">
-    
+		<ul>
+			<li>Kazakhstan, Academy of Public Administration</li>
+		
+		</ul>
   </div>
 
   <input type="checkbox" id="accordion5" class="hidecontent">
