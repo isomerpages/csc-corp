@@ -100,10 +100,62 @@ description: ""
 	<div class="grid-child-OP-1">
 		<h2>Foreign Partners</h2>
 	</div>
-	<div class="grid-child-OP-2">
+	 <div class="grid-child-OP-2">
+	       <div id="myaccordion">
+  <input type="checkbox" id="accordion1" class="hidecontent">
+  <label for="accordion1" class="Label_alignment">Middle East</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+  <input type="checkbox" id="accordion2" class="hidecontent">
+  <label for="accordion2" class="Label_alignment">South Asia</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+  <input type="checkbox" id="accordion3" class="hidecontent">
+  <label for="accordion3" class="Label_alignment">East Asia</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+  <input type="checkbox" id="accordion4" class="hidecontent">
+  <label for="accordion4" class="Label_alignment">Central Asia</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+  <input type="checkbox" id="accordion5" class="hidecontent">
+  <label for="accordion5" class="Label_alignment">Africa</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+  <input type="checkbox" id="accordion6" class="hidecontent">
+  <label for="accordion6" class="Label_alignment">South East Asia</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+  
+  <input type="checkbox" id="accordion7" class="hidecontent">
+  <label for="accordion7" class="Label_alignment">International and Other Organisations</label>
+  <div class="accordioncontent hidecontent">
+    <p class="Accordion-Paragraph"></p>
+  </div>
+
+
+</div>
+	
+ 
 	
 	
- </div>
+	
+	
+	
+	
+	
+  </div>
 	
 	
 
