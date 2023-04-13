@@ -76,6 +76,7 @@ description: ""
 
    <a href="#open-modal">Open Modal</a>
     <div class="modal-window" id="open-modal">
+	hello there
       <div>
         <a class="modal-close" title="Close" href="#modal-close">close ×</a>
         <h1>CSS Modal</h1>
