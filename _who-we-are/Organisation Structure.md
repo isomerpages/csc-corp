@@ -14,7 +14,7 @@ description: ""
 	
 	}
 	
-#myaccordian label {
+#myaccordion label {
 	box-shadow:0 0 20px #d4d4d4;
 	display: block;
 	padding 8px 22px;
@@ -27,19 +27,19 @@ description: ""
 	
 	}
 	
-	#myaccordian label:hover{
+	#myaccordion label:hover{
 		background :#F68B1F;
 	  color: white;
 	
 	}
 	
-	.accordiancontent {
+	.accordioncontent {
 		/* box-shadow: 0px 0px 20px #d4d4d4; */
 		padding: 10px 25px;
 	  /* border: 1px solid #d4d4d4; */
 	}
 	
-	#myaccordian input:checked + label + .accordiancontent{
+	#myaccordion input:checked + label + .accordioncontent{
 	  display: block;
 	  web-kit animation: fadeIn 0.5s ease-out;
 		-moz-animation: fadeIn 0.5s ease-out;
@@ -76,7 +76,7 @@ description: ""
 	
 	}
 
-	.Accordian-Paragraph {
+	.Accordion-Paragraph {
 	 font-size: 1em;
 	
 	}
@@ -107,28 +107,28 @@ description: ""
 	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3>
 	</div>
 	<div class="grid-child-OS-2">
-		<div id="myaccordian">
+		<div id="myaccordion">
 			<input class="hidecontent" id="accordian1" type="checkbox">
-			<label class="Label_alignment" for="accordian1">Institute of Governance and Policy</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
+			<label class="Label_alignment" for="accordion1">Institute of Governance and Policy</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
 </div>
-			<input class="hidecontent" id="accordian2" type="checkbox">
-			<label class="Label_alignment" for="accordian2">Institute of Leadership and Organisation Development</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
+			<input class="hidecontent" id="accordion2" type="checkbox">
+			<label class="Label_alignment" for="accordion2">Institute of Leadership and Organisation Development</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p>
 </div>
 		<!-- Institute of Leadership and Organisation development accordian is above. Institute of Public Administration and Management accordian is below.-->
-			<input class="hidecontent" id="accordian3" type="checkbox">
-			<label class="Label_alignment" for="accordian3">Institute of Public Administration and Management</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.</p>
+			<input class="hidecontent" id="accordion3" type="checkbox">
+			<label class="Label_alignment" for="accordion3">Institute of Public Administration and Management</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.</p>
 </div>
 <!-- Above is Institue of Public Administration and Management accordian. Below is the Institute of public sector leadership accordian.-->		
-			<input class="hidecontent" id="accordian4" type="checkbox">
-			<label class="Label_alignment" for="accordian4">Institute of Public Sector Leadership</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
+			<input class="hidecontent" id="accordion4" type="checkbox">
+			<label class="Label_alignment" for="accordion4">Institute of Public Sector Leadership</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
 </div>
 		<!-- Above is the Institute of public sectors leadership accordian. Below is the Civil Service College International accordian-->
 			<input class="hidecontent" id="accordian5" type="checkbox">
