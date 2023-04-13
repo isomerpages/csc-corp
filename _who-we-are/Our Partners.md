@@ -10,6 +10,9 @@ description: ""
 		grid-template-columns: 30% 70%;
 	}
 
+	hr {
+	 margin: 1em;
+	}
 
 
 
