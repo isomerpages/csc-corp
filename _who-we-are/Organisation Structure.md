@@ -175,13 +175,9 @@ description: ""
 			<label class="Label_alignment" for="accordian8">Programme Management Unit</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
-  </div>
-	
-	
-	
+  </div>	
 	
 </div>
-
 
 </div>
 
