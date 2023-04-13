@@ -4,7 +4,7 @@ permalink: /testing-folder/permalink/
 description: ""
 ---
 <style>
-    .modal-window {
+.modal-window {
       position: fixed;
       background-color: rgba(200, 200, 200, 0.75);
       top: 0;
@@ -19,12 +19,12 @@ description: ""
       transition: all 0.3s;
     }
     
-    .modal-window:target {
+.modal-window:target {
       opacity: 1;
       pointer-events: auto;
     }
     
-    .modal-window > div {
+.modal-window > div {
       width: 400px;
       position: relative;
       margin: 10% auto;
@@ -33,11 +33,11 @@ description: ""
       color: #444;
     }
     
-    .modal-window header {
+.modal-window header {
       font-weight: bold;
     }
     
-    .modal-close {
+.modal-close {
       color: #aaa;
       line-height: 50px;
       font-size: 80%;
@@ -49,11 +49,11 @@ description: ""
       text-decoration: none;
     }
     
-    .modal-close:hover {
+.modal-close:hover {
       color: #000;
     }
     
-    .modal-window h1 {
+	.modal-window h1 {
       font-size: 150%;
       margin: 0 0 15px;
     }
