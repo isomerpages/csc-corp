@@ -40,6 +40,14 @@ description: ""
 </div>
 <hr>
 <div class="grid-container">
-
+	<div class="grid-child-OP-1">
+		<h2>Foreign Partners</h2>
+	</div>
+	<div class="grid-child-OP-2">
+	
+	
+	</div>
+	
+	
 
 </div>
