@@ -167,9 +167,15 @@ description: ""
 			<label class="Label_alignment" for="accordian7">Learning Futures Group</label>
 		<div class="accordiancontent hidecontent">
 			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
-    </div>
-</div>
-	
+  </div>
+     </div>
+	<!-- Above is the Learning Futures Group accordian. Below is the Programme Management Unit accordian. -->
+	<div id="myaccordian">
+			<input class="hidecontent" id="accordian8" type="checkbox">
+			<label class="Label_alignment" for="accordian8">Programme Management Unit</label>
+		<div class="accordiancontent hidecontent">
+			<p class="Accordian-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
+  </div>
 	
 	
 	
@@ -186,4 +192,4 @@ description: ""
   </div>
 	<div class="grid-child-OS-2"></div>
 
-</div>
+</div></div>
