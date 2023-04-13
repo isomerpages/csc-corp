@@ -131,10 +131,10 @@ description: ""
 			<p class="Accordion-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
 </div>
 		<!-- Above is the Institute of public sectors leadership accordian. Below is the Civil Service College International accordian-->
-			<input class="hidecontent" id="accordian5" type="checkbox">
-			<label class="Label_alignment" for="accordian5">Civil Service College International</label>
-		<div class="accordiancontent hidecontent">
-			<p class="Accordian-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
+			<input class="hidecontent" id="accordion5" type="checkbox">
+			<label class="Label_alignment" for="accordion5">Civil Service College International</label>
+		<div class="accordioncontent hidecontent">
+			<p class="Accordion-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
 </div>
 		
  
