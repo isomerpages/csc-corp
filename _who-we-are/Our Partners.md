@@ -24,7 +24,11 @@ description: ""
 <hr>
 <div class="grid-container">
 	<div class="grid-child-OP-1"><h2>Singapore</h2></div>
-	<div class="grid-child-OP-2">hello there</div>
+	<div class="grid-child-OP-2">
+		 <p style="text-align:center;">
+		  <b>Singapore Ministries and Statutory Boards</b>
+		</p>
+	</div>
 
 </div>
 
