@@ -34,8 +34,14 @@ description: ""
 <h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
 
 <div class="grid-container">
-	<div class="fellow-card">2</div>
-	<div class="fellow-card">1</div>
+	<div class="fellow-card">
+		<div>For the avatar image</div>
+		<div class="fellowship-text">
+			<h4>Professor Peter Hawkins</h4>
+		
+</div>
+	</div>
+	<div class="fellow-card"></div>
 
 
 </div>
