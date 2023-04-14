@@ -11,6 +11,12 @@ description: ""
 	
 	}
 
+	.grid-container {
+		display: grid; 
+		grid-template-columns: 1fr 1fr;
+	
+	
+	}
 
 </style>
 
@@ -19,3 +25,10 @@ description: ""
 
 
 <h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
+
+<div class="grid-container">
+	<div>2</div>
+	<div>1</div>
+
+
+</div>
