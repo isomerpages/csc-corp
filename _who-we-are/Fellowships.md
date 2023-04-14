@@ -14,7 +14,7 @@ description: ""
 	.grid-container {
 		display: grid; 
 		grid-template-columns: 50% 50%;
-	
+		grid-gap: 20px
 	
 	}
 	
