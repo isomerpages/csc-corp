@@ -78,7 +78,7 @@ description: ""
   
 <div class="modal-window" id="open-modal">
 
-      <div>
+   <div>
         <a class="modal-close" title="Close" href="#modal-close">close ×</a>
         <h1>CSS Modal</h1>
         <div>The quick brown fox jumped over the lazy dog.</div>
