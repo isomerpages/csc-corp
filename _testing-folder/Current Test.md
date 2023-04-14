@@ -26,7 +26,7 @@ description: ""
     
 .modal-window > div {
       width: 80%;
-			height: 80%;
+			height: 60%;
       position: relative;
       margin: 10% auto;
       padding: 2rem;
