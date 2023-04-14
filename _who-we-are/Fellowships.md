@@ -13,7 +13,14 @@ description: ""
 
 	.grid-container {
 		display: grid; 
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 50% 50%;
+	
+	
+	}
+	
+	.fellow-card {
+		border: 1px solid grey;
+		
 	
 	
 	}
@@ -27,8 +34,8 @@ description: ""
 <h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
 
 <div class="grid-container">
-	<div>2</div>
-	<div>1</div>
+	<div class="fellow-card">2</div>
+	<div class="fellow-card">1</div>
 
 
 </div>
