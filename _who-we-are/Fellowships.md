@@ -102,9 +102,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
-				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2012 - Present</p></div>
-						<div class="fellowship-card-text"><p>Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</p></div>
+			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2022 - Present</p></div>
+						<div class="fellowship-card-text"><p>An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
