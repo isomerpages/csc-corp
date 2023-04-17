@@ -180,7 +180,40 @@ description: ""
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
+</div>
 
+<h2 class="header-fellows-middle">Visiting Fellows</h2>
+<div class="grid-container">
+
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
+				<div class="fellowship-card-text"><p>VISITING FELLOW, 2018 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
+
+
+
+
+
+
+
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2016 - Present</p></div>
+						<div class="fellowship-card-text"><p>Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
 
 
@@ -189,3 +222,19 @@ description: ""
 
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
