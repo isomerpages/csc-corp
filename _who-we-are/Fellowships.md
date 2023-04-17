@@ -52,7 +52,9 @@ description: ""
 							
 </div>
 	</div>
-	<div class="fellow-card">
+	
+<!-- 2nd Senior Fellowship Card Card -->	
+<div class="fellow-card">
 	<div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>The Honourable Jocelyne Bourgon</h4></div>
