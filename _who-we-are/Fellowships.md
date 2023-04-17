@@ -69,9 +69,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
-				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
-						<div class="fellowship-card-text"><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
+			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2012 - Present</p></div>
+						<div class="fellowship-card-text"><p>Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -83,9 +83,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
-				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
-						<div class="fellowship-card-text"><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
+			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2012- Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
