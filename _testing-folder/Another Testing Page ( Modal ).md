@@ -7,6 +7,8 @@ description: ""
 
 .modal-window {
 	opacity: 0;
+	z-index:999;
+	
 	
 	}
 	
