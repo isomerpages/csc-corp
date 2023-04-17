@@ -92,3 +92,36 @@ description: ""
   </div>
 </div>
 </div>
+
+	
+			<!-- Start of the Senior Fellows Card-->
+<h2 class="header-fellows-middle">Senior Fellows</h2>
+<div class="grid-container">
+
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2012 - Present</p></div>
+						<div class="fellowship-card-text"><p>Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
+	
+	
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2012 - Present</p></div>
+						<div class="fellowship-card-text"><p>Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
+	
+	
+</div>
