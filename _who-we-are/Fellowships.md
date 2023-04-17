@@ -143,9 +143,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
-				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2022 - Present</p></div>
-						<div class="fellowship-card-text"><p>An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</p></div>
+			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2015 - Present</p></div>
+						<div class="fellowship-card-text"><p>Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
