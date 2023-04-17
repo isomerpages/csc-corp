@@ -26,7 +26,7 @@ description: ""
 	}
 	
 	.fellowship-card-text {
-		font-size: 0.9em;
+		font-size: 0.8em;
 		margin-left: 1em;
 		margin-right: 1em;
 	}
