@@ -246,5 +246,37 @@ description: ""
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
+</div>
+
+<h2 class="header-fellows-middle">Fellows</h2>
+<div class="grid-container">
+
+
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Dr Ang Hak Seng</h4></div>
+				<div class="fellowship-card-text"><p>FELLOW, 2017 - Present</p></div>
+						<div class="fellowship-card-text"><p>Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
