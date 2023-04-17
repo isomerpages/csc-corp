@@ -43,7 +43,8 @@ description: ""
 
 <div class="grid-container">
 	<div class="fellow-card">
-		<div class="fellowship-card-text">For the avatar image</div>
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
 				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
@@ -53,7 +54,15 @@ description: ""
 							
 </div>
 	</div>
-	<div class="fellow-card"></div>
-
-
+	<div class="fellow-card">
+	<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>The Honourable Jocelyne Bourgon</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2013 - Present</p></div>
+						<div class="fellowship-card-text"><p>Madame Bourgon is President Emeritus of the Canda School of Public Service. She advises governments on governance and public sector reforms.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+	
 </div>
+
+
+</div></div>
