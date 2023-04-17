@@ -38,9 +38,7 @@ description: ""
 
 <p>We aim to forge strong links with international thought leaders, leverage the rich experiences of policy practitioners and harness the diverse views of academics.</p>
 
-
 <h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
-
 <div class="grid-container">
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
@@ -63,6 +61,33 @@ description: ""
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 	
 </div>
+</div>
+</div>
+<!-- Second Layer-->
+<div class="grid-container">
+	<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
 
-</div></div>
+<!-- 4th Senior Fellowship card-->
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
+</div>
