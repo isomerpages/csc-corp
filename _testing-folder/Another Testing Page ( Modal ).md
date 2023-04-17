@@ -5,9 +5,22 @@ description: ""
 ---
 <style>
 
+.modal-window {
+	opacity: 0;
+	
+	}
+	
+.modal-window:target {
+	opacity:1;
+	pointer-events: auto;
+	}
 
-
-
+.modal-window > div {
+	width: 80%;
+	height: 60%;
+	
+	
+	}
 
 
 
