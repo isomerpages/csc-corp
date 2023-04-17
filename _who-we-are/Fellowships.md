@@ -79,7 +79,7 @@ description: ""
 </div>
 
 
-<!-- 4th Senior Fellowship card-->
+
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
@@ -124,6 +124,8 @@ description: ""
 </div>
 </div>
 
+<!-- Second layer of Senior Fellows-->
+
 <div class="grid-container">
 
 <div class="fellow-card">
@@ -152,7 +154,7 @@ description: ""
 </div>
 </div>
 
-
+<!-- Third layer of Senior Fellows.-->
 <div class="grid-container">
 
 
@@ -182,6 +184,8 @@ description: ""
 </div>
 </div>
 
+<!-- Start of Visiting fellows.-->
+
 <h2 class="header-fellows-middle">Visiting Fellows</h2>
 <div class="grid-container">
 
@@ -201,8 +205,6 @@ description: ""
 
 
 
-
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
@@ -214,27 +216,35 @@ description: ""
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
-
-
-
-
-
-
-
 </div>
 
 
+<!-- Second layer of Visiting Fellows.-->
+<div class="grid-container">
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
+				<div class="fellowship-card-text"><p>VISITING FELLOW, 2018 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
+	
+	
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
+				<div class="fellowship-card-text"><p>VISITING FELLOW, 2018 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
