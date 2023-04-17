@@ -14,9 +14,7 @@ description: ""
       z-index: 999;
       opacity: 0;
       pointer-events: none;
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
+      
     }
     
 .modal-window:target {
