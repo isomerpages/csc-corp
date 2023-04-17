@@ -225,9 +225,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
-				<div class="fellowship-card-text"><p>VISITING FELLOW, 2018 - Present</p></div>
-						<div class="fellowship-card-text"><p>Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
+			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
+				<div class="fellowship-card-text"><p>VISITING FELLOW, 2014 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Brown is an expert on international development economics.</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -239,9 +239,9 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
-				<div class="fellowship-card-text"><p>VISITING FELLOW, 2018 - Present</p></div>
-						<div class="fellowship-card-text"><p>Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
+			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
+				<div class="fellowship-card-text"><p>VISITING FELLOW, 2014 - Present</p></div>
+						<div class="fellowship-card-text"><p>Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</p></div>
 								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
