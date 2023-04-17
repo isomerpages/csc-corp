@@ -156,10 +156,30 @@ description: ""
 <div class="grid-container">
 
 
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2013 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
 
-
-
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-card-text">For the avatar image</div>
+		<div class="fellowship-text">
+			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR FELLOW, 2010 - Present</p></div>
+						<div class="fellowship-card-text"><p>Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+										<!-- Below is the modal (popup)-->
+  </div>
+</div>
 
 
 
