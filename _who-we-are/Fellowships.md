@@ -25,6 +25,11 @@ description: ""
 	
 	}
 	
+	.fellowship-card-text {
+		font-size: 0.9em;
+		margin-left: 1em;
+		margin-right: 1em;
+	}
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
@@ -38,12 +43,12 @@ description: ""
 
 <div class="grid-container">
 	<div class="fellow-card">
-		<div>For the avatar image</div>
+		<div class="fellowship-card-text">For the avatar image</div>
 		<div class="fellowship-text">
-			<div><h4>Professor Peter Hawkins</h4></div>
-				<div><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
-						<div><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
-								<div><a href="#open-modal">Open Modal</a></div>
+			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
+				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
+						<div class="fellowship-card-text"><p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
+								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
 							
 </div>
