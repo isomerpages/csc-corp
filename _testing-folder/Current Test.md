@@ -54,20 +54,10 @@ description: ""
       color: #000;
     }
     
-	.modal-window h1 {
+.modal-window h1 {
       font-size: 150%;
       margin: 0 0 15px;
     }
-
-
-
-
-
-
-
-
-
-
 
 </style>
 
