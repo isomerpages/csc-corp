@@ -18,10 +18,10 @@ description: ""
 	}
 	
 	.fellow-card {
-	position:relative;	
+	
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px
-		
+	position:relative;	
 	
 	}
 	
