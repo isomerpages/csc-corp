@@ -43,6 +43,7 @@ description: ""
 	
 .fellow-duration{
 		font-size:0.9em;
+		color:grey;
 	
 	}
 	<!-- Below is the CSS for the Modal ( Popup )-->
