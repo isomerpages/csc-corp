@@ -20,7 +20,7 @@ description: ""
 	.fellow-card {
 	
 	box-shadow: 0px 4px 4px 0px grey;
-	margin-top: 40px
+	margin-top: 40px;
 	position:relative;	
 	
 	}
