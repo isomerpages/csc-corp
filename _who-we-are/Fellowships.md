@@ -164,7 +164,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -181,7 +181,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -194,7 +194,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -212,7 +212,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -228,7 +228,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -244,7 +244,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Professor Brown is an expert on international development economics.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -258,7 +258,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -275,7 +275,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Dr Ang Hak Seng</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
