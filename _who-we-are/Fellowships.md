@@ -38,7 +38,7 @@ description: ""
 	
 	.card-link {
 		border-top: 1px solid grey;
-		width:30%
+		width:30%;
 	}
 	
 .fellow-duration{
