@@ -121,7 +121,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -134,7 +134,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -151,7 +151,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Mr Peter Ong Boon Kwee</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
