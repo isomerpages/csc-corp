@@ -14,7 +14,7 @@ description: ""
 	.grid-container {
 		display: grid; 
 		grid-template-columns: 50% 50%;
-		grid-column-gap: 20px;
+		grid-column-gap: 15px;
 	}
 	
 	.fellow-card {
@@ -22,6 +22,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position:relative;	
+	min-height:350px;
 	
 	}
 	
@@ -40,7 +41,8 @@ description: ""
 		border-top: 1px solid grey;
 		width:30%;
 	  position: absolute;
-		bottom: 0;
+		
+		
 	}
 	
 .fellow-duration{
@@ -48,6 +50,8 @@ description: ""
 		color:grey;
 	
 	}
+	
+	
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
 </style>
