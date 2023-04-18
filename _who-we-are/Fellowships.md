@@ -31,7 +31,7 @@ description: ""
 	}
 	
 	.fellow-summary {
-		font-size:0.8em;
+		font-size:0.9em;
 	
 	}
 	
@@ -41,6 +41,10 @@ description: ""
 	
 	}
 	
+.fellow-duration{
+		font-size:0.9em;
+	
+	}
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
 </style>
