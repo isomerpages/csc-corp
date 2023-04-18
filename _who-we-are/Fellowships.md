@@ -37,7 +37,8 @@ description: ""
 	}
 	
 	.card-link {
-		border: 2px solid black;
+		border-top: 1px solid grey;
+		width:30%
 	}
 	
 .fellow-duration{
@@ -74,7 +75,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>The Honourable Jocelyne Bourgon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Madame Bourgon is President Emeritus of the Canda School of Public Service. She advises governments on governance and public sector reforms.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 	
 </div>
 </div>
@@ -88,7 +89,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
@@ -102,7 +103,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
 </div>
