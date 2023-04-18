@@ -37,7 +37,7 @@ description: ""
 	
 	.card-link {
 		position: relative;
-		top: 2em
+		top: 2em;
 	
 	}
 	
