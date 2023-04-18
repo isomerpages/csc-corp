@@ -36,8 +36,6 @@ description: ""
 	}
 	
 	.card-link {
-		position: relative;
-		top: 2em;
 	
 	}
 	
