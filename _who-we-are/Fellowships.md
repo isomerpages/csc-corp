@@ -35,6 +35,12 @@ description: ""
 	
 	}
 	
+	.card-link {
+		position: relative;
+		top: 2em
+	
+	}
+	
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
 </style>
@@ -51,7 +57,7 @@ description: ""
 			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
 				<div class="fellowship-card-text"><p>SENIOR VISITING FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><p class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p></div>
-								<div class="fellowship-card-text"><a href="#open-modal">Read Bio</a></div>
+								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
 							
 </div>
