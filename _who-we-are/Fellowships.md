@@ -39,6 +39,8 @@ description: ""
 	.card-link {
 		border-top: 1px solid grey;
 		width:30%;
+	  position: absolute;
+		bottom: 0;
 	}
 	
 .fellow-duration{
