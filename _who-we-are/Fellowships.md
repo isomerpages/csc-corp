@@ -42,7 +42,7 @@ description: ""
 		width:30%;
 	  position: absolute;
 		bottom: 0;
-		
+		margin-bottom: 2.5%
 	}
 	
 .fellow-duration{
