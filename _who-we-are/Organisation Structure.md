@@ -66,7 +66,8 @@ description: ""
 
 	.Accordion-Paragraph {
 	 font-size: 1em;
-	
+	 margin-left: 0.5em;
+	 margin-right: 0.5em;
 	}
 	
 	summary {
