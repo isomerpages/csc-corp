@@ -83,6 +83,31 @@ description: ""
 	
 	}
 	
+	<!-- After this is the new accordian CSS.-->
+	summary:hover{
+	cursor: pointer;
+	color: white;
+	background-color: #F68B1F;
+	}
+	
+summary {
+	background-color: #f7dbbe;
+	padding:8px;
+	margin-bottom: -20px;
+  border: 1px solid #9F2943;
+	}
+	
+details[open] {
+		background-color: #f7f0f0;
+		border-bottom: 1px solid #9F2943;
+		border-left: 1px solid #9F2943;
+		border-right: 1px solid #9F2943;
+	}
+	
+
+details {
+	box-shadow: 0px 0px 20px #d4d4d4;
+	}
 
 </style>
 <!-- Hello there this is a HTML comment-->
@@ -109,6 +134,11 @@ description: ""
 	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3>
 	</div>
 	<div class="grid-child-OS-2">
+		<details>
+			<summary>Institute of Governance and Policy.</summary>
+			<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes,  with emphasis on the areas of governance, public economics and social policy.</p>
+		</details>
+		
 		<div id="myaccordion">
 			<input class="hidecontent" id="accordion1" type="checkbox">
 			<label class="Label_alignment" for="accordion1">Institute of Governance and Policy</label>
