@@ -15,7 +15,7 @@ description: ""
 	}
 	
 #myaccordion label {
-	box-shadow:0 0 20px #d4d4d4;
+	
 	display: block;
 	padding 8px 22px;
 	margin: 10px 0px 1px 0px;
@@ -23,7 +23,7 @@ description: ""
 	background: #f7dbbe;
 	font-weight: bold ;
 	transition: ease .5s;
-	min-height: 40px;
+	
 	
 	}
 	
