@@ -202,17 +202,11 @@ details {
 </details>
 
  
-	<details><summary>
-		
+<details>
+		<summary>
+		South East Asia
 		</summary>
-	
-	</details>
-
-
-  <input type="checkbox" id="accordion6" class="hidecontent">
-  <label for="accordion6" class="Label_alignment">South East Asia</label>
-  <div class="accordioncontent hidecontent">
-    <ul>
+	<ul>
 				<li>China, Executive Leadership Academy Pudong</li> 
 				<li>China, Shanghai Administrative Institute</li> 
 				<li>China, Suzhou Industrial Park Administrative Committee</li> 
@@ -235,8 +229,9 @@ details {
 				<li>Vietnam, Communist Part of Vietnam Central Inspectorate</li>
 				<li>Vietnam, Monitoring Office of Programme 165</li> 
 				<li>Vietnam, National Academy of Public Administration</li> 
-				<li>Vietnam, Office of the Government</li> </ul>
-  </div>
+		<li>Vietnam, Office of the Government</li> </ul>
+			
+</details>
   
   <input type="checkbox" id="accordion7" class="hidecontent">
   <label for="accordion7" class="Label_alignment">International and Other Organisations</label>
