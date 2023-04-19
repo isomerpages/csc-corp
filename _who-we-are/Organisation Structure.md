@@ -176,39 +176,13 @@ details {
   </div>
 	  <div class="grid-child-OS-2">
 	<div id="myaccordion">
-  
+  <details><summary></summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary></summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary></summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary></summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary></summary><p class="Accordian-Paragraph"></p></details>
   </div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-		
-		
-		
-		
+	</div>
 </div><!-- This div tag is for the grid-child-os-2-->
 
 <!-- This div tag is for the grid-container corporate services.-->
