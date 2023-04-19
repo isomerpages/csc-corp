@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 
-details:hover{
+summary:hover{
 	cursor: pointer;
 	}
 	
