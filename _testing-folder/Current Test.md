@@ -14,20 +14,23 @@ summary {
 	background-color: #F68B1F;
 	padding:5px 5px 5px 5px;
 	margin-bottom: -20px;
-  
+  border: 1px solid #9F2943;
 	}
 	
 details[open] {
 		background-color: #f7dbbe;
-	
+		border-bottom: 1px solid #9F2943;
+		border-left: 1px solid #9F2943;
 	}
 	
 details summary[open] {
 		background-color: #F68B1F;
+		border-left: none;
 	}
 
 details {
-	border: 1px solid #9F2943;
+	
+	
 	box-shadow: 0px 0px 20px #d4d4d4;
 	}
 
