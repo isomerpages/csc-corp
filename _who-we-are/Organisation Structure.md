@@ -110,7 +110,7 @@ details[open] {
 
 details {
 	box-shadow: 0px 0px 20px #d4d4d4;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-bottom: 30px;
 	}
 
