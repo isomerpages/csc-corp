@@ -5,7 +5,11 @@ description: ""
 ---
 <style>
 
-
+.Accordian {
+	background-color: #f7dbbe;
+	
+	
+	}
 
 
 
@@ -13,7 +17,7 @@ description: ""
 
 <h3>The Testing Page</h3>
 
-<details>
+<details class="Accordian">
 	<summary>Click me and Open Me</summary>
 	<p>Hello there and have a nice day</p>
 
