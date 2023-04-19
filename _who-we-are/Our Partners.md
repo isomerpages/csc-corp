@@ -189,7 +189,7 @@ details {
 	<ul>
 			<li>Kazakhstan, Academy of Public Administration</li>
 		</ul>
-	</details>
+</details>
 		
   
 
