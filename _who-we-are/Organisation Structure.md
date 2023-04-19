@@ -181,6 +181,7 @@ details {
 		<details><summary>Data Office</summary><p class="Accordian-Paragraph"></p></details>
 		<details><summary>Human Resources</summary><p class="Accordian-Paragraph"></p></details>
 		<details><summary>Infocomm Technology</summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary>Strategy and Transformation Office</summary><p class="Accordian-Paragraph"></p></details>
   </div>
 	</div>
 </div><!-- This div tag is for the grid-child-os-2-->
