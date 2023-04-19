@@ -178,10 +178,10 @@ details {
 	<div id="myaccordion">
   <details><summary>Communications and Customer Engagement</summary><p class="Accordion-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p></details>
 		<details><summary>Corporate Development</summary><p class="Accordion-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p></details>
-		<details><summary>Data Office</summary><p class="Accordian-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
-		<details><summary>Human Resources</summary><p class="Accordian-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
-		<details><summary>Infocomm Technology</summary><p class="Accordian-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>
-		<details><summary>Strategy and Transformation Office</summary><p class="Accordian-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College’s resources, including strategy, data, and business model.</p></details>
+		<details><summary>Data Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
+		<details><summary>Human Resources</summary><p class="Accordion-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
+		<details><summary>Infocomm Technology</summary><p class="Accordion-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>
+		<details><summary>Strategy and Transformation Office</summary><p class="Accordion-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College’s resources, including strategy, data, and business model.</p></details>
   </div>
 	</div>
 </div><!-- This div tag is for the grid-child-os-2-->
