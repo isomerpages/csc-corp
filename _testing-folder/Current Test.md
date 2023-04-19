@@ -21,6 +21,7 @@ details[open] {
 		background-color: #f7dbbe;
 		border-bottom: 1px solid #9F2943;
 		border-left: 1px solid #9F2943;
+		border-right: 1px solid #9F2943;
 	}
 	
 details summary[open] {
@@ -29,8 +30,6 @@ details summary[open] {
 	}
 
 details {
-	
-	
 	box-shadow: 0px 0px 20px #d4d4d4;
 	}
 
