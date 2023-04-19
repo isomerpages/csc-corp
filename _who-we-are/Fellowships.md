@@ -22,7 +22,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position:relative;	
-	min-height:450px;
+	min-height:420px;
 	
 	}
 	
@@ -33,7 +33,7 @@ description: ""
 	}
 	
 	.fellow-summary {
-		font-size:1em;
+		font-size:0.9em;
 	  line-height: 1.6;
 	}
 	
@@ -46,7 +46,7 @@ description: ""
 	}
 	
 .fellow-duration{
-		font-size:0.9em;
+		font-size:0.8em;
 		color:grey;
 	
 	}
