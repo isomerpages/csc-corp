@@ -249,7 +249,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
-						<div class="fellowship-card-text"><p class="fellow-summary">Professor Brown is an expert on international development economics.</p></div>
+						<div class="fellowship-card-text">Professor Brown is an expert on international development economics.</div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
