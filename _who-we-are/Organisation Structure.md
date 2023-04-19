@@ -138,9 +138,7 @@ details {
 <div class="grid-container">
 	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3>
 	</div>
-	<div class="grid-child-OS-2">
-		
-		
+	<div class="grid-child-OS-2">		
 <div id="myaccordion">
 	<details><summary>Institute of Governance and Policy</summary>
 		<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
@@ -157,20 +155,10 @@ details {
 	<details><summary>Civil Service College International</summary>
 		<p class="Accordian-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
 	</details>
-		
-</div>
-		<!-- Institute of Leadership and Organisation development accordian is above. Institute of Public Administration and Management accordian is below.-->
-			
-</div>
-	
-<!-- Above is Institue of Public Administration and Management accordian. Below is the Institute of public sector leadership accordian.-->		
-			
-<!-- Above is the Institute of public sectors leadership accordian. Below is the Civil Service College International accordian-->
-			
- 
- </div>
 
-
+</div>
+</div>
+</div>
 <hr>
 <div class="grid-container">
 	<div class="grid-child-OS-1">
@@ -179,25 +167,13 @@ details {
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 3 Business Support unit accordians-->
 	<div id="myaccordion">
-			<input class="hidecontent" id="accordion6" type="checkbox">
-			<label class="Label_alignment" for="accordion6">Digital Learning Services</label>
-		<div class="accordioncontent hidecontent">
-			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
-     </div>
-	<!-- Above is the Digital Learning Services Accordian. Below is the Learning Futures Group accordian.-->
-	<input class="hidecontent" id="accordion7" type="checkbox">
-	<label class="Label_alignment" for="accordion7">Learning Futures Group</label>
-		<div class="accordioncontent hidecontent">
-			<p class="Accordion-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
-     </div>
-	<!-- Above is the Learning Futures Group accordian. Below is the Programme Management Unit accordian. -->
-			<input class="hidecontent" id="accordion8" type="checkbox">
-			<label class="Label_alignment" for="accordion8">Programme Management Unit</label>
-		<div class="accordioncontent hidecontent">
-			<p class="Accordion-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
-	  	</div>	
-   </div>
-	</div>
+		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
+		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
+		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
+		
+	  
+ </div>
+</div>
 </div>
 	
 
