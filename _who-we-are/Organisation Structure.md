@@ -51,21 +51,7 @@ description: ""
 	
 	}
 	
-	@-webkit-keyframes fadeIn {
-		0%{
-		display: none;
-		opacity: 0;
-	}
-	1%{
-		display: block;
-		opacity: 0;
-	}
-	100%{
-		display:block;
-		opacity: 0;
-	}
-	}
-	
+
 .grid-container {
 	  display: grid;
 	  grid-template-columns:  30% 70%;
