@@ -59,6 +59,10 @@ details {
 ul{
 	margin-right: 1em;
 	
+	
+	}
+li {
+	font-size: 0.9em;
 	}
 </style>
 
