@@ -142,11 +142,11 @@ details {
 		
 		
 <div id="myaccordion">
-	<details><summary></summary></details>
-	<details><summary></summary></details>
-	<details><summary></summary></details>
-	<details><summary></summary></details>
-	<details><summary></summary></details>
+	<details><summary>Institute of Governance and Policy</summary></details>
+	<details><summary>Institute of Leadership and Organisation Development</summary></details>
+	<details><summary>Institute of Public Administration and Management</summary></details>
+	<details><summary>Institute of Public Sector Leadership</summary></details>
+	<details><summary>Civil Service College International</summary></details>
 		
 </div>
 		<!-- Institute of Leadership and Organisation development accordian is above. Institute of Public Administration and Management accordian is below.-->
