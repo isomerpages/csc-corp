@@ -11,7 +11,8 @@ description: ""
 	
 	}
 .Accordian:hover{
-	background-color: 
+	background-color: #f68b1f;
+	color: white;
 	
 	}
 
