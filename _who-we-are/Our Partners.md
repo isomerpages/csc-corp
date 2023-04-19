@@ -199,11 +199,14 @@ details {
 			<li>South Africa, Department of International Relations and Cooperation</li>
 			<li>South Africa, National School of Government</li>
 </ul>
-	
 </details>
 
  
-    
+	<details><summary>
+		
+		</summary>
+	
+	</details>
 
 
   <input type="checkbox" id="accordion6" class="hidecontent">
