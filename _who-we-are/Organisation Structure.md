@@ -68,6 +68,7 @@ description: ""
 	 font-size: 1em;
 	 margin-left: 0.5em;
 	 margin-right: 0.5em;
+	 
 	}
 	
 	summary {
@@ -75,6 +76,7 @@ description: ""
 		padding:8px;
 		margin-bottom: -20px;
 		border: 1px solid #9F2943;
+		font-weight: bold;
 	
 	}
 	
