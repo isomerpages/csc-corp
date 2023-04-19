@@ -1,6 +1,6 @@
 title: Title
 url: https://www.csc.gov.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/civil_service_college_singapore_logo.png
 colors:
   primary-color: "#f68b1f"
   secondary-color: "#9f2943"
@@ -56,3 +56,4 @@ is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
