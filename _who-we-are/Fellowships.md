@@ -156,7 +156,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Mr Peter Ong Boon Kwee</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -169,7 +169,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
-						<div class="fellowship-card-text">Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -186,7 +186,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
