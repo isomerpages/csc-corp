@@ -31,12 +31,17 @@ details {
 	
 	}
 
+	p {
+	 text-align:left;
+	 margin-left:0.75em;
+	 
+	}
 </style>
 
 <h3>The Testing Page</h3>
 
 <details class="Accordian">
 	<summary>Click me and Open Me</summary>
-	<p>Hello there and have a nice day</p>
+	<p>Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
 
 </details>
