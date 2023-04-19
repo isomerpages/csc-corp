@@ -176,40 +176,7 @@ details {
   </div>
 	  <div class="grid-child-OS-2">
 	<div id="myaccordion">
-  <input type="checkbox" id="accordion9" class="hidecontent">
-  <label for="accordion9" class="Label_alignment">Communications and Customer Engagement</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p>
-  </div>
-
-  <input type="checkbox" id="accordion10" class="hidecontent">
-  <label for="accordion10" class="Label_alignment">Corporate Development</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p>
-  </div>
-
-  <input type="checkbox" id="accordion11" class="hidecontent">
-  <label for="accordion11" class="Label_alignment">Data Office</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p>
-  </div>
-
-  <input type="checkbox" id="accordion12" class="hidecontent">
-  <label for="accordion12" class="Label_alignment">Human Resources</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p>
-  </div>
-
-  <input type="checkbox" id="accordion13" class="hidecontent">
-  <label for="accordion13" class="Label_alignment">Infocomm Technology</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p>
-  </div>
-
-  <input type="checkbox" id="accordion14" class="hidecontent">
-  <label for="accordion14" class="Label_alignment">Strategy and Transformation Office</label>
-  <div class="accordioncontent hidecontent">
-    <p class="Accordion-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College's resources, including strategy, data, and business model.</p>
+  
   </div>
 </div>
 
@@ -244,4 +211,4 @@ details {
 		
 </div><!-- This div tag is for the grid-child-os-2-->
 
-</div><!-- This div tag is for the grid-container corporate services.-->
+<!-- This div tag is for the grid-container corporate services.-->
