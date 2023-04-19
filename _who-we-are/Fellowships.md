@@ -186,7 +186,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text"><p class="fellow-summary">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</p></div>
+						<div class="fellowship-card-text">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
