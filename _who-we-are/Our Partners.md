@@ -116,7 +116,12 @@ details {
 		margin-bottom: 30px;
 	}
 
-
+ul {
+	
+	margin-top: 50px;
+	
+	}
+	
 </style>
 
 <p>We develop strong, long-term partnerships with a wide and diverse range of local and international organisations.</p>
@@ -262,6 +267,3 @@ details {
 	
 	
   </div>
-	
-	
-
