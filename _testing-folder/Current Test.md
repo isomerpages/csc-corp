@@ -5,20 +5,24 @@ description: ""
 ---
 <style>
 
-.Accordian {
-	background-color: #f7dbbe;
-	padding:10px;
-	
+details:hover{
+	cursor: pointer;
 	}
-.Accordian:hover{
-	background-color: #f68b1f;
-	color: white;
+	
+summary {
+	background-color: #F68B1F;
+	padding:5px 5px 5px 5px;
 	}
 	
 details[open] {
-		background-color: white;
+		background-color: #f7dbbe;
 	
 	}
+	
+details summary[open] {
+		background-color: #F68B1F;
+	}
+
 
 
 </style>
