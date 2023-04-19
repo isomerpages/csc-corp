@@ -147,9 +147,16 @@ details {
 	</details>
 	<details><summary>Institute of Leadership and Organisation Development</summary>
 		<p class="Accordian-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p></details>
-	<details><summary>Institute of Public Administration and Management</summary><p class="Accordian-Paragraph"></p></details>
-	<details><summary>Institute of Public Sector Leadership</summary><p class="Accordian-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.</p></details>
-	<details><summary>Civil Service College International</summary><p class="Accordian-Paragraph"></p></details>
+	<details><summary>Institute of Public Administration and Management</summary><p class="Accordian-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
+		</p>
+	</details>
+	<details>
+		<summary>Institute of Public Sector Leadership</summary>
+		<p class="Accordian-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
+	</details>
+	<details><summary>Civil Service College International</summary>
+		<p class="Accordian-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
+	</details>
 		
 </div>
 		<!-- Institute of Leadership and Organisation development accordian is above. Institute of Public Administration and Management accordian is below.-->
