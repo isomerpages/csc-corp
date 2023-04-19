@@ -142,7 +142,9 @@ details {
 		
 		
 <div id="myaccordion">
-	<details><summary>Institute of Governance and Policy</summary></details>
+	<details><summary>Institute of Governance and Policy</summary>
+		<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
+	</details>
 	<details><summary>Institute of Leadership and Organisation Development</summary></details>
 	<details><summary>Institute of Public Administration and Management</summary></details>
 	<details><summary>Institute of Public Sector Leadership</summary></details>
