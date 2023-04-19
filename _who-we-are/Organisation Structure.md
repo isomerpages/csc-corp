@@ -23,6 +23,7 @@ description: ""
 	background: #f7dbbe;
 	font-weight: bold ;
 	transition: ease .5s;
+	min-height:35px;
 	
 	
 	}
