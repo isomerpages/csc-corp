@@ -167,9 +167,18 @@ details {
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 3 Business Support unit accordians-->
 	<div id="myaccordion">
-		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
-		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
-		<details><summary><p class="Accordian-Paragraph"></p></summary></details>
+		<details>
+			<summary>Digital Learning Services</summary>
+			<p class="Accordian-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
+		</details>
+		<details>
+			<summary>Learning Futures Group</summary>
+			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
+		</details>
+		<details>
+		<summary>Programme Management Unit</summary>
+		<p class="Accordian-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
+		</details>
 		
 	  
  </div>
