@@ -35,7 +35,6 @@ description: ""
 	.fellow-summary {
 		font-size:1em;
 	  line-height: 1.6;
-	
 	}
 	
 	.card-link {
