@@ -181,7 +181,7 @@ details {
 		<details><summary>Data Office</summary><p class="Accordian-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
 		<details><summary>Human Resources</summary><p class="Accordian-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
 		<details><summary>Infocomm Technology</summary><p class="Accordian-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>
-		<details><summary>Strategy and Transformation Office</summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary>Strategy and Transformation Office</summary><p class="Accordian-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College’s resources, including strategy, data, and business model.</p></details>
   </div>
 	</div>
 </div><!-- This div tag is for the grid-child-os-2-->
