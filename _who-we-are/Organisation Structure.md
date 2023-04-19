@@ -133,10 +133,10 @@ details {
 	</details>
 	<details>
 		<summary>Institute of Public Sector Leadership</summary>
-		<p class="Accordian-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
+		<p class="Accordion-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
 	</details>
 	<details><summary>Civil Service College International</summary>
-		<p class="Accordian-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
+		<p class="Accordion-Paragraph">Build strategic partnerships through the sharing of Singapore’s public service experience and best practices with the wider global community.</p>
 	</details>
 
 </div>
@@ -152,15 +152,15 @@ details {
 	<div id="myaccordion">
 		<details>
 			<summary>Digital Learning Services</summary>
-			<p class="Accordian-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
+			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
 		</details>
 		<details>
 			<summary>Learning Futures Group</summary>
-			<p class="Accordian-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
+			<p class="Accordion-Paragraph">Nurture conditions for continual experimentation and innovation in learning design and technology.</p>
 		</details>
 		<details>
 		<summary>Programme Management Unit</summary>
-		<p class="Accordian-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
+		<p class="Accordion-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
 		</details>
 		
 	  
@@ -176,8 +176,8 @@ details {
   </div>
 	  <div class="grid-child-OS-2">
 	<div id="myaccordion">
-  <details><summary>Communications and Customer Engagement</summary><p class="Accordian-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p></details>
-		<details><summary>Corporate Development</summary><p class="Accordian-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p></details>
+  <details><summary>Communications and Customer Engagement</summary><p class="Accordion-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p></details>
+		<details><summary>Corporate Development</summary><p class="Accordion-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p></details>
 		<details><summary>Data Office</summary><p class="Accordian-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
 		<details><summary>Human Resources</summary><p class="Accordian-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
 		<details><summary>Infocomm Technology</summary><p class="Accordian-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>
