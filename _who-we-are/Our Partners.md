@@ -166,7 +166,20 @@ details {
 				 
   
 <!-- Above is the South Asia accordion. Below is the Central Asia Accordion.-->
-	<details><summary>East Asia</summary></details>
+<details><summary>East Asia</summary>
+	<ul>
+			<li>China, Executive Leadership Academy Pudong</li>
+			<li>China, Shanghai Administrative Institute</li>
+			<li>China, Suzhou Industrial Park Administrative Committee</li>
+			<li>China, Tianjian Administrative Institute</li>
+			<li>China, Sino-Singapore Tianjin Eco-City</li>
+			<li>China, Zhejiang Administrative Institute</li>
+			<li>Korea, National Human Resource Development Institute</li>
+			<li>Mongolia, Cabinet Secretariat</li>
+			<li>Mongolia, National Academy of Governance</li>
+			<li>Mongolia, Ulaanbaatar City Training Centre</li>
+  </ul>
+	</details>
         
 
   
