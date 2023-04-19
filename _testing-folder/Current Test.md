@@ -7,11 +7,13 @@ description: ""
 
 summary:hover{
 	cursor: pointer;
+	color: white;
 	}
 	
 summary {
 	background-color: #F68B1F;
 	padding:5px 5px 5px 5px;
+	box-shadow:
 	}
 	
 details[open] {
@@ -23,7 +25,11 @@ details summary[open] {
 		background-color: #F68B1F;
 	}
 
-
+details {
+	border: 1px solid #d4d4d4;
+	box-shadow: 0px 0px 20px #d4d4d4
+	
+	}
 
 </style>
 
