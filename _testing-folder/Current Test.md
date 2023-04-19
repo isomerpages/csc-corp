@@ -26,7 +26,7 @@ details summary[open] {
 	}
 
 details {
-	border: 1px solid #d4d4d4;
+	border: 1px solid #9F2943;
 	box-shadow: 0px 0px 20px #d4d4d4
 	
 	}
