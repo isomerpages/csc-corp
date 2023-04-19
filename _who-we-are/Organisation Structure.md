@@ -84,10 +84,11 @@ description: ""
 	}
 	
 	<!-- After this is the new accordian CSS.-->
-	summary:hover{
+summary:hover{
 	cursor: pointer;
 	color: white;
 	background-color: #F68B1F;
+	
 	}
 	
 summary {
@@ -95,6 +96,7 @@ summary {
 	padding:8px;
 	margin-bottom: -20px;
   border: 1px solid #9F2943;
+	
 	}
 	
 details[open] {
@@ -107,6 +109,8 @@ details[open] {
 
 details {
 	box-shadow: 0px 0px 20px #d4d4d4;
+	margin-top: 30px;
+	margin-bottom: 30px;
 	}
 
 </style>
