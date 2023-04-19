@@ -13,6 +13,7 @@ summary:hover{
 summary {
 	background-color: #F68B1F;
 	padding:5px 5px 5px 5px;
+	margin-bottom: -20px;
   
 	}
 	
