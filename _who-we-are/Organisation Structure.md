@@ -179,7 +179,7 @@ details {
   <details><summary>Communications and Customer Engagement</summary><p class="Accordian-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p></details>
 		<details><summary>Corporate Development</summary><p class="Accordian-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p></details>
 		<details><summary>Data Office</summary><p class="Accordian-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
-		<details><summary>Human Resources</summary><p class="Accordian-Paragraph"></p></details>
+		<details><summary>Human Resources</summary><p class="Accordian-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
 		<details><summary>Infocomm Technology</summary><p class="Accordian-Paragraph"></p></details>
 		<details><summary>Strategy and Transformation Office</summary><p class="Accordian-Paragraph"></p></details>
   </div>
