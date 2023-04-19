@@ -137,7 +137,11 @@ details {
 		
 		
 <div id="myaccordion">
-	<details></details>
+	<details><summary></summary></details>
+	<details><summary></summary></details>
+	<details><summary></summary></details>
+	<details><summary></summary></details>
+	<details><summary></summary></details>
 		
 </div>
 		<!-- Institute of Leadership and Organisation development accordian is above. Institute of Public Administration and Management accordian is below.-->
