@@ -7,7 +7,7 @@ description: ""
 
 .Accordian {
 	background-color: #f7dbbe;
-	
+	padding:10px;
 	
 	}
 .Accordian:hover{
