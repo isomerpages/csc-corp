@@ -8,10 +8,11 @@ description: ""
 summary:hover{
 	cursor: pointer;
 	color: white;
+	background-color: #F68B1F;
 	}
 	
 summary {
-	background-color: #F68B1F;
+	background-color: #f7dbbe;
 	padding:8px;
 	margin-bottom: -20px;
   border: 1px solid #9F2943;
