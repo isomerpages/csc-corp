@@ -13,6 +13,10 @@ description: ""
 .Accordian:hover{
 	background-color: #f68b1f;
 	color: white;
+	}
+	
+details[open] {
+		background-color: white;
 	
 	}
 
