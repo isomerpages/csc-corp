@@ -34,7 +34,7 @@ description: ""
 	
 	.fellow-summary {
 		font-size:1em;
-	  line-height: normal;
+	  line-height: 1.6;
 	
 	}
 	
