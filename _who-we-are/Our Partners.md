@@ -142,38 +142,34 @@ details {
 	<details>
 		<summary>Middle East
 		</summary>
-		
+		<ul>
+			<li>Jordan, Ministry of Public Sector Development</li>
+		<li>Kuwait, Civil Service Commission</li>
+		<li>Oman, State Audit Institution</li>
+		<li>Oman, Diwan of Royal Court</li>
+		<li>Palestine, Palestine National Authority</li>
+		<li>Qatar, Qatar Leadership Centre</li>
+		<li>Qatar, Institute of Public Administration</li>
+		<li>UAE, Abu Dhabi School of Government</li>
+		</ul>
 	</details>
 <!-- Above is the Middle East Accordion. Below is the South Asia Accordion.-->
-  <input type="checkbox" id="accordion2" class="hidecontent">
-  <label for="accordion2" class="Label_alignment">South Asia</label>
-  <div class="accordioncontent hidecontent">
-				 <ul>
+	<details><summary>South Asia</summary>
+	<ul>
 					 <li>India, Department of Personnel and Training</li>
 					<li>India, Lal Bahadur Shastri National Academy of Administration</li>
 					<li>India, Department of Economic Affairs</li>
 					<li>Pakistan, National School of Public Policy</li>
 					<li>Sri Lanka, Institute of Development and Administration</li>
 		</ul>
-  </div>
+	</details>
+				 
+  
 <!-- Above is the South Asia accordion. Below is the Central Asia Accordion.-->
-  <input type="checkbox" id="accordion3" class="hidecontent">
-  <label for="accordion3" class="Label_alignment">East Asia</label>
-  <div class="accordioncontent hidecontent">
-        <ul>
-			<li>China, Executive Leadership Academy Pudong</li>
-			<li>China, Shanghai Administrative Institute</li>
-			<li>China, Suzhou Industrial Park Administrative Committee</li>
-			<li>China, Tianjian Administrative Institute</li>
-			<li>China, Sino-Singapore Tianjin Eco-City</li>
-			<li>China, Zhejiang Administrative Institute</li>
-			<li>Korea, National Human Resource Development Institute</li>
-			<li>Mongolia, Cabinet Secretariat</li>
-			<li>Mongolia, National Academy of Governance</li>
-			<li>Mongolia, Ulaanbaatar City Training Centre</li>
-  </ul>
+	<details><summary>East Asia</summary></details>
+        
 
-  </div>
+  
 <!-- Above is East Asia accordion. Below is Central Asia Accordion. -->
   <input type="checkbox" id="accordion4" class="hidecontent">
   <label for="accordion4" class="Label_alignment">Central Asia</label>
