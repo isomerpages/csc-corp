@@ -80,6 +80,41 @@ description: ""
 
 <!-- New CSS for the new accordion-->
 
+.Accordion-Paragraph {
+	 font-size: 1em;
+	 margin-left: 0.5em;
+	 margin-right: 0.5em;
+	 
+	}
+	
+	summary {
+		background-color: #f7dbbe;
+		padding:8px;
+		margin-bottom: -20px;
+		border: 1px solid #9F2943;
+		font-weight: bold;
+	
+	}
+	
+	summary:hover{
+		cursor: pointer;
+		color: white;
+		background-color: #F68B1F;
+	
+	}
+	
+	details[open] {
+		background-color: #f7f0f0;
+		border-bottom: 1px solid #9F2943;
+		border-left: 1px solid #9F2943;
+		border-right: 1px solid #9F2943;
+	}
+	
+details {
+		box-shadow: 0px 0px 20px #d4d4d4;
+		margin-top: 10px;
+		margin-bottom: 30px;
+	}
 
 
 </style>
@@ -104,22 +139,11 @@ description: ""
 	 <div class="grid-child-OP-2">
 <!--  Start of the Foreign partners accordion.-->		 
 <div id="myaccordion">
-  <input type="checkbox" id="accordion1" class="hidecontent">
-  <label for="accordion1" class="Label_alignment">Middle East</label>
-  <div class="accordioncontent hidecontent">
-	<ul>
-			<li>Jordan, Ministry of Public Sector Development</li>
-		<li>Kuwait, Civil Service Commission</li>
-		<li>Oman, State Audit Institution</li>
-		<li>Oman, Diwan of Royal Court</li>
-		<li>Palestine, Palestine National Authority</li>
-		<li>Qatar, Qatar Leadership Centre</li>
-		<li>Qatar, Institute of Public Administration</li>
-		<li>UAE, Abu Dhabi School of Government</li>
+	<details>
+		<summary>Middle East
+		</summary>
 		
-		
-</ul>
-  </div>
+	</details>
 <!-- Above is the Middle East Accordion. Below is the South Asia Accordion.-->
   <input type="checkbox" id="accordion2" class="hidecontent">
   <label for="accordion2" class="Label_alignment">South Asia</label>
