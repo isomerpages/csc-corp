@@ -230,13 +230,11 @@ details {
 				<li>Vietnam, Monitoring Office of Programme 165</li> 
 				<li>Vietnam, National Academy of Public Administration</li> 
 		<li>Vietnam, Office of the Government</li> </ul>
-			
 </details>
-  
-  <input type="checkbox" id="accordion7" class="hidecontent">
-  <label for="accordion7" class="Label_alignment">International and Other Organisations</label>
-  <div class="accordioncontent hidecontent">
-    <ul>
+ <details>
+		<summary>International and Other Organisations
+		</summary>
+<ul>
   <li>ASEAN Secretariat</li>
   <li>Asian Development Bank</li>
   <li>Australia and New Zealand School of Government</li>
@@ -247,6 +245,8 @@ details {
   <li>Global Education and Training Institute (GETI), United Nation Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
   <li>Moroccan Agency for International Cooperation (AMCI)</li>
 </ul>
+	</details>  
+    
 
   </div>
 
@@ -265,4 +265,3 @@ details {
 	
 	
 
-</div>
