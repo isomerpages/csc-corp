@@ -24,7 +24,8 @@ description: ""
 	font-weight: bold ;
 	transition: ease .5s;
 	min-height:35px;
-	
+	border: 1px solid #9F2943;
+	box-shadow: 0 0 10px #d4d4d4
 	
 	}
 	
