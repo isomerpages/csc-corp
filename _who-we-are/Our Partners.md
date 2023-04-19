@@ -184,14 +184,14 @@ details {
 
   
 <!-- Above is East Asia accordion. Below is Central Asia Accordion. -->
-  <input type="checkbox" id="accordion4" class="hidecontent">
-  <label for="accordion4" class="Label_alignment">Central Asia</label>
-  <div class="accordioncontent hidecontent">
-		<ul>
+<details>
+		<summary>Central Asia</summary>
+	<ul>
 			<li>Kazakhstan, Academy of Public Administration</li>
-		
 		</ul>
-  </div>
+	</details>
+		
+  
 
   <input type="checkbox" id="accordion5" class="hidecontent">
   <label for="accordion5" class="Label_alignment">Africa</label>
