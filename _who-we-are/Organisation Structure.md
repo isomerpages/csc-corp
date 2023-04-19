@@ -17,7 +17,7 @@ description: ""
 #myaccordion label {
 	
 	display: block;
-	padding 8px 22px;
+	padding: 8px 22px;
 	margin: 10px 0px 1px 0px;
 	cursor: pointer;
 	background: #f7dbbe;
