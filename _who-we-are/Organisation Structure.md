@@ -4,55 +4,7 @@ permalink: /organisation-structure/
 description: ""
 ---
 <style>
-.hidecontent {
-	 display: none;
-	
-	}
-	
-	.Label_alignment {
-	 padding-left:10px
-	
-	}
-	
-#myaccordion label {
-	
-	display: block;
-	padding:5px;
-	margin: 10px 0px 1px 0px;
-	cursor: pointer;
-	background: #f7dbbe;
-	font-weight: bold ;
-	transition: ease .5s;
-	min-height:35px;
-	border: 1px solid #9F2943;
-	box-shadow: 0 0 10px #d4d4d4
-	
-	}
-	
-	#myaccordion label:hover{
-		background :#F68B1F;
-	  color: white;
-	
-	}
-	
-	.accordioncontent {
-		/* box-shadow: 0px 0px 20px #d4d4d4; */
-		padding: 10px 25px;
-	  /* border: 1px solid #d4d4d4; */
-	}
-	
-	#myaccordion input:checked + label + .accordioncontent{
-	  display: block;
-	  web-kit animation: fadeIn 0.5s ease-out;
-		-moz-animation: fadeIn 0.5s ease-out;
-	  -o-animation: fadeIn 0.5s ease-out;
-		animation: fadeIn 0.5s ease-out;
-	
-	
-	}
-	
-
-.grid-container {
+	.grid-container {
 	  display: grid;
 	  grid-template-columns:  30% 70%;
 	 
