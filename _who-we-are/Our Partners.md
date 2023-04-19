@@ -90,10 +90,9 @@ description: ""
 	summary {
 		background-color: #f7dbbe;
 		padding:8px;
-		margin-bottom: -20px;
 		border: 1px solid #9F2943;
 		font-weight: bold;
-	
+		
 	}
 	
 	summary:hover{
@@ -114,12 +113,6 @@ details {
 		box-shadow: 0px 0px 20px #d4d4d4;
 		margin-top: 10px;
 		margin-bottom: 30px;
-	}
-
-ul {
-	
-	margin-top: 50px;
-	
 	}
 	
 </style>
