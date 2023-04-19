@@ -84,6 +84,7 @@ description: ""
 	}
 	
 	<!-- After this is the new accordian CSS.-->
+
 summary:hover{
 	cursor: pointer;
 	color: white;
