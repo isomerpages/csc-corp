@@ -199,7 +199,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
-						<div class="fellowship-card-text">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -217,7 +217,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
-						<div class="fellowship-card-text">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -233,7 +233,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
-						<div class="fellowship-card-text">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -249,7 +249,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
-						<div class="fellowship-card-text">Professor Brown is an expert on international development economics.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Professor Brown is an expert on international development economics.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
@@ -263,7 +263,7 @@ description: ""
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
-						<div class="fellowship-card-text">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
 										<!-- Below is the modal (popup)-->
   </div>
