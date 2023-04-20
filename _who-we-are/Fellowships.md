@@ -86,9 +86,10 @@ img {
 <div class="grid-container">
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-		<img src="">
-		<div class="fellowship-text">
-			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
+		
+<div class="fellowship-text">
+			<img src="">
+		<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
