@@ -49,6 +49,7 @@ description: ""
     <img alt="Person 1" src="person1.jpg">
     <div class="card-info">
       <h2>Person 1</h2>
+			<p class="tenure">10 years in organization</p>
       <p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nisi commodo, ullamcorper magna at, faucibus ex. Etiam auctor rutrum urna, id bibendum est vehicula id.</p>
       <p class="card-link"><a href="#">Click me</a></p>
       
@@ -59,6 +60,7 @@ description: ""
     <img alt="Person 2" src="person2.jpg">
     <div class="card-info">
       <h2>Person 2</h2>
+			<p class="tenure">10 years in organization</p>
       <p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nisi commodo, ullamcorper magna at, faucibus ex. Etiam auctor rutrum urna, id bibendum est vehicula id. Praesent quis ex lacinia, luctus libero sed, imperdiet mi. Nam ut consequat sapien, eu cursus sapien.</p>
       <p class="card-link"><a href="#">Click me</a></p>
       
