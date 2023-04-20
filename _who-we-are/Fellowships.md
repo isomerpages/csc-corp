@@ -23,6 +23,7 @@ description: ""
 	margin-top: 40px;
 	position:relative;	
 	height: 400px;
+	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
 	
