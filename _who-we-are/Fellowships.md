@@ -60,6 +60,9 @@ description: ""
 	
 	}
 	
+img {
+	border-radius: 50%
+	}
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
