@@ -50,14 +50,14 @@ description: ""
   <div class="card">
     <img alt="Person 1" src="person1.jpg">
     <h2>Person 1</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere, nunc eu malesuada gravida, turpis mi dapibus elit, eu volutpat nisl justo non urna.</p>
+    <p>Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</p>
     <a href="#">Click me</a>
   </div>
   
   <div class="card">
     <img alt="Person 2" src="person2.jpg">
     <h2>Person 2</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere, nunc eu malesuada gravida, turpis mi dapibus elit, eu volutpat nisl justo non urna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere, nunc eu malesuada gravida, turpis mi dapibus elit, eu volutpat nisl justo non urna.</p>
+    <p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p>
     <a href="#">Click me</a>
   </div>
 </div>
