@@ -12,9 +12,12 @@ description: ""
 
 	.card {
 	width: 45%;
-	height: auto;
+	height: 300px;
+	padding: 10px;
 	margin: auto;
 	box-shadow: 0px 4px 4px 0px grey;
+	box-sizing: border-box;
+	
 	}
 
 </style>
