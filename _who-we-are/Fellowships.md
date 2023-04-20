@@ -45,10 +45,11 @@ description: ""
 	.card-link {
 		border-top: 1px solid grey;
 		width:30%;
-	  /*position: absolute;*/
-		/*bottom: 0;*/
-		/*margin-bottom: 2.5%*/
-	  align-self: flex-end;
+	  position: absolute;
+		bottom: 0;
+		margin-bottom: 1em;
+		margin-left: 1em;
+	 
 	
 	}
 	
@@ -106,7 +107,7 @@ img {
 										<!-- Below is the modal (popup)-->
 							
 </div>
-		<div><a href="">Click me</a></div>
+		<div class="card-link"><a href="">Click me</a></div>
 	</div>
 	
 <!-- 2nd Senior Fellowship Card Card -->	
