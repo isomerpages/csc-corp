@@ -16,15 +16,5 @@ sections:
           description: ""
           url: /who-we-are
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text ( Photo )
-      image: /images/Landing Page/cover_option1.jpg
+      title: Civil Service College
 ---
