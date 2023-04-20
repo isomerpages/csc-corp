@@ -25,7 +25,14 @@ description: ""
 
 
 <div class="grid-container">
-<div class="card"></div>
+<div class="card">
+	<div class="card-contents">For the avatar Image</div>
+	<div class="card-contents"><h4>Professor Peter Hawkins</h4></div>
+	<div class="card-contents"></div>
+	<div class="card-contents"></div>
+	<div class="card-contents"></div>
+	
+</div>
 	
 
 
