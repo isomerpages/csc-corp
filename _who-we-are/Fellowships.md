@@ -83,7 +83,7 @@ description: ""
 <div class="grid-container">
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-card-text">For the avatar image</div>
+<div class="fellowship-card-text"><img src=""></div>
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>Professor Peter Hawkins</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
@@ -96,7 +96,7 @@ description: ""
 	
 <!-- 2nd Senior Fellowship Card Card -->	
 <div class="fellow-card">
-	<div class="fellowship-card-text">For the avatar image</div>
+	<div class="fellowship-card-text"><img src=""></div>
 		<div class="fellowship-text">
 			<div class="fellowship-card-text"><h4>The Honourable Jocelyne Bourgon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
