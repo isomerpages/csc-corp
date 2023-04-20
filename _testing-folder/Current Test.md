@@ -39,7 +39,7 @@ description: ""
 		<div><h4>Person's Name</h4></div>
 		<div>Tenure</div>
 		<div>Summary</div>
-		<div><a href="">click me</a></div>
+		<div><a href="#">click me</a></div>
 </div>
 
 
