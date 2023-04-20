@@ -253,8 +253,8 @@ img {
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-card-text">For the avatar image</div>
-		<div class="fellowship-text">
+<div class="fellowship-text">
+	 <img src="">
 			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</div></div>
