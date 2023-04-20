@@ -25,7 +25,7 @@ description: ""
 	height: 400px;
 	box-sizing: border-box;
 	padding: 10px;
-	display: flex;
+	
 	
 	
 	}
@@ -67,6 +67,11 @@ img {
 .fellow-name {
 	font-size: 1.25em;
 	color: #9F2943;
+	}
+	
+	.fellowship-text {
+		display: flex;
+		flex-direction: column;
 	}
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
