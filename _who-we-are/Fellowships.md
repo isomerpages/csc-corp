@@ -38,6 +38,7 @@ description: ""
 	.fellow-summary {
 		font-size:0.9em;
 	  line-height: 1.6;
+		margin-bottom: 1em;
 	}
 	
 	.card-link {
@@ -61,7 +62,7 @@ description: ""
 	<!-- For mobile CSS-->
 	@media-only screen and (max-width: 600px) {
 		.fellow-card {
-			height: auto;
+			height: fit-content;
 		}
 		.card-link {
 		position: relative;
