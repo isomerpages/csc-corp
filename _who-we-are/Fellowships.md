@@ -79,7 +79,7 @@ img {
 	
 	<!-- For mobile CSS-->
 	
-	@media only screen and (max-width: 768px ) {
+@media only screen and (max-width: 768px ) {
  .fellow-card {
 		
 		box-shadow: 0px 4px 4px 0px grey;
