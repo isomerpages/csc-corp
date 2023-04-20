@@ -66,6 +66,7 @@ img {
 	
 .fellow-name {
 	font-size: 1.25em;
+	color: 
 	}
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
@@ -93,7 +94,7 @@ img {
 		
 <div class="fellowship-text">
 			<img src="">
-		<div class="fellowship-card-text"><p>Professor Peter Hawkins</p></div>
+		<div class="fellowship-card-text"><p class="fellow-name">Professor Peter Hawkins</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
