@@ -56,7 +56,7 @@ description: ""
 	
 	<!-- For mobile CSS-->
 	@media-only screen and (max-width: 600px) {
-		.card {
+		.fellow-card {
 			height: auto;
 		}
 		.card-link {
