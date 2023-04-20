@@ -3,7 +3,8 @@ title: Current Test
 permalink: /testing-folder/permalink/
 description: ""
 ---
-<style>.card-container {
+<style>
+.card-container {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
