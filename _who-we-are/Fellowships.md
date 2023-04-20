@@ -54,6 +54,21 @@ description: ""
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
+	<!-- For mobile CSS-->
+	@media-only screen and (max-width: 600px) {
+		.card {
+			height: auto;
+		}
+		.card-link {
+		position: relative;
+		width: auto;
+		padding: 5px;
+		margin-top: 10px;
+		}
+	
+	
+	}
+	
 </style>
 
 
