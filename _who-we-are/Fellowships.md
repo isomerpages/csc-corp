@@ -23,14 +23,14 @@ description: ""
 	margin-top: 40px;
 	position:relative;	
 	height: 400px;
-	display: flex;
-	flex-direction: column;
-	justify-content: space-between;
+	
 	
 	}
 	
 	.fellowship-card-text {
-		
+		display: flex;		
+		flex-direction: column;
+		justify-content: space-between;
 		margin-left: 1em;
 		margin-right: 1em;
 	}
@@ -47,7 +47,7 @@ description: ""
 	  /*position: absolute;*/
 		/*bottom: 0;*/
 		/*margin-bottom: 2.5%*/
-		align-self: flex-end;
+		
 	}
 	
 .fellow-duration{
