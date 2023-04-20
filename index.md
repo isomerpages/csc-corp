@@ -15,7 +15,6 @@ sections:
         - title: About CSC
           description: ""
           url: /who-we-are
-      title: Innovative . Inspiring . Impactful
   - infobar:
       title: Civil Service College
 ---
