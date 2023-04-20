@@ -62,7 +62,7 @@ description: ""
 	<!-- Below is the CSS for the Modal ( Popup )-->
 	
 	<!-- For mobile CSS-->
-	@media-only screen and (max-width: 600px) {
+	@media-only screen and (max-width: 800px) {
 		.fellow-card {
 			height: fit-content;
 		}
