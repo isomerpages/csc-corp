@@ -48,8 +48,7 @@ description: ""
 	  /*position: absolute;*/
 		/*bottom: 0;*/
 		/*margin-bottom: 2.5%*/
-		margin-top: auto;
-	  margin-bottom: 10px;
+	
 	}
 	
 	
