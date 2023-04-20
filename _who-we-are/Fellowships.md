@@ -66,7 +66,7 @@ img {
 	
 .fellow-name {
 	font-size: 1.25em;
-	color: 
+	color: #9F2943;
 	}
 	
 	<!-- Below is the CSS for the Modal ( Popup )-->
