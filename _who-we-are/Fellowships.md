@@ -80,7 +80,14 @@ img {
 	<!-- For mobile CSS-->
 	
 	@media only screen and (max-width: 768px ) {
-		.fellow-card {
+ .fellow-card {
+		
+		box-shadow: 0px 4px 4px 0px grey;
+		margin-top: 40px;
+		position:relative;	
+		height: 600px;
+		box-sizing: border-box;
+		padding: 10px;
 	
 		}
 	
