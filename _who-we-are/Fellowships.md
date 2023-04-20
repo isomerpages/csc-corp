@@ -79,7 +79,14 @@ img {
 	
 	<!-- For mobile CSS-->
 	
+	@media only screen and (max-width: 768px ) {
+		.fellow-card {
 	
+		}
+	
+	
+	
+	}
 	
 	
 	
