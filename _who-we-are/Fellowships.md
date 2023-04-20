@@ -219,8 +219,8 @@ img {
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-card-text">For the avatar image</div>
-		<div class="fellowship-text">
+<div class="fellowship-text">
+	<img src="">
 			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
