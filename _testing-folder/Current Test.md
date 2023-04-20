@@ -15,7 +15,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position: relative;
-	height: 400px;
+	height: 100%;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-between;
