@@ -3,61 +3,65 @@ title: Current Test
 permalink: /testing-folder/permalink/
 description: ""
 ---
-<style>
-.card-container {
+<style>.card-container {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .card {
-  width: 45%;
-  margin: 1%;
-  padding: 10px;
+  width: calc(50% - 10px);
+  margin-bottom: 20px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  box-shadow: 2px 2px 4px #ccc;
-  text-align: center;
+  overflow: hidden;
 }
 
 .card img {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-  border-radius: 50%;
+  object-fit: cover;
 }
 
-.card h2 {
+.card-info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.card-info h2 {
+  margin-top: 0;
+}
+
+.card-link {
+  margin-top: auto;
+}
+
+.tenure {
   margin-top: 10px;
-  margin-bottom: 5px;
+  font-style: italic;
 }
-
-.card p {
-  margin-bottom: 10px;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-}
-
-.card a {
-  
-}
-
-
 </style>
-
 <div class="card-container">
   <div class="card">
     <img alt="Person 1" src="person1.jpg">
-    <h2>Person 1</h2>
-    <p>Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</p>
-    <a href="#">Click me</a>
+    <div class="card-info">
+      <h2>Person 1</h2>
+      <p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nisi commodo, ullamcorper magna at, faucibus ex. Etiam auctor rutrum urna, id bibendum est vehicula id.</p>
+      <p class="card-link"><a href="#">Click me</a></p>
+      <p class="tenure">10 years in organization</p>
+    </div>
   </div>
   
   <div class="card">
     <img alt="Person 2" src="person2.jpg">
-    <h2>Person 2</h2>
-    <p>Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</p>
-    <a href="#">Click me</a>
+    <div class="card-info">
+      <h2>Person 2</h2>
+      <p class="summary">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nisi commodo, ullamcorper magna at, faucibus ex. Etiam auctor rutrum urna, id bibendum est vehicula id. Praesent quis ex lacinia, luctus libero sed, imperdiet mi. Nam ut consequat sapien, eu cursus sapien.</p>
+      <p class="card-link"><a href="#">Click me</a></p>
+      <p class="tenure">5 years in organization</p>
+    </div>
   </div>
 </div>
