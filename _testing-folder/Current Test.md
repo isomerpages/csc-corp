@@ -12,7 +12,7 @@ description: ""
 
 	.card {
 	width: 45%;
-	height: 300px;
+	height: auto;
 	padding: 10px;
 	margin: auto;
 	box-shadow: 0px 4px 4px 0px grey;
