@@ -74,7 +74,7 @@ details {
 
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OS-1"><h3 class="header-left">Institutes</h3>
+	<div class="grid-child-OS-1"><h4 class="header-left">Institutes</h4>
 	</div>
 	<div class="grid-child-OS-2">		
 <div id="myaccordion">
@@ -100,7 +100,7 @@ details {
 <hr>
 <div class="grid-container">
 	<div class="grid-child-OS-1">
-		<h3 class="header-left">Business Support Units</h3>
+		<h4 class="header-left">Business Support Units</h4>
 	 </div>
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 3 Business Support unit accordians-->
