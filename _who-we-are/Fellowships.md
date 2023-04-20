@@ -23,6 +23,8 @@ description: ""
 	margin-top: 40px;
 	position:relative;	
 	height: 400px;
+	box-sizing: border-box;
+	padding: 10px;
 	
 	
 	}
