@@ -48,6 +48,7 @@ description: ""
 	  /*position: absolute;*/
 		/*bottom: 0;*/
 		/*margin-bottom: 2.5%*/
+	  align-self: flex-end;
 	
 	}
 	
