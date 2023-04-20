@@ -28,9 +28,9 @@ description: ""
 <div class="card">
 	<div class="card-contents">For the avatar Image</div>
 	<div class="card-contents"><h4>Professor Peter Hawkins</h4></div>
-	<div class="card-contents"></div>
-	<div class="card-contents"></div>
-	<div class="card-contents"></div>
+	<div class="card-contents"><p>SENIOR VISITING FELLOW, 2022 - PRESENT</p></div>
+	<div class="card-contents">The summary of the blalalalalalaalalalalllllllllllllllllllllllllllllllalalasjkfseklfjsklfjsklfjseklfjsefksjeklfklsfjsklejfskejfjsekjlfjsekfjsekfjsefkj</div>
+	<div class="card-contents"><a href="#">Click me</a></div>
 	
 </div>
 	
