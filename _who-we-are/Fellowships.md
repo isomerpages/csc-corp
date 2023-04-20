@@ -300,8 +300,8 @@ img {
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-card-text">For the avatar image</div>
-		<div class="fellowship-text">
+<div class="fellowship-text">
+		<img src="">
 			<div class="fellowship-card-text"><h4>Dr Ang Hak Seng</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</div></div>
