@@ -45,15 +45,10 @@ description: ""
 	  /*position: absolute;*/
 		/*bottom: 0;*/
 		/*margin-bottom: 2.5%*/
-		align-self: flex-end;
+		
 	}
 	
-	.fellowship-text {
-		display: flex;		
-		flex-direction: column;
-		justify-content: space-between;
 	
-	}
 	
 .fellow-duration{
 		font-size:0.8em;
