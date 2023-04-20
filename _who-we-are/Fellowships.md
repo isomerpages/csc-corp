@@ -22,7 +22,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position:relative;	
-	min-height:420px;
+	height: fit-content;
 	
 	}
 	
@@ -40,9 +40,9 @@ description: ""
 	.card-link {
 		border-top: 1px solid grey;
 		width:30%;
-	  position: absolute;
-		bottom: 0;
-		margin-bottom: 2.5%
+	  /*position: absolute;*/
+		/*bottom: 0;*/
+		/*margin-bottom: 2.5%*/
 	}
 	
 .fellow-duration{
