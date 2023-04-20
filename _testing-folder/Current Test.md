@@ -22,7 +22,7 @@ description: ""
 	
 	}
 .card-contents {
-	
+	flex-grow: 1;
 	
 	}
 
