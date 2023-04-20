@@ -27,4 +27,5 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text ( Photo )
+      image: /images/Landing Page/cover_option1.jpg
 ---
