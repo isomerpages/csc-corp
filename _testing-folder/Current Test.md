@@ -5,19 +5,15 @@ description: ""
 ---
 <style>
 .grid-container{
-	display: grid;
-	grid-template-columns: 50% 50%;
-	grid-column-gap: 15px;
-	margin-top: 20px;
+	display:flex;
+	flex-wrap;
 	}
 
 	.card {
 	box-shadow: 0px 4px 4px 0px grey;
-	margin-top: 40px;
-	position: relative;
-	height: 100%;
-	display: flex;
-	flex-direction: column;
+	width: 50%;
+	box-sizing: border-box;
+	
 	
 	
 	}
