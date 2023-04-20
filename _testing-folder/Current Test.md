@@ -7,7 +7,7 @@ description: ""
 .div-container {
 	display: flex;
 	flex-wrap: wrap;
-	
+	align-items: stretch;
 	}
 
 	.card {
