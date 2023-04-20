@@ -13,12 +13,15 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	width: 50%;
 	box-sizing: border-box;
-	
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
 	
 	
 	}
 .card-contents {
-	flex-grow: 1;
+	flex: 1;
 	
 	}
 
