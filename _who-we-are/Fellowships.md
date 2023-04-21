@@ -63,8 +63,8 @@ description: ""
 	}
 
 .fellowship-image {
-	width: 80px;
-	height: 80px;
+	width: 80px !important;
+	height: 80px !important; 
 	border-radius: 50%;
 	}
 	
