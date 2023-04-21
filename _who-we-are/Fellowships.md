@@ -161,9 +161,9 @@ img {
 			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</div></div>
-								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
-										<!-- Below is the modal (popup)-->
+								
   </div>
+		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 </div>
 
@@ -179,9 +179,9 @@ img {
 			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
-								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
-										<!-- Below is the modal (popup)-->
+								
   </div>
+		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 	
 	
@@ -192,9 +192,9 @@ img {
 			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
-								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
-										<!-- Below is the modal (popup)-->
+								
   </div>
+		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 </div>
 
