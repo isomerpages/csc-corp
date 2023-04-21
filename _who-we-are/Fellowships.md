@@ -309,7 +309,7 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
-		<img class="fellowship-image" src="images/FellowshipImages/fellowships_anghakseng_2x.jpg">
+		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
 	
 <div class="fellowship-card-text"><h4>Dr Ang Hak Seng</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
