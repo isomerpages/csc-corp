@@ -22,7 +22,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position:relative;	
-	height: 80%;
+	height: 100%;
 	box-sizing: border-box;
 	padding: 10px;
 	
