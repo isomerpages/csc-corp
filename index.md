@@ -17,4 +17,6 @@ sections:
           url: /who-we-are
   - infobar:
       title: Civil Service College
+      description: "The heart of learning excellence and development for the Singapore
+        Public Service. "
 ---
