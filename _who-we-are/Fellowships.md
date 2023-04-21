@@ -337,9 +337,8 @@ img {
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</div>
 	</div>
-		<div class="card-link"><a href="">Read Bio</a></div>
-</div>
-	
+	</div>
+	<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 
 
