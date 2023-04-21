@@ -22,7 +22,7 @@ description: ""
 	box-shadow: 0px 4px 4px 0px grey;
 	margin-top: 40px;
 	position:relative;	
-	height: 400px;
+	height: 80%;
 	box-sizing: border-box;
 	padding: 10px;
 	
@@ -146,9 +146,7 @@ img {
 			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div></div>
-								
-										<!-- Below is the modal (popup)-->
-  </div>
+</div>
 		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 
