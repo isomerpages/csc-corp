@@ -316,9 +316,10 @@ img {
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div></div>
-								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
+								
 										<!-- Below is the modal (popup)-->
   </div>
+		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 </div>
 
