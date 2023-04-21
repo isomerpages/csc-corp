@@ -15,6 +15,7 @@ description: ""
 		display: grid; 
 		grid-template-columns: 50% 50%;
 		grid-column-gap: 15px;
+		margin-bottom: 5%;
 	}
 	
 	.fellow-card {
