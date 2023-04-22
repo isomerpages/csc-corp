@@ -8,25 +8,20 @@ locations:
       - 31 North Buona Vista Road
       - Singapore 275983
       - ""
-    operating_hours:
-      - days: Mon - Thur
-        time: 8.30am to 5.30pm
-        description: Closed on Saturdays, Sundays and public holidays
-      - days: Fridays
-        time: 8.30am to 5.00pm
-        description: ""
+    operating_hours: []
     maps_link: ""
     title: Main Office
+  - address:
+      - 9 Jurong Town Hall Road
+      - Level 3
+      - Singapore 609431
+    title: INN x CSC
+    operating_hours: []
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.3287218&lng=103.7419323
 contacts:
   - content:
-      - phone: +65 6874 1733
-      - email: cscollege@cscollege.gov.sg
-      - other: <b><a href="/getting-here">How to get here</a></b> <br>Not Everything is
-          on the contact page yet.
-    title: General Enquiries & Feedback
-  - content:
       - phone: ""
-      - email: careers@abc.gov.sg
+      - email: cscollege@cscollege.gov.sg
       - other: ""
-    title: Careers
+    title: General Enquiries & Feedback
 ---
