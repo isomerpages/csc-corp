@@ -24,4 +24,9 @@ contacts:
       - email: cscollege@cscollege.gov.sg
       - other: ""
     title: General Enquiries
+  - content:
+      - phone: ""
+      - email: cscollege@cscollege.gov.sg
+      - other: ""
+    title: Online Feedback
 ---
