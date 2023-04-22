@@ -15,13 +15,13 @@ locations:
       - 9 Jurong Town Hall Road
       - Level 3
       - Singapore 609431
-    title: INN x CSC
     operating_hours: []
     maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.3287218&lng=103.7419323
+    title: INN x CSC
 contacts:
   - content:
       - phone: ""
       - email: cscollege@cscollege.gov.sg
       - other: ""
-    title: General Enquiries & Feedback
+    title: General Enquiries
 ---
