@@ -10,7 +10,7 @@ locations:
       - ""
     operating_hours: []
     maps_link: ""
-    title: Main Office
+    title: Civil Service College
   - address:
       - 9 Jurong Town Hall Road
       - Level 3
