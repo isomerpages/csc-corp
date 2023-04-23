@@ -32,9 +32,8 @@ contacts:
   - content:
       - phone: ""
       - email: shireen_lim@cscollege.gov.sg
-      - other: If you wish to let us know how we are doing , you can call our Quality
-          Service Manager (QSM) at 1800-874 0604 or email Ms Shireen Lim,
-          Director, Communications and Customer Enagagement at the email address
-          indicated above.
+      - other: Tell us how we are doing. Please contact our Quality Service Manager
+          (Director, Communications and Customer Engagement) at 1800 874 0604 or
+          email her at shireen_lim@cscollege.gov.sg.
     title: Service-related Matters
 ---
