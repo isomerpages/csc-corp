@@ -53,7 +53,7 @@ description: ""
 	From East: via PIE and exit Toh Guan Road (Exit 30) <br>
 	From City: via CTE-AYE and exit Jurong Town Hall (Exit 13) <br>
 	From North: via BKE-PIE and exit Toh Guan Road (Exit 30)
-
 </p>
 
-
+<b>Parking at Jurong Town Hall</b>
+<p>Parking is available at Jurong Town Hall at Half-Hourly Parking (per minute charging).</p>
