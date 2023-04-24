@@ -18,3 +18,6 @@ description: ""
 <div></div>
 
 </div>
+
+<h3>Frequently Asked Questions</h3>
+<p>Do you have a question on how to register for programmes as a learner, how to manage your Training Coordinator account, register your officers for programmes and request for in-house training? Find out more here:</p>
