@@ -184,7 +184,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/">
+			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
 		</div>
 			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
