@@ -9,13 +9,11 @@ table {
   border-collapse: collapse;
 	}
 	
-	.grid-container {
+.grid-container {
 	 display: grid;
 	 grid-template-columns: 1fr 1fr;
 	
-	
-	
-	}
+}
 
 	
 </style>
