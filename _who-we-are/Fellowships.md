@@ -134,7 +134,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
 	</div>
 			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
@@ -149,7 +149,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/">
+	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-shergold@2x.jpg">
 	</div>
 			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
@@ -272,7 +272,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/">
 		</div>
 			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
@@ -291,7 +291,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	 <img class="fellowship-image" src="">
+	 <img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
@@ -309,7 +309,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
@@ -326,7 +326,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/">
 			</div>
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
