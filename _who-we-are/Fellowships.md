@@ -117,7 +117,7 @@ description: ""
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/fellowships_jocelyne_bourgon_2x.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">The Honourable Jocelyne Bourgon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
