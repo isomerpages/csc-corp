@@ -16,6 +16,10 @@ description: ""
 	
 	}
 
+.ideals-content-div {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	}
 
 	
 </style>
@@ -76,5 +80,11 @@ description: ""
 <hr>
 
 
+<div class="ideals-content-div">
 
 
+
+
+
+
+</div>
