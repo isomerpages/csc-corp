@@ -15,6 +15,14 @@ hr {
 	margin-top: 2em;
 	}	
 	
+.Joinusdiv {
+	grid-gap: 0.5em;
+	}	
+
+p {
+	line-height: normal;
+	}
+
 .button {
 	display: block;
 	background-color: #F68B1F;
@@ -71,7 +79,7 @@ Job</p>
 	<div><img src="/images/Join%20Us/csc_trainer.jpg"></div>
 </div>
 
-<div class="triple-column-div">
+<div class="triple-column-div Joinusdiv">
 	<div>
 		<hr>
 		<h4>Job Opportunities</h4>
