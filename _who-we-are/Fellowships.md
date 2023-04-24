@@ -67,7 +67,7 @@ description: ""
 	height: 80px !important; 
 	border-radius: 50%;
 	float: left;
-	margin-left: 1em;
+	margin-left: 1em !important;
 	}
 	
 .fellow-name {
