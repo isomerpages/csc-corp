@@ -32,10 +32,7 @@ hr {
 	
 	}
 	
-span {
-	text-decoration: underline;
-	
-	}
+
 
 </style>
 
@@ -92,6 +89,7 @@ Job</p>
 	<div>
 		<hr>
 		<h4>Become an Associate Trainer</h4>
+		<p>As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
 	</div>
 
 
