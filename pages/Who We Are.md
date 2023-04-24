@@ -10,6 +10,11 @@ description: ""
 	
 	}
 
+	.grid-container-imgleft {
+		display:grid;
+		grid-template-columns: 35% 65%;
+	
+	}
 
 </style>
 
@@ -36,3 +41,20 @@ description: ""
 
 
 <hr>
+
+<div class="grid-container">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
