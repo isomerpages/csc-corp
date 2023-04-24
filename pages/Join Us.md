@@ -16,7 +16,8 @@ hr {
 	}	
 	
 .Joinusdiv {
-	grid-gap: 0.5em;
+	grid-gap: 1em;
+	
 	}	
 
 p {
@@ -32,7 +33,7 @@ p {
 	text-decoration: none !important; 
 	padding: 0.7em;
 	text-align: center;
-	width: 90%;
+	width: 80%;
 	font-weight: bold;
 	}
 .button:hover {
