@@ -168,7 +168,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
+		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="">
+		</div>
 			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
@@ -181,7 +183,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
+		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="">
+		</div>
 			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
@@ -198,7 +202,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
+		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="">
+		</div>
 			<div class="fellowship-card-text"><h4>Mr Peter Ong Boon Kwee</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
@@ -211,7 +217,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</div></div>
@@ -228,7 +236,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</div></div>
@@ -241,7 +251,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
