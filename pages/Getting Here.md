@@ -11,7 +11,7 @@ table {
 	
 .grid-container {
 	 display: grid;
-	 grid-template-columns: 1fr 1fr;
+	 grid-template-columns: 45% 10% 45%;
 	
 }
 
@@ -26,6 +26,7 @@ table {
 	<div class="grid-child">
 		31 North Buona Vista Road, Singapore 275983
 	</div>
+	<div></div>
 	<div class="grid-child">
 		To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</div>
 </div>
