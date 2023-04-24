@@ -16,8 +16,8 @@ table {
 }
 
 .grid-child {
-	display: inline-block;
-	}
+	margin-right:
+	}	
 	
 </style>
 <h3>How to get here</h3>
