@@ -134,7 +134,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
@@ -149,7 +149,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
@@ -169,7 +169,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/">
 		</div>
 			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
@@ -184,7 +184,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/">
 		</div>
 			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
@@ -203,7 +203,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/">
 		</div>
 			<div class="fellowship-card-text"><h4>Mr Peter Ong Boon Kwee</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
@@ -218,7 +218,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
@@ -237,7 +237,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
@@ -252,7 +252,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="">
+	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
 			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
