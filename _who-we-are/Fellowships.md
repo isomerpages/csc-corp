@@ -101,7 +101,7 @@ description: ""
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-			<img class="fellowship-image" src="">
+			<img class="fellowship-image" src="/images/FellowshipImages/peterhawkins.png">
 	</div>
 		<div class="fellowship-card-text"><p class="fellow-name">Professor Peter Hawkins</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
