@@ -7,8 +7,25 @@ description: ""
 .grid-container {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
+	grid-gap: 5%;
 	}
-
+	
+.button {
+	display: block;
+	background-color: #F68B1F;
+	border: 1px solid #F68B1F;
+	border-radius: 0%;
+	color:white !important;
+	text-decoration: none !important; 
+	padding: 0.7em;
+	text-align: center;
+	width: 100%;
+	font-weight: bold;
+	}
+.button:hover {
+	color:#9F2943;
+	
+	}
 </style>
 
 <img src="images/Reach%20Us/reach_us.jpg">
