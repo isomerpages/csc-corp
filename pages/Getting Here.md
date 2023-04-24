@@ -11,7 +11,7 @@ table {
 	
 .grid-container {
 	 display: grid;
-	 grid-template-columns: 45% 10% 45%;
+	 grid-template-columns: 1fr 1fr;
 	
 }
 
@@ -23,11 +23,15 @@ table {
 	border-left: 1px solid #F68B1F;
 
 	}
+.grid-container-vertline {
+	display: grid;
+	grid-template-columns: 45% 10% 45%;
+	}
 	
 </style>
 <h3>How to get here</h3>
 <p><b>Address</b></p>
-<div class="grid-container">
+<div class="grid-container-vertline">
 	<div class="grid-child">
 		31 North Buona Vista Road, Singapore 275983
 	</div>
