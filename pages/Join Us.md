@@ -4,7 +4,10 @@ permalink: /join-us/
 description: ""
 ---
 <style>
-
+.images-content {
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+	}
 
 </style>
 
@@ -35,3 +38,10 @@ encouraged to continually develop yourself so you can fulfil your potential and 
 <p>At CSC, teamwork, collaboration and mutual respect are key. You’ll be trusted to take ownership of your
 work and always do your best – all with the support of colleagues you’ll be proud to work with.
 Job</p>
+
+
+<div class="images-content">
+	<div><img src=""></div>
+	<div><img src=""></div>
+	<div><img src=""></div>
+</div>
