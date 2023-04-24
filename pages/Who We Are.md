@@ -18,7 +18,7 @@ description: ""
 
 <p>We are dedicated to:</p>
 
-<br>
+<hr>
 
 
 <div class="grid-container">
@@ -29,7 +29,10 @@ description: ""
 
 	
 <div>
-	<img src="">
+	<img src="/images/Who%20We%20Are/csc_officers_02.jpg">
 </div>
 
 </div>
+
+
+<hr>
