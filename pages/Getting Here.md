@@ -63,6 +63,9 @@ table {
 <img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
 
 <br>
+<b>Parking at CSC</b>
+<p>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays.</p>
+
 <b>Fees</b>
 <table>
 	<tbody>
