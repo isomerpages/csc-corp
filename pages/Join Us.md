@@ -20,7 +20,7 @@ hr {
 	}	
 
 p {
-	line-height: normal;
+	line-height: 1.6 !important;
 	}
 
 .button {
