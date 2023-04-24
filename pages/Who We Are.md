@@ -97,6 +97,9 @@ description: ""
 	</div>
 	<div>
 		<hr class="ideals-hr">
+		<h3>Our Values</h3>
+		<p><b>People:</b> Value and Appreciate them</p>
+		<p><b>Integrity</b></p>
 	</div>
 
 
