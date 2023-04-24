@@ -26,6 +26,10 @@ description: ""
 	border: 5px solid #F68B1F;
 	}
 	
+hr {
+	margin-bottom: 1em;
+	}
+	
 </style>
 
 
