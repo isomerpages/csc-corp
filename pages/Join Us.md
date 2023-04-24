@@ -14,6 +14,13 @@ hr {
 	border: 5px solid #F68B1F;
 	margin-top: 2em;
 	}	
+	
+button {
+	color: #F68B1F;
+	border: 1px solid #F68B1F;
+	border-radius: 0%;
+	
+	}
 
 </style>
 
@@ -56,10 +63,13 @@ Job</p>
 	<div>
 		<hr>
 		<h4>Job Opportunities</h4>
+		<p>Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.</p>
+		<button>Click me</button>
 	</div>
 	<div>
 		<hr>
 		<h4>Internship Opportunities</h4>
+		<p></p>
 	</div>
 	<div>
 		<hr>
