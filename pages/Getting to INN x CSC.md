@@ -57,3 +57,19 @@ description: ""
 
 <b>Parking at Jurong Town Hall</b>
 <p>Parking is available at Jurong Town Hall at Half-Hourly Parking (per minute charging).</p>
+
+
+<b>Fees</b>
+
+<table>
+	<tbody>
+		<tr>
+			<td>Cars</td>
+			<td>$0.60 per half hour</td>
+		</tr>
+		<tr>
+			<td>Motorcycles</td>
+			<td>$0.20 per hour capped at $0.65 per day.</td>
+		</tr>
+	</tbody>
+</table>
