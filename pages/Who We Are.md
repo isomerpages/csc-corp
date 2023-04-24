@@ -4,7 +4,11 @@ permalink: /who-we-are/
 description: ""
 ---
 <style>
-
+.grid-container {
+		display: grid;
+		grid-template-columns: 65% 35%;
+	
+	}
 
 
 </style>
@@ -15,6 +19,22 @@ description: ""
 <p>We are dedicated to:</p>
 
 <br>
+
+
+<div class="grid-container">
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
 
 
 
