@@ -19,8 +19,12 @@ description: ""
 .ideals-content-div {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 2em;
 	}
 
+.ideals-hr {
+	border: 5px solid #F68B1F;
+	}
 	
 </style>
 
