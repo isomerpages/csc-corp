@@ -4,7 +4,7 @@ permalink: /join-us/
 description: ""
 ---
 <style>
-.images-content {
+.triple-column-div {
 	display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 1em;
@@ -41,8 +41,11 @@ work and always do your best – all with the support of colleagues you’ll be 
 Job</p>
 
 
-<div class="images-content">
+<div class="triple-column-div">
 	<div><img src="/images/Join%20Us/greenroom.jpg"></div>
 	<div><img src="/images/Join%20Us/csc_officers_01.jpg"></div>
 	<div><img src="/images/Join%20Us/csc_trainer.jpg"></div>
 </div>
+
+
+
