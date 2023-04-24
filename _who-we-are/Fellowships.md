@@ -203,7 +203,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/">
+			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
 		</div>
 			<div class="fellowship-card-text"><h4>Mr Peter Ong Boon Kwee</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
