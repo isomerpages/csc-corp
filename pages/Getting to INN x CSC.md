@@ -28,8 +28,28 @@ description: ""
 </div>
 	<div class="vertical-line"></div>
 	<div><p>To view the interactive map, please click <a href="">here</a>.</p></div>
-
-
-
-
 </div>
+
+<b>Operating Hours</b>
+<p> 
+	8.30am to 5.30pm (Monday to Thursdays) <br>
+	8.30am to 5.00pm (Fridays) <br>
+	Closed on Saturdays, Sundays and public holidays
+</p>
+
+<b>Getting Here</b>
+
+<b>By MRT</b>
+<p>Walk 12 mins from Jurong East MRT (NS1/EW24) - Exit B. Walk pass The JTC Summit and up the link bridge.</p>
+
+<b>By Bus</b>
+<p>Alight at Blk 46, Holland Drive: 32, 48, 74, ,74e, 91, 145, 185, 191, 200.</p>
+
+
+
+
+
+
+
+
+
