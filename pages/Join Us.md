@@ -31,6 +31,11 @@ hr {
 	color:#9F2943;
 	
 	}
+	
+span {
+	text-decoration: underline;
+	
+	}
 
 </style>
 
@@ -76,13 +81,13 @@ Job</p>
 		<p>Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.</p>
 		<a class="button" href="">See Job Openings</a>
 		<p>Don't see anything that might be a good fit right now?</p>
-		<p>Please send your resume to cscollege_cschr@cscollege.gov.sg and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
+		<p>Please send your resume to <span style="text-decoration:underline;">cscollege_cschr@cscollege.gov.sg</span> and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
 	</div>
 	<div>
 		<hr>
 		<h4>Internship Opportunities</h4>
 		<p>As the nexus of learning for the Singapore Public Service, interning at CSC will help you to learn more about how the Public Service operates, and understand why we do what we do. With a diverse range of areas and roles, as well as opportunities for valuable hands-on experience through meaningful and impactful projects, you will be able to develop your potential at CSC.</p>
-		<p>Send your resume to cscollege_cschr@cscollege.gov.sg indicating your strengths, career aspirations and availability.</p>
+		<p>Send your resume to <span style="text-decoration:underline;">cscollege_cschr@cscollege.gov.sg</span> indicating your strengths, career aspirations and availability.</p>
 	</div>
 	<div>
 		<hr>
