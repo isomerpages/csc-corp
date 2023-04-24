@@ -18,9 +18,13 @@ table {
 	
 </style>
 <h3>How to get here</h3>
-<p><b>Address</b></p>
-31 North Buona Vista Road <br>
-Singapore 275983
+<div class="grid-container">
+	<div><p><b>Address</b></p>
+	31 North Buona Vista Road, Singapore 275983
+	</div>
+	<div></div>
+</div>
+
 <p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p>
 
 <b>Operating Hours</b>
