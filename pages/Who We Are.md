@@ -87,9 +87,13 @@ description: ""
 <div class="ideals-content-div">
 	<div>
 		<hr class="ideals-hr">
+		<h3>Our Mission</h3>
+		<p>To develop people for a first class Public Service</p>
 	</div>
 	<div>
 		<hr class="ideals-hr">
+		<h3>Our Vision</h3>
+		<p>The heart of learning excellence and development for the Singapore Public Service</p>
 	</div>
 	<div>
 		<hr class="ideals-hr">
