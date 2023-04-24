@@ -271,7 +271,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
+		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="">
+		</div>
 			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</div></div>
@@ -288,7 +290,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	 <img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</div></div>
@@ -304,7 +308,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Professor Richard Brown</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Brown is an expert on international development economics.</div></div>
@@ -319,7 +325,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 			<img class="fellowship-image" src="">
+			</div>
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div></div>
@@ -337,8 +345,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
-	
+	</div>
 <div class="fellowship-card-text"><h4>Dr Ang Hak Seng</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang Hak Seng is currently the Deputy Secretary at the Ministry of Culture, Community and Youth. He was previously appointed as Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).</div>
