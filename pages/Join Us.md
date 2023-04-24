@@ -16,16 +16,19 @@ hr {
 	}	
 	
 .button {
+	display: block;
 	background-color: #F68B1F;
 	border: 1px solid #F68B1F;
 	border-radius: 0%;
 	color:white !important;
 	text-decoration: none !important; 
-	padding: 1em;
-	
+	padding: 0.7em;
+	text-align: center;
+	width: 90%;
+	font-weight: bold;
 	}
 .button:hover {
-	color:orange ;
+	color:#9F2943;
 	
 	}
 
