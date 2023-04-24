@@ -65,6 +65,8 @@ Job</p>
 		<h4>Job Opportunities</h4>
 		<p>Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.</p>
 		<button>Click me</button>
+		<p>Don't see anything that might be a good fit right now?</p>
+		<p>Please send your resume to cscollege_cschr@cscollege.gov.sg and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
 	</div>
 	<div>
 		<hr>
