@@ -27,7 +27,7 @@ description: ""
 		
 </div>
 	<div class="vertical-line"></div>
-	<div>3</div>
+	<div><p>To view the interactive map, please click <a href="">here</a>.</p></div>
 
 
 
