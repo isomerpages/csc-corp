@@ -42,8 +42,18 @@ description: ""
 
 <hr>
 
-<div class="grid-container">
-
+<div class="grid-container-imgleft">
+	<div>
+		<img src="/images/What%20We%20Do/csc_prog_04.jpg">
+	
+</div>
+	
+	
+	
+<div>
+	<h3>Equipping Public Agencies to be Future Ready</h3>
+		<p>We support initiatives that bring about change, learning and collaboration across the Public Service, ensuring that public agencies and officers are ready to embrace the future.</p>
+	</div>
 
 
 
