@@ -81,8 +81,15 @@ description: ""
 
 
 <div class="ideals-content-div">
-
-
+	<div>
+		<hr class="ideals-hr">
+	</div>
+	<div>
+		<hr class="ideals-hr">
+	</div>
+	<div>
+		<hr class="ideals-hr">
+	</div>
 
 
 
