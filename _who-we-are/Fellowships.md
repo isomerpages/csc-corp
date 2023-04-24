@@ -66,6 +66,8 @@ description: ""
 	width: 80px !important;
 	height: 80px !important; 
 	border-radius: 50%;
+	float: left;
+	margin-left: 1em;
 	}
 	
 .fellow-name {
@@ -79,7 +81,7 @@ description: ""
 	}
 	
 	.fellowship-image-div{
-		
+		float: left;
 	
 	
 	}
@@ -114,7 +116,9 @@ description: ""
 <!-- 2nd Senior Fellowship Card Card -->	
 <div class="fellow-card">
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">The Honourable Jocelyne Bourgon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canda School of Public Service. She advises governments on governance and public sector reforms.</div></div>
@@ -129,7 +133,9 @@ description: ""
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div></div>
@@ -142,7 +148,9 @@ description: ""
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
+	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="">
+	</div>
 			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</div></div>
