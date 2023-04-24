@@ -10,6 +10,9 @@ description: ""
 	grid-template-columns: 45% 10% 45%;
 	}
 
+.vertical-line {
+	border-left: 1px solid #F68B1F
+	}	
 </style>
 
 <b>Address</b>
@@ -23,7 +26,7 @@ description: ""
 		</p>
 		
 </div>
-	<div>2</div>
+	<div class="vertical-line"></div>
 	<div>3</div>
 
 
