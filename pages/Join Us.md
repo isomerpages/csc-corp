@@ -7,6 +7,7 @@ description: ""
 .images-content {
 	display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1em;
 	}
 
 </style>
@@ -41,7 +42,7 @@ Job</p>
 
 
 <div class="images-content">
-	<div><img src=""></div>
-	<div><img src=""></div>
-	<div><img src=""></div>
+	<div><img src="/images/Join%20Us/greenroom.jpg"></div>
+	<div><img src="/images/Join%20Us/csc_officers_01.jpg"></div>
+	<div><img src="/images/Join%20Us/csc_trainer.jpg"></div>
 </div>
