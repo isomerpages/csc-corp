@@ -56,9 +56,21 @@ description: ""
 	<h3>Equipping Public Agencies to be Future Ready</h3>
 		<p>We support initiatives that bring about change, learning and collaboration across the Public Service, ensuring that public agencies and officers are ready to embrace the future.</p>
 	</div>
-
-
-
+<hr>
+	
+	
+<div class="grid-container">
+<div>
+	<h3>Innovating with Technology</h3>
+	<p>We push the boundaries by experimenting with the latest technologies to deliver an innovative, impactful and inspiring learning experience.</p>
+</div>
+<div>
+	
+</div>
+	
+	
+	
+</div>
 
 
 
