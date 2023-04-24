@@ -84,7 +84,7 @@ Job</p>
 		<hr>
 		<h4>Job Opportunities</h4>
 		<p>Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.</p>
-		<a class="button" href="">See Job Openings</a>
+		<a class="button" href="">SEE JOB OPENINGS</a>
 		<p>Don't see anything that might be a good fit right now?</p>
 		<p>Please send your resume to <span style="text-decoration:underline;">cscollege_cschr@cscollege.gov.sg</span> and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
 	</div>
@@ -98,6 +98,7 @@ Job</p>
 		<hr>
 		<h4>Become an Associate Trainer</h4>
 		<p>As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
+		<a href="" class="button">LEARN MORE</a>
 	</div>
 
 
