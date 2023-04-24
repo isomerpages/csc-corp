@@ -13,6 +13,11 @@ description: ""
 .vertical-line {
 	border-left: 1px solid #F68B1F
 	}	
+
+table {
+	border: 1px solid black;
+	}
+
 </style>
 
 <b>Address</b>
