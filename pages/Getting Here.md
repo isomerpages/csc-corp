@@ -19,7 +19,7 @@ table {
 
 	
 </style>
-<h2>How to get here</h2>
+<h3>How to get here</h3>
 <p><b>Address</b></p>
 31 North Buona Vista Road <br>
 Singapore 275983
