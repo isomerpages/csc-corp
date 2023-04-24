@@ -10,6 +10,11 @@ description: ""
 	grid-gap: 1em;
 	}
 
+hr {
+	border: 5px solid #F68B1F;
+	margin-top: 2em;
+	}	
+
 </style>
 
 
@@ -47,5 +52,20 @@ Job</p>
 	<div><img src="/images/Join%20Us/csc_trainer.jpg"></div>
 </div>
 
+<div class="triple-column-div">
+	<div>
+		<hr>
+	</div>
+	<div>
+		<hr>
+	</div>
+	<div>
+		<hr>
+	</div>
 
+
+
+
+
+</div>
 
