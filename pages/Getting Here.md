@@ -63,6 +63,7 @@ table {
 <img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
 
 <br>
+<b>Fees</b>
 <table>
 	<tbody>
 		<tr align="center">
@@ -75,10 +76,8 @@ table {
 		</tr>
 	</tbody>
 </table>
-<ul>
-	<li>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays.</li>
-	<li>There is a 10-minute grace period before car park charging begins.</li>
-</ul><h2 style="text-align:center">How to Contact Us</h2><div class="grid-container">
+There is a 10-minute grace period before car park charging begins.
+<h2 style="text-align:center">How to Contact Us</h2><div class="grid-container">
 	<div class="grid-child">
 <h4>If you'd like to reach us, you can:</h4>
 <ul>
