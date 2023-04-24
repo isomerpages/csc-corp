@@ -99,7 +99,8 @@ description: ""
 		<hr class="ideals-hr">
 		<h3>Our Values</h3>
 		<p><b>People:</b> Value and Appreciate them</p>
-		<p><b>Integrity</b></p>
+		<p><b>Integrity</b> Uphold truth and fairness</p>
+		<p><b>Excellence</b> Strive to always do better</p>
 	</div>
 
 
