@@ -218,7 +218,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Khoo_Boon_Hui_2x.jpg">
 	</div>
 			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
