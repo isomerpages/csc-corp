@@ -6,7 +6,7 @@ description: ""
 <style>
 table {
 	border: black 1px solid;
-	
+  border-collapse: collapse;
 	}
 	
 .grid-container {
