@@ -55,12 +55,15 @@ Job</p>
 <div class="triple-column-div">
 	<div>
 		<hr>
+		<h4>Job Opportunities</h4>
 	</div>
 	<div>
 		<hr>
+		<h4>Internship Opportunities</h4>
 	</div>
 	<div>
 		<hr>
+		<h4>Become an Associate Trainer</h4>
 	</div>
 
 
@@ -68,4 +71,3 @@ Job</p>
 
 
 </div>
-
