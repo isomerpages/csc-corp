@@ -46,14 +46,14 @@ description: ""
 <p>
 	Alight at Blk 46, Holland Drive: 32, 48, 74, ,74e, 91, 145, 185, 191, 200. <br>
 	Alight at Blk 43, along Commonwealth Avenue 95, 100, 105, 111, 147, 196, 198.
-
 </p>
 
+<b>By Car</b>
+<p>
+	From East: via PIE and exit Toh Guan Road (Exit 30) <br>
+	From City: via CTE-AYE and exit Jurong Town Hall (Exit 13) <br>
+	From North: via BKE-PIE and exit Toh Guan Road (Exit 30)
 
-
-
-
-
-
+</p>
 
 
