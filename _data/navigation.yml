@@ -20,11 +20,13 @@ links:
     sublinks:
       - title: Contact Us
         url: /contact-us
-      - title: Going to Civil Service College
-        url: /getting-to-csc
       - title: Rent Our Facility
         url: /rent-our-facility
       - title: Our Amenities
         url: /our-amenities
+      - title: Going to Civil Service College
+        url: /getting-to-csc
+      - title: Going to INN x CSC
+        url: /getting-to-innxcsc
   - title: testing folder
     collection: testing-folder
