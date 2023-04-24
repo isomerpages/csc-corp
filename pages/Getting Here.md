@@ -63,39 +63,22 @@ table {
 <img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
 
 <br>
-
 <table>
-<tbody>
-	<tr align="center">
-		<td>Monday to Friday</td>
-		<td>Cars</td>
-		<td>7am - 11pm: <br> $1.20 per hour <br>
-		$0.02 per minute</td>
-</tr>
-<tr align="center">
-	<td></td>
-	<td>Motorcycles</td>
-	<td>7am - 11pm: <br> $1.00 per entry</td>
-</tr>
-<tr align="center">
-	<td>Saturday</td>
-	<td>Cars</td>
-	<td>7am - 6pm: <br> $1.20 per hour <br> $0.02 per minute</td>
-</tr>
-<tr align="center">
-		<td></td>
-	  <td>Motorcycles</td>
-	  <td>7am - 11pm: <br> $1.00 per entry</td>
-</tr>
-						 
-</tbody></table>
+	<tbody>
+		<tr align="center">
+			<td>Cars</td>
+			<td>$1.20 per hour <br> $0.02 per minute</td>
+		</tr>	
+		<tr align="center">
+			<td>Motorcycles</td>
+			<td>$1.00 per entry</td>
+		</tr>
+	</tbody>
+</table>
 <ul>
 	<li>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays.</li>
 	<li>There is a 10-minute grace period before car park charging begins.</li>
-</ul>
-
-<h2 style="text-align:center">How to Contact Us</h2>
-<div class="grid-container">
+</ul><h2 style="text-align:center">How to Contact Us</h2><div class="grid-container">
 	<div class="grid-child">
 <h4>If you'd like to reach us, you can:</h4>
 <ul>
@@ -117,4 +100,9 @@ table {
 	
 	
 </div>
-</div>
+</div><table>
+
+
+
+
+</table>
