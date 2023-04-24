@@ -81,7 +81,7 @@ Job</p>
 	<div>
 		<hr>
 		<h4>Internship Opportunities</h4>
-		<p></p>
+		<p>As the nexus of learning for the Singapore Public Service, interning at CSC will help you to learn more about how the Public Service operates, and understand why we do what we do. With a diverse range of areas and roles, as well as opportunities for valuable hands-on experience through meaningful and impactful projects, you will be able to develop your potential at CSC.</p>
 	</div>
 	<div>
 		<hr>
