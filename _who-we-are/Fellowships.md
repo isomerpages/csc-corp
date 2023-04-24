@@ -326,7 +326,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/">
+			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-rory-gallagher@2x.jpg">
 			</div>
 			<div class="fellowship-card-text"><h4>Dr Rory Gallagher</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
