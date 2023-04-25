@@ -8,6 +8,7 @@ description: ""
 	display: grid;
   grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 1em;
+	font-size: 0.9em
 	}
 
 hr {
@@ -16,7 +17,8 @@ hr {
 	}	
 	
 .Joinus-content {
-	box-sizing: border-box;
+
+	
 	}	
 
 p {
