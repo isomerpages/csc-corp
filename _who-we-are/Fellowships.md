@@ -168,7 +168,7 @@ description: ""
      <div>
        <a class="modal-close" title="Close" href="#modal-close">close ×</a>
        <h1>Peter Hawkins</h1>
-       <div>The quick brown fox jumped over the lazy dog.</div>
+       <div>test</div>
      </div>
 </div>
 	</div>
@@ -190,7 +190,7 @@ description: ""
      <div>
        <a class="modal-close" title="Close" href="#modal-close2">close ×</a>
        <h1>Jocelyn Bourgon</h1>
-       <div>The quick brown fox jumped over the lazy dog.</div>
+       <div>about her</div>
      </div>
 </div>
 </div>
