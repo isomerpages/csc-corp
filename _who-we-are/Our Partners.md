@@ -33,6 +33,7 @@ description: ""
 		padding:8px;
 		border: 1px solid #9F2943;
 		font-weight: bold;
+		transition: all 0.5s ease;
 	}
 	
 	summary:hover{
