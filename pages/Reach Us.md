@@ -22,6 +22,7 @@ description: ""
 	width: 100%;
 	height: 60%;
 	font-weight: bold;
+	transition: all 0.5s ease;
 	}
 .button:hover {
 	background-color:#9F2943;
