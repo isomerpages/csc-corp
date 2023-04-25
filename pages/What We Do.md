@@ -6,7 +6,8 @@ description: ""
 <style>
 	
 .grid-container {
-	
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
 	
 	}
 
@@ -23,7 +24,9 @@ description: ""
 
 
 <div class="grid-container">
-
+	<div></div>
+	<div></div>
+	<div></div>
 
 
 
