@@ -18,6 +18,12 @@ img {
 	
 	}
 
+.Orange-header {
+	color: #F68B1F;
+	font-weight: bold;
+	font-size: 1.5em;
+	}
+	
 </style>
 
 
@@ -65,5 +71,9 @@ img {
 
 
 <p class="Orange-header">Annual Report</p>
+
+<hr>
+
+
 
 
