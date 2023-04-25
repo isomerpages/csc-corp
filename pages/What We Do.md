@@ -30,7 +30,9 @@ img {
 	font-size: 1.5em;
 	}
 	
-
+hr {
+	margin-bottom: 1em;
+	}
 	
 </style>
 
