@@ -74,6 +74,31 @@ img {
 <p>To find out more about us, download our latest annual report.</p>
 <hr>
 
+<div class="grid-container">
+	<div><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></div>
+	<div><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></div>
+	<div><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></div>
+</div>
+<div class="grid-container">
+	<div><img src="/images/What%20We%20Do/Tile_Knowledge.jpg"></div>
+	<div><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></div>
+	<div></div>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
