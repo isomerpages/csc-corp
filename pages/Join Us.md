@@ -86,7 +86,7 @@ Job</p>
 </div>
 
 <div class="triple-column-div Joinusdiv">
-	<div class="Joinus-content">
+	<div>
 		<hr>
 		<h5>Job Opportunities</h5>
 			<p class="Joinus-content">Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.  </p>
