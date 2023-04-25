@@ -40,3 +40,7 @@ img {
 	<div><img src="/images/What%20We%20Do/WhatWeDo%2005.jpg"></div>
 	<div><img src="/images/What%20We%20Do/WhatWeDo%2006.jpg"></div>
 </div>
+
+
+<h3>Learning Design &amp; Programme Development</h3>
+<p>Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.</p>
