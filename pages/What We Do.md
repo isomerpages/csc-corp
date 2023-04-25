@@ -44,3 +44,8 @@ img {
 
 <h3>Learning Design &amp; Programme Development</h3>
 <p>Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.</p>
+
+
+<h3>Consulting</h3>
+<p>Support agencies in their innovation and organisational transformation journeys, and help them embrace change.</p>
+
