@@ -6,7 +6,7 @@ description: ""
 <style>
 .triple-column-div {
 	display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 33% 33% 33%;
 	grid-gap: 1em;
 	}
 
