@@ -24,9 +24,7 @@ img {
 	font-size: 1.5em;
 	}
 	
-.grey-box {
-	background-color: grey;
-	}	
+
 	
 </style>
 
