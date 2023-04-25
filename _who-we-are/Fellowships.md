@@ -86,7 +86,7 @@ description: ""
 	
 	}
 	
-	<!-- Below is the CSS for the Modal ( Popup )-->
+
 .modal-window {
       position: fixed;
       background-color: rgba(200, 200, 200, 0.75);
@@ -120,7 +120,7 @@ description: ""
       font-weight: bold;
     }
     
-    .modal-close {
+.modal-close {
       color: #aaa;
       line-height: 50px;
       font-size: 80%;
@@ -425,3 +425,4 @@ description: ""
 
 
 </div>
+
