@@ -11,7 +11,7 @@ description: ""
 	}
 
 .Joinus-content {
-	font-size: 0.9em !important;
+	font-size: 0.95em !important;
 	
 	}	
 
