@@ -58,7 +58,7 @@ hr {
 
 <div class="grid-container-imgleft">
 	<div>
-		<img src="/images/What%20We%20Do/csc_prog_04.jpg">
+		<img src="/images/What%20We%20Do/WhatWeDo 06.jpg">
 	
 </div>
 	
