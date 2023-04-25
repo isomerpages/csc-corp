@@ -64,7 +64,7 @@ table {
 
 
 
-<img style="width:1000px;height:650px;" src="/images/civilservicecollege_gettinghere.jpg">
+<img style="width:1000px;height:650px;" src="/images/alternativeparking_2023.jpg">
 
 <br>
 <b>Parking at CSC</b>
