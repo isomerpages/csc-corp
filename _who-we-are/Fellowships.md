@@ -185,7 +185,14 @@ description: ""
 								
 	
 </div>
-	<div class="card-link"><a href="">Read Bio</a></div>
+	<div class="card-link"><a href="#open-modal2">Read Bio</a></div>
+	<div class="modal-window" id="open-modal2">
+     <div>
+       <a class="modal-close" title="Close" href="#modal-close2">close ×</a>
+       <h1>Jocelyn Bourgon</h1>
+       <div>The quick brown fox jumped over the lazy dog.</div>
+     </div>
+</div>
 </div>
 </div>
 <!-- Second Layer-->
