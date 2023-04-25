@@ -12,6 +12,12 @@ description: ""
 	margin-bottom: 2%;
 	}
 	
+.grid-container-by2 {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 1%;
+	}	
+
 img {
 	width: 100% !important;
 	height: 100%;
@@ -65,8 +71,15 @@ img {
 <hr>
 
 
-<p class="Orange-header">CSC 360° Virtual Tour</p>
 
+<div class="grid-container-by2">
+	<div>
+		<p class="Orange-header">CSC 360° Virtual Tour</p>
+		Explore CSC and enjoy a 360-degree view from inside the building. Learn about CSC's history and how we continue to be the heart of learning excellence and d evelopment for the Singapore Public Service.</div>
+	<div><img src="/images/What We Do/csc360tour.jpg"></div>
+
+
+</div>
 
 
 <hr>
