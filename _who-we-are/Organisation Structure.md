@@ -29,14 +29,14 @@ description: ""
 		margin-bottom: -20px;
 		border: 1px solid #9F2943;
 		font-weight: bold;
-	
+		transition: all 0.5s ease;
 	}
 	
 	summary:hover{
 		cursor: pointer;
 		color: white;
 		background-color: #F68B1F;
-	
+		
 	}
 	
 	details[open] {
