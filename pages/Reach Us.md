@@ -20,6 +20,7 @@ description: ""
 	padding: 0.7em;
 	text-align: center;
 	width: 100%;
+	height: 60%;
 	font-weight: bold;
 	}
 .button:hover {
