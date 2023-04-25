@@ -15,9 +15,8 @@ hr {
 	margin-top: 2em;
 	}	
 	
-.Joinusdiv {
-	grid-gap: 1em;
-	
+.Joinus-content {
+	box-sizing: border-box;
 	}	
 
 p {
@@ -46,6 +45,8 @@ img {
 	height: 100%;
 	}
 
+
+	
 </style>
 
 
@@ -84,7 +85,7 @@ Job</p>
 </div>
 
 <div class="triple-column-div Joinusdiv">
-	<div>
+	<div class="Joinus-content">
 		<hr>
 		<h5>Job Opportunities</h5>
 			Check out our current job openings by clicking the button below, and set the "agency" filter to Civil Service College.  
