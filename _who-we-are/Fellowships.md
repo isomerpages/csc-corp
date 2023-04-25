@@ -163,7 +163,14 @@ description: ""
 										<!-- Below is the modal (popup)-->
 							
 </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
+		<div class="card-link"><a href="#open-modal">Read Bio</a></div>
+	<div class="modal-window" id="open-modal">
+     <div>
+       <a class="modal-close" title="Close" href="#modal-close">close ×</a>
+       <h1>Peter Hawkins</h1>
+       <div>The quick brown fox jumped over the lazy dog.</div>
+     </div>
+</div>
 	</div>
 	
 <!-- 2nd Senior Fellowship Card Card -->	
@@ -425,4 +432,3 @@ description: ""
 
 
 </div>
-
