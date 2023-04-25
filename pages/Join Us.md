@@ -16,11 +16,6 @@ hr {
 	margin-top: 2em;
 	}	
 	
-.Joinus-content {
-
-	
-	}	
-
 p {
 	line-height: 1.6 !important;
 	}
