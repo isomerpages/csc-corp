@@ -57,15 +57,15 @@ img {
 
 
 <h3>Learning Design &amp; Programme Development</h3>
-<p>Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.</p>
+Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.
 
 
 <h3>Consulting</h3>
-<p>Support agencies in their innovation and organisational transformation journeys, and help them embrace change.</p>
+Support agencies in their innovation and organisational transformation journeys, and help them embrace change.
 
 
 <h3>Research</h3>
-<p>Dive deep into key domain areas and emerging disciplines to conduct impactful research that influences policymaking at all levels.</p>
+Dive deep into key domain areas and emerging disciplines to conduct impactful research that influences policymaking at all levels.
 
 
 <hr>
