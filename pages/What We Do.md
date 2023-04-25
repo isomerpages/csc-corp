@@ -11,6 +11,12 @@ description: ""
 	grid-gap: 2%;
 	margin-bottom: 2%;
 	}
+	
+img {
+	width: 100% !important;
+	height: 100%;
+	
+	}
 
 </style>
 
