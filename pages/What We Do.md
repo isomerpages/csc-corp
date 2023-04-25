@@ -76,7 +76,7 @@ img {
 	<div>
 		<p class="Orange-header">CSC 360° Virtual Tour</p>
 		Explore CSC and enjoy a 360-degree view from inside the building. Learn about CSC's history and how we continue to be the heart of learning excellence and d evelopment for the Singapore Public Service.</div>
-	<div><a href=""><img src="/images/What We Do/csc360tour.jpg"></a></div>
+	<div><a href="https://chio.space/virtual-tour/civil-service-college"><img src="/images/What We Do/csc360tour.jpg"></a></div>
 
 
 </div>
