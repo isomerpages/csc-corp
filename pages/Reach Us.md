@@ -34,8 +34,8 @@ description: ""
 <h3>Getting Here</h3>
 <div class="grid-container">
 
-<div>1</div>
-<div>2</div>
+<div><img src="/images/Reach Us/GettingHere_CSC_BV.jpg"></div>
+<div><img src="/images/Reach Us/GettingHere_CSC_INN.jpg"></div>
 
 </div>
 
