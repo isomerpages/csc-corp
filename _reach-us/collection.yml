@@ -2,6 +2,7 @@ collections:
   reach-us:
     output: true
     order:
+      - Rent our Facility.md
       - Reach Us.md
       - Our Amenities.md
       - Getting to INN x CSC.md
