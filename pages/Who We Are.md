@@ -7,13 +7,13 @@ description: ""
 .grid-container {
 		display: grid;
 		grid-template-columns: 65% 35%;
-	
+		grid-gap: 1em;
 	}
 
 	.grid-container-imgleft {
 		display:grid;
 		grid-template-columns: 35% 65%;
-	
+		grid-gap: 1em;
 	}
 
 .ideals-content-div {
@@ -61,8 +61,6 @@ hr {
 		<img src="/images/What%20We%20Do/WhatWeDo 06.jpg">
 	
 </div>
-	
-	
 	
 <div>
 	<h3>Equipping Public Agencies to be Future Ready</h3>
