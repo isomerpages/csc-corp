@@ -23,6 +23,6 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 (a) refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or <br>
 (b) change these Terms at any time by notification or publication of the changes to these Terms at this website.</p>
 <h4>Terms of Use</h4>
-<p>By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
+<p>6. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <h4>Queries</h4>
-<p>6. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u></p>
+<p>7. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u></p>
