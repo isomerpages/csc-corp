@@ -1,0 +1,4 @@
+collections:
+  fellowship-members-bios:
+    output: true
+    order: []
