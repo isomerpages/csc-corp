@@ -16,3 +16,4 @@ c) &nbsp;    &nbsp;    &nbsp;sign up for alerts on topics and articles that inte
 <p>2. When you apply for membership, you will be requested to provide a valid Singapore Government email address assigned to you.</p>
 <p>3. If you are a Singapore Public Officer but have not been assigned and therefore are not able to provide an official Singapore Government email address, your application process may take up to 14 days from receipt.</p>
 <h4>Departure</h4>
+<p>If you leave the Public Service at any time, please inform CSC of your departure via email or in writing, and leave us with your contact address and particulars. CSC will cancel your membership account but you may continue to use this Website and still be legally bound by the Terms of Use.</p>
