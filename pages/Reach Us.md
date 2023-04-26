@@ -36,6 +36,10 @@ description: ""
 	background-color:#9F2943;
 	
 	}
+hr {
+	margin-bottom: 1em;
+	margin-top: 1em;
+	}
 </style>
 
 	
