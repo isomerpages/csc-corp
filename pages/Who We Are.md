@@ -7,13 +7,13 @@ description: ""
 .grid-container {
 		display: grid;
 		grid-template-columns: 65% 35%;
-		grid-gap: 1em;
+		grid-gap: 2em;
 	}
 
 	.grid-container-imgleft {
 		display:grid;
 		grid-template-columns: 35% 65%;
-		grid-gap: 1em;
+		grid-gap: 2em;
 	}
 
 .ideals-content-div {
