@@ -83,5 +83,4 @@ table {
 		</tr>
 	</tbody>
 </table>
-There is a 10-minute grace period before car park charging begins.	
-
+There is a 10-minute grace period before car park charging begins.
