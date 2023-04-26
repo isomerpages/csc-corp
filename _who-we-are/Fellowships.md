@@ -168,6 +168,7 @@ description: ""
 	<div class="modal-window" id="open-modal">
      <div>
        <a class="modal-close" title="Close" href="#modal-close">close ×</a>
+			 <img class="fellowship-image" src="/images/FellowshipImages/peterhawkins.png">
        <h1>Peter Hawkins</h1>
        <div>test</div>
      </div>
