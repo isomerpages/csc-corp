@@ -108,7 +108,8 @@ Job</p>
 		<p class="Joinus-content">As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
 		<a href="/become-an-associatetrainer/" class="button">LEARN MORE</a>
 		<h5>Join us as an Assessor </h5>
-		<p class="Joinus-content">Join us as an assessor for CSC's talent assessment, leadership development and research services. We're looking for an associate assessor to assist in selecting high-potential talent through structured competency-based interviews. </p>
+		<p class="Joinus-content">Join us as an assessor for CSC's talent assessment, leadership development and research services. We're looking for an associate assessor to assist in selecting high-potential talent through structured competency-based interviews. </p> 
+		<p>Confident that you’ll make an impact at CSC? Send us your resume at  <span style="text-decoration:underline;">cscollege@cscollege.gov.sg</span> and let us know more about you. We’ll contact you if there’s a suitable opening.</p>
 	</div>
 
 
