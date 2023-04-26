@@ -11,7 +11,8 @@ description: ""
 	}
 
 .vertical-line {
-	border-left: 1px solid #F68B1F
+	border-left: 1px solid #F68B1F;
+	margin-left: 0.5em;
 	}	
 
 table {
