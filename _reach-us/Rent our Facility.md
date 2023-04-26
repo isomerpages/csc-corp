@@ -24,7 +24,7 @@ description: ""
 <b>How to Rent</b>
 <p>To rent a facility,<a href="https://form.gov.sg/5fb4a7501321980011f4de98"> submit a request here</a> and we will be glad to help you.</p>
 
-
+<p>You can choose from 4-hour or 8-hour slots:</p>
 
 
 <table>
@@ -46,11 +46,3 @@ description: ""
   </tr>
 
 </tbody></table>
-
-
-
-
-
-
-
-
