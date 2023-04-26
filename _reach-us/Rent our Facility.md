@@ -7,3 +7,7 @@ description: ""
 </style>
 
 <p>We currently operate on two premises - Civil Service College @ North Buona Vista Road and INN x CSC at Jurong Town Hall.</p>
+
+
+<b>Civil Service College @ North Buona Vista Road</b>
+<p>We have an extensive suite of facilities and services to meet your training or event needs. Over here, you can view our available rooms and rates, and contact us to make a booking.</p>
