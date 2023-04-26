@@ -63,5 +63,5 @@ We're always happy to help. Find out where we're located, how you can get here, 
 
 
 <div class="btn-div">
-<a class="button" href="/faq">For Learners/For Training</a>
+<a class="button" href="/faq/">For Learners/For Training</a>
 </div>
