@@ -52,3 +52,18 @@ description: ""
 
 
 <b><u>INN x CSC</u></b>
+
+<b>Highly configurable learning spaces</b>
+
+<p>Our learning spaces were designed based on INN x CSC Design Principles of:</p>
+<ul>
+	<li>Maximising interaction and collaboration</li>	
+	<li>Building activity-based spaces that engage the head, heart, hands</li>	
+	<li>Making learning a continuous experience, in and outside of the workplace</li>	
+	<li>Creating a safe space to ideate, test, learn, and discover</li>	
+	<li>Integrating learning &amp; doing, to maximise transfer and impact at work.</li>	
+	
+
+
+
+</ul>
