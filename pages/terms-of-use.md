@@ -32,3 +32,8 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <h2>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration</h2>
 <p>1. The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any courses offered at the CSC Website. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For complimentary courses, please inform your Training Coordinator of your attendance at the course so as to update your training records.  </p>
 <p>2. Online registration of courses at the CSC website are subject to the following conditions:</p>
+
+
+
+
+
