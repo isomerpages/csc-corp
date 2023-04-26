@@ -25,6 +25,9 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <h4>Terms of Use</h4>
 <p>6. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <h4>Queries</h4>
-<p>7. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u></p>
+<p>
+	7. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u>
+</p>
 
 <h2>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration</h2>
+<p>The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday)Learning@Gov). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any courses offered at the CSC Website. For Organisations on HRP and Workday Learning@Gov, you are strongly encouraged to use HRP and Workday Learning@Gov instead. For complimentary courses, please inform your Training Coordinator of your attendance at the course so as to update your training records.  </p>
