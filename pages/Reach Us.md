@@ -50,9 +50,9 @@ We're always happy to help. Find out where we're located, how you can get here, 
 <p>Do you have a question on how to register for programmes as a learner, how to manage your Training Coordinator account, register your officers for programmes and request for in-house training? Find out more here:</p>
 
 
-<div class="grid-container">
+<div>
 
-<div><a class="button" href="">For Learners</a></div>
-<div><a class="button" href="">For Training Coordinators</a></div>
+<a class="button" href="">For Learners/For Training</a>
+
 
 </div>
