@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Lim Soo Hoon.md
       - Yong Ying I.md
       - Peter Shergold AC.md
       - Augustine O'Donnell GCB.md
