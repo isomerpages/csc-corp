@@ -43,3 +43,7 @@ details {
 
 
 </style>
+
+<details><summary>Institute of Governance and Policy</summary>
+		<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
+	</details>
