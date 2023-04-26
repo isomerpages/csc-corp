@@ -106,7 +106,7 @@ Job</p>
 		<hr>
 		<h5>Become an Associate Trainer</h5>
 		<p class="Joinus-content">As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
-		<a href="" class="button">LEARN MORE</a>
+		<a href="/become-an-associatetrainer/" class="button">LEARN MORE</a>
 	</div>
 
 
