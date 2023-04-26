@@ -2,5 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Augustine O'Donnell GCB.md
       - Jocelyne Bourgon.md
       - Professor Peter Hawkins.md
