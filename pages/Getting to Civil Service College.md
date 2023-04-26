@@ -83,32 +83,5 @@ table {
 		</tr>
 	</tbody>
 </table>
-There is a 10-minute grace period before car park charging begins.
-<h2 style="text-align:center">How to Contact Us</h2><div class="grid-container">
-	<div class="grid-child">
-<h4>If you'd like to reach us, you can:</h4>
-<ul>
-	<li>Contact us at 6874 1733</li>
-	<li>Submit an <a href="">online feedback form</a></li>
-	<li>Email us at cscollege@cscollege.gov.sg ( Please indicate your organisation/agency and your work email address in your correspondence )</li>
-</ul>
-		</div>
-	<div class="grid-child">
-		<h4>Or if you wish to let us know how we're doing, you can:</h4>
-<ul>
-			<li>Call our Quality Service Manager ( QSM ) at 1800 874 0604 ( Service-related matters )</li>
-			<li>Email Ms Shireen Lim, Head, Communications and Customer Relations, at Shireen_lim@cscollege.gov.sg</li>
-		
-</ul>
-		
-	 
-	
-	
-	
-</div>
-</div><table>
+There is a 10-minute grace period before car park charging begins.	
 
-
-
-
-</table>
