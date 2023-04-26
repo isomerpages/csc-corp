@@ -63,7 +63,7 @@ description: ""
 	<li>Creating a safe space to ideate, test, learn, and discover</li>	
 	<li>Integrating learning &amp; doing, to maximise transfer and impact at work.</li>	
 	</ul>
-<p>INN x CSC Learning Spaces</p>
+<b>INN x CSC Learning Spaces</b>
 <ul>
   <li>Welcome Zone</li>
   <li>INNvent</li>
