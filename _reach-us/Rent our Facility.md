@@ -62,8 +62,13 @@ description: ""
 	<li>Making learning a continuous experience, in and outside of the workplace</li>	
 	<li>Creating a safe space to ideate, test, learn, and discover</li>	
 	<li>Integrating learning &amp; doing, to maximise transfer and impact at work.</li>	
-	
-
-
-
+	</ul>
+<p>INN x CSC Learning Spaces</p>
+<ul>
+  <li>Welcome Zone</li>
+  <li>INNvent</li>
+  <li>INNsight</li>
+  <li>INNtegrate</li>
+  <li>INNfinity</li>
+  <li>INNgenious</li>
 </ul>
