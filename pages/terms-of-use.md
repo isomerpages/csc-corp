@@ -18,3 +18,8 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <h4>Departure</h4>
 <p>If you leave the Public Service at any time, please inform CSC of your departure via email or in writing, and leave us with your contact address and particulars. CSC will cancel your membership account but you may continue to use this Website and still be legally bound by the Terms of Use.</p>
 <h4>Refusal and Revocation</h4>
+<p>CSC reserves the right to: (a) refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or &nbsp;(b) change these Terms at any time by notification or publication of the changes to these Terms at this website.</p>
+
+
+
+
