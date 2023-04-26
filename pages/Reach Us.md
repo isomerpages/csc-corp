@@ -19,7 +19,7 @@ description: ""
 	text-decoration: none !important; 
 	padding: 0.7em;
 	text-align: center;
-	width: 60%;
+	width: 50%;
 	height: 60%;
 	font-weight: bold;
 	transition: all 0.5s ease;
