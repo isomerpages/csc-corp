@@ -2,8 +2,8 @@ collections:
   reach-us:
     output: true
     order:
-      - Rent our Facility.md
       - Reach Us.md
-      - Our Amenities.md
       - Getting to INN x CSC.md
       - Getting to Civil Service College.md
+      - Rent our Facility.md
+      - Our Amenities.md
