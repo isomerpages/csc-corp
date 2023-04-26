@@ -18,6 +18,5 @@ description: ""
 <b>Fully Equipped Rooms</b>
 <p>Our rooms are equipped with audio-visual and IT capabilities such as projectors and computers.</p>
 
-
-
-
+<b>Multiple Room Types and Configurations</b>
+<p>From a formal auditorium to casual meeting rooms, you can choose a facility and configuration that meets your needs.</p>
