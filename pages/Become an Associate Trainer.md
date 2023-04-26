@@ -29,4 +29,5 @@ description: ""
   <li>Service Management</li>
 </ul>
 
-
+<p>Confident that you
+'ll make an impact at CSC? Send us your resume at cscollege@cscollege.gov.sg and let us know more about you. We'll contact you if there's a suitable opening.</p>
