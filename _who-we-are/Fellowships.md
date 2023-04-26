@@ -86,7 +86,7 @@ description: ""
 	
 	}
 	
-
+/* Below is the CSS for the modal. */
 .modal-window {
       position: fixed;
       background-color: rgba(200, 200, 200, 0.75);
