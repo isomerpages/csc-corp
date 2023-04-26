@@ -1,4 +1,5 @@
 collections:
   fellowship-members-bios:
     output: true
-    order: []
+    order:
+      - Professor Peter Hawkins.md
