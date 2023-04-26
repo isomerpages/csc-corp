@@ -7,19 +7,6 @@ links:
   - title: Join Us
     url: /join-us
   - title: Reach Us
-    url: /reach-us
-    sublinks:
-      - title: Contact Us
-        url: /contact-us
-      - title: Going to Civil Service College
-        url: /getting-to-csc
-      - title: Going to INN x CSC
-        url: /getting-to-innxcsc
-      - title: Rent Our Facility
-        url: /rent-our-facility
-      - title: Our Amenities
-        url: /our-amenities
+    collection: reach-us
   - title: testing folder
     collection: testing-folder
-  - title: Folder link type
-    collection: who-we-are
