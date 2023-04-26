@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Richard Brown.md
       - Catherine Fieschi.md
       - Martin Richard John Knapp.md
       - Peter Ho Hak Ean.md
