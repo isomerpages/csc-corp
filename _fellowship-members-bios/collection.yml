@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Khoo Boon Hui.md
       - Peter Ong Boon Kwee.md
       - Lim Soo Hoon.md
       - Yong Ying I.md
