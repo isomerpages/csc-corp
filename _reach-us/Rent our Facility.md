@@ -14,3 +14,10 @@ description: ""
 
 <b>Convenient Location</b>
 <p>We're close to both Buona Vista and Holland Village MRT stations. <a href="/contact-us">View our location details.</a></p>
+
+<b>Fully Equipped Rooms</b>
+<p>Our rooms are equipped with audio-visual and IT capabilities such as projectors and computers.</p>
+
+
+
+
