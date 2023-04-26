@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Rory Gallagher.md
       - Richard Brown.md
       - Catherine Fieschi.md
       - Martin Richard John Knapp.md
