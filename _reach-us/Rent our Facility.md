@@ -26,3 +26,31 @@ description: ""
 
 
 
+
+<table>
+  <tbody><tr>
+    <th>4-hour block</th>
+    <th>8-hour block</th>
+  </tr>
+  <tr>
+    <td>9am to 1pm</td>
+    <td>9am to 6pm</td>
+  </tr>
+  <tr>
+    <td>2pm to 6pm</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6.30pm to 10.30pm</td>
+    <td></td>
+  </tr>
+
+</tbody></table>
+
+
+
+
+
+
+
+
