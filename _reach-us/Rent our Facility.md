@@ -20,3 +20,6 @@ description: ""
 
 <b>Multiple Room Types and Configurations</b>
 <p>From a formal auditorium to casual meeting rooms, you can choose a facility and configuration that meets your needs.</p>
+
+<b>How to Rent</b>
+<p>To rent a facility,<a href="https://form.gov.sg/5fb4a7501321980011f4de98"> submit a request here</a> and we will be glad to help you.</p>
