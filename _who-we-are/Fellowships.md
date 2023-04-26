@@ -108,7 +108,8 @@ description: ""
     }
     
 .modal-window > div {
-      width: 400px;
+      width: 70%;
+			height: 70%;
       position: relative;
       margin: 10% auto;
       padding: 2rem;
