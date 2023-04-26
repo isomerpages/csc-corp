@@ -2,4 +2,5 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Jocelyne Bourgon.md
       - Professor Peter Hawkins.md
