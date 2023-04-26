@@ -13,4 +13,5 @@ c) &nbsp;    &nbsp;    &nbsp;sign up for alerts on topics and articles that inte
 	d) &nbsp;    &nbsp;    &nbsp; gain access to exclusive resources and materials online</p>
 
 <h4>Application Process</h4>
+<p>2. When you apply for membership, you will be requested to provide a valid Singapore Government email address assigned to you.</p>
 <h4>Departure</h4>
