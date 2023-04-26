@@ -107,6 +107,8 @@ Job</p>
 		<h5>Become an Associate Trainer</h5>
 		<p class="Joinus-content">As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
 		<a href="/become-an-associatetrainer/" class="button">LEARN MORE</a>
+		<h5>Join us as an Assessor </h5>
+		<p class="Joinus-content">Join us as an assessor for CSC's talent assessment, leadership development and research services. We're looking for an associate assessor to assist in selecting high-potential talent through structured competency-based interviews. </p>
 	</div>
 
 
