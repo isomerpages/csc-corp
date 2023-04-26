@@ -27,7 +27,4 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <h4>Queries</h4>
 <p>7. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u></p>
 
-
-
-
 <h2>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration</h2>
