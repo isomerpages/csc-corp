@@ -26,9 +26,9 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
-      - email: cscollege@cscollege.gov.sg
+      - email: cscollege_learn@cscollege.gov.sg
       - other: ""
-    title: Online Feedback
+    title: LEARN-related Enquiries
   - content:
       - phone: ""
       - email: shireen_lim@cscollege.gov.sg
