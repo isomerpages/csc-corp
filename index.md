@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page/cover_option1a.jpg
+      background: /images/Landing Page/cover_option2a.jpg
       key_highlights:
         - title: Learn at CSC
           description: ""
