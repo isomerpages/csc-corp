@@ -14,3 +14,5 @@ description: ""
 <p>Our dedicated team gives you logistical and administrative support so you can focus on delivering the best learning experience for public officers. You will also enjoy access to CSC resources when conducting CSC courses, complimentary learning and development opportunities and regular e-publications. Trainers are also recognised at our Learning Partners’ Event.</p>
 
 <h3>Find Your Role</h3>
+<b>Trainers, Facilitators and Consultants </b>
+<p>Join our pool of associate trainers, facilitators and consultants to conduct training programmes and provide consultancy services for projects. We work in these focus areas:</p>
