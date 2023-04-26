@@ -49,3 +49,6 @@ description: ""
 
 <b>View Facilities and Rates</b>
 <p>You can find information on our facilities and rates <a href="https://www.csc.gov.sg/docs/default-source/default-document-library/roomrental_2021.pdf">here</a>.</p>
+
+
+<b><u>INN x CSC</u></b>
