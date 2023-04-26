@@ -26,8 +26,9 @@ description: ""
 	border: 5px solid #F68B1F;
 	}
 	
-hr {
+.separator {
 	margin-bottom: 1em;
+	margin-top: 1em;
 	}
 	
 </style>
@@ -37,7 +38,7 @@ hr {
 
 <p>We are dedicated to:</p>
 
-<hr>
+<hr class="separator">
 
 
 <div class="grid-container">
@@ -54,7 +55,7 @@ hr {
 </div>
 
 
-<hr>
+<hr class="separator">
 
 <div class="grid-container-imgleft">
 	<div>
@@ -67,7 +68,7 @@ hr {
 		<p>We support initiatives that bring about change, learning and collaboration across the Public Service, ensuring that public agencies and officers are ready to embrace the future.</p>
 	</div>
 </div>
-<hr>
+<hr class="separator">
 
 	
 <div class="grid-container">
@@ -81,7 +82,7 @@ hr {
 </div>
 
 
-<hr>
+<hr class="separator">
 
 
 <div class="ideals-content-div">
