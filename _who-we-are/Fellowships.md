@@ -176,7 +176,8 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">The Honourable Jocelyne Bourgon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canda School of Public Service. She advises governments on governance and public sector reforms.</div></div>
-								
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/jocelyne-bourgon">Read Bio</a>							
 	
 </div>
 </div>
@@ -424,4 +425,4 @@ description: ""
 
 
 
-</div>
+</div></div>
