@@ -308,7 +308,7 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Professor Lim Siong Guan</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Professor Lim Siong Guan</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lim Siong Guan was Group President of GIC from 2007 to 2016, Chairman of the Economic Development Board from 2006 to 2009, and Head of the Civil Service from 1999 to 2005.</div>
 	</div>
@@ -323,7 +323,7 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-ho-hak-ean@2x.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Mr Peter Ho Hak Ean</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Mr Peter Ho Hak Ean</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
 								
