@@ -161,7 +161,7 @@ description: ""
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
 		<div class="fellowship-card-text card-link">
-			<a href="">Read Bio</a>
+			<a href="/fellowship-members-bios/peter-hawkins">Read Bio</a>
 	</div>
 		
 </div>
