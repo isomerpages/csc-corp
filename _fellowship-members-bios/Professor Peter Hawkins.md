@@ -14,14 +14,14 @@ fellow-img {
 		text-align: center;
 	}
 
-fellow-tenure {
+.fellow-tenure {
 	text-align: center;
-	
+	color: grey;
 	}	
 
 </style>
 
 <div class="fellow-img">
 <img src="/images/FellowshipImages/peterhawkins.pn">
-<p class="fellow-tenure">Senior Visiting Fellow </p>
+<p class="fellow-tenure">SENIOR VISITING FELLOW, 2022 - PRESENT </p>
 </div>
