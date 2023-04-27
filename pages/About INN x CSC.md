@@ -3,9 +3,6 @@ title: About INN x CSC
 permalink: /innxcsc/
 description: ""
 ---
-
-
-
 <style>
 	
 </style>
@@ -19,7 +16,7 @@ description: ""
 
 
 <h3>Inclusive</h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
-<h3></h3>
+<h3>Iterative</h3>
+<h3>Independent</h3>
+<h3>Inventive</h3>
+<h3>Involved</h3>
