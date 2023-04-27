@@ -9,6 +9,40 @@ img {
 	height: 50% important;
 	width: 50% !important;
 	}
+	
+fellow-img {
+		text-align: center;
+	}
+
+fellow-tenure {
+	text-align: center;
+	
+	}	
+
 </style>
 
-<img src="/images/FellowshipImages/peterhawkins.png">
+<div class="fellow-img">
+<img src="/images/FellowshipImages/peterhawkins.pn">
+<p class="fellow-tenure">Senior Visiting Fellow </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
