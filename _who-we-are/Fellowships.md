@@ -306,7 +306,7 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/">
+	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
 	</div>
 			<div class="fellowship-card-text"><h4>Professor Lim Siong Guan</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
