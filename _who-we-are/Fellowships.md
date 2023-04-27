@@ -232,9 +232,10 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Ms Yong Ying-I</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
-								
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/yong-ying">Read Bio</a>
+		</div>
   </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 	
 	
@@ -247,10 +248,11 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Ms Lim Soo Hoon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
-								
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
+		</div>						
   </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
-</div>
+	</div>
 </div>
 
 <!-- Second layer of Senior Fellows-->
