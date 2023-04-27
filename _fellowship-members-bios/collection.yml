@@ -2,18 +2,18 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Lim Siong Guan.md
-      - Ang Hak Seng.md
-      - Rory Gallagher.md
-      - Richard Brown.md
-      - Catherine Fieschi.md
-      - Martin Richard John Knapp.md
-      - Peter Ho Hak Ean.md
-      - Khoo Boon Hui.md
-      - Peter Ong Boon Kwee.md
-      - Lim Soo Hoon.md
-      - Yong Ying I.md
-      - Peter Shergold AC.md
-      - Augustine O'Donnell GCB.md
-      - Jocelyne Bourgon.md
       - Professor Peter Hawkins.md
+      - Jocelyne Bourgon.md
+      - Augustine O'Donnell GCB.md
+      - Peter Shergold AC.md
+      - Yong Ying I.md
+      - Lim Soo Hoon.md
+      - Peter Ong Boon Kwee.md
+      - Khoo Boon Hui.md
+      - Lim Siong Guan.md
+      - Peter Ho Hak Ean.md
+      - Martin Richard John Knapp.md
+      - Catherine Fieschi.md
+      - Richard Brown.md
+      - Rory Gallagher.md
+      - Ang Hak Seng.md
