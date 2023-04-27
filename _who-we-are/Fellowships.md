@@ -163,7 +163,8 @@ description: ""
 		<div class="fellowship-card-text card-link">
 			<a href="">Read Bio</a>
 	</div>
-	</div>
+		
+</div>
 </div>
 	
 <!-- 2nd Senior Fellowship Card Card -->	
