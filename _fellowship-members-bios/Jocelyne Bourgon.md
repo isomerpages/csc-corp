@@ -23,8 +23,8 @@ fellow-img {
 </style>
 
 <div class="fellow-img">
-<img src="/images/FellowshipImages/">
-<p class="fellow-tenure"></p>
+<img src="/images/FellowshipImages/fellowships_jocelyne_bourgon_2x.jpg">
+<p class="fellow-tenure">SENIOR VISITING FELLOW, 2013 - PRESENT</p>
 </div>
 
 <p></p>
