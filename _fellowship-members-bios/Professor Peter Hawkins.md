@@ -6,7 +6,7 @@ description: ""
 <style>
 img {
 	border-radius: 50%;
-	height: 50% important;
+	height: 50% !important;
 	width: 50% !important;
 	}
 	
@@ -25,24 +25,3 @@ fellow-tenure {
 <img src="/images/FellowshipImages/peterhawkins.pn">
 <p class="fellow-tenure">Senior Visiting Fellow </p>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
