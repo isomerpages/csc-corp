@@ -362,7 +362,7 @@ description: ""
 	<div class="fellowship-image-div">
 	 <img class="fellowship-image" src="/images/FellowshipImages/fellowships_catherine_fieschi_2x.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Dr Catherine Fieschi</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Dr Catherine Fieschi</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2016 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Fieschi is founder and executive director of Counterpoint, a research and advisory group that advises businesses, governments, and NGOs.</div></div>
 								
