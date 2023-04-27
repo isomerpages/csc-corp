@@ -289,7 +289,7 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Khoo_Boon_Hui_2x.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Mr Khoo Boon Hui</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Mr Khoo Boon Hui</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Khoo Boon Hui was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</div></div>
 								
