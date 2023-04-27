@@ -211,9 +211,9 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Professor Peter Shergold AC</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</div></div>
-								
+		<div class="fellowship-card-text card-link">
+			<a href="fellowship-members-bios/">Read Bio</a></div>
   </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 </div>
 
