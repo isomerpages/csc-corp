@@ -205,7 +205,7 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Lord Augustine O'Donnell GCB</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Lord Augustine O'Donnell GCB</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div></div>
 </div>
@@ -220,7 +220,7 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-shergold@2x.jpg">
 	</div>
-			<div class="fellowship-card-text"><h4>Professor Peter Shergold AC</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Professor Peter Shergold AC</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</div></div>
 								
