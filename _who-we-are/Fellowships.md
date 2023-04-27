@@ -160,20 +160,11 @@ description: ""
 		<div class="fellowship-card-text"><p class="fellow-name">Professor Peter Hawkins</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
-								<!--<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>-->
-										<!-- Below is the modal (popup)-->
-							
-</div>
-		<div class="card-link"><a href="#open-modal">Read Bio</a></div>
-	<div class="modal-window" id="open-modal">
-     <div>
-       <a class="modal-close" title="Close" href="#modal-close">close ×</a>
-			 <img class="fellowship-image" src="/images/FellowshipImages/peterhawkins.png">
-       <h1>Peter Hawkins</h1>
-       <div>test</div>
-     </div>
-</div>
+		<div class="fellowship-card-text card-link">
+			<a href="">Read Bio</a>
 	</div>
+	</div>
+</div>
 	
 <!-- 2nd Senior Fellowship Card Card -->	
 <div class="fellow-card">
