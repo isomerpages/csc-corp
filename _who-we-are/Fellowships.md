@@ -321,10 +321,11 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Mr Peter Ho Hak Ean</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
-								
-  </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
-</div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-ho-hak-ean">Read Bio</a>
+			</div>
+		</div>
+	</div>
 </div>
 
 <!-- Start of Visiting fellows.-->
