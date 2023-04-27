@@ -4,7 +4,7 @@ permalink: /fellowship-members-bios/peter-ong-boon-kwee/
 description: ""
 ---
 <style>
-img {
+.fellow-image-pic {
 	border-radius: 50%;
 	height: 30% !important;
 	width: 30% !important;
@@ -23,7 +23,7 @@ fellow-img {
 </style>
 
 <div class="fellow-img">
-<img src="/images/FellowshipImages/peterongboonkwee.png">
+<img class="fellow-image-pic" src="/images/FellowshipImages/peterongboonkwee.png">
 <p class="fellow-tenure">SENIOR FELLOW, 2017 - PRESENT</p>
 </div>
 
