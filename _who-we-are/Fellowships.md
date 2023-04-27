@@ -397,11 +397,11 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Dr Rory Gallagher</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div></div>
-								
-										
-  </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
-</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/rory-gallagher">Read Bio</a>
+			</div>	
+		</div>
+	</div>
 </div>
 
 <h2 class="header-fellows-middle">Fellows</h2>
