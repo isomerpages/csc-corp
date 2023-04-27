@@ -23,7 +23,7 @@ fellow-img {
 </style>
 
 <div class="fellow-img">
-<img src="/images/FellowshipImages/peterhawkins.pn">
+<img src="/images/FellowshipImages/peterhawkins.png">
 <p class="fellow-tenure">SENIOR VISITING FELLOW, 2022 - PRESENT </p>
 </div>
 
