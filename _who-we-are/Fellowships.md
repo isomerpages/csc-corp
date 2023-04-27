@@ -240,7 +240,7 @@ description: ""
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/ps-ying-i.jpg">
 		</div>
-			<div class="fellowship-card-text"><h4>Ms Yong Ying-I</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ms Yong Ying-I</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
 								
@@ -255,7 +255,7 @@ description: ""
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
 		</div>
-			<div class="fellowship-card-text"><h4>Ms Lim Soo Hoon</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ms Lim Soo Hoon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
 								
