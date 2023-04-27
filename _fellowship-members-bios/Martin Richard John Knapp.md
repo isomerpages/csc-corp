@@ -37,9 +37,4 @@ Research that he has conducted or led has fed through to have a number of policy
 His teaching in recent years has been in the areas of health and social care policy, and health and social care economics. He has supervised 40 PhD/MPhil students to successful completion, and currently supervise another six. A number of his former students have gone on to senior positions in academia, public sector bodies and elsewhere.
 
 He is currently a member of numerous advisory groups for government departments, quasi-government, third sector, international and local bodies.
-
-
-
-
-
 </p>
