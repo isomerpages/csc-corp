@@ -308,11 +308,12 @@ description: ""
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/">
 	</div>
-			<div class="fellowship-card-text"><h4>Professor Lam Chuan Leong</h4></div>
+			<div class="fellowship-card-text"><h4>Professor Lim Siong Guan</h4></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lam Chuan Leong is a professor at the Lee Kuan Yew School of Public Policy. From 1981 to 1984, he was Principal Private Secretary to the Prime Minister of Singapore.</div></div>
-								
-  </div>
+						<div class="fellowship-card-text"><div class="fellow-summary">
+							Professor Lim Siong Guan was Group President of GIC from 2007 to 2016, Chairman of the Economic Development Board from 2006 to 2009, and Head of the Civil Service from 1999 to 2005.</div>
+	</div>
+</div>
 		<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 
