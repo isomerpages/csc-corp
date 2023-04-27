@@ -343,7 +343,7 @@ description: ""
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/profknapp.png">
 		</div>
-			<div class="fellowship-card-text"><h4>Professor Martin Richard John Knapp</h4></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Professor Martin Richard John Knapp</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</div></div>
 								<div class="fellowship-card-text card-link"><a href="#open-modal">Read Bio</a></div>
