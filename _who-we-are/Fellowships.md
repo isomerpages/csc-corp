@@ -380,11 +380,11 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Professor Richard Brown</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Professor Brown is an expert on international development economics.</div></div>
-								
-									
-  </div>
-		<div class="card-link"><a href="">Read Bio</a></div>
-</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/richard-brown">Read Bio</a>
+			</div>						
+		</div>
+	</div>
 
 	
 	
