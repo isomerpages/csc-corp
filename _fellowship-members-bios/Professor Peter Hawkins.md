@@ -17,6 +17,7 @@ fellow-img {
 .fellow-tenure {
 	text-align: center;
 	color: grey;
+	font-size: 0.9em;
 	}	
 
 </style>
