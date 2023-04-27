@@ -268,9 +268,10 @@ description: ""
 			<div class="fellowship-card-text"><p class="fellow-name">Mr Peter Ong Boon Kwee</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
-								
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-ong-boon-kwee">Read Bio</a>
+		</div>				
   </div>
-	<div class="card-link"><a href="">Read Bio</a></div>
 </div>
 
 
