@@ -16,7 +16,12 @@ description: ""
 
 
 <h3>Inclusive</h3>
+<p>No matter who you are or what you do, you are welcome here. This is a safe space where you get to experiment without being judged and where you can candidly share your knowledge and insights to create a cohesive learning community.</p>
 <h3>Iterative</h3>
+<p>In everything that we do, iterating helps us to refine ideas and concepts to obtain better or even optimal results. Through engaging discussions and hands-on activities, you will experience first-hand challenges and satisfaction of iterating.</p>
 <h3>Independent</h3>
+<p>Learning is a lifelong process. We will ignite the spark in you to continuously learn, and empower you with the freedom to learn anytime, anywhere and at your own pace.</p>
 <h3>Inventive</h3>
+<p>We encourage you to explore unconventional, possibly even wild ideas and inspire you to make innovative yet effective recommendations for a future-ready public service.</p>
 <h3>Involved</h3>
+<p></p>
