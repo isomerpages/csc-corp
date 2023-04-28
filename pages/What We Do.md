@@ -16,7 +16,7 @@ description: ""
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	grid-gap: 1%;
-	margin-top: 2em;
+	margin-top: 3em;
 	}	
 
 img {
