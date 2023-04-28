@@ -42,9 +42,10 @@ description: ""
 <img src="/images/carousel_knowledge_02_inn.jpg">
 <p class="paragraph-group2">Case Study</p>
 <p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
-<img src="/images/innxcsc-launch.jpg">
+
 
 <p class="paragraph-group2">Launch</p>
-We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again here!
+<p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again here!</p>
+<img src="/images/innxcsc-launch.jpg">
 <p class="paragraph-group2">Introduction Video</p>
-Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.
+<p>Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.</p>
