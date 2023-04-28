@@ -10,6 +10,12 @@ description: ""
 	font-weight: bold;
 	
 	}
+
+.paragraph-group2 {
+	font-weight: bold;
+	color: #F68B1F;
+	}
+
 </style>
 
 <img src="/images/What%20We%20Do/Tile_INNxCSC.jpg">
@@ -34,5 +40,9 @@ description: ""
 
 <p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
 <img src="/images/carousel_knowledge_02_inn.jpg">
-<p style="color:#F68B1F;font-weight:bold;">Case Study</p>
-<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC innovation journey with us.</p>
+<p class="paragraph-group2">Case Study</p>
+<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="">innovation journey</a> with us.</p>
+<img src="">
+
+<p class="paragraph-group2">Launch</p>
+<p class="paragraph-group2">Introduction Video</p>
