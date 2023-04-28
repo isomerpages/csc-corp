@@ -82,3 +82,8 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 	</ol>
 
 </ol>
+<p><b>Terms of Use</b></p>
+<p>5. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
+
+<p><b>Queries</b></p>
+<p>6. If you have any queries on these Registration Terms, please send your queries to cscollege@cscollege.gov.sg.</p>
