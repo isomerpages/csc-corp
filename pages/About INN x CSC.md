@@ -25,3 +25,6 @@ description: ""
 <p>We encourage you to explore unconventional, possibly even wild ideas and inspire you to make innovative yet effective recommendations for a future-ready public service.</p>
 <h3>Involved</h3>
 <p>We can't deliver effective policies and services to our citizens if we don't know what works for them, and what doesn't. At INN x CSC, you will be plugged into the ground through various hands-on and first-hand learning interventions and projects designed to bring the 'voice of user' to the forefront.</p>
+
+
+<p>How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
