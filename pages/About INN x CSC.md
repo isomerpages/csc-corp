@@ -50,3 +50,5 @@ description: ""
 
 <p class="paragraph-group2">Introduction Video</p>
 <p>Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.</p>
+
+<p>If you'll like to reach us, you can email us at <u>innxcsc@cscollege.gov.sg</u></p>
