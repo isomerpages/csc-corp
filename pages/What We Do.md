@@ -96,6 +96,7 @@ hr {
 <p>To find out more about us, download our latest <a href="/files/csc-annual-report_fy21-(final).pdf">annual report</a>.</p>
 <hr>
 
+<p class="Orange-header">CSC Products and Offerings</p>
 <div class="grid-container">
 	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
 	<div><a href="https://learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
