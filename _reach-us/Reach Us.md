@@ -53,8 +53,8 @@ We're always happy to help. Find out where we're located, how you can get here, 
 <h3>Getting Here</h3>
 <div class="grid-container">
 
-<div><img src="/images/Reach Us/GettingHere_CSC_BV.jpg"></div>
-<div><img src="/images/Reach Us/GettingHere_CSC_INN.jpg"></div>
+<div><a href="/getting-to-csc"><img src="/images/Reach Us/GettingHere_CSC_BV.jpg"></a></div>
+	<div><a href="/getting-to-innxcsc"><img src="/images/Reach Us/GettingHere_CSC_INN.jpg"></a></div>
 
 </div>
 
