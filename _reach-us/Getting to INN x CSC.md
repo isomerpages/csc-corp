@@ -48,11 +48,6 @@ table {
 <b>By MRT</b>
 <p>Walk 12 mins from Jurong East MRT (NS1/EW24) - Exit B. Walk pass The JTC Summit and up the link bridge.</p>
 
-<b>By Bus</b>
-<p>
-	Alight at Blk 46, Holland Drive: 32, 48, 74, ,74e, 91, 145, 185, 191, 200. <br>
-	Alight at Blk 43, along Commonwealth Avenue 95, 100, 105, 111, 147, 196, 198.
-</p>
 
 <b>By Car</b>
 <p>
