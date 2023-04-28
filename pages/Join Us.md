@@ -48,7 +48,7 @@ img {
 	}
 
 h3 {
-	margin-bottom: -0.5em;
+	margin-bottom: -0.5em !important;
 	}
 	
 </style>
