@@ -103,7 +103,7 @@ hr {
 </div>
 <div class="grid-container">
 	<div><img src="/images/What%20We%20Do/Tile_Knowledge.jpg"></div>
-	<div><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></div>
+	<div><a href="https://odex.csc.cgov.sg"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
 	<div></div>
 
 
