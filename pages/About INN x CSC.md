@@ -42,7 +42,7 @@ description: ""
 <img src="/images/carousel_knowledge_02_inn.jpg">
 <p class="paragraph-group2">Case Study</p>
 <p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="">innovation journey</a> with us.</p>
-<img src="">
+<img src="/images/innxcsc-launch.jpg">
 
 <p class="paragraph-group2">Launch</p>
 We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again here!
