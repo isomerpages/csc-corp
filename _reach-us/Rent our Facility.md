@@ -4,12 +4,20 @@ permalink: /reach-us/rent-our-facility/
 description: ""
 ---
 <style>
+
+.theheader {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #9F2943;
+	font-size: 1.5em;
+	}	
+	
 </style>
 
 <p>We currently operate on two premises - Civil Service College @ North Buona Vista Road and INN x CSC at Jurong Town Hall.</p>
 
 
-<b>Civil Service College @ North Buona Vista Road</b>
+<p class="theheader">Civil Service College @ North Buona Vista Road</p>
 <p>We have an extensive suite of facilities and services to meet your training or event needs. Over here, you can view our available rooms and rates, and contact us to make a booking.</p>
 
 <b>Convenient Location</b>
@@ -51,7 +59,7 @@ description: ""
 <p>You can find information on our facilities and rates <a href="https://www.csc.gov.sg/docs/default-source/default-document-library/roomrental_2021.pdf">here</a>.</p>
 
 
-<b><u>INN x CSC</u></b>
+<p class="theheader">INN x CSC</p>
 
 <b>Highly configurable learning spaces</b>
 
