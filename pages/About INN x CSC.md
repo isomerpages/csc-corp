@@ -5,6 +5,11 @@ description: ""
 ---
 <style>
 	
+.paragraph-header {
+	color:#9F2943 !important;
+	font-weight: bold;
+	
+	}
 </style>
 
 <img src="/images/What%20We%20Do/Tile_INNxCSC.jpg">
@@ -27,4 +32,4 @@ description: ""
 <p>We can't deliver effective policies and services to our citizens if we don't know what works for them, and what doesn't. At INN x CSC, you will be plugged into the ground through various hands-on and first-hand learning interventions and projects designed to bring the 'voice of user' to the forefront.</p>
 
 
-<p>How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
+<p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
