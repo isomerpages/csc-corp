@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 .theheader {
-	margin-bottom: -1em !important;
+	margin-bottom: -0.5em !important;
 	}
 	
 </style>
