@@ -34,6 +34,10 @@ hr {
 	margin-bottom: 1em;
 	}
 	
+h3 {
+	margin-bottom: -0.5em !important;
+	}
+
 </style>
 
 
