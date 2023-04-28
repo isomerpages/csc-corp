@@ -76,6 +76,9 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 		<p>Withdrawal and replacement for e-Learning courses are only allowed before the training coordinator (TC) has approved the registration in programme portal. Once the TC has approved the registration in the programme portal, any request to withdraw and/or replace learners will not be accepted.</p>
 		<li>Notification</li>
 		<p>Learners can expect to receive the Enrolment Confirmation email (which includes login link, with link to any programme materials) within 3 weeks of training coordinators (TC) approving the registration. Only learners will receive the Enrolment Confirmation email.</p>
+		<p>An invoice will be issued to the agency after CSC issues the Enrolment Confirmation email to the learner</p>
+		<li>Access Period</li>
+		<p>Learner will have up to 90 days (or 120 days for ELFUS13) to complete each e-learning programme. Thereafter, the access will expire and learner will have to re-register for the e-learning programme to gain access for another 90 days (or 120 days for ELFUS13).</p>
 	</ol>
 
 </ol>
