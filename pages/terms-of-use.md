@@ -69,4 +69,13 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <p><b>Registration of E-Learning Courses</b></p>
 <p>3. For complimentary e-Learning courses, please inform your Training Coordinator of your attendance at the e-Learning course so as to update your training records.</p>
 <p>4. Online registration of e-learning courses are subject to the following conditions:</p>
+<ol>
+	<li>Paid Courses</li>
+	<ol style="list-style-type: lower-roman;">
+		<li>Withdrawal and Replacement</li>
+		<p>Withdrawal and replacement for e-Learning courses are only allowed before the training coordinator (TC) has approved the registration in programme portal. Once the TC has approved the registration in the programme portal, any request to withdraw and/or replace learners will not be accepted.</p>
+		<li>Notification</li>
+		<p>Learners can expect to receive the Enrolment Confirmation email (which includes login link, with link to any programme materials) within 3 weeks of training coordinators (TC) approving the registration. Only learners will receive the Enrolment Confirmation email.</p>
+	</ol>
 
+</ol>
