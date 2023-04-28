@@ -31,6 +31,11 @@ description: ""
 	margin-top: 1em;
 	}
 	
+.theheader {
+	margin-bottom: -0.5em !important;
+	
+	}
+	
 </style>
 
 
@@ -43,7 +48,7 @@ description: ""
 
 <div class="grid-container">
 	<div>
-		<h3>Enhancing the Public Service</h3>
+		<h3 class="theheader">Enhancing the Public Service</h3>
 		<p>We deepen public officer's knowledge and capabilities, strengthen their understanding and empathy for the needs of our citizens, and reinforce their values and commitment to excellence.</p>
 	</div>
 
@@ -64,7 +69,7 @@ description: ""
 </div>
 	
 <div>
-	<h3>Equipping Public Agencies to be Future Ready</h3>
+	<h3 class="theheader">Equipping Public Agencies to be Future Ready</h3>
 		<p>We support initiatives that bring about change, learning and collaboration across the Public Service, ensuring that public agencies and officers are ready to embrace the future.</p>
 	</div>
 </div>
@@ -73,7 +78,7 @@ description: ""
 	
 <div class="grid-container">
 <div>
-	<h3>Innovating with Technology</h3>
+	<h3 class="theheader">Innovating with Technology</h3>
 	<p>We push the boundaries by experimenting with the latest technologies to deliver an innovative, impactful and inspiring learning experience.</p>
 </div>
 <div>
@@ -88,17 +93,17 @@ description: ""
 <div class="ideals-content-div">
 	<div>
 		<hr class="ideals-hr">
-		<h3>Our Mission</h3>
+		<h3 class="theheader">Our Mission</h3>
 		<p>To develop people for a first class Public Service</p>
 	</div>
 	<div>
 		<hr class="ideals-hr">
-		<h3>Our Vision</h3>
+		<h3 class="theheader">Our Vision</h3>
 		<p>The heart of learning excellence and development for the Singapore Public Service</p>
 	</div>
 	<div>
 		<hr class="ideals-hr">
-		<h3>Our Values</h3>
+		<h3 class="theheader">Our Values</h3>
 		<p><b>People</b> <br>
 			Value and Appreciate them</p>
 		<p><b>Integrity</b> <br>
