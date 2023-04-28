@@ -65,3 +65,8 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 	
 </ol>
 </ol>
+
+<p><b>Registration of E-Learning Courses</b></p>
+<p>3. For complimentary e-Learning courses, please inform your Training Coordinator of your attendance at the e-Learning course so as to update your training records.</p>
+<p>4. Online registration of e-learning courses are subject to the following conditions:</p>
+
