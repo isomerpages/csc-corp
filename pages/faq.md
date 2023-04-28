@@ -44,6 +44,10 @@ details {
 
 </style>
 
-<details><summary></summary>
+<details><summary>For Learners</summary>
+		<p class="Accordion-Paragraph"></p>
+	</details>
+	
+<details><summary>For Training Coordinators</summary>
 		<p class="Accordion-Paragraph"></p>
 	</details>
