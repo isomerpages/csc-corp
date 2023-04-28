@@ -33,3 +33,4 @@ description: ""
 
 
 <p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
+<img src="/images/carousel_knowledge_02_inn.jpg">
