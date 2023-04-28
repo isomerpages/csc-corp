@@ -93,7 +93,14 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <p>2. Online registration of events are subject to the following conditions:</p>
 <ol>
 	<li>Paid Events</li>
+	<ol style="list-style-type: lower-roman;">
+		<li>Withdrawal</li>
+		<p>Only withdrawals through emails or faxes will be acknowledged. Confirmed participants who withdraw after registration has been confirmed by us will be charged the full course of the event. <br> These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your arrangement.</p>
+		<li>Replacement</li>
+		<p>No penalty charges will be imposed if a replacement is provided for a participant who wishes to withdraw his/her registration for an event.</p>
+		<li></li>
 	
+	</ol>
 
 
 </ol>
