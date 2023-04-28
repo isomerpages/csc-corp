@@ -99,7 +99,7 @@ hr {
 <div class="grid-container">
 	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
 	<div><a href="https://learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
-	<div><a href="https://dc/learn/gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></a></div>
+	<div><a href="https://dc.learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></a></div>
 </div>
 <div class="grid-container">
 	<div><img src="/images/What%20We%20Do/Tile_Knowledge.jpg"></div>
