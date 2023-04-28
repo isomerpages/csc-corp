@@ -34,3 +34,5 @@ description: ""
 
 <p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
 <img src="/images/carousel_knowledge_02_inn.jpg">
+<p style="color:#F68B1F;font-weight:bold;">Case Study</p>
+<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC innovation journey with us.</p>
