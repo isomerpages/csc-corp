@@ -77,7 +77,7 @@ description: ""
 	<p>We push the boundaries by experimenting with the latest technologies to deliver an innovative, impactful and inspiring learning experience.</p>
 </div>
 <div>
-	<img src="">
+	<img src="/images/Who%20We%20Are/whoweare 03.jpg">
 </div>
 </div>
 
