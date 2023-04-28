@@ -41,7 +41,7 @@ description: ""
 <p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
 <img src="/images/carousel_knowledge_02_inn.jpg">
 <p class="paragraph-group2">Case Study</p>
-<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="">innovation journey</a> with us.</p>
+<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
 <img src="/images/innxcsc-launch.jpg">
 
 <p class="paragraph-group2">Launch</p>
