@@ -115,8 +115,3 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 <p>3. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <p><b>Queries</b></p>
 <p>4. If you have any queries on these Registration Terms or the Events, please send your queries to cscollege@cscollege.gov.sg.</p>
-<p>
-Last updated 29 Jan 2019 <br>
-Copyright © 2023 Civil Service College. All rights reserved. <br>
-This site is best viewed using IE9.039 &amp; above and Chrome.
-	</p>
