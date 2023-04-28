@@ -52,7 +52,7 @@ details {
 	
 	
 	
-	</p>
+</p>
 	</details>
 	
 <details><summary>For Training Coordinators</summary>
