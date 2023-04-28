@@ -53,5 +53,12 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 		<li>Notification</li>
 		<p>Participants will receive the Course Placement Letter at least 2 weeks before the class commences.</p>
 </ol>
-	<li></li>
+	<li>Complimentary Courses</li>
+	<ol style="list-style-type: lower-roman;">
+		<li>Withdrawal</li>
+		<p>Only withdrawals through emails or faxes will be acknowledged.</p>
+		<p>In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.</p>
+	
+	
+</ol>
 </ol>
