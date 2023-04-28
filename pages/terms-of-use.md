@@ -46,6 +46,12 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 		<p>Request for Waiver: Waiver of withdrawal charges will only be approved on a case-by-case basis. A written request for waiver has to be submitted by the participant or the Training Coordinator within 3 days after the course ends.</p>
 		<p>If written notice is submitted after the Course Placement Letter has been sent, 25% of course fees will be charged.</p>
 		<p>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your argreement.</p>
-	
+		<li>Replacement</li>
+		<p>No penalty charges will be imposed if a replacement is provided for a participant who wishes to withdraw his/her registration for a course.</p>
+		<li>Absenteeism</li>
+		<p>Full course fee will be charged for the absentee, regardless of provision of Development Grant, Development Grant is only given to those who attend the course.</p>
+		<li>Notification</li>
+		<p>Participants will receive the Course Placement Letter at least 2 weeks before the class commences.</p>
 </ol>
+	<li></li>
 </ol>
