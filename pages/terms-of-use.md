@@ -58,6 +58,9 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 		<li>Withdrawal</li>
 		<p>Only withdrawals through emails or faxes will be acknowledged.</p>
 		<p>In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.</p>
+		<p>Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event. These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</p>
+		<li>Notification</li>
+		<p>Registered participants will receive a confirmation note 1 week before the class commences.</p>
 	
 	
 </ol>
