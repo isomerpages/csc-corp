@@ -13,7 +13,7 @@ description: ""
 	.grid-container-imgleft {
 		display:grid;
 		grid-template-columns: 40% 60%;
-		
+		grid-gap:0.5em;
 	}
 
 .ideals-content-div {
