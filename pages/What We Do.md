@@ -98,7 +98,7 @@ hr {
 
 <div class="grid-container">
 	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
-	<div><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></div>
+	<div><a href="https://learn.sg.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
 	<div><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></div>
 </div>
 <div class="grid-container">
