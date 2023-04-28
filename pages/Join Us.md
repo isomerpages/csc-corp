@@ -47,7 +47,9 @@ img {
 	height: 100%;
 	}
 
-
+h3 {
+	margin-bottom: -0.5em;
+	}
 	
 </style>
 
