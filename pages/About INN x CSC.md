@@ -45,4 +45,6 @@ description: ""
 <img src="">
 
 <p class="paragraph-group2">Launch</p>
+We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again here!
 <p class="paragraph-group2">Introduction Video</p>
+Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.
