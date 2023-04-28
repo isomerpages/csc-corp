@@ -34,7 +34,7 @@ hr {
 	margin-bottom: 1em;
 	}
 	
-h3 {
+.theheader {
 	margin-bottom: -0.5em !important;
 	}
 
@@ -62,15 +62,15 @@ h3 {
 </div>
 
 
-<h3>Learning Design &amp; Programme Development</h3>
+<h3 class="theheader">Learning Design &amp; Programme Development</h3>
 Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.
 
 
-<h3>Consulting</h3>
+<h3 class="theheader">Consulting</h3>
 Support agencies in their innovation and organisational transformation journeys, and help them embrace change.
 
 
-<h3>Research</h3>
+<h3 class="theheader">Research</h3>
 Dive deep into key domain areas and emerging disciplines to conduct impactful research that influences policymaking at all levels.
 
 
