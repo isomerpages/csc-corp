@@ -7,19 +7,19 @@ description: ""
 .grid-container {
 		display: grid;
 		grid-template-columns: 65% 35%;
-		grid-gap: 2em;
+		grid-gap: 1em;
 	}
 
 	.grid-container-imgleft {
 		display:grid;
 		grid-template-columns: 35% 65%;
-		grid-gap: 2em;
+		grid-gap: 1em;
 	}
 
 .ideals-content-div {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	grid-gap: 2em;
+	grid-gap: 1em;
 	}
 
 .ideals-hr {
