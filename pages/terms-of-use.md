@@ -87,3 +87,5 @@ c) &nbsp;    &nbsp;    &nbsp; sign up for alerts on topics and articles that int
 
 <p><b>Queries</b></p>
 <p>6. If you have any queries on these Registration Terms, please send your queries to cscollege@cscollege.gov.sg.</p>
+
+<h4>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration of Events </h4>
