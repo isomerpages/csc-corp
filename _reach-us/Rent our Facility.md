@@ -76,22 +76,22 @@ description: ""
 
 <div class="grid-container">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
 
 </div>
 
 <div class="grid-container">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2004.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"></div>
 	
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2005.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg"></div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2006.jpg"></div>
+<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
 
 </div>
 
