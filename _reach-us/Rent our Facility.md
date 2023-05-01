@@ -58,6 +58,7 @@ description: ""
 <b>View Facilities and Rates</b>
 <p>You can find information on our facilities and rates <a href="https://www.csc.gov.sg/docs/default-source/default-document-library/roomrental_2021.pdf">here</a>.</p>
 
+<br>
 
 <p class="theheader">INN x CSC <br>@Jurong Town Hall</p>
 
@@ -72,14 +73,27 @@ description: ""
 	<li>Integrating <b>learning &amp; doing</b>, to maximise transfer and impact at work.</li>	
 	</ul>
 <b>INN x CSC Learning Spaces</b>
-<ul>
-  <li>Welcome Zone</li>
-  <li>INNvent</li>
-  <li>INNsight</li>
-  <li>INNtegrate</li>
-  <li>INNfinity</li>
-  <li>INNgenious</li>
-</ul>
+
+<div class="grid-container">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
+
+</div>
+
+<div class="grid-container">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2004.jpg"></div>
+	
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2005.jpg"></div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/What%20We%20Do/WhatWeDo%2006.jpg"></div>
+
+</div>
 
 <b>Hosting Events</b>
 <p>Are you looking for a space to run your events? Does it fit the intent of fostering a culture of innovation, collaboration, experimentation, and continuous learning?</p>
