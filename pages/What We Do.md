@@ -98,14 +98,20 @@ hr {
 
 <p class="Orange-header">CSC Products and Offerings</p>
 <div class="grid-container">
+	<div><a href="https://register.csc.gov.sg"><img src="/images/What%20We%20Do/tile_progportal.jpg"></a></div>
+	<div><a href="https://knowledge.csc.gov.sg"><img src="/images/What%20We%20Do/tile_knowledge.jpg"></a></div>
 	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
-	<div><a href="https://learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
-	<div><a href="https://dc.learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></a></div>
 </div>
 <div class="grid-container">
-	<div><img src="/images/What%20We%20Do/tile_knowledge.jpg"></div>
+	<div><a href="https://learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
+	<div><a href="https://dc.learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></a></div>
 	<div><a href="https://odex.csc.gov.sg"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
-	<div><a href="https://www.form.gov.sg/5ee0d4f45531ef001105dca7"><img src="/images/What We Do/tile_newsletter.jpg"></a></div>
 
 
 </div>
+
+<hr>
+
+<p class="Orange-header">Newsletter</p>
+<p>Get the latest programmes and knowledge on topics of your choice. <a href="https://www.form.gov.sg/5ee0d4f45531ef001105dca7">Click here to subscribe</a></p>
+<hr>
