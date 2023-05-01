@@ -72,9 +72,8 @@ description: ""
 	<li>Creating a <b>safe space to ideate</b>, test, learn, and discover</li>	
 	<li>Integrating <b>learning &amp; doing</b>, to maximise transfer and impact at work.</li>	
 	</ul>
-<b>INN x CSC Learning Spaces</b>
 
-| <b>Learning Spaces</b> | |  |
+| <b>INN x CSC Learning Spaces</b> | |  |
 | -------- | -------- | -------- |
 | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg">    |
 | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg">   | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg">    | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innvent.jpg">    |
