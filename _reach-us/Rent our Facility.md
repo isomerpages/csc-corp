@@ -7,9 +7,8 @@ description: ""
 
 .theheader {
 	font-weight: bold;
-	text-decoration: underline;
 	color: #9F2943;
-	font-size: 1.5em;
+	font-size: 1.6em;
 	}	
 	
 </style>
@@ -17,7 +16,8 @@ description: ""
 <p>We currently operate on two premises - Civil Service College @ North Buona Vista Road and INN x CSC at Jurong Town Hall.</p>
 
 
-<p class="theheader">Civil Service College @ North Buona Vista Road</p>
+<p class="theheader">Civil Service College 
+	<br>@ North Buona Vista Road</p>
 <p>We have an extensive suite of facilities and services to meet your training or event needs. Over here, you can view our available rooms and rates, and contact us to make a booking.</p>
 
 <b>Convenient Location</b>
@@ -59,7 +59,7 @@ description: ""
 <p>You can find information on our facilities and rates <a href="https://www.csc.gov.sg/docs/default-source/default-document-library/roomrental_2021.pdf">here</a>.</p>
 
 
-<p class="theheader">INN x CSC</p>
+<p class="theheader">INN x CSC <br>@Jurong Town Hall</p>
 
 <b>Highly configurable learning spaces</b>
 
