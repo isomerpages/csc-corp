@@ -39,6 +39,9 @@ description: ""
 </style>
 
 
+<img src="/images/Who%20We%20Are/whoweare_opt1.jpg">
+
+
 <p>The Civil Service College (CSC) was established as a statutory board under the Public Service Division in 2001. As the heart of the learning for the Singapore Public Service, we deliver an innovative, inspiring and impactful learning experience for public officers.</p>
 
 <p>We are dedicated to:</p>
