@@ -76,24 +76,24 @@ description: ""
 
 <div class="grid-container">
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
 
 </div>
 
 <div class="grid-container">
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"></div>
-	
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"></div>
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg"></div>
 
-<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
 
 </div>
+
 
 <b>Hosting Events</b>
 <p>Are you looking for a space to run your events? Does it fit the intent of fostering a culture of innovation, collaboration, experimentation, and continuous learning?</p>
