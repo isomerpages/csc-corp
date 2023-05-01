@@ -18,7 +18,7 @@ description: ""
 
 </style>
 
-<img src="/images/What%20We%20Do/Tile_INNxCSC.jpg">
+<img src="/images/What%20We%20Do/innxcsc_opt2.jpg">
 
 
 <p>
