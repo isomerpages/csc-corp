@@ -74,33 +74,11 @@ description: ""
 	</ul>
 <b>INN x CSC Learning Spaces</b>
 
-
-
-|  | |  |
+| <b>Learning Spaces</b> | |  |
 | -------- | -------- | -------- |
 | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg">    |
 | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg">   | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg">    | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innvent.jpg">    |
 
-
-<div class="grid-container">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"></div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
-
-</div>
-
-<div class="grid-container">
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"></div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg"></div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"></div>
-
-</div>
 
 
 <b>Hosting Events</b>
