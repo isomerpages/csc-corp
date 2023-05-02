@@ -12,7 +12,7 @@ description: ""
 
 <h2 class="theheader">Wi-Fi Connection</h2>
 <p>Wireless@SG is available within CSC. The details are displayed on signs throughout this building. 
-<br>
+
 For public officers who have previously set up your mobile devices and WOG laptop to access SilverGate, you will be able to connect
 to the Wifi seamlessly.</p>
 <h2 class="theheader">Cashcard Machine</h2>
