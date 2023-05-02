@@ -2,7 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Professor Peter Hawkins.md
+      - Peter Hawkins.md
       - Jocelyne Bourgon.md
       - Augustine O'Donnell GCB.md
       - Peter Shergold AC.md
