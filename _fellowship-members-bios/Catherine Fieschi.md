@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### VISITING FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_catherine_fieschi_2x.jpg">
-<p class="fellow-tenure">VISITING FELLOW, 2016 - PRESENT</p>
+<p class="fellow-tenure">2016 - PRESENT</p>
 </div>
 
 <p>
