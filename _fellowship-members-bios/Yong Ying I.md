@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### SENIOR FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/ps-ying-i.jpg">
-<p class="fellow-tenure">SENIOR FELLOW, 2022 - PRESENT</p>
+<p class="fellow-tenure">2022 - PRESENT</p>
 </div>
 
 <p>
