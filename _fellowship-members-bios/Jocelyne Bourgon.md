@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### SENIOR VISITING FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_jocelyne_bourgon_2x.jpg">
-<p class="fellow-tenure">SENIOR VISITING FELLOW, 2013 - PRESENT</p>
+<p class="fellow-tenure">2013 - PRESENT</p>
 </div>
 
 <p>
