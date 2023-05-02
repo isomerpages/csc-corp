@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### SENIOR FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships_Khoo_Boon_Hui_2x.jpg">
-<p class="fellow-tenure">SENIOR FELLOW, 2015 - PRESENT</p>
+<p class="fellow-tenure">2015 - PRESENT</p>
 </div>
 
 <p>
