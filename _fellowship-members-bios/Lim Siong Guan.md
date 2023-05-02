@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### SENIOR FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
-<p class="fellow-tenure">SENIOR FELLOW, 2012 - PRESENT</p>
+<p class="fellow-tenure">2012 - PRESENT</p>
 </div>
 
 <p>
