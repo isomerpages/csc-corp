@@ -11,7 +11,10 @@ description: ""
 </style>
 
 <h2 class="theheader">Wi-Fi Connection</h2>
-<p>Enjoy Wireless@SG within CSC. The details are displayed on signs throughout this building.</p>
+<p>Wireless@SG is available within CSC. The details are displayed on signs throughout this building. 
+
+For public officers who have previously set up your mobile devices and WOG laptop to access SilverGate, you will be able to connect
+to the Wifi seamlessly.</p>
 <h2 class="theheader">Cashcard Machine</h2>
 <p>The Cashcard Machine is on level 1, next to our security counter.</p>
 <h2 class="theheader">Nursing Room</h2>
