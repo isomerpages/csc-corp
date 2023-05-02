@@ -31,7 +31,6 @@ description: ""
 	summary {
 		background-color: #f7dbbe;
 		padding:8px;
-		border: 1px solid #9F2943;
 		font-weight: bold;
 		transition: all 0.5s ease;
 	}
@@ -45,9 +44,7 @@ description: ""
 	
 	details[open] {
 		background-color: #f7f0f0;
-		border-bottom: 1px solid #9F2943;
-		border-left: 1px solid #9F2943;
-		border-right: 1px solid #9F2943;
+
 	}
 	
 details {
