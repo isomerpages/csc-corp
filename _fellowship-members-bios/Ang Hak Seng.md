@@ -21,10 +21,11 @@ fellow-img {
 	}	
 
 </style>
+#### FELLOW
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
-<p class="fellow-tenure">FELLOW, 2017 - PRESENT</p>
+<p class="fellow-tenure">2017 - PRESENT</p>
 </div>
 
 <p>
