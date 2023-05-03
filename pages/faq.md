@@ -7,7 +7,7 @@ permalink: /faq/
 	 font-size: 1em;
 	 margin-left: 0.5em;
 	 margin-right: 0.5em;
-	 
+	 margin-top: 2em;
 	}
 	
 	summary {
@@ -42,16 +42,16 @@ details {
 </style>
 
 <details><summary>For Learners</summary>
-	<p class="Accordion-Paragraph">
-	 1
+	<div class="Accordion-Paragraph">
+		 Find out how to register for programmes here.
+		<h4></h4>
 	
 	
 	
 	
-	
-</p>
+</div>
 	</details>
 	
 <details><summary>For Training Coordinators</summary>
-		<p class="Accordion-Paragraph"></p>
+		<div class="Accordion-Paragraph">1</div>
 	</details>
