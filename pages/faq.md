@@ -181,8 +181,32 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Course Administrator or Trainer for further assistance.</p>
 	<p class="mini-header">More Questions?</p>
 			<p>If you have any questions not addressed above, you can contact us at cscollege@cscollege.gov.sg </p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
+			<h4>Request for In-House Training</h4>
+	<p class="mini-header">In-House Training</p>
+			<p>We offer in-house training programmes to meet your agency’s specific needs and challenges. You can choose from standard or customised in-house programmes.</p>
+	<p class="mini-header">Standard In-house Programmes</p>
+			<p>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option.</p>
+			<p class="mini-header">Customised In-house Programmes</p>
+			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please email the completed Training Needs Analysis (Word, 63KB) questionnaire to your Agency Engagement Manager.</p>
+			<p class="mini-header">Class Sizes</p>
+			<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public-run instead.</p>
+			<p class="mini-header">Costs</p>
+			<p>Please contact your Agency Engagement Manager to ask for a cost estimate.</p>
+			<p class="mini-header">Venues</p>
+			<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
+			<p class="mini-header">How to Apply for In-House Training</p>
+			<p>Email your Agency Engagement Manager with the following:
+			</p><ul>
+				<li>Programme title</li>
+				<li>Course code</li>
+				<li>Preferred venue (CSC or your agency’s venue)</li>
+				<li>Preferred training period (please allow a lead time of 8 weeks)</li>
+				<li>Number of times you’d like to run the programme</li>
+				<li>Standard in-house or customised programme request</li>
+			</ul>
+			We’ll respond within 3 – 5 working days. <br>
+			Find out who is your Agency Engagement Manager <a href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/AE%20Manager%20List%20(25%20April%202023).pdf">here</a>. (This file can only be view on the intranet)
+<p></p>
 	
 	
 		
