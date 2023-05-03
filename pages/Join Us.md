@@ -40,7 +40,7 @@ p {
 	
 	}
 	
-img {
+.joinus-image {
 	width: 100% !important;
 	height: 100%;
 	}
