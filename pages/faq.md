@@ -150,9 +150,31 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<p class="mini-header">Reviewing Your Officer’s Registration</p>
 			<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
 			<p class="mini-header">Unable to Review Registrations in Time</p>
+			<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC. Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after 3 days will lapse and cannot be reactivated. The officer can re-submit a new application if their application has lapsed.</p>
 			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
-			<p class="mini-header"></p>
-			<p class="mini-header"></p>
+			<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.&nbsp;
+
+Note: Only one Covering TC can be assigned to each TC.</p>
+			<p class="mini-header">Registration Status</p>
+					<p>We’ll email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:             </p><ul>
+			<li>The officer will receive a Programme Placement Letter (PPL).</li>
+			<li>You will receive a PPL summary for each programme. It lists the officers from your agency attending the programme.</li>
+		</ul>
+		Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.
+			<p></p>
+			<p class="mini-header">Contacting Us</p>
+	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us page.</a></p>
+		<h4>Attendance of Your Officers</h4>
+	<p class="mini-header">Let Us Know They’re Here</p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
+	<p class="mini-header"></p>
 	
 	
 		
