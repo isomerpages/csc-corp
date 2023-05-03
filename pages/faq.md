@@ -68,6 +68,17 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 		<p class="mini-header">Let Us Know You’re Here</p>
 		<p>Simply scan your NRIC, driving licence or staff pass at any of our kiosks conveniently located throughout CSC. If you have any other form of identification with your NRIC barcode on it, that'll work too.</p>
 		<p class="mini-header">Where to Find the Kiosks</p>
+		<p>
+			There are 10 Kiosks conveniently located throughout CSC:
+		</p><ul>
+			<li>Level 1 - 4 kiosks</li>
+			<li>Level 2 - 1 kiosk</li>
+			<li>Level 3 - 3 kiosks</li>
+			<li>Level 4 - 1 kiosk</li>
+			<li>Level 5 - 1 kiosk</li>
+		</ul>
+		You may scan your ID at any kiosk - it doesn't matter where your class is being held.
+		<p></p>
 		<p class="mini-header">How Many Times to Scan</p>
 		<p class="mini-header"></p>
 		<p class="mini-header"></p>
