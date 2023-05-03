@@ -50,7 +50,9 @@ details {
 	}
 
 @media only screen and (max-width: 600px) {
-	
+	.grid-container {
+		display: none;
+	}
 
 }	
 	
