@@ -166,13 +166,21 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us page.</a></p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
-	<p class="mini-header"></p>
+			<p>Your officers simply need to scan NRIC, driving licence or staff pass at any of the kiosks conveniently located throughout CSC.</p>
+	<p class="mini-header">What to Bring</p>
+			<p>Your officers will need to bring any form of identification with their NRIC barcode on it, such as their NRIC, driving licence or staff pass. If there is no form of identification, the officer can manually enter their NRIC number at any of the kiosks. </p>
+	<p class="mini-header">Name Labels for Officers</p>
+			<p>After scanning, a personalised name label will be printed. For security purposes, your officers must display their name labels prominently at all times when in CSC. Name labels can be re-printed if requested (anytime between 8.00am to 5.15pm)</p>
+	<p class="mini-header">Sending a Replacement Officer</p>
+			<p>Please notify us at cscollege@cscollege.gov.sg with the details of the replacement(s) at least 5 working days before the class starts. </p>
+	<p class="mini-header">What the Replacing Officer Needs to Know </p>
+			<p>All officers replacing their colleagues will need to have the following information: Name of colleague being replaced, Title of the course or course code This will ensure that the replacement is processed successfully.</p>
+	<p class="mini-header">Where to Get Assistance</p>
+			<p>Officers can email us at cscollege@cscollege.gov.sg if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
+	<p class="mini-header">Replaced Officer Turns Up for Class</p>
+			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Course Administrator or Trainer for further assistance.</p>
+	<p class="mini-header">More Questions?</p>
+			<p>If you have any questions not addressed above, you can contact us at cscollege@cscollege.gov.sg </p>
 	<p class="mini-header"></p>
 	<p class="mini-header"></p>
 	
