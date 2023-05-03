@@ -19,9 +19,15 @@ table {
 	border: 1px solid black;
 	}
 
+.Main-header {
+	font-weight: bold;
+	font-size: 1.3em;
+	}	
 </style>
 
-<b>Address</b>
+
+<h3>How to get here</h3>
+<p class="Main-header">Address</p>
 
 <div class="grid-container">
 	<div>
@@ -36,14 +42,14 @@ table {
 	<div><p>To view the interactive map, please click <a href="">here</a>.</p></div>
 </div>
 
-<b>Operating Hours</b>
+<p class="Main-header">Operating Hours</p>
 <p> 
 	8.30am to 5.30pm (Monday to Thursdays) <br>
 	8.30am to 5.00pm (Fridays) <br>
 	Closed on Saturdays, Sundays and public holidays
 </p>
 
-<b>Getting Here</b>
+<p class="Main-header">Getting Here</p>
 
 <b>By MRT</b>
 <p>Walk 12 mins from Jurong East MRT (NS1/EW24) - Exit B. Walk pass The JTC Summit and up the link bridge.</p>
