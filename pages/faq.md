@@ -46,7 +46,7 @@ details {
 
 <details><summary>For Learners</summary>
 	<div class="Accordion-Paragraph">
-		 Find out how to register for programmes here.
+		<p>Find out how to register for programmes here.</p>
 		<h4>Register for a Programme:</h4>
 		<p class="mini-header">Searching for a programme</p> 
 		<p>
@@ -125,5 +125,23 @@ If you don’t withdraw your registration at all, you’ll be considered absent 
 	</details>
 	
 <details><summary>For Training Coordinators</summary>
-		<div class="Accordion-Paragraph">1</div>
+		<div class="Accordion-Paragraph">
+			<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
+			<h4>Managing Your Training Coordinator Account</h4>
+			<p class="mini-header">Creating An Account</p>
+			<p class="mini-header">Update Your Agency's Contact List</p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+			<p class="mini-header"></p>
+	
+	
+		
+	
+	
+	
+		</div>
 	</details>
