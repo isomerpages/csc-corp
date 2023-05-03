@@ -129,12 +129,28 @@ If you don’t withdraw your registration at all, you’ll be considered absent 
 			<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 			<h4>Managing Your Training Coordinator Account</h4>
 			<p class="mini-header">Creating An Account</p>
-			<p class="mini-header">Update Your Agency's Contact List</p>
-			<p class="mini-header"></p>
-			<p class="mini-header"></p>
-			<p class="mini-header"></p>
-			<p class="mini-header"></p>
-			<p class="mini-header"></p>
+			<p>Email us at cscollege@cscollege.gov.sg with the following information:</p>
+<ul>
+  <li>Name</li>
+  <li>NRIC</li>
+  <li>Email address</li>
+  <li>Contact number</li>
+  <li>Designation</li>
+  <li>Organisation</li>
+			</ul>
+		<p class="mini-header">Update Your Agency's Contact List</p>
+			<p>Email us cscollege@cscollege.gov.sg with the updates.</p>
+			<h4>Registering Your Officers for Programmes</h4>
+			<p class="mini-header">Individual or Bulk Registration</p>
+			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
+
+Pro tip: You can also use the Individual or Bulk Registration function to register yourself for programmes.</p>
+			<p class="mini-header">Registration Closing Dates</p>
+			<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
+			<p class="mini-header">Reviewing Your Officer’s Registration</p>
+			<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
+			<p class="mini-header">Unable to Review Registrations in Time</p>
+			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
 			<p class="mini-header"></p>
 			<p class="mini-header"></p>
 	
@@ -143,5 +159,5 @@ If you don’t withdraw your registration at all, you’ll be considered absent 
 	
 	
 	
-		</div>
-	</details>
+</div>
+</details>
