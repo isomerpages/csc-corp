@@ -27,10 +27,15 @@ table {
 	display: grid;
 	grid-template-columns: 45% 10% 45%;
 	}
-	
+
+.Main-header {
+	font-weight: bold;
+	font-size: 1.3em;
+	}	
+
 </style>
 <h3>How to get here</h3>
-<p><b>Address</b></p>
+<p class="Main-header">Address</p>
 <div class="grid-container-vertline">
 	<div class="grid-child">
 		31 North Buona Vista Road, Singapore 275983
@@ -42,13 +47,13 @@ table {
 
 
 
-<b>Operating Hours</b>
+<p class="Main-header">Operating Hours</p>
 <ul>
 	<li>8.30am to 5.30pm ( Monday to Thursdays )</li>
 	<li>8.30am to 5.00pm (Fridays)</li>
 	<li>Closed on Saturdays, Sundays and public holidays</li>
 	</ul>
-<b>Getting Here</b>
+<p class="Main-header">Getting Here</p>
 <p>We are a five-minute walk from several public transport stops.</p>
 <b>By MRT</b>
 <p>Take the Circle Line or East-West line and alight at Buona Vista MRT station. Look out for directions towards 'Civil Service College'.</p>
