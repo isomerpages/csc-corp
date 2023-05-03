@@ -150,22 +150,22 @@ description: ""
 
 <h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
 <div class="grid-container">
-	<div class="fellow-card">
+<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/peterhawkins.png">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
 	</div>
-		<div class="fellowship-card-text"><p class="fellow-name">Peter Hawkins</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
-		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/peter-hawkins">Read Bio</a>
+			<div class="fellowship-card-text"><p class="fellow-name">Augustine O'Donnell</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div>
 	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/augustine-o-donnell">Read Bio</a></div>
+</div>
 		
 </div>
-</div>
+
 	
 <!-- 2nd Senior Fellowship Card Card -->	
 <div class="fellow-card">
@@ -186,18 +186,19 @@ description: ""
 <div class="grid-container">
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
+			<img class="fellowship-image" src="/images/FellowshipImages/peterhawkins.png">
 	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Augustine O'Donnell</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime MInisters Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div>
+		<div class="fellowship-card-text"><p class="fellow-name">Peter Hawkins</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2022 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Professor Peter Hawkins is the Honorary president of both the Association of Professional Executive Coaching and Supervision and the Academy of Executive Coaching</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-hawkins">Read Bio</a>
 	</div>
-	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/augustine-o-donnell">Read Bio</a></div>
-</div>
 		
+</div>
 </div>
 
 
