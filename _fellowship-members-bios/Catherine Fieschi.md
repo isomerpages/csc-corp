@@ -21,7 +21,7 @@ fellow-img {
 	}	
 
 </style>
-#### VISITING FELLOW
+<h4 style="text-align:center;">VISITING FELLOW</h4>
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_catherine_fieschi_2x.jpg">
