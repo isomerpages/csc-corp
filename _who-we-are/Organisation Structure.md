@@ -49,6 +49,12 @@ details {
 		margin-bottom: 2.2em;
 	}
 
+@media only screen and (max-width: 600px) {
+	
+
+}	
+	
+	
 </style>
 <!-- Hello there this is a HTML comment-->
 
