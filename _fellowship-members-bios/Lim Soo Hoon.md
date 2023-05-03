@@ -21,7 +21,7 @@ fellow-img {
 	}	
 
 </style>
-#### SENIOR FELLOW
+<h4 style="text-align:center;">SENIOR VISITING FELLOW</h4>
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
