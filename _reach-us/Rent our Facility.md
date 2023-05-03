@@ -11,6 +11,12 @@ description: ""
 	font-size: 1.6em;
 	}	
 	
+.grid-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 2%;
+	
+	}	
 </style>
 
 <p>We currently operate on two premises - Civil Service College at North Buona Vista Road and INN x CSC at Jurong Town Hall.</p>
@@ -72,6 +78,11 @@ description: ""
 	<li>Creating a <b>safe space to ideate</b>, test, learn, and discover</li>	
 	<li>Integrating <b>learning &amp; doing</b>, to maximise transfer and impact at work.</li>	
 	</ul>
+
+<div class="grid-container">
+ 
+
+</div>
 
 | <b>INN x CSC Learning Spaces</b> | |  |
 | -------- | -------- | -------- |
