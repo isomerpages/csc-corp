@@ -80,14 +80,15 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 		You may scan your ID at any kiosk - it doesn't matter where your class is being held.
 		<p></p>
 		<p class="mini-header">How Many Times to Scan</p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
-		<p class="mini-header"></p>
+		<p>You only need to scan your ID once per day. If your class takes place over a few days, you'll need to scan your ID on each and every day.</p>
+		<p class="mini-header">I Didn’t Bring Any ID</p>
+		<p class="mini-header">I Forgot to Scan My ID</p>
+		<p class="mini-header">Name Labels</p>
+		<p class="mini-header">My Label Went Missing</p>
+		<p class="mini-header">I’m Replacing My Colleague</p>
+		<p class="mini-header">The Colleague I’m Replacing Has Turned Up for Class</p>
+		<p class="mini-header">I’ve Been Replaced By Mistake</p>
+		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
 	
 	
 	
