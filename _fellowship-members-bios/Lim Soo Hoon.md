@@ -6,8 +6,8 @@ description: ""
 <style>
 .fellow-image-pic {
 	border-radius: 50%;
-	height: 30% !important;
-	width: 30% !important;
+	height: 25% !important;
+	width: 25% !important;
 	}
 	
 fellow-img {
