@@ -78,7 +78,7 @@ description: ""
 	<li>Creating a <b>safe space to ideate</b>, test, learn, and discover</li>	
 	<li>Integrating <b>learning &amp; doing</b>, to maximise transfer and impact at work.</li>	
 	</ul>
-
+<b>INN x CSC Learning Spaces</b>
 <div class="grid-container">
 	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"> </div>
 	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
@@ -90,13 +90,6 @@ description: ""
 	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innvent.jpg"></div>
 
 </div>
-
-| <b>INN x CSC Learning Spaces</b> | |  |
-| -------- | -------- | -------- |
-| <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg">     | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg">    |
-| <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg">   | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg">    | <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innvent.jpg">    |
-
-
 
 <b>Hosting Events</b>
 <p>Are you looking for a space to run your events? Does it fit the intent of fostering a culture of innovation, collaboration, experimentation, and continuous learning?</p>
