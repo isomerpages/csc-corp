@@ -15,7 +15,7 @@ description: ""
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-gap: 2%;
-	
+	margin-bottom: 2%;
 	}	
 </style>
 
