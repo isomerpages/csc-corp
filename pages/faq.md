@@ -61,8 +61,12 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 		<p class="mini-header">When to Register</p>
 		<p>Register for a programme at least 1 month before the start date. Most programmes accept registrations on a first-come, first-serve basis, so it’s better to register early. Pro tip:&nbsp; Registration normally closes 5 working days before each programme’s start date, unless otherwise stated.</p>
 		<p class="mini-header">Confirming your Registration</p>
+		<p>We’ll let you know about your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we’ll send you a Programme Placement Letter (PPL) via email. The PPL will contain administrative details of your programme. While we’ll always do our best to confirm your registration as early as possible, sometimes classes are postponed or cancelled due to unforeseen circumstances.</p>
 		<p class="mini-header">Learning with Disabilities</p>
+		<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s Customer Experience Team. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
+		<h4>Attending Your Programme:</h4>
 		<p class="mini-header">Let Us Know You’re Here</p>
+		<p>Simply scan your NRIC, driving licence or staff pass at any of our kiosks conveniently located throughout CSC. If you have any other form of identification with your NRIC barcode on it, that'll work too.</p>
 		<p class="mini-header">Where to Find the Kiosks</p>
 		<p class="mini-header">How Many Times to Scan</p>
 		<p class="mini-header"></p>
