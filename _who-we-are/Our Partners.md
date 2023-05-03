@@ -61,6 +61,11 @@ ul{
 li {
 	font-size: 1em;
 	}
+	
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}	
 </style>
 
 <p>We develop strong, long-term partnerships with a wide and diverse range of local and international organisations.</p>
