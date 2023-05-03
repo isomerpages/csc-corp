@@ -80,8 +80,9 @@ description: ""
 	</ul>
 
 <div class="grid-container">
- 
-
+	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"> </div>
+	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
+	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"> </div>
 </div>
 
 | <b>INN x CSC Learning Spaces</b> | |  |
