@@ -54,6 +54,10 @@ details {
 </p>
 		<p class="mini-header">No suitable data for the programme you wish to register</p>
 		<p>Sign up at 'Add to Watchlist' to get a notification when the next available run is published on the programme portal.</p>
+		<p class="mini-header">How to Register</p>
+		<p>You can register via our [CSC programme portal](https://register.csc.gov.sg/). navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.&nbsp;&nbsp;
+
+Note: To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 	
 	
 	
