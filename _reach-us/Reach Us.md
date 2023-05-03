@@ -13,8 +13,6 @@ description: ""
 .button {
 	display: block;
 	background-color: #F68B1F;
-	border: 1px solid #F68B1F;
-	border-radius: 0%;
 	color:white !important;
 	text-decoration: none !important; 
 	padding: 0.7em;
