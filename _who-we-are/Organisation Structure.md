@@ -35,7 +35,7 @@ description: ""
 		cursor: pointer;
 		color: white;
 		background-color: #F68B1F;
-		
+		font-weight: bold;
 	}
 	
 	details[open] {
@@ -44,7 +44,7 @@ description: ""
 	}
 	
 details {
-		box-shadow: 0px 0px 20px #d4d4d4;
+		box-shadow: 0px 0px 10px #d4d4d4;
 		margin-top: 1em;
 		margin-bottom: 2.2em;
 	}
