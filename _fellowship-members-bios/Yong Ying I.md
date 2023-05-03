@@ -21,7 +21,7 @@ fellow-img {
 	}	
 
 </style>
-<h4 style="text-align:center;">SENIOR VISITING FELLOW</h4>
+<h4 style="text-align:center;">SENIOR FELLOW</h4>
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/ps-ying-i.jpg">
