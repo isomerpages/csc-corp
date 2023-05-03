@@ -21,7 +21,7 @@ fellow-img {
 	}	
 
 </style>
-#### FELLOW
+<h4 style="text-align:center;">FELLOW</h4>
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
