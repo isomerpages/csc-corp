@@ -262,21 +262,21 @@ description: ""
 <!-- Second layer of Senior Fellows-->
 
 <div class="grid-container">
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
+			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
 		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Peter Ong Boon Kwee</p></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Lim Soo Hoon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
-	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/peter-ong-boon-kwee">Read Bio</a>
-		</div>				
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
+		</div>						
   </div>
-</div>
+	</div>
+
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -303,16 +303,16 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
+			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
 		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Lim Soo Hoon</p></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Peter Ong Boon Kwee</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
-		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
-		</div>						
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Peter Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-ong-boon-kwee">Read Bio</a>
+		</div>				
   </div>
-	</div>
+</div>
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
