@@ -239,22 +239,24 @@ description: ""
   </div>
  </div>
 
-	
-	
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-	<div class="fellowship-text">
-		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
-		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Lim Soo Hoon</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
-		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
-		</div>						
-  </div>
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
 	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Lim Siong Guan</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lim Siong Guan was Group President of GIC from 2007 to 2016, Chairman of the Economic Development Board from 2006 to 2009, and Head of the Civil Service from 1999 to 2005.</div>
+	</div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/lim-siong-guan">Read Bio</a>
+			</div>
+	</div>
+</div>	
+	
+	
+
 </div>
 
 <!-- Second layer of Senior Fellows-->
@@ -299,19 +301,18 @@ description: ""
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-text">
-	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
-	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Lim Siong Guan</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Professor Lim Siong Guan was Group President of GIC from 2007 to 2016, Chairman of the Economic Development Board from 2006 to 2009, and Head of the Civil Service from 1999 to 2005.</div>
-	</div>
+	<div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Lim Soo Hoon</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim Soo Hoon served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
 		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/lim-siong-guan">Read Bio</a>
-			</div>
+			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
+		</div>						
+  </div>
 	</div>
-</div>
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
