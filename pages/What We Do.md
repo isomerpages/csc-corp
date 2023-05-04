@@ -103,8 +103,8 @@ hr {
 	<div><a href="https://dc.learn.gov.sg"><img src="/images/What%20We%20Do/tile_learn dc.jpg"></a></div>
 </div>
 <div class="grid-container">
-	<div><a href="https://learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN.jpg"></a></div>
-	<div><a href="https://dc.learn.gov.sg"><img src="/images/What%20We%20Do/Tile_LEARN DC.jpg"></a></div>
+	<div><a href="https://knowledge.csc.gov.sg"><img src="/images/What%20We%20Do/tile_cscknowledge.jpg"></a></div>
+	<div><a href=""><img src="/images/What%20We%20Do/tile_learn.jpg"></a></div>
 	<div><a href="https://odex.csc.gov.sg"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
 
 
