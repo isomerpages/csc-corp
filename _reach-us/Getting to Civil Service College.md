@@ -54,7 +54,7 @@ table {
 	<li>Closed on Saturdays, Sundays and public holidays</li>
 	</ul>
 <p class="Main-header">Getting Here</p>
-<p>We are a five-minute walk from several public transport stops.</p>
+
 <b>By MRT</b>
 <p>Take the Circle Line or East-West line and alight at Buona Vista MRT station. Look out for directions towards 'Civil Service College'.</p>
 
