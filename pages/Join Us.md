@@ -94,7 +94,7 @@ Job</p>
 		
    <a class="button" href="https://www.careers.gov.sg">SEE JOB OPENINGS</a>
 		<p class="Joinus-content">Don't see anything that might be a good fit right now?</p>
-		<p class="Joinus-content">Please send your resume to <span style="text-decoration:underline;">cscollege_cschr@cscollege.gov.sg</span> and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
+		<p class="Joinus-content">Please send your resume to <a href="mailto:cscollege_cschr@cscollege.gov.sg">cscollege_cschr@cscollege.gov.sg</a> and tell us more about yourself, including what you are good at, where you aspire to contribute, etc. We'll contact you if a suitable position opens up.</p>
 	</div>
 	<div>
 		<hr>
