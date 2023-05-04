@@ -111,11 +111,14 @@ details {
 		<h4 class="header-left">Business Support Units</h4>
 	 </div>
 <div class="grid-child-OS-2">
-	<!-- Below here will be the 3 Business Support unit accordians-->
+	<!-- Below here will be the 4 Business Support unit accordians-->
 	<div id="myaccordion">
 		<details>
 			<summary>Digital Learning Services</summary>
 			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
+		</details>
+		<details><summary>Project INEX (INtegrated EXperience)</summary>
+			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view, so as to provide a seamless learner and agency experience</p>
 		</details>
 		<details>
 			<summary>Learning Futures Group</summary>
