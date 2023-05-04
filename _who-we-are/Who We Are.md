@@ -52,7 +52,7 @@ description: ""
 <div class="grid-container">
 	<div>
 		<h3 class="theheader">Enhancing the Public Service</h3>
-		<p>We deepen public officer's knowledge and capabilities, strengthen their understanding and empathy for the needs of our citizens, and reinforce their values and commitment to excellence.</p>
+		<p>We deepen public officers' knowledge and capabilities, strengthen their understanding and empathy for the needs of our citizens, and reinforce their values and commitment to excellence.</p>
 	</div>
 
 	
