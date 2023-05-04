@@ -99,7 +99,7 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
 		<p>You may cancel an application that your TC has not yet approved on the portal directly under the “Check Application Staus” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
 		<p class="mini-header">Sending a Replacement</p>
-		<p>For most programmes, we’re happy to let your colleague replace you at no extra charge. We strongly encourage you to select a colleague with a similar profile, so he or she can fully benefit from the programme.<br>Email us at cscollege@cscollege.gov.sg at least 5 working days before the programme starts. Include the following:
+		<p>For most programmes, we’re happy to let your colleague replace you at no extra charge. We strongly encourage you to select a colleague with a similar profile, so he or she can fully benefit from the programme.<br>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 5 working days before the programme starts. Include the following:
 		</p><ul>
 			<li>Your name</li>
 			<li>Programme title</li>
