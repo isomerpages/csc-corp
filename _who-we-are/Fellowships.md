@@ -148,7 +148,9 @@ description: ""
 	.grid-container {
 		display: block;
 	}
-
+	.card-link {
+		position: static;
+	}
 }		
 	
 </style>
