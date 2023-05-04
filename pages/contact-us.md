@@ -2,31 +2,38 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Civil Service College
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 31 North Buona Vista Road
+      - Singapore 275983
+      - ""
+    operating_hours: []
+    maps_link: ""
+    title: Civil Service College
+  - address:
+      - 9 Jurong Town Hall Road
+      - Level 3
+      - Singapore 609431
+    operating_hours: []
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.3287218&lng=103.7419323
+    title: INN x CSC
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: ""
+      - email: cscollege@cscollege.gov.sg
+      - other: ""
+    title: General Enquiries
+  - content:
+      - phone: ""
+      - email: cscollege_learn@cscollege.gov.sg
+      - other: ""
+    title: LEARN-related Enquiries
+  - content:
+      - phone: ""
+      - email: shireen_lim@cscollege.gov.sg
+      - other: You may contact our Quality Service Manager (QSM) / Director,
+          Communications and Customer Engagement at 1800 874 0604 on
+          service-related feedback, or email her at the above email address.
+    title: Service-related Matters
 ---

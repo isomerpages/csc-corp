@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Brand Elements/csc_logo_100px.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Who We Are
+    collection: who-we-are
+  - title: What We Do
+    url: /what-we-do
+  - title: Join Us
+    url: /join-us
+  - title: Reach Us
+    collection: reach-us
+  - title: testing folder
+    collection: testing-folder

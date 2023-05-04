@@ -1,0 +1,9 @@
+collections:
+  testing-folder:
+    output: true
+    order:
+      - Another Testing Page ( Modal ).md
+      - Testing Indepth/Testing Indepth 2.md
+      - Testing Indepth/Testing 1.md
+      - Testing Indepth/.keep
+      - Current Test.md
