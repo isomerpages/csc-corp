@@ -36,7 +36,7 @@ permalink: /terms-of-use/
 <p>6. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <h4>Queries</h4>
 <p>
-	7. If you have any query/ies on the Terms of Membership, please send your queries to <u>cscollege@cscollege.gov.sg</u>
+	7. If you have any query/ies on the Terms of Membership, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>
 </p>
 
 <h2>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration</h2>
@@ -90,7 +90,7 @@ permalink: /terms-of-use/
 <p>5. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 
 <p><b>Queries</b></p>
-<p>6. If you have any queries on these Registration Terms, please send your queries to cscollege@cscollege.gov.sg.</p>
+<p>6. If you have any queries on these Registration Terms, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
 
 <h4>Terms and Conditions of Civil Service College (“CSC”) Website Online Registration of Events </h4>
 <p>The CSC Website (“Website”) is not linked to any training systems (e.g. HRP and Workday Learning@Gov). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register online for any events offered at the CSC Website. For Organisations on HRP and Workday Learning@Gov, you are strongly encouraged to use HRP and Workday Learning@Gov instead. For complimentary events, please inform your Training Coordinator of your attendance at the event so as to update your training records.</p>
@@ -118,4 +118,4 @@ permalink: /terms-of-use/
 <p><b>Terms of Use</b></p>
 <p>3. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <p><b>Queries</b></p>
-<p>4. If you have any queries on these Registration Terms or the Events, please send your queries to cscollege@cscollege.gov.sg.</p>
+<p>4. If you have any queries on these Registration Terms or the Events, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
