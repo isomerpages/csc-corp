@@ -129,7 +129,7 @@ If you don’t withdraw your registration at all, you’ll be considered absent 
 			<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 			<h4>Managing Your Training Coordinator Account</h4>
 			<p class="mini-header">Creating An Account</p>
-			<p>Email us at cscollege@cscollege.gov.sg with the following information:</p>
+			<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>with the following information:</p>
 <ul>
   <li>Name</li>
   <li>NRIC</li>
