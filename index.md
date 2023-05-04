@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Learn at CSC
           description: ""
-          url: https://google.com
+          url: https://register.csc.gov.sg/
         - title: About CSC
           description: ""
           url: /who-we-are
