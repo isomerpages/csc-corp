@@ -141,7 +141,15 @@ description: ""
       font-size: 150%;
       margin: 0 0 15px;
     }	
-	
+
+/*Below is the mobile query*/	
+
+@media only screen and (max-width: 600px) {
+	.grid-container {
+		display: block;
+	}
+
+}		
 	
 </style>
 
