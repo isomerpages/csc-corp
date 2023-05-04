@@ -139,7 +139,7 @@ If you don’t withdraw your registration at all, you’ll be considered absent 
   <li>Organisation</li>
 			</ul>
 		<p class="mini-header">Update Your Agency's Contact List</p>
-			<p>Email us cscollege@cscollege.gov.sg with the updates.</p>
+			<p>Email us <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
 			<h4>Registering Your Officers for Programmes</h4>
 			<p class="mini-header">Individual or Bulk Registration</p>
 			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
