@@ -98,4 +98,4 @@ description: ""
 <p>INN x CSC have hosted learning journeys for agencies such as HDB, NP, IRAS, MINDEF, MOE and many more.</p>
 
 <b>Keen to know more?</b>
-<p>Email us at innxcsc@cscollege.gov.sg to find out more about our learning spaces and how you can apply the design principles at work.</p>
+<p>Email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a> to find out more about our learning spaces and how you can apply the design principles at work.</p>
