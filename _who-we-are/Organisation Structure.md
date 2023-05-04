@@ -73,6 +73,9 @@ details {
 	<li>Mr Roger Tan, Assistant CEO (International)</li>
 
 </ul>
+	<details><summary>Internal Audit</summary>
+		<p class="Accordion-Paragraph">Provide independent assurance that College's risk management, governance and internal control processes are operating effectively.</p>
+	</details>
 </div>
 </div>
 
