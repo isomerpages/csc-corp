@@ -100,7 +100,7 @@ Job</p>
 		<hr>
 		<h5>Internship Opportunities</h5>
 		<p class="Joinus-content">As the nexus of learning for the Singapore Public Service, interning at CSC will help you to learn more about how the Public Service operates, and understand why we do what we do. With a diverse range of areas and roles, as well as opportunities for valuable hands-on experience through meaningful and impactful projects, you will be able to develop your potential at CSC.</p>
-		<p class="Joinus-content">Send your resume to <span style="text-decoration:underline;">cscollege_cschr@cscollege.gov.sg</span> indicating your strengths, career aspirations and availability.</p>
+		<p class="Joinus-content">Send your resume to <a href="mailto:cscollege_cschr@cscollege.gov.sg">cscollege_cschr@cscollege.gov.sg</a> indicating your strengths, career aspirations and availability.</p>
 	</div>
 	<div>
 		<hr>
