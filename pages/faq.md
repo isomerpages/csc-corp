@@ -183,7 +183,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 	<p class="mini-header">Replaced Officer Turns Up for Class</p>
 			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Programme Administrator or Trainer for further assistance.</p>
 	<p class="mini-header">More Questions?</p>
-			<p>If you have any questions not addressed above, you can contact us at cscollege@cscollege.gov.sg </p>
+			<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a></p>
 			<h4>Request for In-House Training</h4>
 	<p class="mini-header">In-House Training</p>
 			<p>We offer in-house training programmes to meet your agency’s specific needs and challenges. You can choose from standard or customised in-house programmes.</p>
