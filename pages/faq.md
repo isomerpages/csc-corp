@@ -143,6 +143,7 @@ details {
 			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
 
 Pro tip: You can also use the Individual or Bulk Registration function to register yourself for programmes.</p>
+			<p>Click <a href="/files/steps%20to%20submit%20registration%20on%20pp_tc.pdf">here</a> to view guide:</p>
 			<p class="mini-header">Registration Closing Dates</p>
 			<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 			<p class="mini-header">Reviewing Your Officer’s Registration</p>
