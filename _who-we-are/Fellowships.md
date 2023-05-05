@@ -419,7 +419,7 @@ description: ""
 	</div>
 </div>
 
-<h2 class="header-fellows-middle">Fellows</h2>
+<h3 class="header-fellows-middle">Fellows</h3>
 <div class="grid-container">
 
 
