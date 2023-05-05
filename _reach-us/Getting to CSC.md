@@ -67,7 +67,7 @@ table {
 
 <br>
 <b>Parking at CSC</b>
-<p>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public holidays.</p>
+<p>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and Public Holidays.</p>
 
 <b>Fees</b>
 <table>
