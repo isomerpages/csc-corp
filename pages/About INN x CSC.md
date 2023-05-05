@@ -15,6 +15,12 @@ description: ""
 	font-weight: bold;
 	color: #F68B1F;
 	}
+	
+.grid-container {
+		display: grid;
+		grid-template-columns: 60% 40%;
+		
+	}
 
 </style>
 
@@ -39,10 +45,17 @@ description: ""
 
 
 <p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
-<img src="/images/carousel_knowledge_02_inn.jpg">
-<p class="paragraph-group2">Case Study</p>
-<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
+<div class="grid-container">
+	<div>
+		<p class="paragraph-group2">Case Study</p>
+		<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
+	
+</div>
+	<div><img src="/images/carousel_knowledge_02_inn.jpg"></div>
 
+
+
+</div>
 <img src="/images/innxcsc-launch.jpg">
 <p class="paragraph-group2">Launch</p>
 <p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
