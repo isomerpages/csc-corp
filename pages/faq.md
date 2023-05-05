@@ -125,7 +125,7 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 			<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 			<h4>Managing Your Training Coordinator Account</h4>
 			<p class="mini-header">Creating An Account</p>
-			<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>with the following information:</p>
+			<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the following information:</p>
 <ul>
   <li>Name</li>
   <li>NRIC</li>
@@ -162,7 +162,7 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us page.</a></p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
-			<p>Your officers simply need to scan NRIC, driving licence or staff pass at any of the kiosks conveniently located throughout CSC.</p>
+			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
 	<p class="mini-header">What to Bring</p>
 			<p>Your officers will need to bring any form of identification with their NRIC barcode on it, such as their NRIC, driving licence or staff pass. If there is no form of identification, the officer can manually enter their NRIC number at any of the kiosks. </p>
 	<p class="mini-header">Name Labels for Officers</p>
@@ -170,7 +170,12 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 	<p class="mini-header">Sending a Replacement Officer</p>
 			<p>Please notify us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the details of the replacement(s) at least 5 working days before the class starts. </p>
 	<p class="mini-header">What the Replacing Officer Needs to Know </p>
-			<p>All officers replacing their colleagues will need to have the following information: Name of colleague being replaced, Title of the course or course code This will ensure that the replacement is processed successfully.</p>
+			<p>All officers replacing their colleagues will need to have the following information: 
+			</p><ul>
+				<li>Name of colleague being replaced</li>
+				<li>Title of the course or course code</li>
+			</ul>
+		<p>This will ensure that the replacement is processed successfully.</p>
 	<p class="mini-header">Where to Get Assistance</p>
 			<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
 	<p class="mini-header">Replaced Officer Turns Up for Class</p>
