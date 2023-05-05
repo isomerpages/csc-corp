@@ -70,7 +70,7 @@ li {
 
 <p>We develop strong, long-term partnerships with a wide and diverse range of local and international organisations.</p>
 
-<h3>80 International Partners in 29 Countries.</h3>
+<h4>80 International Partners in 29 Countries.</h4>
 <hr>
 <div class="grid-container">
 	<div class="grid-child-OP-1"><h4>Singapore</h4></div>
