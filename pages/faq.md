@@ -112,13 +112,9 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 				<li>Department</li>
 		 </ol>
 		</ul>
-	Note: For programmes that require pre-coursework or screening, we’ll let you know if your request to send a replacement is successful.
+<p>Note: For programmes that require pre-coursework or screening, we’ll let you know if your request to send a replacement is successful.</p>
 		<p class="mini-header">Withdrawing Your Registration</p>
-		<p>If you can’t find a colleague to replace you, or if the programme doesn’t allow for it, you’ll need to withdraw your registration. To do so, email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 3 weeks before the programme starts to avoid any penalty charges.&nbsp;
-<br>
-If you withdraw your registration less than 3 weeks before the programme starts, a withdrawal fee will be incurred (equivalent to 25% of the programme fee).&nbsp;
-<br>
-If you don’t withdraw your registration at all, you’ll be considered absent and the full programme fee will be charged.</p>
+		<p>If you can’t find a colleague to replace you, or if the programme doesn’t allow for it, you’ll need to withdraw your registration. To do so, email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 3 weeks before the programme starts to avoid any penalty charges. If you withdraw your registration less than 3 weeks before the programme starts, a withdrawal fee will be incurred (equivalent to 25% of the programme fee). If you don’t withdraw your registration at all, you’ll be considered absent and the full programme fee will be charged.</p>
 	
 	
 </div>
