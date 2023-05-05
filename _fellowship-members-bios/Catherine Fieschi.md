@@ -29,7 +29,7 @@ fellow-img {
 </div>
 
 <p>
-She moved to the policy world after ten years as an academic, first as director of London-based think tank Demos, then as director of research at the British Council. She founded Counterpoint in 2011 to focus on new forms of risk and their impact on policy and politics.
+Catherine Fieschi moved to the policy world after ten years as an academic, first as director of London-based think tank Demos, then as director of research at the British Council. She founded Counterpoint in 2011 to focus on new forms of risk and their impact on policy and politics.
  
 A recognised expert on the politics of populism, Dr Fieschi is a long-standing adviser to European leaders and campaigns. She is a regular contributor to radio and television debates, and has written numerous pamphlets and articles on extremism, populism, citizen engagement and social innovation; Her most recent book is Populocracy (2019).
  
