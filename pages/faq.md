@@ -49,7 +49,7 @@ details {
 		<h4>Register for a Programme:</h4>
 		<p class="mini-header">Searching for a programme</p> 
 		<p>
-	You can search for your preferred programmes on <a href="https://go.gov.sg/register.csc.gov.sg/">CSC programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
+	You can search for your preferred programmes on <a href="https://go.gov.sg/csc-corporatewebsite-programmeportal/">CSC programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
 </p>
 		<p class="mini-header">No suitable date for the programme you wish to register</p>
 		<p>Sign up at 'Add to Watchlist' to get a notification when the next available run is published on the programme portal.</p>
