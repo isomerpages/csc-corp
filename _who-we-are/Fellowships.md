@@ -158,7 +158,7 @@ description: ""
 
 <p>We aim to forge strong links with international thought leaders, leverage the rich experiences of policy practitioners and harness the diverse views of academics.</p>
 
-<h2 class="header-fellows-middle">Senior Visiting Fellows</h2>
+<h3 class="header-fellows-middle">Senior Visiting Fellows</h3>
 <div class="grid-container">
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
@@ -231,7 +231,7 @@ description: ""
 
 	
 <!--Start of the Senior Fellows Card-->
-<h2 class="header-fellows-middle">Senior Fellows</h2>
+<h3 class="header-fellows-middle">Senior Fellows</h3>
 <div class="grid-container">
 <!-- Place khoo boon hui here-->
 	<div class="fellow-card">
@@ -343,7 +343,7 @@ description: ""
 
 <!-- Start of Visiting fellows.-->
 
-<h2 class="header-fellows-middle">Visiting Fellows</h2>
+<h3 class="header-fellows-middle">Visiting Fellows</h3>
 <div class="grid-container">
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
