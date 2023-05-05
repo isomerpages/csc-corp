@@ -2,7 +2,7 @@ collections:
   who-we-are:
     output: true
     order:
-      - Who We Are.md
+      - About Us.md
       - Board of Directors.md
       - Organisation Structure.md
       - Fellowships.md
