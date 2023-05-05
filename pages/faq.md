@@ -52,7 +52,7 @@ details {
 		<p>
 	You can search for your preferred programmes on <a href="https://register.csc.gov.sg/">CSC programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
 </p>
-		<p class="mini-header">No suitable data for the programme you wish to register</p>
+		<p class="mini-header">No suitable date for the programme you wish to register</p>
 		<p>Sign up at 'Add to Watchlist' to get a notification when the next available run is published on the programme portal.</p>
 		<p class="mini-header">How to Register</p>
 		<p>You can register via our <a href="https://register.csc.gov.sg/">CSC programme portal</a> navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.&nbsp;&nbsp;
@@ -90,7 +90,7 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 		<p class="mini-header">My Label Went Missing</p>
 		<p>You can reprint your name label if you need to. You can do so at any time between 8.00am to 5.15pm on the day of your class.</p>
 		<p class="mini-header">I’m Replacing My Colleague</p>
-		<p>Contact your Training Coordinator to find out the title or code of the programme you are supposed to attend. Once you have that information, you can enter it any of the kiosks to e-register your attendance. The kiosk will prompt you to key in the name of the colleague you are replacing, so please have this information ready as well.</p>
+		<p>Contact your Training Coordinator to find out the title or code of the programme you are supposed to attend. Once you have that information, you can enter it at any of the kiosks to e-register your attendance. The kiosk will prompt you to key in the name of the colleague you are replacing, so please have this information ready as well.</p>
 		<p class="mini-header">The Colleague I’m Replacing Has Turned Up for Class</p>
 		<p>Please double check with your Training Coordinator. If you still need to replace your colleague, please approach the Course Administrator or Trainer for further assistance.</p>
 		<p class="mini-header">I’ve Been Replaced By Mistake</p>
