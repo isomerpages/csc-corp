@@ -52,12 +52,17 @@ description: ""
 	
 </div>
 	<div><img src="/images/carousel_knowledge_02_inn.jpg"></div>
+</div>
+<hr>
+<div class="grid-container">
+	<div>
+		<p class="paragraph-group2">Launch</p>
+		<p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
+	</div>
+	<div><img src="/images/innxcsc-launch.jpg"></div>
 
 
 
 </div>
-<img src="/images/innxcsc-launch.jpg">
-<p class="paragraph-group2">Launch</p>
-<p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
-
+<hr>
 <p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>
