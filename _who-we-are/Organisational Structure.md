@@ -64,7 +64,7 @@ details {
 
 <hr>
 <div class="grid-container">
-<div class="grid-child-OS-1"><h3 class="header-left">Dean’s Office</h3></div>
+<div class="grid-child-OS-1"><h4 class="header-left">Dean’s Office</h4></div>
 <div class="grid-child-OS-2">
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
