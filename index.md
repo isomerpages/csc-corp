@@ -19,4 +19,7 @@ sections:
       title: Civil Service College, Singapore
       description: "The heart of learning excellence and development <br> for the
         Singapore Public Service. "
+  - infopic:
+      image: /images/Landing Page/csc building.jpg
+      alt: Image alt text
 ---
