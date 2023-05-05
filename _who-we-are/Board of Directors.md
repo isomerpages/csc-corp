@@ -26,7 +26,7 @@ description: ""
 
 </style>
 <div class="grid-container">
-	<div class="BOD-float-child"><h4>Mr Loh Kum Yean</h4>
+	<div class="BOD-float-child"><h4>Mr Loh Khum Yean</h4>
 		<p class="role">CHAIRMAN</p>
 		
 <div class="TheTitles">Permanent Secretary</div>
