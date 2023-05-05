@@ -29,7 +29,7 @@ fellow-img {
 </div>
 
 <p>
-Mr Peter Ong Boon Kwee was born in Singapore. He was awarded the Colombo Plan Scholarship to pursue his Bachelor of Economics at the University of Adelaide, Australia and graduated with first class honours. He graduated top of his Masters in Business Administration class from Stanford University, USA in 1993 as Henry Ford II and Arjay Miller Scholar.
+Peter Ong Boon Kwee was born in Singapore. He was awarded the Colombo Plan Scholarship to pursue his Bachelor of Economics at the University of Adelaide, Australia and graduated with first class honours. He graduated top of his Masters in Business Administration class from Stanford University, USA in 1993 as Henry Ford II and Arjay Miller Scholar.
 
 Mr Ong was appointed Chairman of Enterprise Singapore following the announcement of the merger of International Enterprise (IE) Singapore and SPRING Singapore. As Chairman-Designate of Enterprise Singapore, Mr Ong will drive efforts to grow stronger Singapore enterprises by supporting them to build new capabilities and internationalise.
 
