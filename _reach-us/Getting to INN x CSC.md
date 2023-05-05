@@ -26,7 +26,6 @@ table {
 </style>
 
 
-<h3>How to get here</h3>
 <p class="Main-header">Address</p>
 
 <div class="grid-container">
