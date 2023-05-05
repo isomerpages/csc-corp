@@ -39,7 +39,7 @@ table {
 		
 </div>
 	<div class="vertical-line"></div>
-	<div><p>To view the interactive map, please click <a href="">here</a>.</p></div>
+	<div><p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.3287218&amp;lng=103.7419323">here</a>.</p></div>
 </div>
 
 <p class="Main-header">Operating Hours</p>
