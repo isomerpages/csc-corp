@@ -22,9 +22,9 @@ sections:
   - infopic:
       image: /images/Landing Page/csc building 02.jpg
       alt: Image alt text
-      description: "We help public officers meet the challenges of today and be
-        prepared for the future. "
-      title: A Future-ready <br>Public Service
+      description: To navigate the complexities of today and face the challenges of
+        tomorrow.
+      title: A Future-ready Public Service
       url: /what-we-do
-      button: Learn more
+      button: Learn more about us
 ---
