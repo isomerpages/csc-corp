@@ -37,7 +37,7 @@ table {
 <p class="Main-header">Address</p>
 <div class="grid-container-vertline">
 	<div class="grid-child">
-		<p>31 North Buona Vista Road, Singapore 275983</p>
+		<p>31 North Buona Vista Road, <br>Singapore 275983</p>
 	</div>
 	<div class="vertical-line"></div>
 	<div class="grid-child">
