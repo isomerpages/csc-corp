@@ -2,7 +2,7 @@ collections:
   reach-us:
     output: true
     order:
-      - Reach Us.md
+      - Locate Us and FAQ.md
       - Getting to Civil Service College.md
       - Getting to INN x CSC.md
       - Rent our Facility.md
