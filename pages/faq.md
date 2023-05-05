@@ -99,7 +99,7 @@ details {
 		<h4>Cancelling Your Registration:</h4>
 		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
 		<p>You may cancel an application that your TC has not yet approved on the portal directly under the “Check Application Staus” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
-		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide here</p>
+		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide</p>
 		<p class="mini-header">Sending a Replacement</p>
 		<p>For most programmes, we’re happy to let your colleague replace you at no extra charge. We strongly encourage you to select a colleague with a similar profile, so he or she can fully benefit from the programme. Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 5 working days before the programme starts. Include the following:
 		</p><ul>
@@ -143,12 +143,12 @@ details {
 			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
 
 Pro tip: You can also use the Individual or Bulk Registration function to register yourself for programmes.</p>
-			<p>Click <a href="/files/steps%20to%20submit%20registration%20on%20pp_tc.pdf">here</a> to view guide:</p>
+			<p>Click <a href="/files/steps%20to%20submit%20registration%20on%20pp_tc.pdf">here</a> to view guide</p>
 			<p class="mini-header">Registration Closing Dates</p>
 			<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 			<p class="mini-header">Reviewing Your Officer’s Registration</p>
 			<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
-			<p>Click <a href="/files/steps%20to%20approve%20application.pdf">here</a> to view guide:</p>
+			<p>Click <a href="/files/steps%20to%20approve%20application.pdf">here</a> to view guide</p>
 			<p class="mini-header">Unable to Review Registrations in Time</p>
 			<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC. Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after 3 days will lapse and cannot be reactivated. The officer can re-submit a new application if their application has lapsed.</p>
 			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
