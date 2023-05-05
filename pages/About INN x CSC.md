@@ -19,7 +19,8 @@ description: ""
 .grid-container {
 		display: grid;
 		grid-template-columns: 60% 40%;
-		
+		margin-top: 1em;
+		margin-bottom: 1em;
 	}
 
 </style>
