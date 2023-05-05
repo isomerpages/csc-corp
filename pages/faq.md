@@ -195,7 +195,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<p class="mini-header">Venues</p>
 			<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
 			<p class="mini-header">How to Apply for In-House Training</p>
-			<p>Email your Agency Engagement Manager with the following:
+			<p>Submit your agency's request <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a> or email your Agency Engagement Manager* with the following:
 			</p><ul>
 				<li>Programme title</li>
 				<li>Course code</li>
