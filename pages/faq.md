@@ -46,7 +46,6 @@ details {
 
 <details><summary>For Learners</summary>
 	<div class="Accordion-Paragraph">
-		<p>Find out how to register for programmes here.</p>
 		<h4>Register for a Programme:</h4>
 		<p class="mini-header">Searching for a programme</p> 
 		<p>
