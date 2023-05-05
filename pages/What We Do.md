@@ -82,7 +82,7 @@ hr {
 <div class="grid-container-by2">
 	<div>
 		<p class="Orange-header">CSC 360° Virtual Tour</p>
-		<p>Explore CSC and enjoy a 360-degree view from inside the building. Learn about CSC's history and how we continue to be the heart of learning excellence and d evelopment for the Singapore Public Service.</p></div>
+		<p>Explore CSC and enjoy a 360-degree view from inside the building. Learn about CSC's history and how we continue to be the heart of learning excellence and development for the Singapore Public Service.</p></div>
 	<div><a href="https://chio.space/virtual-tour/civil-service-college"><img src="/images/What We Do/csc360tour.jpg"></a></div>
 
 
