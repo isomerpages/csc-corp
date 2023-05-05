@@ -190,7 +190,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 	<p class="mini-header">Standard In-house Programmes</p>
 			<p>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option.</p>
 			<p class="mini-header">Customised In-house Programmes</p>
-			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please email the completed Training Needs Analysis questionnaire to your Agency Engagement Manager*.</p>
+			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please contact your Agency Engagement Manager*.</p>
 			<p class="mini-header">Class Sizes</p>
 			<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public-run instead.</p>
 			<p class="mini-header">Costs</p>
