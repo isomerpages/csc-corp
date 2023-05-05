@@ -29,7 +29,7 @@ fellow-img {
 </div>
 
 <p>
-Dr Ang is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good, which champions social entrepreneurship within Singapore’s people and non-profit sectors. He is also concurrently an adjunct professor with NTU’s Nanyang Centre for Public Administration.
+Ang Hak Seng is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good, which champions social entrepreneurship within Singapore’s people and non-profit sectors. He is also concurrently an adjunct professor with NTU’s Nanyang Centre for Public Administration.
  
 Dr Ang was previously appointed as the Deputy Secretary of MCCY, Commissioner of Charities (COC) and Executive Director of the Registry of Co-operative Societies and Mutual Benefit Organisations (RCS).
  
