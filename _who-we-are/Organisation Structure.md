@@ -118,7 +118,7 @@ details {
 			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
 		</details>
 		<details><summary>Project INEX (INtegrated EXperience)</summary>
-			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view, so as to provide a seamless learner and agency experience</p>
+			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view in order to provide a seamless learner and agency experience.</p>
 		</details>
 		<details>
 			<summary>Learning Futures Group</summary>
