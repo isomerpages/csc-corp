@@ -46,9 +46,5 @@ description: ""
 <img src="/images/innxcsc-launch.jpg">
 <p class="paragraph-group2">Launch</p>
 <p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
-<img src="/images/innintro.jpg">
-
-<p class="paragraph-group2">Introduction Video</p>
-<p>Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.</p>
 
 <p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>
