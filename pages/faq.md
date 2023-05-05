@@ -50,12 +50,12 @@ details {
 		<h4>Register for a Programme:</h4>
 		<p class="mini-header">Searching for a programme</p> 
 		<p>
-	You can search for your preferred programmes on CSC’s Programme Portal. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
+	You can search for your preferred programmes on <a href="https://register.csc.gov.sg/">CSC programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
 </p>
 		<p class="mini-header">No suitable data for the programme you wish to register</p>
 		<p>Sign up at 'Add to Watchlist' to get a notification when the next available run is published on the programme portal.</p>
 		<p class="mini-header">How to Register</p>
-		<p>You can register via our <a href="https://register.csc.gov.sg/">CSC programme portal</a>. navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.&nbsp;&nbsp;
+		<p>You can register via our <a href="https://register.csc.gov.sg/">CSC programme portal</a> navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.&nbsp;&nbsp;
 
 Note: To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 		<p class="mini-header">When to Register</p>
@@ -77,8 +77,8 @@ Note: To attend milestone programmes, you have to be nominated by your agency. C
 			<li>Level 4 - 1 kiosk</li>
 			<li>Level 5 - 1 kiosk</li>
 		</ul>
-		You may scan your ID at any kiosk - it doesn't matter where your class is being held.
-		<p></p>
+		<p>You may scan your ID at any kiosk - it doesn't matter where your class is being held.
+		</p>
 		<p class="mini-header">How Many Times to Scan</p>
 		<p>You only need to scan your ID once per day. If your class takes place over a few days, you'll need to scan your ID on each and every day.</p>
 		<p class="mini-header">I Didn’t Bring Any ID</p>
