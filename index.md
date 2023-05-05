@@ -20,9 +20,9 @@ sections:
       description: "The heart of learning excellence and development <br> for the
         Singapore Public Service. "
   - infopic:
-      image: /images/Landing Page/csc building.jpg
+      image: /images/Landing Page/csc building 02.jpg
       alt: Image alt text
       description: "We help public officers meet the challenges of today and get
         prepared for the future. "
-      title: A Future-ready Public Service
+      title: A Future-ready <br>Public Service
 ---
