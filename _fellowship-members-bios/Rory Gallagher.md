@@ -29,7 +29,7 @@ fellow-img {
 </div>
 
 <p>
-Rory leads the Behavioural Insights Team’s work across the Asia-Pacific, and has been with BIT since its inception in 2010. He has led trials and policy interventions across the region in a range of policy areas, from employment and education, to health and housing.
+Rory Gallagher leads the Behavioural Insights Team’s work across the Asia-Pacific, and has been with BIT since its inception in 2010. He has led trials and policy interventions across the region in a range of policy areas, from employment and education, to health and housing.
  
 Based in Sydney since November 2012, Rory led the establishment of the New South Wales Department of Premier and Cabinet’s Behavioural Insights Unit — the first Australian agency dedicated to applying BI to public policy. He also set up and leads BIT’s Australia office, which works with a number of State and Commonwealth Departments, as well as NGOs and philanthropic bodies across the country.
  
