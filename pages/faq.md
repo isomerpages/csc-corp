@@ -148,6 +148,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 			<p class="mini-header">Reviewing Your Officer’s Registration</p>
 			<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
+			<p>Click <a href="/files/steps%20to%20approve%20application.pdf">here</a> to view guide:</p>
 			<p class="mini-header">Unable to Review Registrations in Time</p>
 			<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC. Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after 3 days will lapse and cannot be reactivated. The officer can re-submit a new application if their application has lapsed.</p>
 			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
