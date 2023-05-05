@@ -163,9 +163,8 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
-	<p class="mini-header">What to Bring</p>
-			<p>Your officers will need to bring any form of identification with their NRIC barcode on it, such as their NRIC, driving licence or staff pass. If there is no form of identification, the officer can manually enter their NRIC number at any of the kiosks. </p>
-	<p class="mini-header">Name Labels for Officers</p>
+
+<p class="mini-header">Name Labels for Officers</p>
 			<p>After scanning, a personalised name label will be printed. For security purposes, your officers must display their name labels prominently at all times when in CSC. Name labels can be re-printed if requested (anytime between 8.00am to 5.15pm)</p>
 	<p class="mini-header">Sending a Replacement Officer</p>
 			<p>Please notify us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the details of the replacement(s) at least 5 working days before the class starts. </p>
