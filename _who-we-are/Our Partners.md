@@ -182,7 +182,7 @@ li {
   <li>Japan International Cooperation Agency (JICA)</li>
   <li>Korea International Cooperation Agency (KICA)</li>
   <li>Temasek Foundation (TF)</li>
-  <li>Global Education and Training Institute (GETI), United Nation Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
+  <li>Global Education and Training Institute (GETI), United Nations Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
   <li>Moroccan Agency for International Cooperation (AMCI)</li>
 </ul>
 	</details>  
