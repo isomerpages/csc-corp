@@ -181,7 +181,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 	<p class="mini-header">Where to Get Assistance</p>
 			<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
 	<p class="mini-header">Replaced Officer Turns Up for Class</p>
-			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Programme Administrator or Trainer for further assistance.</p>
+			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Trainers or Programme Administrator for further assistance.</p>
 	<p class="mini-header">More Questions?</p>
 			<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a></p>
 			<h4>Request for In-House Training</h4>
