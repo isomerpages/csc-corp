@@ -7,7 +7,7 @@ description: ""
 
 	.header-fellows-middle {
 		text-align:center;
-	
+		margin-top: 1em;
 	
 	}
 
