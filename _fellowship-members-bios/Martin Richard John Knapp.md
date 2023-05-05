@@ -29,7 +29,7 @@ fellow-img {
 </div>
 
 <p>
-Professor Martin Richard John Knapp is a researcher, research leader and teacher, mainly in the areas of health and social care policy and practice. He has been Professor of Social Policy and Director of the Personal Social Services Research Unit (PSSRU) at the London School of Economics and Political Science (LSE) since 1996. Since 2009, he has also been Director of the School for Social Care Research funded by the National Institute of Health Research (NIHR).
+Martin Richard John Knapp is a researcher, research leader and teacher, mainly in the areas of health and social care policy and practice. He has been Professor of Social Policy and Director of the Personal Social Services Research Unit (PSSRU) at the London School of Economics and Political Science (LSE) since 1996. Since 2009, he has also been Director of the School for Social Care Research funded by the National Institute of Health Research (NIHR).
 
 His personal research in recent years has primarily been in the areas of adult social care, child and adult mental health, dementia and autism. Much of this work has an economic focus; all of it aims to be relevant to either policy discussion or frontline practice development. He has published his research widely, including almost more than 550 peer-reviewed journal articles, 14 books and a large number of other outputs.
 
