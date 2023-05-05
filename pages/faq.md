@@ -150,14 +150,14 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
 			<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.&nbsp;
 
-Note: Only one Covering TC can be assigned to each TC.</p>
+</p><p>Note: Only one Covering TC can be assigned to each TC.</p>
 			<p class="mini-header">Registration Status</p>
 					<p>We’ll email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:             </p><ul>
 			<li>The officer will receive a Programme Placement Letter (PPL).</li>
 			<li>You will receive a PPL summary for each programme. It lists the officers from your agency attending the programme.</li>
 		</ul>
-		Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.
-			<p></p>
+	<p>Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.
+		</p>
 			<p class="mini-header">Contacting Us</p>
 	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us</a> page.</p>
 		<h4>Attendance of Your Officers</h4>
@@ -205,7 +205,7 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 				<li>Number of times you’d like to run the programme</li>
 				<li>Standard in-house or customised programme request</li>
 			</ul>
-			We’ll respond within 3 – 5 working days. <p></p>
+			<p>We’ll respond within 3 – 5 working days. </p>
 			<p>*Find out who is your Agency Engagement Manager <a href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/AE%20Manager%20List%20(25%20April%202023).pdf">here</a> (this file can only be viewed on the Government Intranet).
 </p>
 	
