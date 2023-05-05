@@ -188,7 +188,7 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 	<p class="mini-header">Standard In-house Programmes</p>
 			<p>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option.</p>
 			<p class="mini-header">Customised In-house Programmes</p>
-			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please email the completed Training Needs Analysis (Word, 63KB) questionnaire to your Agency Engagement Manager*.</p>
+			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please email the completed Training Needs Analysis questionnaire to your Agency Engagement Manager*.</p>
 			<p class="mini-header">Class Sizes</p>
 			<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public-run instead.</p>
 			<p class="mini-header">Costs</p>
@@ -206,7 +206,7 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 				<li>Standard in-house or customised programme request</li>
 			</ul>
 			We’ll respond within 3 – 5 working days. <p></p>
-			<p>*Find out who is your Agency Engagement Manager <a href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/AE%20Manager%20List%20(25%20April%202023).pdf">here</a>. (this file can only be viewed on the Government Intranet)
+			<p>*Find out who is your Agency Engagement Manager <a href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/AE%20Manager%20List%20(25%20April%202023).pdf">here</a> (this file can only be viewed on the Government Intranet).
 </p>
 	
 	
