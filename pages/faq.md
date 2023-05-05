@@ -140,7 +140,7 @@ details {
 			<h4>Registering Your Officers for Programmes</h4>
 			<p class="mini-header">Individual or Bulk Registration</p>
 			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
-
+<br><br>
 Pro tip: You can also use the Individual or Bulk Registration function to register yourself for programmes.</p>
 			<p>Click <a href="/files/steps%20to%20submit%20registration%20on%20pp_tc.pdf">here</a> to view guide</p>
 			<p class="mini-header">Registration Closing Dates</p>
