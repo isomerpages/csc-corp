@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Learn at CSC
           description: ""
-          url: https://register.csc.gov.sg/
+          url: https://go.gov.sg/csc-corporatewebsite-programmeportal
         - title: About CSC
           description: ""
           url: /who-we-are
