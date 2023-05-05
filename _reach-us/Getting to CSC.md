@@ -38,11 +38,11 @@ table {
 <p class="Main-header">Address</p>
 <div class="grid-container-vertline">
 	<div class="grid-child">
-		31 North Buona Vista Road, Singapore 275983
+		<p>31 North Buona Vista Road, Singapore 275983</p>
 	</div>
 	<div class="vertical-line"></div>
 	<div class="grid-child">
-		To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</div>
+		<p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p></div>
 </div>
 
 
