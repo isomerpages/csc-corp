@@ -30,7 +30,7 @@ fellow-img {
 
 <p>
 
-Over a span of 22 years, he served as Permanent Secretary at the Ministry of Defence, the Prime Minister’s Office, the Ministry of Education, and the Ministry of Finance.
+Over a span of 22 years, Lim Siong Guan served as Permanent Secretary at the Ministry of Defence, the Prime Minister’s Office, the Ministry of Education, and the Ministry of Finance.
  
 Professor Lim has co-authored with Joanne H Lim two books: The Leader, The Teacher &amp; You – Leadership Through the Third Generation; and Winning With Honour in Relationships, Family, Organisations, Leadership, and Life. He is a member of the Board of Wilmar International, chairs the Board of SwissRe Asia, and is a member of the International Board of the Stars Foundation – a Swiss foundation that promotes leadership development for leaders of the next generation.
  
