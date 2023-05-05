@@ -159,7 +159,7 @@ Note: Only one Covering TC can be assigned to each TC.</p>
 		Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.
 			<p></p>
 			<p class="mini-header">Contacting Us</p>
-	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us page.</a></p>
+	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us</a> page.</p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
