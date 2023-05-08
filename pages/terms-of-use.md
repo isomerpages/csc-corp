@@ -29,9 +29,11 @@ permalink: /terms-of-use/
 <h4>Departure</h4>
 <p>4. If you leave the Public Service at any time, please inform CSC of your departure via email or in writing, and leave us with your contact address and particulars. CSC will cancel your membership account but you may continue to use this Website and still be legally bound by the Terms of Use.</p>
 <h4>Refusal and Revocation</h4>
-<p>5. CSC reserves the right to:  <br>
-(a) refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or <br>
-(b) change these Terms at any time by notification or publication of the changes to these Terms at this website.</p>
+<p>5. CSC reserves the right to: </p>
+	<ol style="list-style-type:&nbsp;lower-alpha;">
+<li>refuse entry or membership to any applicant or revoke a member’s membership if CSC determines in its sole discretion that such entry or membership would bring disrepute to CSC or if the member commits any breach of these Terms or for any other reason determined to be appropriate by CSC; and/or</li>
+<li>change these Terms at any time by notification or publication of the changes to these Terms at this website.</li>
+</ol>
 <h4>Terms of Use</h4>
 <p>6. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</p>
 <h4>Queries</h4>
