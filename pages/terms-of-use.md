@@ -66,7 +66,7 @@ permalink: /terms-of-use/
 		<p>Participants will receive the Course Placement Letter at least 2 weeks before the class commences.</p>
 </ol>
 	<li>Complimentary Courses</li>
-	<ol style="list-style-type: lower-roman;">
+	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal</li>
 		<p>Only withdrawals through emails or faxes will be acknowledged.</p>
 		<p>In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.</p>
@@ -83,7 +83,7 @@ permalink: /terms-of-use/
 <p>4. Online registration of e-learning courses are subject to the following conditions:</p>
 <ol>
 	<li>Paid Courses</li>
-	<ol style="list-style-type: lower-roman;">
+	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal and Replacement</li>
 		<p>Withdrawal and replacement for e-Learning courses are only allowed before the training coordinator (TC) has approved the registration in programme portal. Once the TC has approved the registration in the programme portal, any request to withdraw and/or replace learners will not be accepted.</p>
 		<li>Notification</li>
