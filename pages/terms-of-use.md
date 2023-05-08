@@ -81,7 +81,7 @@ ol.lower-roman-orderedlist{
 <p><b>Registration of E-Learning Courses</b></p>
 <p>3. For complimentary e-Learning courses, please inform your Training Coordinator of your attendance at the e-Learning course so as to update your training records.</p>
 <p>4. Online registration of e-learning courses are subject to the following conditions:</p>
-<ol>
+<ol class="alphabetical-orderedlist">
 	<li>Paid Courses</li>
 	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal and Replacement</li>
