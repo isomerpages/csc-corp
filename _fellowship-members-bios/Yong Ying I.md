@@ -19,7 +19,9 @@ fellow-img {
 	color: grey;
 	font-size: 0.9em;
 	}	
-
+p {
+	text-indent: 1em;
+	}
 </style>
 <h4 style="text-align:center;">SENIOR FELLOW</h4>
 
