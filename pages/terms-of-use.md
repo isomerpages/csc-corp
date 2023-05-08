@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 ---
 <style>
 .alphabetical-orderedlist {
-	list-style-type: lower-alpha !important;
+	list-style-type:lower-alpha; !important;
 	}
 	
 .lower-roman-orderedlist{
