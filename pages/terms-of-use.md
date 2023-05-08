@@ -105,7 +105,7 @@ ol.lower-roman-orderedlist{
 <p>2. Online registration of events are subject to the following conditions:</p>
 <ol class="alphabetical-orderedlist">
 	<li>Paid Events</li>
-	<ol style="list-style-type: lower-roman;">
+	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal</li>
 		<p>Only withdrawals through emails or faxes will be acknowledged. Confirmed participants who withdraw after registration has been confirmed by us will be charged the full course of the event. <br> These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your arrangement.</p>
 		<li>Replacement</li>
@@ -115,7 +115,7 @@ ol.lower-roman-orderedlist{
 	
 </ol>
 	<li>Complimentary Events</li>
-	<ol style="list-style-type: lower-roman;">
+	<ol class="lower-roman-orderedlist">
 		<li>Withdrawal</li>
 		<p>Only withdrawals through emails or faxes will be acknowledged. <br> In the event that you are unable to attend, you are to inform the Civil Service College before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed. <br> Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</p>
 		<li>Notification</li>
