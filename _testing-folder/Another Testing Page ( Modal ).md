@@ -31,8 +31,9 @@ ol.lower-roman-orderedlist{
 <h2>Terms and Conditions of Civil Service College ("CSC") Website Membership</h2>
 
 
-<h4>Benefits</h4>
+
 <ol>
+<h4>Benefits</h4>
 <li class="li-withalphabet-below"><p class="indent-alphabet">As a registered member of the CSC Website (“Website”), you will be entitled to use the following services as may be available from time to time:</p>
 	</li><ol class="alphabetical-orderedlist">
 	<li>check the application status of courses and events you applied for on your member profile page</li>
