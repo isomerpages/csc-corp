@@ -45,7 +45,7 @@ description: ""
 <p>We can't deliver effective policies and services to our citizens if we don't know what works for them, and what doesn't. At INN x CSC, you will be plugged into the ground through various hands-on and first-hand learning interventions and projects designed to bring the 'voice of user' to the forefront.</p>
 
 
-<p>How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
+<p><b>How INNxCSC started and how we became a change movement for learning in the Public Service.<b></b></b></p><b><b>
 <div class="grid-container">
 	<div>
 		<p class="paragraph-group2">Case Study</p>
@@ -66,4 +66,4 @@ description: ""
 
 </div>
 <hr>
-<p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>
+<p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p></b></b>
