@@ -1,6 +1,6 @@
 ---
 title: Yong Ying-I
-permalink: /fellowship-members-bios/yong-ying/
+permalink: /fellowship-members-bios/yong-ying-i/
 description: ""
 ---
 <style>
