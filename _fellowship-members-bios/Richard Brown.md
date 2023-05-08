@@ -19,7 +19,9 @@ fellow-img {
 	color: grey;
 	font-size: 0.9em;
 	}	
-
+p {
+	text-indent: 1em;
+	}
 </style>
 <h4 style="text-align:center;">VISITING FELLOW</h4>
 
@@ -30,16 +32,13 @@ fellow-img {
 
 <p>
 Richard Brown served as an external advisor to several government departments in Queensland, including the Treasury, Department of State Development, Department of Primary Industries, and the Environmental Protection Agency. He was also a consultant for various public and private sector bodies, such as KPMG.
- <br>
+</p>
+<p>
 Having worked in many developing countries in Africa, Latin America, Asia and the South Pacific, Professor Brown has amassed substantial experience in international development economics. His expertise lies in foreign debt, IMF-supported programs, and international migration.
- <br>
+</p>
+<p>
 Professor Brown also has extensive advisory experience from his roles as an applied project and policy analyst for public and private organisations in Australia. Internationally, he has conducted project appraisals of industrial and infrastructural projects for AusAID in China and Indonesia.
- <br>
+</p>
+<p>
 Professor Brown is currently associate professor in the School of Economics at the University of Queensland. He has held positions at the Institute of Social Studies, the Netherlands; University of Natal, South Africa; and visiting positions at the University of Khartoum, Sudan; and the Hubert H. Humphrey Institute, University of Minnesota.
-
-
-
-
-
-
 </p>
