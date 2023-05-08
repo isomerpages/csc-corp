@@ -6,7 +6,7 @@ description: ""
 <style>
 
 	.grid-container {
-		display: grid;
+		display: grid !important;
 		grid-template-columns: 30% 70%;
 	}
 
