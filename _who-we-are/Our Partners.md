@@ -11,7 +11,8 @@ description: ""
 	}
 
 	hr {
-	 margin: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	}
 
 	#Singapore-partners {
