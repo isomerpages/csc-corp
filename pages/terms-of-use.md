@@ -6,7 +6,11 @@ permalink: /terms-of-use/
 .alphabetical-orderedlist {
 	list-style-type: lower-alpha !important;
 	}
+	
+.lower-roman-orderedlist{
+	list-style-type: lower-roman !important;
 
+	}
 
 </style>
 
@@ -48,7 +52,7 @@ permalink: /terms-of-use/
 <p>2. Online registration of courses at the CSC website are subject to the following conditions:</p>
 <ol class="alphabetical-orderedlist">
 	<li>Paid Courses</li>
-	<ol style="list-style-type: lower-roman;">
+	<ol class="lower-roman-orderedlist" style="list-style-type: lower-roman;">
 		<li>Withdrawal</li>
 		<p>For courses with Development Grant, departments will be charged the full course fees for any withdrawal/absentees. Development Grant is only given to those who attend the course. In rare cases where CSC has to cancel a course due to unforeseen circumstances, no course fees will be charged.</p>
 		<p>Request for Waiver: Waiver of withdrawal charges will only be approved on a case-by-case basis. A written request for waiver has to be submitted by the participant or the Training Coordinator within 3 days after the course ends.</p>
