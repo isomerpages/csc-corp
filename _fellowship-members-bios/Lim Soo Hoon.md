@@ -19,7 +19,9 @@ fellow-img {
 	color: grey;
 	font-size: 0.9em;
 	}	
-
+p {
+	text-indent: 1em;
+	}
 </style>
 <h4 style="text-align:center;">SENIOR FELLOW</h4>
 
@@ -30,5 +32,6 @@ fellow-img {
 
 <p>       
 Lim Soo Hoon retired in 2017, after serving for 36 years. She was Permanent Secretary for almost 18 years, in the former Ministry of Community Development (now Ministry of Social Development and Family), Public Service Division (Prime Minister’s Office) and the Ministry of Finance.
-<br>
+</p>
+<p>
 She has a Bachelor's in Economics from the University of Adelaide, and a Master's in Public Administration from the Kennedy School of Government, Harvard University. She is currently Senior Advisor at the Ministry of Finance.</p>
