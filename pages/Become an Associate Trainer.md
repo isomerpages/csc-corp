@@ -17,7 +17,7 @@ description: ""
 <b>Trainers, Facilitators and Consultants </b>
 <p>Join our pool of associate trainers, facilitators and consultants to conduct training programmes and provide consultancy services for projects. We work in these focus areas:</p>
 <ul>
-	<li><a href="https://www.csc.gov.sg/docs/default-source/default-document-library/associate-trainer---data\_digitalisation.pdf">Digitalisation and Data Analytics</a></li>
+	<li><a href="/files/associate-trainer---data_digitalisation.pdf">Digitalisation and Data Analytics</a></li>
 	<li><a href="https://www.csc.gov.sg/docs/default-source/default-document-library/associate-trainer---enforcement.pdf">Enforcement</a></li>
   <li>Global Orientation</li>
   <li>Leadership &amp; Organisation Development</li>

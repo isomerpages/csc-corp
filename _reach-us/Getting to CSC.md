@@ -1,5 +1,5 @@
 ---
-title: Getting to Civil Service College
+title: Getting to CSC
 permalink: /getting-to-csc/
 description: ""
 ---
@@ -34,15 +34,14 @@ table {
 	}	
 
 </style>
-<h3>How to get here</h3>
 <p class="Main-header">Address</p>
 <div class="grid-container-vertline">
 	<div class="grid-child">
-		31 North Buona Vista Road, Singapore 275983
+		<p>31 North Buona Vista Road, <br>Singapore 275983</p>
 	</div>
 	<div class="vertical-line"></div>
 	<div class="grid-child">
-		To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</div>
+		<p>To view the interactive map, please click <a href="https://www.onemap.gov.sg/main/v2/?lat=1.30980057093966&amp;lng=103.791873092511">here</a>.</p></div>
 </div>
 
 
@@ -68,7 +67,7 @@ table {
 
 <br>
 <b>Parking at CSC</b>
-<p>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and public Holidays.</p>
+<p>Carpark closes at 11pm on Mondays to Fridays, 6pm on Saturdays and full day on Sundays and Public Holidays.</p>
 
 <b>Fees</b>
 <table>

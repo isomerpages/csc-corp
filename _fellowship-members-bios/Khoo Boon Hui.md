@@ -19,7 +19,9 @@ fellow-img {
 	color: grey;
 	font-size: 0.9em;
 	}	
-
+p {
+	text-indent: 1em;
+	}
 </style>
 <h4 style="text-align:center;">SENIOR FELLOW</h4>
 
@@ -29,13 +31,14 @@ fellow-img {
 </div>
 
 <p>
-He is an organisational management expert with more than 30 years of police experience. After his stint in the police force, he was Senior Deputy Secretary at the Ministry of Home Affairs. He concurrently assumed directorship of the Institute of Leadership and Organisation Development at the Civil Service College.
- 
+Khoo Boon Hui is an organisational management expert with more than 30 years of police experience. After his stint in the police force, he was Senior Deputy Secretary at the Ministry of Home Affairs. He concurrently assumed directorship of the Institute of Leadership and Organisation Development at the Civil Service College.
+</p>
+<p>
 Upon his retirement from government, Mr Khoo was appointed senior advisor of the Ministry of Home Affairs. A year later, he was re-designated a senior fellow. He is also a senior fellow at the Home Team Academy. He is concurrently deputy chairman of the Singapore Quality Award Governing Council and a board member of ST Engineering, Singapore Health Services, Ministry of Health Holdings, Casino Regulatory Authority of Singapore, Certis CISCO, Quann World and Temasek Foundation International.
- 
+</p>
+<p>
 After leaving the civil service, Mr Khoo remains an advisor to INTERPOL and Singapore’s National Cybersecurity R&amp;D Programme. He is also a member of Standard Chartered Bank UK’s Board Financial Crime Risk Committee, Palo Alto Network US’s  Public Sector Advisory Council, and the Global Commission on the Stability of Cyberspace. 
- 
+</p>
+<p>
 He obtained his Bachelor's in Engineering Science and Economics from Oxford University, and his Master's in Public Administration from the Kennedy School of Government, Harvard. He attended the Advanced Management Program at Wharton in 2002.
-
-
 </p>

@@ -1,5 +1,5 @@
 ---
-title: Organisation Structure
+title: Organisational Structure
 permalink: /organisation-structure/
 description: ""
 ---
@@ -53,18 +53,18 @@ details {
 	.grid-container {
 		display: block;
 	}
-
+	
 }	
 	
 	
 </style>
 <!-- Hello there this is a HTML comment-->
 
-<p>CSC's five Institutes, three Business Support units and six Corporate Services departments work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                         </p>
+<p>CSC's five Institutes, four Business Support units and six Corporate Services departments work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                         </p>
 
 <hr>
 <div class="grid-container">
-<div class="grid-child-OS-1"><h3 class="header-left">Dean’s Office</h3></div>
+<div class="grid-child-OS-1"><h4 class="header-left">Dean’s Office</h4></div>
 <div class="grid-child-OS-2">
 	<ul>
 	<li>Ms Ong Toon Hui, Dean and CEO</li>
@@ -118,7 +118,7 @@ details {
 			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
 		</details>
 		<details><summary>Project INEX (INtegrated EXperience)</summary>
-			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view, so as to provide a seamless learner and agency experience</p>
+			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view in order to provide a seamless learner and agency experience.</p>
 		</details>
 		<details>
 			<summary>Learning Futures Group</summary>
@@ -126,7 +126,7 @@ details {
 		</details>
 		<details>
 		<summary>Programme Management Unit</summary>
-		<p class="Accordion-Paragraph">Partner institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
+		<p class="Accordion-Paragraph">Partner Institutes to provide end-to-end administrative and logistics support for training programmes and other forms of learning interventions so that learners enjoy a seamless experience in their learning journey.</p>
 		</details>
 		
 	  
@@ -145,7 +145,7 @@ details {
   <details><summary>Communications and Customer Engagement</summary><p class="Accordion-Paragraph">Steward corporate identity and customer intelligence, as well as communication and customer engagement with public agencies and public officers.</p></details>
 		<details><summary>Corporate Development</summary><p class="Accordion-Paragraph">Manage finance and procurement functions, estate and administrative matters, and resource centre.</p></details>
 		<details><summary>Data Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the growth of data capabilities.</p></details>
-		<details><summary>Human Resources</summary><p class="Accordion-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote best HR practices, and maintain sound corporate governance.</p></details>
+		<details><summary>Human Resources</summary><p class="Accordion-Paragraph">Nurture engaged and committed staff, develop professional competencies, promote HR best practices, and maintain sound corporate governance.</p></details>
 		<details><summary>Infocomm Technology</summary><p class="Accordion-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>
 		<details><summary>Strategy and Transformation Office</summary><p class="Accordion-Paragraph">Develop transformation strategy and roadmap, monitor progress of key projects and ensure alignment of College’s resources, including strategy, data, and business model.</p></details>
   </div>

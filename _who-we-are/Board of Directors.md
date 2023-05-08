@@ -26,7 +26,7 @@ description: ""
 
 </style>
 <div class="grid-container">
-	<div class="BOD-float-child"><h4>Mr Loh Kum Yean</h4>
+	<div class="BOD-float-child"><h4>Mr Loh Khum Yean</h4>
 		<p class="role">CHAIRMAN</p>
 		
 <div class="TheTitles">Permanent Secretary</div>
@@ -76,7 +76,7 @@ description: ""
 <div class="grid-container">
 	<div class="BOD-float-child"><h4>Mr Joseph Leong</h4><p class="role">Member</p>
 		<div class="TheTitle">Permanent Secretary,</div>
-		<div class="TheTitle">Ministry of communications and Information</div>	
+		<div class="TheTitle">Ministry of Communications and Information</div>	
 		<div class="TheTitle">Permanent Secretary (Cybersecurity),</div>	
 		<div class="TheTitle">Prime Minister's Office</div>	
 		<div class="TheTitle">Permanent Secretary,</div>

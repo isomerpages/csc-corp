@@ -1,5 +1,5 @@
 ---
-title: Reach Us
+title: Locate Us and FAQ
 permalink: /reach-us/
 description: ""
 ---

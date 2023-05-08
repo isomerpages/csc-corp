@@ -15,6 +15,13 @@ description: ""
 	font-weight: bold;
 	color: #F68B1F;
 	}
+	
+.grid-container {
+		display: grid;
+		grid-template-columns: 60% 40%;
+		margin-top: 1em;
+		margin-bottom: 1em;
+	}
 
 </style>
 
@@ -38,17 +45,25 @@ description: ""
 <p>We can't deliver effective policies and services to our citizens if we don't know what works for them, and what doesn't. At INN x CSC, you will be plugged into the ground through various hands-on and first-hand learning interventions and projects designed to bring the 'voice of user' to the forefront.</p>
 
 
-<p class="paragraph-header">How INNxCSC started and how we became a change movement for learning in the Public Service.</p>
-<img src="/images/carousel_knowledge_02_inn.jpg">
-<p class="paragraph-group2">Case Study</p>
-<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
+<p><b>How INNxCSC started and how we became a change movement for learning in the Public Service.</b></p>
+<div class="grid-container">
+	<div>
+		<p class="paragraph-group2">Case Study</p>
+		<p>INN x CSC was launched as an experimental space to develop and test new training programmes for adult learners. Take the INN x CSC <a href="https://rise.articulate.com/share/KzT7G2JLI3lZx9T4e3KB5mAamvt9Beem#/">innovation journey</a> with us.</p>
+	
+</div>
+	<div><img src="/images/carousel_knowledge_02_inn.jpg"></div>
+</div>
+<hr>
+<div class="grid-container">
+	<div>
+		<p class="paragraph-group2">Launch</p>
+		<p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
+	</div>
+	<div><img src="/images/innxcsc-launch.jpg"></div>
 
-<img src="/images/innxcsc-launch.jpg">
-<p class="paragraph-group2">Launch</p>
-<p>We officially launched on 16 July 2019. Missed it? Don't worry. You can catch it again <a href="https://vimeo.com/363495474/7cced1db10">here</a>!</p>
-<img src="/images/innintro.jpg">
 
-<p class="paragraph-group2">Introduction Video</p>
-<p>Want to see what's in INN x CSC? Click here to view the introduction video we show to our participants in INN x CSC.</p>
 
-<p>If you'll like to reach us, you can email us at <u>innxcsc@cscollege.gov.sg</u></p>
+</div>
+<hr>
+<p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>

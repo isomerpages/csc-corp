@@ -6,12 +6,13 @@ description: ""
 <style>
 
 	.grid-container {
-		display: grid;
+		display: grid !important;
 		grid-template-columns: 30% 70%;
 	}
 
 	hr {
-	 margin: 1em;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	}
 
 	#Singapore-partners {
@@ -70,10 +71,10 @@ li {
 
 <p>We develop strong, long-term partnerships with a wide and diverse range of local and international organisations.</p>
 
-<h1>80 International Partners in 29 Countries.</h1>
+<h4>80 International Partners in 29 Countries.</h4>
 <hr>
 <div class="grid-container">
-	<div class="grid-child-OP-1"><h2>Singapore</h2></div>
+	<div class="grid-child-OP-1"><h4>Singapore</h4></div>
 	<div class="grid-child-OP-2">
 		 <p id="Singapore-partners">
 		  Singapore Ministries and Statutory Boards
@@ -83,7 +84,7 @@ li {
 <hr>
 <div class="grid-container">
 	<div class="grid-child-OP-1">
-		<h2>Foreign Partners</h2>
+		<h4>Foreign Partners</h4>
 	</div>
 	 <div class="grid-child-OP-2">
 <!--  Start of the Foreign partners accordion.-->		 
@@ -155,16 +156,7 @@ li {
 		<summary>
 		South East Asia
 		</summary>
-	<ul>
-				<li>China, Executive Leadership Academy Pudong</li> 
-				<li>China, Shanghai Administrative Institute</li> 
-				<li>China, Suzhou Industrial Park Administrative Committee</li> 
-				<li>China, Tianjian Administrative Institute</li> 
-				<li>China, Sino-Singapore Tianjin Eco-City</li> 
-				<li>China, Zhejiang Administrative Institute</li> 
-				<li>Korea, National Human Resource Development Institute</li> 
-				<li>Mongolia, Cabinet Secretariat</li> <li>Mongolia, National Academy of Governance</li> 
-				<li>Mongolia, Ulaanbaatar City Training Centre</li> 
+	<ul> 
 					<li>Brunei, Civil Service Institute</li> <li>Brunei, Ministry of Finance and Economy</li> <li>Cambodia, Ministry of Civil Service</li> <li>Cambodia, Royal School of Administration</li> 
 				<li>Cambodia, Ministry of Finance</li> <li>Cambodia, Economics and Finance Institute</li> 
 				<li>Indonesia, National Civil Service Agency</li> 
@@ -191,7 +183,7 @@ li {
   <li>Japan International Cooperation Agency (JICA)</li>
   <li>Korea International Cooperation Agency (KICA)</li>
   <li>Temasek Foundation (TF)</li>
-  <li>Global Education and Training Institute (GETI), United Nation Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
+  <li>Global Education and Training Institute (GETI), United Nations Disaster Risk Reduction (UNDRR) Office of Northeast Asia (ONEA)</li>
   <li>Moroccan Agency for International Cooperation (AMCI)</li>
 </ul>
 	</details>  
