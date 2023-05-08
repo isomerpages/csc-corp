@@ -35,7 +35,7 @@ Peter Shergold has served as secretary of the Department of the Prime Minister a
 <p>
 He is chancellor of the University of Western Sydney, and chair of the New South Wales Public Service Commission Advisory Board. He is also chair of the Commonwealth's Aged Care Reform Implementation Council, the National Centre for Vocational Education Research, and Western Australia's Partnership Forum. He sits on the Queensland Public Sector Renewal Board.
 </p>
-	<p>In 2005, Professor Shergold was elected a fellow of The Academy of Social Sciences in Australia. He is also a fellow of the Australia and New Zealand School of Government, and the Institute of Public Administration Australia. Peter is a Macquarie Group Foundation Professor of Social Impact, and a non-executive chair of the Centre for Social Impact's board of directors.
+<p>In 2005, Professor Shergold was elected a fellow of The Academy of Social Sciences in Australia. He is also a fellow of the Australia and New Zealand School of Government, and the Institute of Public Administration Australia. Peter is a Macquarie Group Foundation Professor of Social Impact, and a non-executive chair of the Centre for Social Impact's board of directors.
 
 
 </p>
