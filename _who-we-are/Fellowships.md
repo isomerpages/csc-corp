@@ -334,7 +334,7 @@ description: ""
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
 	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/yong-ying">Read Bio</a>
+			<a href="/fellowship-members-bios/yong-ying-i">Read Bio</a>
 		</div>
   </div>
 </div>
