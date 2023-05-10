@@ -86,61 +86,6 @@ description: ""
 	
 	}
 	
-/* Below is the CSS for the modal. */
-.modal-window {
-      position: fixed;
-      background-color: rgba(200, 200, 200, 0.75);
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      z-index: 999;
-      opacity: 0;
-      pointer-events: none;
-      -webkit-transition: all 0.3s;
-      -moz-transition: all 0.3s;
-      transition: all 0.3s;
-    }
-    
-.modal-window:target {
-      opacity: 1;
-      pointer-events: auto;
-    }
-    
-.modal-window > div {
-      width: 70%;
-			height: 70%;
-      position: relative;
-      margin: 10% auto;
-      padding: 2rem;
-      background: #fff;
-      color: #444;
-    }
-    
-.modal-window header {
-      font-weight: bold;
-    }
-    
-.modal-close {
-      color: #aaa;
-      line-height: 50px;
-      font-size: 80%;
-      position: absolute;
-      right: 0;
-      text-align: center;
-      top: 0;
-      width: 70px;
-      text-decoration: none;
-    }
-    
-.modal-close:hover {
-      color: #000;
-    }
-    
-.modal-window h1 {
-      font-size: 150%;
-      margin: 0 0 15px;
-    }	
 
 /*Below is the mobile query*/	
 
@@ -332,7 +277,7 @@ description: ""
 		</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Yong Ying-I</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2022 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Long in 1997.</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">An economist and MBA by training, Ms Yong served as Principal Private Secretary to then-Deputy Prime Minister Lee Hsien Loong in 1997.</div></div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/yong-ying-i">Read Bio</a>
 		</div>
