@@ -69,7 +69,7 @@ description: ""
 <div class="grid-container">
 	<div>
 		<p class="paragraph-group2">Introduction Video</p>
-		<p>Want to see what's in INN x CSC? Click <a href="">here</a> to view the introduction video.</p>
+		<p>Want to see what's in INN x CSC? Click <a href="https://vimeo.com/user57303802/innxcsc-intro?share=copy">here</a> to view the introduction video.</p>
 	</div>
 	<div><img src="/images/innintro.jpg"></div>
 
