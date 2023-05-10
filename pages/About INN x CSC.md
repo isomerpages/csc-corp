@@ -66,4 +66,14 @@ description: ""
 
 </div>
 <hr>
+<div class="grid-container">
+	<div>
+		<p class="paragraph-group2">Introduction Video</p>
+		<p>Want to see what's in INN x CSC? Click <a href="">here</a> to view the introduction video.</p>
+	</div>
+	<div><img src="/images/innintro.jpg"></div>
+
+
+</div>
+
 <p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>
