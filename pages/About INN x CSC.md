@@ -21,6 +21,7 @@ description: ""
 		grid-template-columns: 60% 40%;
 		margin-top: 1em;
 		margin-bottom: 1em;
+	  grid-gap: 0.4em;
 	}
 
 </style>
@@ -75,5 +76,5 @@ description: ""
 
 
 </div>
-
+<hr>
 <p>If you'll like to reach us, you can email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a></p>
