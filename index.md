@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Civil Service College, Singapore
-description: An Isomer site of the Singapore Government
+description: This is the website of the Civil Service College, Singapore.
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -17,8 +17,8 @@ sections:
           url: /who-we-are
   - infobar:
       title: Civil Service College, Singapore
-      description: "The heart of learning excellence and development <br> for the
-        Singapore Public Service. "
+      description: The heart of learning excellence and development <br> for the
+        Singapore Public Service.
   - infopic:
       image: /images/Landing Page/csc building 02.jpg
       alt: Image alt text
