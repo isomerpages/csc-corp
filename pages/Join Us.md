@@ -74,7 +74,7 @@ encouraged to continually develop yourself so you can fulfil your potential and 
 
 
 
-<h3 class="theheader">Help &amp; Support Each Other</h3>
+<h3 class="theheader">Help and Support Each Other</h3>
 <p>At CSC, teamwork, collaboration and mutual respect are key. You’ll be trusted to take ownership of your
 work and always do your best – all with the support of colleagues you’ll be proud to work with.
 </p>
