@@ -63,7 +63,7 @@ hr {
 </div>
 
 
-<h3 class="theheader">Learning Design &amp; Programme Development</h3>
+<h3 class="theheader">Learning Design and Programme Development</h3>
 <p>Push the boundaries with new learning methodologies and practices. Design, develop and deliver learning that is innovative, impactful and inspiring.</p>
 
 
