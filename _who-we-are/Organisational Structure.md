@@ -94,7 +94,7 @@ details {
 	
 <details>
 	<summary>Institute for Learning Technologies</summary>
-	<p class="Accordion-Paragraph">Provide a WOG learning platform and promote the use of technology for competency development and upskilling of public service officers.</p>
+	<p class="Accordion-Paragraph">Provide a Whole-of-Government learning platform and promote the use of technology for competency development and upskilling of public service officers.</p>
 	</details>
 	
 <details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
