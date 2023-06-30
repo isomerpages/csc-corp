@@ -91,13 +91,17 @@ details {
 	</details>
 	<details><summary>Institute of Leadership and Organisation Development</summary>
 		<p class="Accordion-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p></details>
-	<details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
+	
+<details>
+	<summary>Institute for Learning Technologies</summary>
+	<p class="Accordion-Paragraph">Provide a WOG learning platform and promote the use of technology for competency development and upskilling of public service officers.</p>
+	</details>
+	
+<details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
 		</p>
 	</details>
 	
-<details>
-	<summary><p class="Accordion-Paragraph"></p></summary>
-	</details>
+
 	
 <details>
 		<summary>Institute of Public Sector Leadership</summary>
