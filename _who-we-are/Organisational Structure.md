@@ -94,7 +94,12 @@ details {
 	<details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
 		</p>
 	</details>
-	<details>
+	
+<details>
+	<summary><p class="Accordion-Paragraph"></p></summary>
+	</details>
+	
+<details>
 		<summary>Institute of Public Sector Leadership</summary>
 		<p class="Accordion-Paragraph">Develop a pipeline of public service leaders through a suite of milestone programmes focusing on leadership development, public governance and its ethos in Singapore.</p>
 	</details>
