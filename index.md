@@ -37,4 +37,14 @@ sections:
       url: https://go.gov.sg/corporatesite-banner-ia-conference2023
       image: /images/Landing Page/iia_conference_tile.jpg
       alt: Image alt text
+  - infopic:
+      title: Recognition of Excellence 2023 Award
+      subtitle: Award
+      description: We are excited to announce that CSC received the Recognition of
+        Excellence 2023 award at the 8th Singapore OpenGov Leadership Forum for
+        LEARN.
+      button: Find out more
+      url: https://opengovasia.com/awards/singapore-awards/2023-2/
+      image: /images/Landing Page/opengov_award_tile.jpg
+      alt: Image alt text
 ---
