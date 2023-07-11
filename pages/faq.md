@@ -208,7 +208,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 				<li>Standard in-house or customised programme request</li>
 			</ul>
 			<p>We’ll respond within 3 – 5 working days. </p>
-			<p>*Find out who is your Agency Engagement Manager <a target="_blank" href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/AE%20Manager%20List%20(25%20April%202023).pdf">here</a> (this file can only be viewed on the Government Intranet).
+			<p>*Find out who is your Agency Engagement Manager <a target="_blank" href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/CSC%20Agency%20Engagement%20Manager%20List%20(for%20LD%20Microsite)(6%20June%202023).pdf">here</a> (this file can only be viewed on the Government Intranet).
 </p>
 	
 	
