@@ -60,7 +60,7 @@ details {
 </style>
 <!-- Hello there this is a HTML comment-->
 
-<p>CSC's six Institutes, four Business Support units and six Corporate Services departments work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                         </p>
+<p>CSC's Institutes, Business Support units&nbsp;and Corporate Services departments work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                            </p>
 
 <hr>
 <div class="grid-container">
@@ -87,7 +87,7 @@ details {
 	<div class="grid-child-OS-2">		
 <div id="myaccordion">
 	<details><summary>Institute of Governance and Policy</summary>
-		<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
+		<p class="Accordion-Paragraph">Build capabilities of public officers in public governance, policy development, public communications and engagement, and international relations.</p>
 	</details>
 	<details><summary>Institute of Leadership and Organisation Development</summary>
 		<p class="Accordion-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p></details>
@@ -122,10 +122,6 @@ details {
 <div class="grid-child-OS-2">
 	<!-- Below here will be the 4 Business Support unit accordians-->
 	<div id="myaccordion">
-		<details>
-			<summary>Digital Learning Services</summary>
-			<p class="Accordion-Paragraph">Drive and enable digital learning for an integrated and seamless learning experience.</p>
-		</details>
 		<details><summary>Project INEX (INtegrated EXperience)</summary>
 			<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view in order to provide a seamless learner and agency experience.</p>
 		</details>
