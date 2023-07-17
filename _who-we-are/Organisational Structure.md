@@ -87,7 +87,7 @@ details {
 	<div class="grid-child-OS-2">		
 <div id="myaccordion">
 	<details><summary>Institute of Governance and Policy</summary>
-		<p class="Accordion-Paragraph">Steward and advance public policy through research and training programmes, with emphasis on the areas of governance, public economics and social policy.</p>
+		<p class="Accordion-Paragraph">Build capabilities of public officers in public governance, policy development, public communications and engagement, and international relations.</p>
 	</details>
 	<details><summary>Institute of Leadership and Organisation Development</summary>
 		<p class="Accordion-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p></details>
