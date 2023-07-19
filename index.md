@@ -35,6 +35,7 @@ sections:
       url: https://knowledge.csc.gov.sg
       image: /images/Landing Page/landingtile_csc knowledge.jpg
       alt: Image alt text
+      subtitle: Publications
   - infopic:
       title: IIA Singapore Annual Conference 2023
       subtitle: Event
