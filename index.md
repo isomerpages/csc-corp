@@ -31,7 +31,7 @@ sections:
       title: CSC Knowledge
       description: Empowering our public officers with the skills, insights and
         inspiration to make a meaningful impact in their roles.
-      button: Find out more
+      button: Explore our publications
       url: https://knowledge.csc.gov.sg
       image: /images/Landing Page/landingtile_csc knowledge.jpg
       alt: Image alt text
