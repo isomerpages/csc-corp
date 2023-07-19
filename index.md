@@ -28,6 +28,14 @@ sections:
       url: /what-we-do
       button: Learn more about us
   - infopic:
+      title: CSC Knowledge
+      description: Empowering our public officers with the skills, insights and
+        inspiration to make a meaningful impact in their roles.
+      button: Find out more
+      url: https://knowledge.csc.gov.sg
+      image: /images/Landing Page/landingtile_csc knowledge.jpg
+      alt: Image alt text
+  - infopic:
       title: IIA Singapore Annual Conference 2023
       subtitle: Event
       description: Sharing valuable insights and strategies for optimising
