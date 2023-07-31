@@ -96,8 +96,7 @@ details {
 		<p>After you've scanned your ID, a personalised name label will be printed for you. For security purposes, you must display your name label prominently at all times when in CSC.</p>
 		<p class="mini-header">My Label Went Missing</p>
 		<p>You can reprint your name label if you need to. You can do so at any time between 8.00am to 5.15pm on the day of your class.</p>
-			<p class="mini-header">I’ve Been Replaced By Mistake</p>
-		<p>Please verify with your Training Coordinator or contact us for further assistance.</p>
+		
 		<h4>Cancelling Your Registration:</h4>
 		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
 		<p>You may cancel an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
