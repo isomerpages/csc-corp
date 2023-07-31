@@ -103,30 +103,21 @@ details {
 		<li>Remember to complete any pre-course assignment that is required for the class</li>
 		<li>Virtual classroom link/details under the “Virtual Classroom” grid</li> </ol>
 		<p>Here is <a href="https://go.gov.sg/learndc-proginfo">a simple guide</a> with the steps to login to Learn DC and access the programme information.</p>
-		<h4>Withdrawing Your Registration:</h4>
+		<h4>Withdrawing Your Registration</h4>
 		<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
 		<p>You may withdraw an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
 		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide</p>
-		<p class="mini-header">Sending a Replacement</p>
-		<p>For most programmes, we’re happy to let your colleague replace you at no extra charge. We strongly encourage you to select a colleague with a similar profile, so he or she can fully benefit from the programme. Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 5 working days before the programme starts. Include the following:
-		</p><ul>
-			<li>Your name</li>
-			<li>Programme title</li>
-			<li>Programme date(s)</li>
-			<li>Your replacement’s details</li>
-			<ol>
-				<li>Name</li>
-				<li>NRIC</li>
-				<li>Email Address</li>
-				<li>Department</li>
-		 </ol>
-		</ul>
-<p>Note: For programmes that require pre-coursework or screening, we’ll let you know if your request to send a replacement is successful.</p>
-		<p class="mini-header">Withdrawing Your Registration</p>
-		<p>If you can’t find a colleague to replace you, or if the programme doesn’t allow for it, you’ll need to withdraw your registration. To do so, email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 3 weeks before the programme starts to avoid any penalty charges. If you withdraw your registration less than 3 weeks before the programme starts, a withdrawal fee will be incurred (equivalent to 25% of the programme fee). If you don’t withdraw your registration at all, you’ll be considered absent and the full programme fee will be charged.</p>
+		<p class="mini-header">Withdrawing Your Registration After Programme Placement</p>
+		<p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p><ol>
+<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal/replacement /transfer requests have to be submitted by your TC.</li>	
+<li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
+<li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
+		<li>Do note the withdrawal timelines below to avoid any penalties.</li>
+		
+<p></p>
 	
 	
-</div>
+</ol></div>
 	</details>
 	
 <details><summary>For Training Coordinators</summary>
