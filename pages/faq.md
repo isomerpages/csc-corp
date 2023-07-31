@@ -103,9 +103,9 @@ details {
 		<li>Remember to complete any pre-course assignment that is required for the class</li>
 		<li>Virtual classroom link/details under the “Virtual Classroom” grid</li> </ol>
 		<p>Here is <a href="https://go.gov.sg/learndc-proginfo">a simple guide</a> with the steps to login to Learn DC and access the programme information.</p>
-		<h4>Cancelling Your Registration:</h4>
-		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
-		<p>You may cancel an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
+		<h4>Withdrawing Your Registration:</h4>
+		<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
+		<p>You may withdraw an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
 		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide</p>
 		<p class="mini-header">Sending a Replacement</p>
 		<p>For most programmes, we’re happy to let your colleague replace you at no extra charge. We strongly encourage you to select a colleague with a similar profile, so he or she can fully benefit from the programme. Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> at least 5 working days before the programme starts. Include the following:
