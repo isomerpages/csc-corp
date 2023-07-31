@@ -96,7 +96,13 @@ details {
 		<p>After you've scanned your ID, a personalised name label will be printed for you. For security purposes, you must display your name label prominently at all times when in CSC.</p>
 		<p class="mini-header">My Label Went Missing</p>
 		<p>You can reprint your name label if you need to. You can do so at any time between 8.00am to 5.15pm on the day of your class.</p>
-		
+		<h4>Attending Your Programme: Virtual Classroom</h4>
+			<p class="mini-header">Where do I find the virtual classroom details</p>
+	<p>A system-generated welcome email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week prior to the class commencement date. Login to https://dc.learn.gov.sg/ and scroll down to the “My Programmes” to select the grid containing the name of the course you are attending. Then, scroll down to the “Table of Contents” to find:</p><ol> 
+		<li>The pre-course materials under the “Pre-course Preparations” grid</li>
+		<li>Remember to complete any pre-course assignment that is required for the class</li>
+		<li>Virtual classroom link/details under the “Virtual Classroom” grid</li> </ol>
+		<p>Here is <a href="https://go.gov.sg/learndc-proginfo">a simple guide</a> with the steps to login to Learn DC and access the programme information.</p>
 		<h4>Cancelling Your Registration:</h4>
 		<p class="mini-header">Cancelling your application before Training Coordinator (TC) approval</p>
 		<p>You may cancel an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
