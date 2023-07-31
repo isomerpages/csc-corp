@@ -182,19 +182,8 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 
 <p class="mini-header">Name Labels for Officers</p>
 			<p>After scanning, a personalised name label will be printed. For security purposes, your officers must display their name labels prominently at all times when in CSC. Name labels can be re-printed if requested (anytime between 8.00am to 5.15pm).</p>
-	<p class="mini-header">Sending a Replacement Officer</p>
-			<p>Please notify us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the details of the replacement(s) at least 5 working days before the class starts. </p>
-	<p class="mini-header">What the Replacing Officer Needs to Know </p>
-			<p>All officers replacing their colleagues will need to have the following information: 
-			</p><ul>
-				<li>Name of colleague being replaced</li>
-				<li>Title of the course or course code</li>
-			</ul>
-		<p>This will ensure that the replacement is processed successfully.</p>
 	<p class="mini-header">Where to Get Assistance</p>
 			<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
-	<p class="mini-header">Replaced Officer Turns Up for Class</p>
-			<p>We will need you to validate the details. As soon as you have established who should attend the class, please advise both officers to approach the Trainers or Programme Administrator for further assistance.</p>
 	<p class="mini-header">More Questions?</p>
 			<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
 			<h4>Request for In-House Training</h4>
