@@ -113,7 +113,7 @@ details {
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 		<li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
-		<img src="/images/FAQ/process_timeline_learner.jpg">
+<img src="/images/FAQ/process_timeline_learner.jpg">
 		<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
 	
 	
@@ -173,11 +173,13 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<li>If there is one, the replacement officer’s details</li>
 			<li>Replacement Officer’s TC details and Billing Contact Details</li></ul>
 <p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:		</p> 
+			<img src="/images/FAQ/process_timeline_tcs.jpg">
 <p>If penalty fees are incurred, CSC will assess if the penalty can be waived based on the reasons provided by the TC in the form. CSC will then inform the TC of the outcome over email within 5 working days.</p>
 			<p>Please also note the timelines for replacements and transfers:</p><ul>
 			<li>Replacement requests: at least 5 working days before class starts</li>
 <li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li></ul>
-	<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
+<img src="/images/FAQ/overview_process_timeline.jpg">
+			<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
