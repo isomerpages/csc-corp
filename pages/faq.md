@@ -170,7 +170,7 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<li>Reasons for withdrawing</li>
 			<li>If transferring to another session, the dates of the session to be transferred to</li>
 			<li>If there is one, the replacement officer’s details</li>
-			<li>Replacement Officer’s TC details and Billing Contact Details</li>
+			<li>Replacement Officer’s TC details and Billing Contact Details</li></ul>
 <p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:		</p> 
 <p>If penalty fees are incurred, CSC will assess if the penalty can be waived based on the reasons provided by the TC in the form. CSC will then inform the TC of the outcome over email within 5 working days.</p>
 			<p>Please also note the timelines for replacements and transfers:</p><ul>
@@ -218,5 +218,5 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 	
 	
 	
-</ul></div>
+</div>
 </details>
