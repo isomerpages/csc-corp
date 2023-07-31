@@ -176,10 +176,10 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 			<p>Please also note the timelines for replacements and transfers:</p><ul>
 			<li>Replacement requests: at least 5 working days before class starts</li>
 <li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li></ul>
+	<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
-
 <p class="mini-header">Name Labels for Officers</p>
 			<p>After scanning, a personalised name label will be printed. For security purposes, your officers must display their name labels prominently at all times when in CSC. Name labels can be re-printed if requested (anytime between 8.00am to 5.15pm).</p>
 	<p class="mini-header">Where to Get Assistance</p>
