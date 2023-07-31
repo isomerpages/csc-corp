@@ -113,6 +113,7 @@ details {
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 		<li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
+		<img src="/images/FAQ/process_timeline_learner.jpg">
 		<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
 	
 	
