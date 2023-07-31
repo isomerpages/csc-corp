@@ -161,6 +161,21 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 		</p>
 			<p class="mini-header">Contacting Us</p>
 	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us</a> page.</p>
+			<h4>Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
+<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
+			<p>TCs will be prompted to provide the following information:</p><ul>
+			<li>TC’s details</li>
+			<li>Details of the programme that officer is withdrawing from</li>
+			<li>Details of withdrawing officer</li>
+			<li>Reasons for withdrawing</li>
+			<li>If transferring to another session, the dates of the session to be transferred to</li>
+			<li>If there is one, the replacement officer’s details</li>
+			<li>Replacement Officer’s TC details and Billing Contact Details</li>
+<p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:		</p> 
+<p>If penalty fees are incurred, CSC will assess if the penalty can be waived based on the reasons provided by the TC in the form. CSC will then inform the TC of the outcome over email within 5 working days.</p>
+			<p>Please also note the timelines for replacements and transfers:</p><ul>
+			<li>Replacement requests: at least 5 working days before class starts</li>
+<li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li></ul>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
@@ -214,5 +229,5 @@ Pro tip: You can also use the Individual or Bulk Registration function to regist
 	
 	
 	
-</div>
+</ul></div>
 </details>
