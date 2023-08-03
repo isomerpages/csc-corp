@@ -184,14 +184,14 @@ description: ""
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg" class="fellowship-image">
+	<img src="/images/FellowshipImages/fellowships_chee%20wee%20kiong.jpg" class="fellowship-image">
 	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Augustine O'Donnell</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime Ministers Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Chee Wee Kiong</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2023 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Chee served forty years in the Singapore Armed Forces and the Singapore Public Service and held many key command and staff appointments which included Commander of Air Defence Division, Chief of Staff for Air Staff and Director of Joint Operations and Planning Department.</div>
 	</div>
 	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/augustine-o-donnell">Read Bio</a></div>
+			<a href="/fellowship-members-bios/chee-wee-kiong/">Read Bio</a></div>
 </div>
 		
 </div>
