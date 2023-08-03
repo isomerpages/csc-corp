@@ -33,10 +33,8 @@ p {
 
 <p>
 
-
+Mr Chee Wee Kiong holds a Master of Public Administration (Public Administration) from Harvard University and a Master of Business Administration (Business Administration) from National University of Singapore. He served forty years in the Singapore Armed Forces and the Singapore Public Service. In the course of his career with the Singapore Armed Forces and the Ministry of Defence, Mr Chee held many key command and staff appointments which included Commander of Air Defence Systems Division, Chief of Staff for Air Staff and Director of Joint Operations and Planning Department. He also served as Director, Security and Intelligence Division in the Ministry of Defence. His last appointment was Permanent Secretary in the Ministry of Foreign Affairs, where he served from 2010 to 2022. 
 
 
 
 </p>
-
-
