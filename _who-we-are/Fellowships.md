@@ -291,8 +291,6 @@ description: ""
 <div class="grid-container">
 
 
-
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -308,6 +306,10 @@ description: ""
   </div>
 </div>
 
+	
+	
+	
+	
 </div>
 
 <!-- Start of Visiting fellows.-->
