@@ -177,6 +177,17 @@ description: ""
 	
 <!--Start of the Senior Fellows Card-->
 <h3 class="header-fellows-middle">Senior Fellows</h3>
+
+
+<div class="grid-container">
+	<div class="fellow-card"></div>
+
+
+
+</div>
+
+
+
 <div class="grid-container">
 <!-- Place khoo boon hui here-->
 	<div class="fellow-card">
