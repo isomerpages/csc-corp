@@ -195,8 +195,10 @@ description: ""
 </div>
 		
 </div>
+	
+	
 <!-- Place khoo boon hui here-->
-	<div class="fellow-card">
+<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
@@ -214,22 +216,6 @@ description: ""
 
 
 <div class="grid-container">
-<!-- Place khoo boon hui here-->
-	<div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
-<div class="fellowship-text">
-	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Khoo_Boon_Hui_2x.jpg">
-	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Khoo Boon Hui</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2015 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Mr Khoo was Commissioner of the Singapore Police Force for 13 years and President of INTERPOL for 4 years.</div></div>
-<div class="fellowship-card-text card-link">
-<a href="/fellowship-members-bios/khoo-boon-hui">Read Bio</a>
-	 </div>								
-  </div>
- </div>
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -245,14 +231,8 @@ description: ""
 			</div>
 	</div>
 </div>	
-	
-	
 
-</div>
 
-<!-- Second layer of Senior Fellows-->
-
-<div class="grid-container">
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -267,6 +247,14 @@ description: ""
 		</div>						
   </div>
 	</div>
+	
+
+</div>
+
+<!-- Second layer of Senior Fellows-->
+
+<div class="grid-container">
+
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
@@ -283,13 +271,6 @@ description: ""
 		</div>
 	</div>
 
-
-</div>
-
-<!-- Third layer of Senior Fellows.-->
-<div class="grid-container">
-
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -304,6 +285,13 @@ description: ""
 		</div>				
   </div>
 </div>
+</div>
+
+<!-- Third layer of Senior Fellows.-->
+<div class="grid-container">
+
+
+
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
