@@ -26,6 +26,6 @@ p {
 <h4 style="text-align:center;">SENIOR FELLOW</h4>
 
 <div class="fellow-img">
-<img class="fellow-image-pic" src="">
+<img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_chee%20wee%20kiong.jpg">
 <p class="fellow-tenure">2023 - PRESENT</p>
 </div>
