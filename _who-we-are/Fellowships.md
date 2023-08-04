@@ -177,9 +177,28 @@ description: ""
 	
 <!--Start of the Senior Fellows Card-->
 <h3 class="header-fellows-middle">Senior Fellows</h3>
+
+
 <div class="grid-container">
+<div class="fellow-card">
+<!-- Below is the HTML that is contained inside the card.-->		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+	<img src="/images/FellowshipImages/fellowships_chee%20wee%20kiong.jpg" class="fellowship-image">
+	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Chee Wee Kiong</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2023 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Chee served forty years in the Singapore Armed Forces and the Singapore Public Service, during which he held many key command and staff appointments. His last appointment was Permanent Secretary in the Ministry of Foreign Affairs, where he served from 2010 to 2022.</div>
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/chee-wee-kiong/">Read Bio</a></div>
+</div>
+		
+</div>
+	
+	
 <!-- Place khoo boon hui here-->
-	<div class="fellow-card">
+<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
@@ -193,7 +212,10 @@ description: ""
 	 </div>								
   </div>
  </div>
+</div>
 
+
+<div class="grid-container">
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -209,14 +231,8 @@ description: ""
 			</div>
 	</div>
 </div>	
-	
-	
 
-</div>
 
-<!-- Second layer of Senior Fellows-->
-
-<div class="grid-container">
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -231,6 +247,14 @@ description: ""
 		</div>						
   </div>
 	</div>
+	
+
+</div>
+
+<!-- Second layer of Senior Fellows-->
+
+<div class="grid-container">
+
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
@@ -247,13 +271,6 @@ description: ""
 		</div>
 	</div>
 
-
-</div>
-
-<!-- Third layer of Senior Fellows.-->
-<div class="grid-container">
-
-
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -268,6 +285,11 @@ description: ""
 		</div>				
   </div>
 </div>
+</div>
+
+<!-- Third layer of Senior Fellows.-->
+<div class="grid-container">
+
 
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
@@ -284,6 +306,10 @@ description: ""
   </div>
 </div>
 
+	
+	
+	
+	
 </div>
 
 <!-- Start of Visiting fellows.-->
