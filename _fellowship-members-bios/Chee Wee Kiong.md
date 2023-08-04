@@ -27,7 +27,7 @@ p {
 
 <div class="fellow-img">
 <img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_chee%20wee%20kiong.jpg">
-<p class="fellow-tenure">2023 - PRESENT</p>
+<p class="fellow-tenure">2022 - PRESENT</p>
 </div>
 
 
