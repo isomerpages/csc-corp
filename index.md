@@ -4,12 +4,12 @@ title: Civil Service College, Singapore
 description: This is the website of the Civil Service College, Singapore.
 image: /images/isomer-logo.svg
 permalink: /
-notification: "We've just discovered a FAKE Telegram account (@cscsingapura)
-  that is using the CSC logo and claiming to help with job opportunities with
-  the Singapore Government. Please be aware that the ONLY official Telegram
-  account for the Civil Service College is @CSCSingapore. CSC will not ask you
-  for any personal details via Telegram. Protect your information and report any
-  suspicious activity to the relevant authorities immediately. "
+notification: We've just discovered a FAKE Telegram account (@cscsingapura) that
+  is using the CSC logo and claiming to help with job opportunities with the
+  Singapore Government. Please be aware that the ONLY official Telegram account
+  for the Civil Service College is @CSCSingapore. CSC will not ask you for any
+  personal details via Telegram. Protect your information and report any
+  suspicious activity to the relevant authorities immediately.
 sections:
   - hero:
       background: /images/Landing Page/cover_option2a.jpg
