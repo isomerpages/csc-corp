@@ -9,7 +9,7 @@ description: ""
 	 font-size: 1em;
 	 margin-left: 0.5em;
 	 margin-right: 0.5em;
-	 
+
 	}
 	
 	summary {
@@ -18,6 +18,7 @@ description: ""
 		margin-bottom: -20px;
 		font-weight: bold;
 		transition: all 0.5s ease;
+
 	}
 	
 	summary:hover{
@@ -36,6 +37,7 @@ details {
 		box-shadow: 0px 0px 10px #d4d4d4;
 		margin-top: 1em;
 		margin-bottom: 2.2em;
+
 	}
 
 
@@ -46,5 +48,3 @@ details {
 <details><summary>Internal Audit</summary>
 		<p class="Accordion-Paragraph">Provide independent assurance that College's risk management, governance and internal control processes are operating effectively.</p>
 	</details>
-
-
