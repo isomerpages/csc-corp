@@ -4,11 +4,12 @@ permalink: /example-page/
 ---
 <style>
 
-.grid-container {
-	display: grid;
-	
-	
-	}	
+	.grid-container {
+		display: grid; 
+		grid-template-columns: 50% 50%;
+		grid-column-gap: 15px;
+		margin-bottom: 5%;
+	}
 	
 	
 	.header-fellows-middle {
@@ -112,23 +113,26 @@ permalink: /example-page/
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
+		<!-- Start of Fellowcard Image -->
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
+		<!-- End of Fellowcard Image-->
 	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Augustine O'Donnell</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Lord Augustine served Prime Ministers Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.</div>
-	</div>
+			<div class="fellowship-card-text">
+				<!-- Start of Fellow Name-->
+				<p class="fellow-name">Augustine O'Donnell</p>
+				<!-- End of Fellow Name-->
+			</div>
+				<div class="fellowship-card-text">
+					<!-- Start of Fellow Duration-->
+					<p class="fellow-duration">SENIOR VISITING FELLOW, 2012 - Present</p>
+					<!-- End of Fellow Duration-->
+				</div>
+					<div class="fellowship-card-text">
+						<div class="fellow-summary">Lord Augustine served Prime Ministers Tony Blair, Gordon Brown and David Cameron as cabinet secretary and head of the UK civil service from 2005 to 2011.
+						</div>
+					</div>
 	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/augustine-o-donnell">Read Bio</a></div>
+			<a href="/fellowship-members-bios/augustine-o-donnell">Read Bio</a>
+	</div>
 </div>
-		
 </div>
-
-
-
-
-
-
-
-
-
