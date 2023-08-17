@@ -2,7 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - test.md
       - Augustine O'Donnell.md
       - Jocelyne Bourgon.md
       - Peter Hawkins.md
