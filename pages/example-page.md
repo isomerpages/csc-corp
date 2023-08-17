@@ -134,7 +134,7 @@ permalink: /example-page/
 						<!-- End of Fellow Summary -->
 					</div>
 	<div class="fellowship-card-text card-link">
-			<a href="[Insert Fellow Biography]">Read Bio</a>
+			<a href="[Insert Fellow Biography Link]">Read Bio</a>
 	</div>
 </div>
 <!-- End of Fellow Card --></div>
