@@ -12,3 +12,13 @@ permalink: /example-page/
 
 
 </style>
+
+
+
+<div class="grid-container">
+
+<div class="grid-child"><img src="/images/favicon-isomer.ico"></div>
+<div class="grid-child"><img src="/images/favicon-isomer.ico"></div>
+
+
+</div>
