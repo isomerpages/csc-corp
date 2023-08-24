@@ -4,8 +4,8 @@ title: Civil Service College, Singapore
 description: This is the website of the Civil Service College, Singapore.
 image: /images/isomer-logo.svg
 permalink: /
-notification: We've just discovered a FAKE Telegram account (@cscsingapura) that
-  is using the CSC logo and claiming to help with job opportunities with the
+notification: We discovered a FAKE Telegram account (@cscsingapura) that is
+  using the CSC logo and claiming to help with job opportunities with the
   Singapore Government. Please be aware that the ONLY official Telegram account
   for the Civil Service College is @CSCSingapore. CSC will not ask you for any
   personal details via Telegram. Protect your information and report any
@@ -41,16 +41,6 @@ sections:
       image: /images/Landing Page/landingtile_csc knowledge.jpg
       alt: Image alt text
       subtitle: Publications
-  - infopic:
-      title: IIA Singapore Annual Conference 2023
-      subtitle: Event
-      description: Sharing valuable insights and strategies for optimising
-        organisational performance, mitigating risks, and driving sustainable
-        growth.
-      button: Find out more
-      url: https://go.gov.sg/corporatesite-banner-ia-conference2023
-      image: /images/Landing Page/iia_conference_tile.jpg
-      alt: Image alt text
   - infopic:
       title: Recognition of Excellence 2023 Award
       subtitle: Award
