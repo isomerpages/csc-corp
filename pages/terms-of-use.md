@@ -5,6 +5,7 @@ permalink: /terms-of-use/
 <style>
 ol.alphabetical-orderedlist {
 	list-style-type:lower-alpha; !important;
+	padding: 20px;
 	}
 	
 ol.lower-roman-orderedlist{
@@ -80,15 +81,27 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 		<li>any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality, or fitness for any particular purpose of the Contents of this Website; and</li>
 		<li>any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents, and the hosting servers are and will be free of all viruses and other harmful elements.</li>
 	</ol>
-	<li></li>
-	<li></li>
+	<li>CSC shall not be liable to you or any third party for any damage or loss whatsoever, including but not limited to direct, indirect, punitive, special, or consequential damages, loss of income, revenue, or profits, lost or damaged data, or damage to your computer, software, modem or other property, arising directly or indirectly from:</li>
+	<ol class="alphabetical-orderedlist">
+        <li>Your access to or use of this Website, LEARN and LEARN-DC;</li>
+        <li>Any loss of access to or use of this Website, LEARN and LEARN-DC, howsoever caused;</li>
+        <li>Any inaccuracy or incompleteness in, or errors or omissions in the transmission of the Contents;</li>
+        <li>Any delay or interruption in the transmission of the Contents on this Website, whether caused by delay or interruption in transmission over the internet or otherwise;</li>
+        <li>Any decision made or action taken by you or any third party in reliance upon the Contents, regardless of whether CSC has been advised of the possibility of such damage or loss.</li>
+    </ol>
+	<li>You shall not rely on any Contents of this Website to claim or assert any form of legitimate expectation against CSC, whether procedural or substantive in nature, in respect of any action that CSC may or may not take in the exercise of its discretion, or in connection with CSC’s roles as a statutory agency.</li>
 
 
 
 
 </ol>
 
+<h4>Hyperlinks from this Website to other websites</h4>
+<ol start="15">
+	<li>This Website contains hyperlinks to websites which are not maintained by CSC. CSC is not responsible for the contents or reliability of those Websites and does not necessarily endorse the views expressed in them. CSC has no control over and cannot guarantee the accessibility or proper functioning of those websites. Further, CSC shall not be liable to you or any third party for any damage or loss whatsoever arising from your access to those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.</li>
 
+
+</ol>
 
 
 
