@@ -10,7 +10,7 @@ ol.alphabetical-orderedlist {
 	
 ol.lower-roman-orderedlist{
 	list-style-type: lower-roman !important;
-
+	padding: 10px;
 	}
 	
 .li-withalphabet-below {
@@ -112,7 +112,28 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 	<li>The CSC Website (“Website”) and CSC-related and CSC-owned digital platforms are not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register for any programmes offered on CSC’s Digital platforms. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For attendance at complimentary programmes, please note that you or your Training Coordinator will have to manually update your training records in HRP and Workday. </li>
 
 <li>Online application of programmes on any of CSC’s Digital platforms are subject to the following conditions:</li>
-
+	<ol class="alphabetical-orderedlist">
+		<li style="font-weight:bold;">Paid Synchronous (instructor-led programmes taking place in real-time) Programmes </li>
+		 <ol class="lower-roman-orderedlist">
+        <li>Confirmation and Notification of Emplacement<br>
+            Participants will be notified of their emplacement in the programme 3 weeks before the class commences in the form of the Programme Placement Letter.</li>
+        <li>Withdrawal and/or Replacement<br>
+            For programmes with Development Grant, departments will be charged the full programme fees for any withdrawal/absentees. Development Grant is only given to learners who have fully attended the programme. No fees will be charged should CSC cancel a programme due to unforeseen circumstances.<br>
+            <br>
+            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal (https://register.csc.gov.sg). The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 3 working days.<br>
+            <br>
+            If the withdrawal/replacement/transfer request is submitted 3 weeks before class commencement date, or after the Programme Placement Letter has been issued (whichever is later), a penalty of 25% of programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
+            <br>
+            These terms may be subject to change from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
+        <li>Replacement and Transfer<br>
+            Replacement requests should be submitted at least 5 working days before class starts. Transfer requests should be submitted before the class commencement date, and at least 5 working days before the new class commencement date.<br>
+            <br>
+            No penalty charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.</li>
+				<li>Absenteeism<br>
+            The full programme fee will be charged for the absentee, regardless of provision of Development Grant. The Development Grant, if any, is only given to those who fulfil the attendance of the programme.</li>
+		</ol>
+		
+</ol>
 </ol>
 
 
