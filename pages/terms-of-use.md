@@ -105,5 +105,30 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 
 
+<h4>Online Application of Programmes via CSC Website and CSC-related Digital Platforms</h4>
+
+
+<ol start="16">
+	<li>The CSC Website (“Website”) and CSC-related and CSC-owned digital platforms are not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register for any programmes offered on CSC’s Digital platforms. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For attendance at complimentary programmes, please note that you or your Training Coordinator will have to manually update your training records in HRP and Workday. </li>
+
+<li>Online application of programmes on any of CSC’s Digital platforms are subject to the following conditions:</li>
+
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
