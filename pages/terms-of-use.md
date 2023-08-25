@@ -177,4 +177,5 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
 </ol>
+	<li>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
 </ol>
