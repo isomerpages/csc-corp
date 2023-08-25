@@ -143,5 +143,16 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
             <br>
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
+		<li style="font-weight: bold;">Paid E-learning (Asynchronous) Programmes</li>
+		<ol class="lower-roman-orderedlist">
+        <li>Confirmation and Notification of Emplacement<br>
+            Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
+        <li>Withdrawal<br>
+            Only withdrawals through emails will be acknowledged.<br>
+            <br>
+            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
+            <br>
+            Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
+    </ol>
 </ol>
 </ol>
