@@ -179,3 +179,40 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 </ol>
 	<li>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
 </ol>
+
+
+
+<h4>Online User Behaviour (Acceptable Use)</h4>
+<ol start="19">
+	<li>All CSC-related Digital Platforms (LEARN, LEARN-DC and CSC Programme Portal) are intended for use by Singapore Public Service Officers and/or Singapore Public Service Agencies (“Agency”). You shall only access and/or use these platforms by an authorised account and your Account can only be used by you and must not be shared with any other third party (within the Singapore Public Service or otherwise). Your access and/or usage shall be in accordance with your Agency’s instructions.</li>
+	<li>You further adhere to refrain from posting and/or engaging in the following on our digital platforms:</li>
+	<ol class="alphabetical-orderedlist">
+        <li>Action that defames, harasses or threatens others;</li>
+        <li>Action that discusses illegal activities with the intent to commit them;</li>
+        <li>Action that infringes another's intellectual property, including, but not limited to, copyrights or trademarks;</li>
+        <li>Action that is profane, pornographic, obscene, indecent or unlawful;</li>
+        <li>Advertising or any form of commercial solicitation;</li>
+        <li>Action related to partisan political activities;</li>
+        <li>Action relating to viruses, trojan horses, worms, time bombs, corrupted files, malware, spyware, or any other similar software that may damage the operation of another's computer or property; and</li>
+        <li>Content that contains intentionally inaccurate information or that is posted with the intent of misleading others (this list, collectively, “Strictly Prohibited Items”).</li>
+    </ol>
+	<li>CSC will provide you or your Agency with reasonable notice of such action, unless prohibited by law.</li>
+</ol>
+<h4>Terms of Use</h4>
+<ol start="22">
+	<li>By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</li>
+	<li>You further agree to allow CSC use of any and all photographs and/or videos for publicity that may have been taken during your programme/event. </li>
+	
+</ol>
+
+
+
+<h4>Queries</h4>
+<ol start="24">
+	<li>If you have any queries on these Registration Terms, please send your queries to cscollege@cscollege.gov.sg.</li>
+
+
+</ol>
+
+
+
