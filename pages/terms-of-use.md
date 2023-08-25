@@ -209,10 +209,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <h4>Queries</h4>
 <ol start="24">
-	<li>If you have any queries on these Registration Terms, please send your queries to cscollege@cscollege.gov.sg.</li>
+	<li>If you have any queries on these Registration Terms, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>.</li>
 
 
 </ol>
-
-
-
