@@ -72,3 +72,25 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 </ol>
 
 
+<h4>Disclaimer</h4>
+
+<ol start="12">
+	<li>This Website and the Contents are provided on an “as is” and “as available” basis without warranties of any kind. To the fullest extent permitted by law, CSC does not make any representations or warranties whatsoever and hereby disclaims all express, implied, and statutory warranties of any kind to you or any third party, whether arising from usage or custom or trade or by operation of law or otherwise, including but not limited to the following:</li>
+	<ol class="alphabetical-orderedlist">
+		<li>any representations or warranties as to the accuracy, completeness, reliability, timeliness, currency, quality, or fitness for any particular purpose of the Contents of this Website; and</li>
+		<li>any representations or warranties that the Contents and functions available on this Website shall be error-free or shall be available without interruption or delay, or that any defects on this Website shall be rectified or corrected, or that this Website, the Contents, and the hosting servers are and will be free of all viruses and other harmful elements.</li>
+	</ol>
+	<li></li>
+	<li></li>
+
+
+
+
+</ol>
+
+
+
+
+
+
+
