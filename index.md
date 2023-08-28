@@ -25,6 +25,14 @@ sections:
       description: The heart of learning excellence and development <br> for the
         Singapore Public Service.
   - infopic:
+      title: Closure of CSC North Buona Vista Campus
+      subtitle: Announcement
+      description: CSC is a designated Polling Station for the Presidential Election
+        and will be closed on 31 August and 1 September 2023 to facilitate site
+        preparation.
+      image: /images/Landing Page/voting.jpeg
+      alt: Voting
+  - infopic:
       image: /images/Landing Page/csc building 02.jpg
       alt: Image alt text
       description: Helping public officers navigate the complexities of today and face
@@ -51,12 +59,4 @@ sections:
       url: https://opengovasia.com/awards/singapore-awards/2023-2/
       image: /images/Landing Page/opengov_award_tile.jpg
       alt: Image alt text
-  - infopic:
-      title: Closure of CSC North Buona Vista Campus
-      subtitle: Announcement
-      description: CSC is a designated Polling Station for the Presidential Election
-        and will be closed on 31 August and 1 September 2023 to facilitate site
-        preparation.
-      image: /images/Landing Page/voting.jpeg
-      alt: Voting
 ---
