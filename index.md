@@ -32,6 +32,8 @@ sections:
         preparation.
       image: /images/Landing Page/voting.jpeg
       alt: Voting
+      url: https://go.gov.sg/csc-closure-for-pe2023
+      button: Info on class cancellation
   - infopic:
       image: /images/Landing Page/csc building 02.jpg
       alt: Image alt text
