@@ -241,7 +241,7 @@ description: ""
 		</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Lim Soo Hoon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim served as a Permanent Secretary in the Singapure Public Service for almost 18 years.</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Lim served as a Permanent Secretary in the Singapore Public Service for almost 18 years.</div></div>
 		<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/lim-soo-hoon">Read Bio</a>
 		</div>						
