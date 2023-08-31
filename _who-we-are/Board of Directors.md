@@ -37,7 +37,7 @@ description: ""
 		
 </div>
 <div class="BOD-float-child">
-	<h4>Ms Ong Toon Hui</h4>
+	<h4>Mr Han Neng Hsiu</h4>
 	<p class="role">Member</p>
 	<div class="TheTitles">Dean &amp; CEO</div>
 	<div class="TheTitles">Civil Service College</div>
@@ -75,12 +75,9 @@ description: ""
 <br>
 <div class="grid-container">
 	<div class="BOD-float-child"><h4>Mr Joseph Leong</h4><p class="role">Member</p>
-		<div class="TheTitle">Permanent Secretary,</div>
+		<div class="TheTitle">Permanent Secretary (Communications and Information),</div>
 		<div class="TheTitle">Ministry of Communications and Information</div>	
-		<div class="TheTitle">Permanent Secretary (Cybersecurity),</div>	
-		<div class="TheTitle">Prime Minister's Office</div>	
-		<div class="TheTitle">Permanent Secretary,</div>
-		<div class="TheTitle">Smart Nation and Digital Government Office,</div>
+		<div class="TheTitle">Permanent Secretary (Cybersecurity) and Permanent Secretary (Smart Nation and Digital Government),</div>	
 		<div class="TheTitle">Prime Minister's Office</div>
  </div>
 	<div class="BOD-float-child"><h4>Dr Lee Shiang Long</h4>
@@ -104,14 +101,14 @@ description: ""
 </div>
 	<div class="BOD-float-child"><h4>Mr Paul Choo</h4>
 		<p class="role">Member</p>
-		<div class="TheTitle">Chief HR Officer,</div>
+		<div class="TheTitle">Chief Human Resources Officer,</div>
 		<div class="TheTitle">Bridgestone Asia Pacific</div>
 	
 </div>
 	<div class="BOD-float-child"><h4>Ms Sasha Foo</h4>
 		<p class="role">Member</p>
 		<div class="TheTitle">Managing Director,</div>
-		<div class="TheTitle">DBS Bank Limited</div>
+		<div class="TheTitle">DBS</div>
 	 </div>
 </div>
 <br>
