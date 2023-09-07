@@ -103,8 +103,10 @@ description: ""
 
 <p>We aim to forge strong links with international thought leaders, leverage the rich experiences of policy practitioners and harness the diverse views of academics.</p>
 
+<!-- Start Senior Visting Fellows Section -->
 <h3 class="header-fellows-middle">Senior Visiting Fellows</h3>
 <div class="grid-container">
+	<!-- First Senior Visiting Fellowship card Augustine O'Donnell -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -122,7 +124,7 @@ description: ""
 </div>
 
 	
-<!-- 2nd Senior Fellowship Card Card -->	
+<!-- 2nd Senior Visiting Fellowship Card Jocelyne Bourgon -->	
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
@@ -137,8 +139,11 @@ description: ""
 	</div>
 </div>
 </div>
-<!-- Second Layer-->
+
+
+<!-- Second Layer ( 3rd and 4th cards )-->
 <div class="grid-container">
+	<!-- 3rd Senior  Visiting Fellowship Card Peter Hawkins -->	
 	<div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 		
@@ -157,7 +162,7 @@ description: ""
 </div>
 
 
-
+<!-- 4th Senior Visiting Fellowship Card Peter Shergold -->	
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -175,11 +180,12 @@ description: ""
 </div>
 
 	
-<!--Start of the Senior Fellows Card-->
+<!--Start of the Senior Fellows Section-->
 <h3 class="header-fellows-middle">Senior Fellows</h3>
 
 
 <div class="grid-container">
+	<!-- First Senior Fellowship card -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
