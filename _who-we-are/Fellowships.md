@@ -178,7 +178,7 @@ description: ""
 	</div>
 </div>
 </div>
-
+<!-- End of Senior Visiting Fellows Section -->
 	
 <!--Start of the Senior Fellows Section-->
 <h3 class="header-fellows-middle">Senior Fellows</h3>
@@ -356,12 +356,6 @@ description: ""
 		</div>			
 	</div>
 </div>
-
-
-
-
-
-
 </div>
 
 
