@@ -103,7 +103,7 @@ description: ""
 
 <p>We aim to forge strong links with international thought leaders, leverage the rich experiences of policy practitioners and harness the diverse views of academics.</p>
 
-<!-- Start Senior Visting Fellows Section -->
+<!-- Start of Senior Visting Fellows Section -->
 <h3 class="header-fellows-middle">Senior Visiting Fellows</h3>
 <div class="grid-container">
 	<!-- First Senior Visiting Fellowship card Augustine O'Donnell -->
