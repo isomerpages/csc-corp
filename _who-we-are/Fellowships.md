@@ -319,11 +319,13 @@ description: ""
 	
 	
 </div>
+<!-- End of Senior Fellows-->
 
 <!-- Start of Visiting fellows.-->
 
 <h3 class="header-fellows-middle">Visiting Fellows</h3>
 <div class="grid-container">
+	<!-- First Visiting Fellow ( Catherine Fieschi )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -339,7 +341,7 @@ description: ""
 	 </div>
 </div>
 	
-	
+<!-- Second Visiting Fellow ( Martin Richard John Knapp )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -363,8 +365,9 @@ description: ""
 </div>
 
 
-<!-- Second layer of Visiting Fellows.-->
+<!-- Second layer of Visiting Fellows. ( 3rd and 4th cards )-->
 <div class="grid-container">
+	<!-- 3rd Visiting Fellow ( Richard Brown )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -381,7 +384,7 @@ description: ""
 	</div>
 
 	
-	
+<!-- Fourth Visiting Fellow ( Rory Gallagher )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -397,11 +400,13 @@ description: ""
 		</div>
 	</div>
 </div>
+<!-- End of Visiting Fellows section -->
 
+<!-- Start of Fellows section -->
 <h3 class="header-fellows-middle">Fellows</h3>
 <div class="grid-container">
 
-
+<!-- First Fellows Card ( Ang Hak Seng )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
