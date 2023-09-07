@@ -185,7 +185,7 @@ description: ""
 
 
 <div class="grid-container">
-	<!-- First Senior Fellowship card -->
+	<!-- First Senior Fellowship card ( Chee Wee Kiong )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -203,7 +203,7 @@ description: ""
 </div>
 	
 	
-<!-- Place khoo boon hui here-->
+<!-- 2nd Senior Fellow Card ( Khoo Boon Hui )-->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -220,8 +220,9 @@ description: ""
  </div>
 </div>
 
-
+<!-- Second Layer of Senior Fellows (3rd and 4th)-->
 <div class="grid-container">
+<!-- 3rd Senior Fellow ( Lim Siong Guan ) -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -238,7 +239,7 @@ description: ""
 	</div>
 </div>	
 
-
+<!-- 4th Senior Fellow ( Lim Soo Hoon ) -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -257,11 +258,11 @@ description: ""
 
 </div>
 
-<!-- Second layer of Senior Fellows-->
+<!-- 3rd layer of Senior Fellows-->
 
 <div class="grid-container">
 
-
+<!-- 5th Senior Fellow ( Peter Ho Hak Ean ) -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 <div class="fellowship-text">
@@ -277,6 +278,7 @@ description: ""
 		</div>
 	</div>
 
+<!-- 6th Senior Fellow ( Peter Ong Boon Kwee ) -->	
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
@@ -293,10 +295,10 @@ description: ""
 </div>
 </div>
 
-<!-- Third layer of Senior Fellows.-->
+<!-- 4th layer of Senior Fellows ( 7th Card )-->
 <div class="grid-container">
 
-
+<!-- 7th Senior Fellow ( Yong Ying-I ) -->
 <div class="fellow-card">
 <!-- Below is the HTML that is contained inside the card.-->		
 	<div class="fellowship-text">
