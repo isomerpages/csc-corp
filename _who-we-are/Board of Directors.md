@@ -42,7 +42,7 @@ description: ""
 	<div class="TheTitles">Dean &amp; CEO</div>
 	<div class="TheTitles">Civil Service College</div>
 	<div class="TheTitles">Deputy Secretary (Leadership)</div>
-	<div class="TheTitles">Prime Service Division,</div>
+	<div class="TheTitles">Public Service Division,</div>
 	<div class="TheTitles">Prime Minister's Office</div>
 </div>
 <div class="BOD-float-child">
