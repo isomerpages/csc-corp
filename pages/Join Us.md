@@ -49,7 +49,7 @@ p {
 	margin-bottom: -0.5em !important;
 	}
 	
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 600px) {
 	.triple-column-div {
 		display: block;
 	}
