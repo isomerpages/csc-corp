@@ -49,6 +49,16 @@ p {
 	margin-bottom: -0.5em !important;
 	}
 	
+@media only screen and (max-width: 600px) {
+	.triple-column-div {
+		display: block;
+	}
+	.imgdisappear {
+	 display: none;
+	}
+}
+	
+	
 </style>
 
 
@@ -80,10 +90,10 @@ work and always do your best – all with the support of colleagues you’ll be 
 </p>
 
 
-<div class="triple-column-div">
-	<div><img src="/images/Join%20Us/greenroom.jpg" class="joinus-image"></div>
-	<div><img src="/images/Join%20Us/csc_officers_01.jpg" class="joinus-image"></div>
-	<div><img src="/images/Join%20Us/csc_trainer.jpg" class="joinus-image"></div>
+<div class="triple-column-div imgdisappear">
+	<div><img src="/images/Join%20Us/greenroom.jpg" class="joinus-image imgdisappear"></div>
+	<div><img src="/images/Join%20Us/csc_officers_01.jpg" class="joinus-image imgdisappear"></div>
+	<div><img src="/images/Join%20Us/csc_trainer.jpg" class="joinus-image imgdisappear"></div>
 </div>
 
 <div class="triple-column-div Joinusdiv">
