@@ -31,9 +31,17 @@ contacts:
     title: LEARN-related Enquiries
   - content:
       - phone: ""
-      - email: shireen_lim@cscollege.gov.sg
-      - other: You may contact our Quality Service Manager (QSM) / Director,
-          Communications and Customer Engagement at 1800 874 0604 on
-          service-related feedback, or email her at the above email address.
+      - email: ""
+      - other: For service-related feedback, please contact the Quality Service Manager
+          (QSM) line at <a href="tel:1800 874 0604">1800 874 0604</a>.
     title: Service-related Matters
+  - content:
+      - phone: ""
+      - email: ""
+      - other: If you need to reach us urgently, please complete this  <a
+          href="https://go.gov.sg/csc-feedback">Online Form</a>. For general
+          enquiries, you may continue to reach us at <a
+          href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>.
+    title: Urgent Matters
+feedback: https://go.gov.sg/csc-feedback
 ---
