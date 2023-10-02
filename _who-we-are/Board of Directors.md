@@ -35,9 +35,9 @@ font-size: 15px;
 <div class="BOD-float-child"><h4>Ms Tan Gee Keow</h4>
 <p class="role">Chairman</p>
 <div class="TheTitles">Permanent Secretary</div>
-<div class="TheTitles">Public Service Division,</div>&nbsp;
-<div class="TheTitles">Prime Minister's Office</div>
-<div class="TheTitles">Permanent Secretary</div> &nbsp;
+<div class="TheTitles">Public Service Division,</div>
+<div class="TheTitles">Prime Minister's Office</div>&nbsp;
+<div class="TheTitles">Permanent Secretary</div> 
 <div class="TheTitles">Ministry of Culture, Community and Youth</div>
 </div>
 
@@ -47,7 +47,7 @@ font-size: 15px;
 <p class="role">Member</p>
 <div class="TheTitles">Dean &amp; CEO</div>
 <div class="TheTitles">Civil Service College</div>
-<div class="TheTitles">Deputy Secretary (Leadership)</div>
+<div class="TheTitles">Deputy Secretary (Leadership)</div>&nbsp;
 <div class="TheTitles">Public Service Division,</div>
 <div class="TheTitles">Prime Minister's Office</div>
 </div>
