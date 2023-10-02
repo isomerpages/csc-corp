@@ -34,10 +34,10 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Ms Tan Gee Keow</h4>
 <p class="role">Chairman</p>
-<div class="TheTitles">Permanent Secretary</div>
+<div class="TheTitles">Permanent Secretary,</div>
 <div class="TheTitles">Public Service Division,</div>
 <div class="TheTitles">Prime Minister's Office</div>&nbsp;
-<div class="TheTitles">Permanent Secretary</div> 
+<div class="TheTitles">Permanent Secretary,</div> 
 <div class="TheTitles">Ministry of Culture, Community and Youth</div>
 </div>
 
@@ -45,9 +45,9 @@ font-size: 15px;
 
 <h4>Mr Han Neng Hsiu</h4>
 <p class="role">Member</p>
-<div class="TheTitles">Dean &amp; CEO</div>
+<div class="TheTitles">Dean &amp; CEO,</div>
 <div class="TheTitles">Civil Service College</div>&nbsp;
-<div class="TheTitles">Deputy Secretary (Leadership)</div>
+<div class="TheTitles">Deputy Secretary (Leadership),</div>
 <div class="TheTitles">Public Service Division,</div>
 <div class="TheTitles">Prime Minister's Office</div>
 </div>
@@ -57,7 +57,7 @@ font-size: 15px;
 <h4>Ms Ang Wan May</h4>
 <p class="role">Member</p>
 <div class="TheTitles">Managing Partner,</div>
-<div class="TheTitles">Egon Zehnder International, Singapore</div>
+<div class="TheTitles">Egon Zehnder International Pte. Ltd., Singapore</div>
 </div>
 
 </div>
@@ -68,21 +68,21 @@ font-size: 15px;
 
 <div class="BOD-float-child">
 
-<h4>Mr Clarence Ti</h4>
-<p class="role">Member</p>
-<div class="TheTitles">Deputy President (Administration),</div>
-<div class="TheTitles">National University of Singapore</div>
-</div>
-
-<div class="BOD-float-child"><h4>Mr Christian Chao</h4>
+<h4>Mr Christian Chao</h4>
 <p class="role">Member</p>
 <div class="TheTitles">Chief Executive Officer,</div>
 <div class="TheTitles">Care Corner</div>
 </div>
+
+<div class="BOD-float-child"><h4>Mr Clarence Ti</h4>
+<p class="role">Member</p>
+<div class="TheTitles">Deputy President (Administration),</div>
+<div class="TheTitles">National University of Singapore</div>
+</div>
 	
 <div class="BOD-float-child"><h4>Mr David Yeo</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Chairman and CEO,</div>
+<div class="TheTitle">Chairman and Chief Executive Officer,</div>
 <div class="TheTitle">Kydon Group</div>
 </div>
 
@@ -105,9 +105,9 @@ font-size: 15px;
 </div>
 
 <div class="BOD-float-child"><h4>Mr Mohammad Shariq Barmaky</h4><p class="role">Member</p>
-<div class="TheTitle">Regional Managing Partner,</div>
-<div class="TheTitle">Audit and Assurance,</div>
-<div class="TheTitle">Deloitte Southeast Asia</div>
+<div class="TheTitle">Chief Executive Officer,</div>
+
+<div class="TheTitle">Deloitte Singapore</div>
 </div>
 
 </div>
@@ -119,12 +119,12 @@ font-size: 15px;
 <div class="BOD-float-child"><h4>Mr Paul Choo</h4>
 <p class="role">Member</p>
 <div class="TheTitle">Chief Human Resources Officer,</div>
-<div class="TheTitle">Bridgestone Asia Pacific</div>
+<div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
 </div>
 
 <div class="BOD-float-child"><h4>Ms Sasha Foo</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Managing Director,</div>
+<div class="TheTitle">Managing Director, Technology Services,</div>
 <div class="TheTitle">DBS</div>
 </div>
 
