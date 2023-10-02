@@ -45,7 +45,7 @@ font-size: 15px;
 
 <h4>Mr Han Neng Hsiu</h4>
 <p class="role">Member</p>
-<div class="TheTitles">Dean &amp; CEO,</div>
+<div class="TheTitles">Dean and CEO,</div>
 <div class="TheTitles">Civil Service College</div>&nbsp;
 <div class="TheTitles">Deputy Secretary (Leadership),</div>
 <div class="TheTitles">Public Service Division,</div>
