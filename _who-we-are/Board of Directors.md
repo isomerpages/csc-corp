@@ -104,7 +104,7 @@ font-size: 15px;
 <div class="TheTitle">Singapore Telecommunications Limited</div>
 </div>
 
-<div class="BOD-float-child"><h4>Mr Mohammad Shariq Barmaky</h4><p class="role">Member</p>
+<div class="BOD-float-child"><h4>Mr Shariq Barmaky</h4><p class="role">Member</p>
 <div class="TheTitle">Chief Executive Officer,</div>
 
 <div class="TheTitle">Deloitte Singapore</div>
