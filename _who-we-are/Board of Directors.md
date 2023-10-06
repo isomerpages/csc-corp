@@ -104,10 +104,9 @@ font-size: 15px;
 <div class="TheTitle">Singapore Telecommunications Limited</div>
 </div>
 
-<div class="BOD-float-child"><h4>Mr Shariq Barmaky</h4><p class="role">Member</p>
-<div class="TheTitle">Chief Executive Officer,</div>
-
-<div class="TheTitle">Deloitte Singapore</div>
+<div class="BOD-float-child"><h4>Mr Paul Choo</h4><p class="role">Member</p>
+<div class="TheTitle">Chief Human Resources Officer,</div>
+<div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
 </div>
 
 </div>
@@ -116,16 +115,16 @@ font-size: 15px;
 
 <div class="grid-container">
 
-<div class="BOD-float-child"><h4>Mr Paul Choo</h4>
-<p class="role">Member</p>
-<div class="TheTitle">Chief Human Resources Officer,</div>
-<div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
-</div>
-
 <div class="BOD-float-child"><h4>Ms Sasha Foo</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Managing Director, Technology Services,</div>
+<div class="TheTitle">Managing Director,</div>
 <div class="TheTitle">DBS</div>
+</div>
+
+<div class="BOD-float-child"><h4>Mr Shariq Barmaky</h4>
+<p class="role">Member</p>
+<div class="TheTitle">Chief Executive Officer, </div>
+<div class="TheTitle">Deloitte Singapore</div>
 </div>
 
 <div class="BOD-float-child"><h4>Mr Wahab Yusoff</h4>
