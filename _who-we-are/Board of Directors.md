@@ -129,7 +129,7 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Mr Wahab Yusoff</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Founding Partner &amp; Acting CEO,</div>
+<div class="TheTitle">Founding Partner and Acting CEO,</div>
 <div class="TheTitle">Rekanext Capital Pte Ltd</div>
 
 </div>
