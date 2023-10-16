@@ -41,7 +41,7 @@ table {
 	</div>
 	<div class="vertical-line"></div>
 	<div class="grid-child">
-		<p>To view the interactive map, please click <a target="_blank" href="https://www.onemap.gov.sg/?lat=1.3287218&amp;lng=103.7419323">here</a>.</p></div>
+		<p>To view the interactive map, please click <a target="_blank" href="https://www.onemap.gov.sg/?lat=1.3098006&amp;lng=103.7918731">here</a>.</p></div>
 </div>
 
 
