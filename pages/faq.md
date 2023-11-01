@@ -116,6 +116,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <img src="/images/FAQ/eatt%20steps_website%20faq.png">	
 		
+<p>To ensure your attendance is captured in a timely manner, please download the Singpass App on your mobile devices with camera functionality and set up your Singpass account (if you have yet to do so) prior to your class. We also recommend that you arrive at least 15 minutes before the class start time to have sufficient time to complete this check-in process.</p>
+		
+<p class="mini-header">What if I missed my check-in?</p>		
+
+<p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
+		
 		
 		
 <h4>Withdrawing Your Registration</h4>
