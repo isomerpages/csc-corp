@@ -224,24 +224,36 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
 	
-	<p>TCs will be prompted to provide the following information:</p>
+<p>TCs will be prompted to provide the following information:</p>
 	
-	<ul>
-			<li>TC’s details</li>
-			<li>Details of the programme that officer is withdrawing from</li>
-			<li>Details of withdrawing officer</li>
-			<li>Reasons for withdrawing</li>
-			<li>If transferring to another session, the dates of the session to be transferred to</li>
-			<li>If there is one, the replacement officer’s details</li>
-			<li>Replacement Officer’s TC details and Billing Contact Details</li></ul>
-<p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:		</p> 
-			<img src="/images/FAQ/process_timeline_tcs.jpg">
+<ul>
+<li>TC’s details</li>
+<li>Details of the programme that officer is withdrawing from</li>
+<li>Details of withdrawing officer</li>
+<li>Reasons for withdrawing</li>
+<li>If transferring to another session, the dates of the session to be transferred to</li>
+<li>If there is one, the replacement officer’s details</li>
+<li>Replacement Officer’s TC details and Billing Contact Details</li>
+</ul>
+	
+<p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:</p> 
+	
+<img src="/images/FAQ/process_timeline_tcs.jpg">
+	
 <p>If penalty fees are incurred, CSC will assess if the penalty can be waived based on the reasons provided by the TC in the form. CSC will then inform the TC of the outcome over email within 5 working days.</p>
-			<p>Please also note the timelines for replacements and transfers:</p><ul>
-			<li>Replacement requests: at least 5 working days before class starts</li>
-<li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li></ul>
+
+<p>Please also note the timelines for replacements and transfers:</p>
+	
+<ol id="list-adjustment" type="a">
+
+<li>Replacement requests: at least 5 working days before class starts</li>
+<li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li>
+
+</ol>
+	
 <img src="/images/FAQ/overview_process_timeline.jpg">
-			<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
+	
+<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
 		<h4>Attendance of Your Officers</h4>
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
@@ -266,7 +278,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 			<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
 			<p class="mini-header">How to Apply for In-House Training</p>
 			<p>Submit your agency's request <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a> or email your Agency Engagement Manager* with the following:
-			</p><ul>
+			</p>
+	<ul>
 				<li>Programme title</li>
 				<li>Course code</li>
 				<li>Preferred venue (CSC or your agency’s venue)</li>
