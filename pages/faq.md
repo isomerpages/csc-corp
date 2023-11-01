@@ -160,50 +160,73 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 	
 <details><summary>For Training Coordinators</summary>
-		<div class="Accordion-Paragraph">
-			<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
-			<h4>Managing Your Training Coordinator Account</h4>
-			<p class="mini-header">Creating An Account</p>
-			<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the following information:</p>
-<ul>
-  <li>Name</li>
-  <li>NRIC</li>
-  <li>Email address</li>
-  <li>Contact number</li>
-  <li>Designation</li>
-  <li>Organisation</li>
-			</ul>
-		<p class="mini-header">Update Your Agency's Contact List</p>
-			<p>Email us <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
-			<h4>Registering Your Officers for Programmes</h4>
-			<p class="mini-header">Individual or Bulk Registration</p>
-			<p>You can register up to 4 officers per agency for each run of a programme. However, this number may vary based on the programme. Keep this in mind when registering your officers for programmes. We’ll contact you if we’re unable to accept all or some of your registrations.&nbsp;&nbsp;
-<br><br>
-Pro tip: You can also use the Individual or Bulk Registration function to register yourself for programmes.</p>
-			<p>Click <a href="/files/steps%20to%20submit%20registration%20on%20pp_tc.pdf">here</a> to view guide</p>
-			<p class="mini-header">Registration Closing Dates</p>
-			<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
-			<p class="mini-header">Reviewing Your Officer’s Registration</p>
-			<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
-			<p>Click <a target="_blank" href="/files/steps%20to%20approve%20application.pdf">here</a> to view guide</p>
-			<p class="mini-header">Unable to Review Registrations in Time</p>
-			<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC. Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after 3 days will lapse and cannot be reactivated. The officer can re-submit a new application if their application has lapsed.</p>
-			<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
-			<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.&nbsp;
+<div class="Accordion-Paragraph">
+<p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
+			
+<h4>Managing Your Training Coordinator Account</h4>
 
-</p><p>Note: Only one Covering TC can be assigned to each TC.</p>
-			<p class="mini-header">Registration Status</p>
-					<p>We’ll email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:             </p><ul>
+<p class="mini-header">Creating/Removing a Training Coordinator Account</p>
+	
+<p>Please submit the Training Coordinator’s information in <a href="https://go.gov.sg/add-remove-tc-bc">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
+			
+<p class="mini-header">Update Your Agency's Contact List</p>	
+<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
+
+
+<h4>Registering Your Officers for Programmes</h4>
+
+<p class="mini-header">Individual or Bulk Registration</p>
+	
+<p>You may register your officers individually or by “bulk” by using the “Bulk Registration” function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
+	
+	
+<p class="mini-header">Registration Closing Dates</p>
+
+<p>Registration normally closes 7 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
+	
+	
+<p class="mini-header">Reviewing Your Officer’s Registration</p>
+
+<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc">here.</a></p>
+		
+
+<p class="mini-header">Unable to Review Registrations in Time</p>
+			
+<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC (if any). Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. The officer can re-submit a new application if the application has lapsed.</p>
+	
+	
+<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
+	
+<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.</p>
+	
+<p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a href="https://go.gov.sg/set-coveringtc">here</a>.</p>
+	
+<p class="mini-header">Registration Status</p>
+					
+	
+<p>We will email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:</p>
+	
+<ul>
 			<li>The officer will receive a Programme Placement Letter (PPL).</li>
-			<li>You will receive a PPL summary for each programme. It lists the officers from your agency attending the programme.</li>
-		</ul>
-	<p>Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.
-		</p>
-			<p class="mini-header">Contacting Us</p>
-	<p>You can reach us in many ways. Find out more on our <a href="/contact-us">Contact Us</a> page.</p>
-			<h4>Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
+			<li>You will receive a PPL summary for each programme (excluding eLearning programme). It lists the officers from your agency attending the programme.</li>
+
+</ul>
+	
+<p> Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
+
+
+<p class="mini-header">Contacting Us</p>
+	<p>Find out more on our <a href="https://www.csc.gov.sg/contact-us">Contact Us</a> page</p>
+	
+	
+<h4>Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
+	
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
-			<p>TCs will be prompted to provide the following information:</p><ul>
+	
+	
+	<p>TCs will be prompted to provide the following information:</p>
+	
+	<ul>
 			<li>TC’s details</li>
 			<li>Details of the programme that officer is withdrawing from</li>
 			<li>Details of withdrawing officer</li>
