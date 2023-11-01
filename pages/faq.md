@@ -114,7 +114,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>Here’s a simple guide to help you along.</p>			
 		
-		
+<img src="/images/FAQ/eatt%20steps_website%20faq.png">	
 		
 		
 		
