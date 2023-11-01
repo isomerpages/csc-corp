@@ -64,8 +64,11 @@ details {
 		<p>We’ll let you know about your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we’ll send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply.  While we’ll always do our best to confirm your registration as early as possible, sometimes classes are postponed or cancelled due to unforeseen circumstances.</p>
 		<p class="mini-header">Learning with Disabilities</p>
 		<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
-		<h4>Attending Your Programme:</h4>
-		<p class="mini-header">Where do I find the classroom details</p>
+		
+<h4>Attending Your Programme:</h4>
+		
+<p class="mini-header">Where do I find the classroom details</p>
+		
 <p>A system-generated welcome email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week prior to the class commencement date. Login to <a href="https://dc.learn.gov.sg/">LEARN DC</a> and scroll down to the “My Programmes” to select the grid containing the name of the course you are attending. Then, scroll down to the “Table of Contents” to find:</p> <ol>
 <li>The pre-course materials under the “Pre-course Preparations” grid</li>
 	<li>Remember to complete any pre-course assignment that is required for the class</li>
