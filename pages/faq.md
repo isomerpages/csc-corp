@@ -66,7 +66,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header">How to Register for a Programme?</p>
 		
-<p>You can register via our <a href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a href="https://go.gov.sg/reg-pp">here</a>.</p>
+<p>You can register via our <a href="https://register.csc.gov.sg/" target="_blank">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a href="https://go.gov.sg/reg-pp">here</a>.</p>
 
 <p>Note: To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 	
@@ -80,19 +80,19 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header">Learning with Disabilities</p>
 	
-<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
+<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg" target="_blank">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
 		
 <h4>Attending Your Programme:</h4>
 		
 <p class="mini-header">Where do I find the classroom details?</p>
 		
-<p>A system-generated Welcome Email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
+<p>A system-generated Welcome Email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a href="https://dc.learn.gov.sg/" target="_blank">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
 <p>Here is how:</p>		
 		
 <ol id="list-adjustment">
-	<li>Log in to <a href="https://dc.learn.gov.sg">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
+	<li>Log in to <a href="https://dc.learn.gov.sg" target="_blank">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
 	<li>Scroll down to the “Table of Contents” to find:</li>
 		<ul>
 			<li>The pre-learning materials under the “Pre-course Preparations” grid. Please complete any pre-course assignments that are required for the class</li>
@@ -100,7 +100,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	</ul>
 </ol>		
 		
-<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a href="https://go.gov.sg/learndc-proginfo">here</a></p>		
+<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a href="https://go.gov.sg/learndc-proginfo" target="_blank">here</a></p>		
 		
 <p class="mini-header">How do I Mark My Attendance?</p>
 		
@@ -132,7 +132,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
 		
-<p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a href="https://go.gov.sg/cancel-appln-pp">here</a></p>
+<p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a href="https://go.gov.sg/cancel-appln-pp" target="_blank">here</a></p>
 		
 <p class="mini-header">Withdrawing Your Registration After Programme Placement</p>			
 
@@ -148,7 +148,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <img src="/images/FAQ/process_timeline_learner.jpg">
 
 <figcaption>
-<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
+<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq" target="_blank">FAQ</a>.</p>
 </figcaption>
 	
 </figure>
@@ -169,17 +169,17 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p class="mini-header">Creating/Removing a Training Coordinator Account</p>
 	
-<p>Please submit the Training Coordinator’s information in <a href="https://go.gov.sg/add-remove-tc-bc">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
+<p>Please submit the Training Coordinator’s information in <a href="https://go.gov.sg/add-remove-tc-bc" target="_blank">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
 			
 <p class="mini-header">Update Your Agency's Contact List</p>	
-<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
+<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg" target="_blank">cscollege@cscollege.gov.sg</a> with the updates.</p>
 
 
 <h4>Registering Your Officers for Programmes</h4>
 
 <p class="mini-header">Individual or Bulk Registration</p>
 	
-<p>You may register your officers individually or by “bulk” by using the “Bulk Registration” function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
+<p>You may register your officers individually or by “bulk” by using the “Bulk Registration” function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a href="https://go.gov.sg/bulkreg-tc" target="_blank">here</a>.</p>
 	
 	
 <p class="mini-header">Registration Closing Dates</p>
@@ -189,7 +189,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p class="mini-header">Reviewing Your Officer’s Registration</p>
 
-<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc">here.</a></p>
+<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
 		
 
 <p class="mini-header">Unable to Review Registrations in Time</p>
@@ -201,7 +201,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.</p>
 	
-<p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a href="https://go.gov.sg/set-coveringtc">here</a>.</p>
+<p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a href="https://go.gov.sg/set-coveringtc" target="_blank">here</a>.</p>
 	
 <p class="mini-header">Registration Status</p>
 					
@@ -218,7 +218,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 
 <p class="mini-header">Contacting Us</p>
-	<p>Find out more on our <a href="https://www.csc.gov.sg/contact-us">Contact Us</a> page</p>
+	<p>Find out more on our <a href="https://www.csc.gov.sg/contact-us" target="_blank">Contact Us</a> page</p>
 	
 	
 <h4>Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
@@ -255,7 +255,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <img src="/images/FAQ/overview_process_timeline.jpg">
 	
-<p>More FAQs on the Withdrawal, Replacement and Transfer process is linked <a href="https://go.gov.sg/wdl-rpl-faq">here</a>.</p>
+<p>More FAQs on the Withdrawal, Replacement and Transfer process is linked <a href="https://go.gov.sg/wdl-rpl-faq" target="_blank">here</a>.</p>
 	
 	
 	
@@ -276,7 +276,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the ‘Appeal for Waiver of No-show Penalty Form’ via your TC dashboard in CSC’s Programme Portal no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
 
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
-<a href="https://go.gov.sg/no-show-appeal">here</a>.</p>
+<a href="https://go.gov.sg/no-show-appeal" target="_blank">here</a>.</p>
 	
 <p> (For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at one of the kiosks found in levels 1, 3 and 4, until the next launch phase in 2 January 2024 for all programmes. )</p>
 	
@@ -284,12 +284,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p class="mini-header">Where to Get Assistance</p>
 	
-<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
+<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg" target="_blank">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
 	
 	
 <p class="mini-header">More Questions?</p>
 
-<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
+<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg" target="_blank">cscollege@cscollege.gov.sg.</a></p>
 	
 
 <h4>Request for In-House Training</h4>
@@ -306,7 +306,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <ul>
 
-<li>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option. Submit your request for standard in-house programmes <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a></li>
+<li>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option. Submit your request for standard in-house programmes <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5" target="_blank">here</a></li>
 	
 </ul>	
 			
@@ -314,7 +314,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <ul>	
 
-<li>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. Please submit your agency’s request <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a>.</li>
+<li>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. Please submit your agency’s request <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5" target="_blank">here</a>.</li>
 	
 
 
@@ -348,7 +348,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>We’ll respond within 3 – 5 working days. </p>
 	
-<p>Find out who is your Agency Engagement Manager <a href="https://go.gov.sg/aemanagerlist">here</a>. This file can only be viewed on the Government Intranet.
+<p>Find out who is your Agency Engagement Manager <a href="https://go.gov.sg/aemanagerlist" target="_blank">here</a>. This file can only be viewed on the Government Intranet.
 </p>
 	
 	
