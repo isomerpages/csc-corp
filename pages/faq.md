@@ -122,6 +122,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
 		
+<p>If you are attending in-person programmes that are not milestone programmes, please scan your attendance using your NRIC at one of the kiosks found on levels 1, 3 and 4.)</p>		
+		
 		
 		
 <h4>Withdrawing Your Registration</h4>
