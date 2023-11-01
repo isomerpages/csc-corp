@@ -335,10 +335,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
 			
 <p class="mini-header">How to Apply for In-House Training</p>
-
-<p>Submit your agency's request <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a> or email your Agency Engagement Manager* with the following:
-</p>
-
+<p>Email your Agency Engagement Manager with the following:</p>
+	
 <ul>
 				<li>Programme title</li>
 				<li>Course code</li>
@@ -346,9 +344,11 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 				<li>Preferred training period (please allow a lead time of 8 weeks)</li>
 				<li>Number of times you’d like to run the programme</li>
 				<li>Standard in-house or customised programme request</li>
-			</ul>
-			<p>We’ll respond within 3 – 5 working days. </p>
-			<p>*Find out who is your Agency Engagement Manager <a target="_blank" href="https://sgdcs.sgnet.gov.sg/sites/CSC/CCR/Shared%20Documents/LD%20Microsite%20Content%20(Others)/CSC%20Agency%20Engagement%20Manager%20List%20(for%20LD%20Microsite)(6%20June%202023).pdf">here</a> (this file can only be viewed on the Government Intranet).
+</ul>
+
+<p>We’ll respond within 3 – 5 working days. </p>
+	
+<p>Find out who is your Agency Engagement Manager <a href="https://go.gov.sg/aemanagerlist">here</a>. This file can only be viewed on the Government Intranet.
 </p>
 	
 	
