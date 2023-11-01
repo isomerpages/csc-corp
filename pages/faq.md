@@ -259,35 +259,87 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 	
 	
-	
 <h4>Attendance of Your Officers</h4>
 	
+<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending a virtual programme, or a milestone programme, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
+
+<p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the eAttendance page.</p>	
 	
-	<p class="mini-header">Let Us Know They’re Here</p>
-			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
-<p class="mini-header">Name Labels for Officers</p>
-			<p>After scanning, a personalised name label will be printed. For security purposes, your officers must display their name labels prominently at all times when in CSC. Name labels can be re-printed if requested (anytime between 8.00am to 5.15pm).</p>
-	<p class="mini-header">Where to Get Assistance</p>
-			<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
-	<p class="mini-header">More Questions?</p>
-			<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
-			<h4>Request for In-House Training</h4>
-	<p class="mini-header">In-House Training</p>
-			<p>We offer in-house training programmes to meet your agency’s specific needs and challenges. You can choose from standard or customised in-house programmes.</p>
-	<p class="mini-header">Standard In-house Programmes</p>
-			<p>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option.</p>
-			<p class="mini-header">Customised In-house Programmes</p>
-			<p>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. If you’re keen, please contact your Agency Engagement Manager*.</p>
-			<p class="mini-header">Class Sizes</p>
-			<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public-run instead.</p>
-			<p class="mini-header">Costs</p>
-			<p>Please contact your Agency Engagement Manager* to ask for a cost estimate.</p>
-			<p class="mini-header">Venues</p>
-			<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
-			<p class="mini-header">How to Apply for In-House Training</p>
-			<p>Submit your agency's request <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a> or email your Agency Engagement Manager* with the following:
-			</p>
-	<ul>
+<img src="/images/FAQ/eatt%20steps_website%20faq.png">	
+	
+<p>To ensure that your officers’ attendance is captured in a timely manner, officers are highly encouraged to download the Singpass application on their mobile devices with camera functionality and set up their Singpass account (if they have yet to do so) prior to their class. We also recommend that they arrive at least 15 minutes before the class’s start time to have sufficient time to complete this process.</p>
+
+<p>You will be notified via email of officer(s) who did not check-in within 90 minutes after the class has started. If your officers arrive after the check-in time, they would need to inform their trainer and provide reasons for being late.</p>
+	
+<p class="mini-header">What happens if my officer is absent for the class?</p>	
+	
+<p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the ‘Appeal for Waiver of No-show Penalty Form’ via your TC dashboard in CSC’s Programme Portal no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
+
+<p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
+<a href="https://go.gov.sg/no-show-appeal">here</a>.</p>
+	
+<p> (For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at one of the kiosks found in levels 1, 3 and 4, until the next launch phase in 2 January 2024 for all programmes. )</p>
+	
+	
+	
+<p class="mini-header">Where to Get Assistance</p>
+	
+<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
+	
+	
+<p class="mini-header">More Questions?</p>
+
+<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
+	
+
+<h4>Request for In-House Training</h4>
+	
+<p class="mini-header">In-House Training</p>
+		
+<ul>
+
+<li>We offer in-house training programmes to meet your agency’s specific needs and challenges. You can choose from standard or customised in-house programmes.</li>
+	
+</ul>
+	
+<p class="mini-header">Standard In-house Programmes</p>
+
+<ul>
+
+<li>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option. Submit your request for standard in-house programmes <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a></li>
+	
+</ul>	
+			
+<p class="mini-header">Customised In-house Programmes</p>
+
+<ul>	
+
+<li>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. Please submit your agency’s request <a href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a>.</li>
+	
+
+
+</ul>	
+	
+<p><b><i>Note:</i></b><i>There is a development fee for customised programmes which will be in addition to the programme fee.</i></p>
+	
+<p class="mini-header">Class Sizes</p>
+	
+<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public run instead.</p>
+	
+<p class="mini-header">Costs</p>
+		
+<p>Please contact your Agency Engagement Manager to ask for a cost estimate.</p>
+			
+<p class="mini-header">Venues</p>
+			
+<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
+			
+<p class="mini-header">How to Apply for In-House Training</p>
+
+<p>Submit your agency's request <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a> or email your Agency Engagement Manager* with the following:
+</p>
+
+<ul>
 				<li>Programme title</li>
 				<li>Course code</li>
 				<li>Preferred venue (CSC or your agency’s venue)</li>
