@@ -49,22 +49,22 @@ details {
 		<h4>Register for a Programme:</h4>
 		<p class="mini-header">Searching for a programme</p> 
 		<p>
-	You can search for your preferred programmes on <a href="https://go.gov.sg/csc-corporatewebsite-programmeportal/">CSC programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
+	You can search for your preferred programmes on <a href="https://register.csc.gov.sg/">CSC Programme portal</a>. You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains when you click on the “Select a Domain” field. The other filters are found at the left-hand side of the page where the programmes are listed.
 </p>
 		<p class="mini-header">No suitable date for the programme you wish to register</p>
 		<p>Sign up at 'Add to Watchlist' to get a notification when the next available run is published on the programme portal.</p>
 		<p class="mini-header">How to Register</p>
-		<p>You can register via our <a href="https://register.csc.gov.sg/">CSC programme portal</a>, navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.</p>
+		<p>You can register via our <a href="https://register.csc.gov.sg/">CSC Programme portal</a>, navigate to your desired programme, and click on the "Apply Now” button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification.</p>
 
 <p>Note: To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
-		<p>Click <a href="/files/steps%20to%20perform%20registration%20on%20pp.pdf">here</a> to view guide</p>
+		<p>Click <a href="https://go.gov.sg/reg-pp">here</a> to view guide</p>
 		<p class="mini-header">When to Register</p>
 		<p>Register for a programme at least 1 month before the start date. Most programmes accept registrations on a first-come, first-serve basis, so it’s better to register early. Pro tip:&nbsp; Registration normally closes 5 working days before each programme’s start date, unless otherwise stated.</p>
 		<p class="mini-header">Confirming your Registration</p>
 		<p>We’ll let you know about your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we’ll send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply.  While we’ll always do our best to confirm your registration as early as possible, sometimes classes are postponed or cancelled due to unforeseen circumstances.</p>
 		<p class="mini-header">Learning with Disabilities</p>
 		<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
-		<h4>Attending Your Programme: Face-to-Face</h4>
+		<h4>Attending Your Programme:</h4>
 		<p class="mini-header">Where do I find the classroom details</p>
 <p>A system-generated welcome email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week prior to the class commencement date. Login to <a href="https://dc.learn.gov.sg/">LEARN DC</a> and scroll down to the “My Programmes” to select the grid containing the name of the course you are attending. Then, scroll down to the “Table of Contents” to find:</p> <ol>
 <li>The pre-course materials under the “Pre-course Preparations” grid</li>
