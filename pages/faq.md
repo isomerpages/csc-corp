@@ -255,8 +255,14 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <img src="/images/FAQ/overview_process_timeline.jpg">
 	
-<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
-		<h4>Attendance of Your Officers</h4>
+<p>More FAQs on the Withdrawal, Replacement and Transfer process is linked <a href="https://go.gov.sg/wdl-rpl-faq">here</a>.</p>
+	
+	
+	
+	
+<h4>Attendance of Your Officers</h4>
+	
+	
 	<p class="mini-header">Let Us Know They’re Here</p>
 			<p>Your officers simply need to scan their NRIC, driving licence or staff pass (any form of identification with their NRIC barcode on it) at any of the kiosks conveniently located throughout CSC. If they do not have any form of identification with them, they can manually enter their NRIC number at the kiosks.</p>
 <p class="mini-header">Name Labels for Officers</p>
