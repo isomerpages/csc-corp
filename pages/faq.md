@@ -41,7 +41,7 @@ details {
 	
 	}
 	
-#attending-programme
+#list-adjustment
 {
 font-size:16px;	
 }	
@@ -89,7 +89,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>Here is how:</p>		
 		
-<ol id="attending-programme">
+<ol id="list-adjustment">
 	<li>Log in to <a href="https://dc.learn.gov.sg">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
 	<li>Scroll down to the “Table of Contents” to find:</li>
 		<ul>
@@ -100,38 +100,25 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a href="https://go.gov.sg/learndc-proginfo">here</a></p>		
 		
-<p class="mini-header">Let Us Know You’re Here</p>
-		<p>Simply scan your NRIC, driving licence or staff pass at any of our kiosks conveniently located throughout CSC. If you have any other form of identification with your NRIC barcode on it, that'll work too.</p>
-		<p class="mini-header">Where to Find the Kiosks</p>
-		<p>
-			There are 10 Kiosks conveniently located throughout CSC:
-		</p><ul>
-			<li>Level 1 - 3 kiosks</li>
-			<li>Level 2 - 1 kiosk</li>
-			<li>Level 3 - 3 kiosks</li>
-			<li>Level 4 - 1 kiosk</li>
-			<li>Level 5 - 2 kiosks</li>
-		</ul>
-		<p>You may scan your ID at any kiosk - it doesn't matter where your class is being held.
-		</p>
-		<p class="mini-header">How Many Times to Scan</p>
-		<p>You only need to scan your ID once per day. If your class takes place over a few days, you'll need to scan your ID on each and every day.</p>
-		<p class="mini-header">I Didn’t Bring Any ID</p>
-		<p>You can manually enter your NRIC number at any kiosk to let us know you're here.</p>
-		<p class="mini-header">I Forgot to Scan My ID</p>
-		<p>Unfortunately, this would mean you will not receive your e-certificate for the class.</p>
-		<p class="mini-header">Name Labels</p>
-		<p>After you've scanned your ID, a personalised name label will be printed for you. For security purposes, you must display your name label prominently at all times when in CSC.</p>
-		<p class="mini-header">My Label Went Missing</p>
-		<p>You can reprint your name label if you need to. You can do so at any time between 8.00am to 5.15pm on the day of your class.</p>
-		<h4>Attending Your Programme: Virtual Classroom</h4>
-			<p class="mini-header">Where do I find the virtual classroom details</p>
-	<p>A system-generated welcome email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week prior to the class commencement date. Login to https://dc.learn.gov.sg/ and scroll down to the “My Programmes” to select the grid containing the name of the course you are attending. Then, scroll down to the “Table of Contents” to find:</p><ol> 
-		<li>The pre-course materials under the “Pre-course Preparations” grid</li>
-		<li>Remember to complete any pre-course assignment that is required for the class</li>
-		<li>Virtual classroom link/details under the “Virtual Classroom” grid</li> </ol>
-		<p>Here is <a href="https://go.gov.sg/learndc-proginfo">a simple guide</a> with the steps to login to Learn DC and access the programme information.</p>
-		<h4>Withdrawing Your Registration</h4>
+<p class="mini-header">How do I Mark My Attendance?</p>
+		
+<p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by “checking in” to your programme. Here is how:</p> 		
+		
+<ol id="list-adjustment">
+	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
+	<li>Log in with your SingPass App.</li>	
+	<li>Check that the details of your class are correct, and click on “Check-in”.</li>	
+	<li>Confirm your check-in by clicking on the “Check-in” button in the pop-up.</li>	
+	<li>Make sure that your attendance is captured under the “My Session Today” page</li>	
+</ol>		
+		
+<p>Here’s a simple guide to help you along.</p>			
+		
+		
+		
+		
+		
+<h4>Withdrawing Your Registration</h4>
 		<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
 		<p>You may withdraw an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
 		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide</p>
