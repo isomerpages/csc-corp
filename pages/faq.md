@@ -58,7 +58,7 @@ font-size:16px;
 		<p class="mini-header">Searching for a programme</p> 
 
 <p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
-You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the “Discover Our Programmes” button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the “Select a Domain” field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
+You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
 
 <p class="mini-header">No Suitable Dates for Your Desired Programme?</p>
 
@@ -68,7 +68,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>You can register via our <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a target="_blank" href="https://go.gov.sg/reg-pp">here</a>.</p>
 
-<p>Note: To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
+<p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 	
 	
 <p class="mini-header">When to Register?</p>
@@ -104,7 +104,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header">How do I Mark My Attendance?</p>
 		
-<p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by “checking in” to your programme. Here is how:</p> 		
+<p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
 		
 <ol id="list-adjustment">
 	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
@@ -179,7 +179,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p class="mini-header">Individual or Bulk Registration</p>
 	
-<p>You may register your officers individually or by “bulk” by using the “Bulk Registration” function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
+	<p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
 	
 <p class="mini-header">Registration Closing Dates</p>
@@ -199,7 +199,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
 	
-<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the “Profile” page by clicking on the “Covering TC” button.</p>
+<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the<b>“Profile”</b>page by clicking on the “Covering TC” button.</p>
 	
 <p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a target="_blank" href="https://go.gov.sg/set-coveringtc">here</a>.</p>
 	
@@ -214,7 +214,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 </ul>
 	
-<p> Note: Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
+<p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
 
 
 <p class="mini-header">Contacting Us</p>
