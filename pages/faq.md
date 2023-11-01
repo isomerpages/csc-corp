@@ -40,6 +40,12 @@ details {
 	font-weight: bold;
 	
 	}
+	
+#attending-programme
+{
+font-size:16px;	
+}	
+
 
 
 </style>
@@ -74,24 +80,27 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
+		
 <h4>Attending Your Programme:</h4>
 		
-<p class="mini-header">Where do I find the classroom details</p>
+<p class="mini-header">Where do I find the classroom details?</p>
 		
 <p>A system-generated Welcome Email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
 <p>Here is how:</p>		
 		
-<ol>
-<li>The pre-course materials under the “Pre-course Preparations” grid</li>
-	<li>Remember to complete any pre-course assignment that is required for the class</li>
-	<li>Classroom link/details under the “Classroom Details” grid</li>
-		</ol>
+<ol id="attending-programme">
+	<li>Log in to <a href="https://dc.learn.gov.sg">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
+	<li>Scroll down to the “Table of Contents” to find:</li>
+		<ul>
+			<li>The pre-learning materials under the “Pre-course Preparations” grid. Please complete any pre-course assignments that are required for the class</li>
+			<li>Classroom link/details under the “Classroom Details” grid</li>
+	</ul>
+</ol>		
 		
+<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a href="https://go.gov.sg/learndc-proginfo">here</a></p>		
 		
-		
-<p>Here is <a href="https://go.gov.sg/learndc-proginfo">a simple guide</a> with the steps to login to Learn DC and access the programme information.</p>
-		<p class="mini-header">Let Us Know You’re Here</p>
+<p class="mini-header">Let Us Know You’re Here</p>
 		<p>Simply scan your NRIC, driving licence or staff pass at any of our kiosks conveniently located throughout CSC. If you have any other form of identification with your NRIC barcode on it, that'll work too.</p>
 		<p class="mini-header">Where to Find the Kiosks</p>
 		<p>
