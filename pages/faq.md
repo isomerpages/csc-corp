@@ -43,9 +43,11 @@ details {
 	
 #list-adjustment
 {
-font-size:16px;	
+font-size:16px;
 }	
 
+
+	
 
 
 </style>
@@ -244,10 +246,10 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Please also note the timelines for replacements and transfers:</p>
 	
-<ol id="list-adjustment" type="a">
+<ol id="list-adjustment">
 
-<li>Replacement requests: at least 5 working days before class starts</li>
-<li>Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li>
+<li type="a">Replacement requests: at least 5 working days before class starts</li>
+<li type="a">Transfer requests: at least 5 working days before the original class starts and at least 5 working days before the new class starts.</li>
 
 </ol>
 	
