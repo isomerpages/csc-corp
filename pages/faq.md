@@ -127,18 +127,29 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 		
 <h4>Withdrawing Your Registration</h4>
-		<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
-		<p>You may withdraw an application that your TC has not yet approved on the portal directly under the “Check Application Status” page by clicking on the “Withdraw” button on the relevant application under the “Pending Applications” section.   </p>
-		<p>Click <a href="/files/steps%20to%20cancel%20pending%20application.pdf">here</a> to view guide</p>
-		<p class="mini-header">Withdrawing Your Registration After Programme Placement</p>
-		<p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p><ol>
+		
+<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
+		
+<p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a href="https://go.gov.sg/cancel-appln-pp">here</a></p>
+		
+<p class="mini-header">Withdrawing Your Registration After Programme Placement</p>			
+
+<p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
+		
+<ol id="list-adjustment">
 <li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal/replacement /transfer requests have to be submitted by your TC.</li>	
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
-		<li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
+<li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
+
+<figure>
 <img src="/images/FAQ/process_timeline_learner.jpg">
-		<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
+
+<figcaption>
+<p>For more information, please refer to this <a href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
+</figcaption>
 	
+</figure>
 	
 </div>
 	</details>
