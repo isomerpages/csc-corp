@@ -151,8 +151,13 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 </figure>
 	
+<br>		
+		
 </div>
 	</details>
+	
+	
+	
 	
 <details><summary>For Training Coordinators</summary>
 		<div class="Accordion-Paragraph">
