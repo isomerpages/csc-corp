@@ -93,7 +93,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <ol id="list-adjustment">
 	<li>Log in to <a target="_blank" href="https://dc.learn.gov.sg">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
-	<li>Scroll down to the “Table of Contents” to find:</li>
+	<li>Scroll down to the <b>“Table of Contents”</b> to find:</li>
 		<ul>
 			<li>The pre-learning materials under the “Pre-course Preparations” grid. Please complete any pre-course assignments that are required for the class</li>
 			<li>Classroom link/details under the “Classroom Details” grid</li>
