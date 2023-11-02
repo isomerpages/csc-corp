@@ -46,23 +46,38 @@ details {
 font-size:16px;
 }	
 
+#questions ul li
+{
+list-style-type: none;
+}	
 
 	
 
 
 </style>
 
-<div id="questions">
-<ul>
-	<li><a href="#register">Searching for a programme</a></li>	
-			
-</ul></div>	
+
 
 <details><summary>For Learners</summary>
 <div class="Accordion-Paragraph">
-			
+
+<div id="questions">
+<ul>
+	<li><a href="#disabilities">Learning with Disabilities</a></li>	
+	<li><a href="#register">How to register for a programme?</a></li>		
+	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
+	<li><a href="#mark-attendance">How do I mark my attendance?</a></li>	
+	<li><a href="#missed-check-in">What if I missed my check-in?</a></li>		
+	<li><a href="#withdraw-application">Withdrawing your application before Training Coordinator (TC) approval</a></li>	
+	<li><a href="#withdraw-registration">Withdrawing your registration after programme placement</a></li>
+</ul>
+</div>		
+	
+	
+	
+	
 <h4>Register for a Programme:</h4>
-<p class="mini-header" id="register">Searching for a programme</p> 
+<p class="mini-header">Searching for a programme</p> 
 
 <p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
 You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
@@ -71,7 +86,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Get notified when new dates are published – click the <b>‘Add to Watchlist’</b> button to receive email notifications when new classes are opened.</p>
 		
-<p class="mini-header">How to Register for a Programme?</p>
+<p class="mini-header" id="register">How to Register for a Programme?</p>
 		
 <p>You can register via our <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a target="_blank" href="https://go.gov.sg/reg-pp">here</a>.</p>
 
@@ -85,14 +100,14 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. &nbsp;While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
-<p class="mini-header">Learning with Disabilities</p>
+<p class="mini-header" id="disabilities">Learning with Disabilities</p>
 	
 <p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
 		
-<h4 id="attending">Attending Your Programme:</h4>
+<h4>Attending Your Programme:</h4>
 		
-<p class="mini-header">Where do I find the classroom details?</p>
+<p class="mini-header" id="classroom-details">Where do I find the classroom details?</p>
 		
 <p>A system-generated Welcome Email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
@@ -109,7 +124,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a></p>		
 		
-<p class="mini-header">How do I Mark My Attendance?</p>
+<p class="mini-header" id="mark-attendance">How do I Mark My Attendance?</p>
 		
 <p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
 		
@@ -127,7 +142,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>To ensure your attendance is captured in a timely manner, please download the Singpass App on your mobile devices with camera functionality and set up your Singpass account (if you have yet to do so) prior to your class. We also recommend that you arrive at least 15 minutes before the class start time to have sufficient time to complete this check-in process.</p>
 		
-<p class="mini-header">What if I missed my check-in?</p>		
+<p class="mini-header" id="missed-check-in">What if I missed my check-in?</p>		
 
 <p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
 		
@@ -137,11 +152,11 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <h4>Withdrawing Your Registration</h4>
 		
-<p class="mini-header" id="withdrawing">Withdrawing your application before Training Coordinator (TC) approval</p>
+<p class="mini-header" id="withdraw-application">Withdrawing your application before Training Coordinator (TC) approval</p>
 		
 <p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a target="_blank" href="https://go.gov.sg/cancel-appln-pp">here</a></p>
 		
-<p class="mini-header">Withdrawing Your Registration After Programme Placement</p>			
+<p class="mini-header" id="withdraw-registration">Withdrawing Your Registration After Programme Placement</p>			
 
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
