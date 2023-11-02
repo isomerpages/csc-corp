@@ -61,6 +61,8 @@ list-style-type: none;
 <details><summary>For Learners</summary>
 <div class="Accordion-Paragraph">
 
+<p>Find out how to register for programmes here.</p>	
+	
 <div id="questions">
 <ul>
 	<li><a href="#disabilities">Learning with Disabilities</a></li>	
