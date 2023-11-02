@@ -54,8 +54,15 @@ font-size:16px;
 
 <details><summary>For Learners</summary>
 	<div class="Accordion-Paragraph">
-		<h4>Register for a Programme:</h4>
-		<p class="mini-header">Searching for a programme</p> 
+	
+<div id="questions">
+<ul>
+	<li><a href="#register">Register a programme?</a></li>	
+			
+</ul></div>	
+			
+<h4 id="register">Register for a Programme:</h4>
+<p class="mini-header">Searching for a programme</p> 
 
 <p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
 You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
@@ -83,7 +90,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
 		
-<h4>Attending Your Programme:</h4>
+<h4 id="attending">Attending Your Programme:</h4>
 		
 <p class="mini-header">Where do I find the classroom details?</p>
 		
@@ -130,7 +137,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <h4>Withdrawing Your Registration</h4>
 		
-<p class="mini-header">Withdrawing your application before Training Coordinator (TC) approval</p>
+<p class="mini-header" id="withdrawing">Withdrawing your application before Training Coordinator (TC) approval</p>
 		
 <p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a target="_blank" href="https://go.gov.sg/cancel-appln-pp">here</a></p>
 		
