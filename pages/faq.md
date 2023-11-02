@@ -213,7 +213,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <h4>Registering Your Officers for Programmes</h4>
 
-<p class="mini-header">Individual or Bulk Registration</p>
+<p class="mini-header" id="individual-bulk">Individual or Bulk Registration</p>
 	
 <p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
@@ -223,7 +223,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>Registration normally closes 7 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 	
 	
-<p class="mini-header">Reviewing Your Officer’s Registration</p>
+<p class="mini-header" id="review">Reviewing Your Officer’s Registration</p>
 
 <p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
 		
@@ -233,7 +233,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC (if any). Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. The officer can re-submit a new application if the application has lapsed.</p>
 	
 	
-<p class="mini-header">How to set “Covering Training Coordinator (TC)”</p>
+<p class="mini-header" id="covering-training">How to set “Covering Training Coordinator (TC)”</p>
 	
 <p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the<b>“Profile”</b>page by clicking on the “Covering TC” button.</p>
 	
@@ -257,7 +257,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	<p>Find out more on our <a target="_blank" href="https://www.csc.gov.sg/contact-us">Contact Us</a> page</p>
 	
 	
-<h4>Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
+<h4 id="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
 	
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
@@ -295,7 +295,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 	
 	
-<h4>Attendance of Your Officers</h4>
+<h4 id="officers-attendance">Attendance of Your Officers</h4>
 	
 <p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending a virtual programme, or a milestone programme, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
 
@@ -328,7 +328,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>If you have any questions not addressed above, you can contact us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
 	
 
-<h4>Request for In-House Training</h4>
+<h4 id="request-in-house">Request for In-House Training</h4>
 	
 <p class="mini-header">In-House Training</p>
 		
