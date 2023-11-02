@@ -179,7 +179,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p class="mini-header">Individual or Bulk Registration</p>
 	
-	<p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
+<p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
 	
 <p class="mini-header">Registration Closing Dates</p>
@@ -209,8 +209,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>We will email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:</p>
 	
 <ul>
-			<li>The officer will receive a Programme Placement Letter (PPL).</li>
-			<li>You will receive a PPL summary for each programme (excluding eLearning programme). It lists the officers from your agency attending the programme.</li>
+<li>The officer will receive a Programme Placement Letter (PPL).</li>
+<li>You will receive a PPL summary for each programme (excluding eLearning programme). It lists the officers from your agency attending the programme.</li>
 
 </ul>
 	
