@@ -186,6 +186,18 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <details><summary>For Training Coordinators</summary>
 <div class="Accordion-Paragraph">
 <p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
+	
+<div id="questions">
+<ul>
+	<li><a href="#individual-bulk">Individual or Bulk Registration</a></li>	
+	<li><a href="#review">Reviewing Your Officer's Registration</a></li>		
+	<li><a href="#covering-training">How to set "Covering Training Coordinator (TC)"?</a></li>	
+	<li><a href="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</a></li>	
+	<li><a href="#officers-attendance">Attendance of Your Officers</a></li>	
+	<li><a href="#request-in-house">Request for In-House Training</a></li>
+</ul>
+</div>			
+	
 			
 <h4>Managing Your Training Coordinator Account</h4>
 
