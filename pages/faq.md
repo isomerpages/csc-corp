@@ -52,14 +52,14 @@ font-size:16px;
 
 </style>
 
-<details><summary>For Learners</summary>
-	<div class="Accordion-Paragraph">
-	
 <div id="questions">
 <ul>
 	<li><a href="#register">Searching for a programme</a></li>	
 			
 </ul></div>	
+
+<details><summary>For Learners</summary>
+<div class="Accordion-Paragraph">
 			
 <h4>Register for a Programme:</h4>
 <p class="mini-header" id="register">Searching for a programme</p> 
