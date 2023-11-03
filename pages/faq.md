@@ -158,12 +158,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a target="_blank" href="https://go.gov.sg/cancel-appln-pp">here</a></p>
 		
-<p class="mini-header" id="withdraw-registration">Withdrawing Your Registration After Programme Placement</p>			
+<p class="mini-header" id="withdraw-registration">Withdrawing your registration after programme placement</p>			
 
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
 <ol id="list-adjustment">
-<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal/replacement /transfer requests have to be submitted by your TC.</li>	
+<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal / replacement / transfer requests have to be submitted by your TC.</li>	
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 <li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
@@ -192,11 +192,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 	
 <div id="questions">
-<ul>
-	<li><a href="#individual-bulk">Individual or Bulk Registration</a></li>	
-	<li><a href="#review">Reviewing Your Officer's Registration</a></li>		
+	<p>Jump to</p>
+	<ul>
+	<li><a href="#individual-bulk">Individual or bulk registration</a></li>	
+	<li><a href="#review">Reviewing your officer's registration</a></li>		
 	<li><a href="#covering-training">How to set "Covering Training Coordinator (TC)"?</a></li>	
-	<li><a href="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</a></li>	
+	<li><a href="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</a></li>	
 	<li><a href="#officers-attendance">Attendance of Your Officers</a></li>	
 	<li><a href="#request-in-house">Request for In-House Training</a></li>
 </ul>
@@ -205,17 +206,17 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 			
 <h4>Managing Your Training Coordinator Account</h4>
 
-<p class="mini-header">Creating/Removing a Training Coordinator Account</p>
+<p class="mini-header">Creating / removing a Training Coordinator account</p>
 	
-<p>Please submit the Training Coordinator’s information in <a href="https://go.gov.sg/add-remove-tc-bc" target="_blank">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
+<p>Please submit the Training Coordinator’s information in <a target="_blank" href="https://go.gov.sg/add-remove-tc-bc">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
 			
-<p class="mini-header">Update Your Agency's Contact List</p>	
-<p>Email us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
+<p class="mini-header">Update your agency's contact list</p>	
+<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
 
 
 <h4>Registering Your Officers for Programmes</h4>
 
-<p class="mini-header" id="individual-bulk">Individual or Bulk Registration</p>
+<p id="individual-bulk" class="mini-header">Individual or bulk registration</p>
 	
 <p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
