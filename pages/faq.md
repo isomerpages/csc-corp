@@ -333,7 +333,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <h4 id="request-in-house">Request for In-House Training</h4>
 	
-<p class="mini-header">In-House Training</p>
+<p class="mini-header">In-house training</p>
 		
 <ul>
 
@@ -341,7 +341,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 </ul>
 	
-<p class="mini-header">Standard In-house Programmes</p>
+<p class="mini-header">Standard in-house programmes</p>
 
 <ul>
 
@@ -349,7 +349,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 </ul>	
 			
-<p class="mini-header">Customised In-house Programmes</p>
+<p class="mini-header">Customised in-house programmes</p>
 
 <ul>	
 
@@ -359,9 +359,9 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 </ul>	
 	
-<p><b><i>Note:</i></b><i>There is a development fee for customised programmes which will be in addition to the programme fee.</i></p>
+<p><b><i>Note: There is a development fee for customised programmes which will be in addition to the programme fee.</i></b></p>
 	
-<p class="mini-header">Class Sizes</p>
+<p class="mini-header">Class sizes</p>
 	
 <p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public run instead.</p>
 	
@@ -373,7 +373,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 			
 <p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
 			
-<p class="mini-header">How to Apply for In-House Training</p>
+<p class="mini-header">How to apply for in-house training</p>
 <p>Email your Agency Engagement Manager with the following:</p>
 	
 <ul>
@@ -387,7 +387,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>We’ll respond within 3 – 5 working days. </p>
 	
-<p>Find out who is your Agency Engagement Manager <a target="_blank" href="https://go.gov.sg/aemanagers">here</a>. This file can only be viewed on the Government Intranet.
+<p>Find out who your Agency Engagement Manager is<a target="_blank" href="https://go.gov.sg/aemanagers">here</a>. This file can only be viewed on the Government Intranet.
 </p>
 	
 	
