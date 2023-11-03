@@ -64,7 +64,7 @@ list-style-type: none;
 	
 <div id="questions">
 	<ul>
-	Jump to	
+		<li>Jump to</li>
 	<li><a href="#disabilities">Learning with disabilities</a></li>	
 	<li><a href="#register">How to register for a programme?</a></li>		
 	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
