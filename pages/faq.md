@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 <style>
 .Accordion-Paragraph {
@@ -179,6 +180,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <br>		
 		
+<div id="top"><a href="#questions">Back to Top</a></div>	
+	
 </div>
 	</details>
 	
