@@ -100,7 +100,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header">Confirming your registration</p>
 		
-<p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. &nbsp;While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
+<p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
 <p class="mini-header" id="disabilities">Learning with disabilities</p>
 	
