@@ -52,8 +52,6 @@ font-size:16px;
 list-style-type: none;
 }	
 
-	
-
 
 </style>
 
@@ -65,9 +63,8 @@ list-style-type: none;
 <p>Find out how to register for programmes here.</p>	
 	
 <div id="questions">
-	<p>Jump to</p>
-	<ul>
-	<li><a href="#disabilities">Learning with disabilities</a></li>	
+<ul>
+	<li><a href="#disabilities">Learning with Disabilities</a></li>	
 	<li><a href="#register">How to register for a programme?</a></li>		
 	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
 	<li><a href="#mark-attendance">How do I mark my attendance?</a></li>	
@@ -86,27 +83,27 @@ list-style-type: none;
 <p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
 You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
 
-<p class="mini-header">No suitable dates for your desired programme?</p>
+<p class="mini-header">No Suitable Dates for Your Desired Programme?</p>
 
 <p>Get notified when new dates are published – click the <b>‘Add to Watchlist’</b> button to receive email notifications when new classes are opened.</p>
 		
-<p class="mini-header" id="register">How to register for a programme?</p>
+<p class="mini-header" id="register">How to Register for a Programme?</p>
 		
 <p>You can register via our <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a target="_blank" href="https://go.gov.sg/reg-pp">here</a>.</p>
 
 <p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 	
 	
-<p class="mini-header">When to register?</p>
+<p class="mini-header">When to Register?</p>
 <p>Register for a programme at least 1 month before the start date. Most programmes accept registrations on a first-come, first-serve basis, so it is better to register early. Registration normally closes 7 working days before each programme’s start date, unless otherwise stated.</p>
 		
-<p class="mini-header">Confirming your registration</p>
+<p class="mini-header">Confirming your Registration</p>
 		
 <p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. &nbsp;While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
-<p class="mini-header" id="disabilities">Learning with disabilities</p>
+<p class="mini-header" id="disabilities">Learning with Disabilities</p>
 	
-<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
+<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
 		
 <h4>Attending Your Programme:</h4>
@@ -128,9 +125,9 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a></p>		
 		
-<p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
+<p class="mini-header" id="mark-attendance">How do I Mark My Attendance?</p>
 		
-<p>From 6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a <strong>virtual programme or a milestone programme</strong>, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
+<p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
 		
 <ol id="list-adjustment">
 	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
@@ -150,7 +147,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
 		
-<p><strong>During the pilot phase, please scan your attendance using your NRIC at any kiosk found on levels 1 to 5 if you are attending in-person programmes that are not milestone programmes.</strong></p>		
+<p>If you are attending in-person programmes that are not milestone programmes, please scan your attendance using your NRIC at one of the kiosks found on levels 1, 3 and 4.)</p>		
 		
 		
 		
@@ -160,12 +157,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a target="_blank" href="https://go.gov.sg/cancel-appln-pp">here</a></p>
 		
-<p class="mini-header" id="withdraw-registration">Withdrawing your registration after programme placement</p>			
+<p class="mini-header" id="withdraw-registration">Withdrawing Your Registration After Programme Placement</p>			
 
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
 <ol id="list-adjustment">
-<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal / replacement / transfer requests have to be submitted by your TC.</li>	
+<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal/replacement /transfer requests have to be submitted by your TC.</li>	
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 <li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
@@ -181,6 +178,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <br>		
 		
+
+	
 </div>
 	</details>
 	
@@ -192,46 +191,45 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 	
 <div id="questions">
-	<p>Jump to</p>
-	<ul>
-	<li><a href="#individual-bulk">Individual or bulk registration</a></li>	
-	<li><a href="#review">Reviewing your officer's registration</a></li>		
+<ul>
+	<li><a href="#individual-bulk">Individual or Bulk Registration</a></li>	
+	<li><a href="#review">Reviewing Your Officer's Registration</a></li>		
 	<li><a href="#covering-training">How to set "Covering Training Coordinator (TC)"?</a></li>	
-	<li><a href="wrt-officers">Withdrawing / replacing / transferring your officers for programmes</a></li>	
-	<li><a href="#officers-attendance">Attendance of your officers</a></li>	
-	<li><a href="#request-in-house">Request for in-house training</a></li>
+	<li><a href="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</a></li>	
+	<li><a href="#officers-attendance">Attendance of Your Officers</a></li>	
+	<li><a href="#request-in-house">Request for In-House Training</a></li>
 </ul>
 </div>			
 	
 			
 <h4>Managing Your Training Coordinator Account</h4>
 
-<p class="mini-header">Creating/removing a Training Coordinator cccount</p>
+<p class="mini-header">Creating/Removing a Training Coordinator Account</p>
 	
 <p>Please submit the Training Coordinator’s information in <a href="https://go.gov.sg/add-remove-tc-bc" target="_blank">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
 			
-<p class="mini-header">Update your agency's contact list</p>	
+<p class="mini-header">Update Your Agency's Contact List</p>	
 <p>Email us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
 
 
 <h4>Registering Your Officers for Programmes</h4>
 
-<p class="mini-header" id="individual-bulk">Individual or bulk registration</p>
+<p class="mini-header" id="individual-bulk">Individual or Bulk Registration</p>
 	
 <p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
 	
-<p class="mini-header">Registration closing dates</p>
+<p class="mini-header">Registration Closing Dates</p>
 
 <p>Registration normally closes 7 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 	
 	
-<p class="mini-header" id="review">Reviewing your officer’s registration</p>
+<p class="mini-header" id="review">Reviewing Your Officer’s Registration</p>
 
 <p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
 		
 
-<p class="mini-header">Unable to review registrations in time</p>
+<p class="mini-header">Unable to Review Registrations in Time</p>
 			
 <p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC (if any). Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. The officer can re-submit a new application if the application has lapsed.</p>
 	
@@ -242,7 +240,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a target="_blank" href="https://go.gov.sg/set-coveringtc">here</a>.</p>
 	
-<p class="mini-header">Registration status</p>
+<p class="mini-header">Registration Status</p>
 					
 	
 <p>We will email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:</p>
@@ -256,11 +254,11 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
 
 
-<p class="mini-header">Contacting us</p>
-	<p>Find out more on our <a target="_blank" href="/contact-us">Contact Us</a> page</p>
+<p class="mini-header">Contacting Us</p>
+	<p>Find out more on our <a target="_blank" href="https://www.csc.gov.sg/contact-us">Contact Us</a> page</p>
 	
 	
-<h4 id="wrt-officers">Withdrawing / replacing / transferring your officers for programmes</h4>
+<h4 id="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
 	
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
@@ -298,9 +296,9 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 	
 	
-<h4 id="officers-attendance">Attendance of your officers</h4>
+<h4 id="officers-attendance">Attendance of Your Officers</h4>
 	
-<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending <strong>a virtual programme or a milestone programme</strong>, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
+<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending a virtual programme, or a milestone programme, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
 
 <p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the eAttendance page.</p>	
 	
@@ -317,11 +315,11 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
 <a target="_blank" href="https://go.gov.sg/no-show-appeal">here</a>.</p>
 	
-<p>For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at any kiosk found on levels 1 to 5, until the next launch phase in 2 January 2024 for all programmes.</p>
+<p> (For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at one of the kiosks found in levels 1, 3 and 4, until the next launch phase in 2 January 2024 for all programmes. )</p>
 	
 	
 	
-<p class="mini-header">Where to get assistance</p>
+<p class="mini-header">Where to Get Assistance</p>
 	
 <p>Officers can email us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
 	
