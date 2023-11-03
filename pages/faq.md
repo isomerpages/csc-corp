@@ -192,8 +192,8 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>Find out how to manage your Training Coordinator account, register your officers for programmes and request for in-house training.</p>
 	
 <div id="questions">
-	<p>Jump to</p>
-	<ul>
+		<ul>
+	<li>Jump to</li>
 	<li><a href="#individual-bulk">Individual or bulk registration</a></li>	
 	<li><a href="#review">Reviewing your officer's registration</a></li>		
 	<li><a href="#covering-training">How to set "Covering Training Coordinator (TC)"?</a></li>	
