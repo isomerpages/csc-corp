@@ -124,7 +124,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	</ul>
 </ol>		
 		
-<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a></p>		
+<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a>.</p>		
 		
 <p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
 		
