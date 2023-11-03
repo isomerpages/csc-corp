@@ -63,8 +63,8 @@ list-style-type: none;
 <p>Find out how to register for programmes here.</p>	
 	
 <div id="questions">
-	<br>Jump to
 	<ul>
+	Jump to	
 	<li><a href="#disabilities">Learning with disabilities</a></li>	
 	<li><a href="#register">How to register for a programme?</a></li>		
 	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
