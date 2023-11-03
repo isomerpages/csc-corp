@@ -49,7 +49,8 @@ font-size:16px;
 
 #questions ul li
 {
-list-style-type: none;
+font-size: 1em;
+	list-style-type: none;
 }	
 
 
