@@ -219,12 +219,12 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
 	
 	
-<p class="mini-header">Registration Closing Dates</p>
+<p class="mini-header">Registration closing dates</p>
 
 <p>Registration normally closes 7 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 	
 	
-<p class="mini-header" id="review">Reviewing Your Officer’s Registration</p>
+<p class="mini-header" id="review">Reviewing your officer’s registration</p>
 
 <p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
 		
