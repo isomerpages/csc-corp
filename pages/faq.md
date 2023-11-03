@@ -231,7 +231,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
 		
 
-<p class="mini-header">Unable to Review Registrations in Time</p>
+<p class="mini-header">Unable to review registrations in time</p>
 			
 <p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC (if any). Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. The officer can re-submit a new application if the application has lapsed.</p>
 	
@@ -242,7 +242,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a target="_blank" href="https://go.gov.sg/set-coveringtc">here</a>.</p>
 	
-<p class="mini-header">Registration Status</p>
+<p class="mini-header">Registration status</p>
 					
 	
 <p>We will email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:</p>
@@ -256,11 +256,11 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
 
 
-<p class="mini-header">Contacting Us</p>
-	<p>Find out more on our <a target="_blank" href="https://www.csc.gov.sg/contact-us">Contact Us</a> page</p>
+<p class="mini-header">Contacting us</p>
+	<p>Find out more on our <a target="_blank" href="/contact-us">Contact Us</a> page</p>
 	
 	
-<h4 id="wrt-officers">Withdrawing/Replacing/Transferring Your Officers for Programmes</h4>
+<h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
 	
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
@@ -300,7 +300,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <h4 id="officers-attendance">Attendance of Your Officers</h4>
 	
-<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending a virtual programme, or a milestone programme, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
+<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending <strong>a virtual programme or a milestone programme</strong>, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
 
 <p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the eAttendance page.</p>	
 	
@@ -317,18 +317,18 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
 <a target="_blank" href="https://go.gov.sg/no-show-appeal">here</a>.</p>
 	
-<p> (For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at one of the kiosks found in levels 1, 3 and 4, until the next launch phase in 2 January 2024 for all programmes. )</p>
+<p><strong>For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at any kiosk found on levels 1 to 5, until the next launch phase in 2 January 2024 for all programmes.</strong></p>
 	
 	
 	
-<p class="mini-header">Where to Get Assistance</p>
+<p class="mini-header">Where to get assistance</p>
 	
-<p>Officers can email us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
+<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
 	
 	
-<p class="mini-header">More Questions?</p>
+<p class="mini-header">More questions?</p>
 
-<p>If you have any questions not addressed above, you can contact us at <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
+<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
 	
 
 <h4 id="request-in-house">Request for In-House Training</h4>
