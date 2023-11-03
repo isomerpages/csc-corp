@@ -63,8 +63,9 @@ list-style-type: none;
 <p>Find out how to register for programmes here.</p>	
 	
 <div id="questions">
-<ul>
-	<li><a href="#disabilities">Learning with Disabilities</a></li>	
+	<p>Jump to</p>
+	<ul>
+	<li><a href="#disabilities">Learning with disabilities</a></li>	
 	<li><a href="#register">How to register for a programme?</a></li>		
 	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
 	<li><a href="#mark-attendance">How do I mark my attendance?</a></li>	
@@ -83,27 +84,27 @@ list-style-type: none;
 <p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
 You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
 
-<p class="mini-header">No Suitable Dates for Your Desired Programme?</p>
+<p class="mini-header">No suitable dates for your desired programme?</p>
 
 <p>Get notified when new dates are published – click the <b>‘Add to Watchlist’</b> button to receive email notifications when new classes are opened.</p>
 		
-<p class="mini-header" id="register">How to Register for a Programme?</p>
+<p class="mini-header" id="register">How to register for a programme?</p>
 		
 <p>You can register via our <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a target="_blank" href="https://go.gov.sg/reg-pp">here</a>.</p>
 
 <p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 	
 	
-<p class="mini-header">When to Register?</p>
+<p class="mini-header">When to register?</p>
 <p>Register for a programme at least 1 month before the start date. Most programmes accept registrations on a first-come, first-serve basis, so it is better to register early. Registration normally closes 7 working days before each programme’s start date, unless otherwise stated.</p>
 		
-<p class="mini-header">Confirming your Registration</p>
+<p class="mini-header">Confirming your registration</p>
 		
 <p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. &nbsp;While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
-<p class="mini-header" id="disabilities">Learning with Disabilities</p>
+<p class="mini-header" id="disabilities">Learning with disabilities</p>
 	
-<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a target="_blank" href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
+<p>The Civil Service College is committed to creating a learning environment that meets the diverse needs of its participants. If you anticipate or experience any barriers to learning in the programme you are interested in, please feel free to discuss your concerns with your Training Coordinator and CSC’s <a href="mailto:cscollege@cscollege.gov.sg">Customer Experience Team</a>. Learners with disabilities may also wish to work with your Training Coordinator and CSC’s Customer Experience Team to discuss options to improve the learning experience for you. Please also let us know what level of assistance you prefer.</p>
 		
 		
 <h4>Attending Your Programme:</h4>
@@ -125,9 +126,9 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a></p>		
 		
-<p class="mini-header" id="mark-attendance">How do I Mark My Attendance?</p>
+<p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
 		
-<p>From&nbsp;6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending a virtual programme, or a milestone programme, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
+<p>From 6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending <strong>a virtual programme or a milestone programme</strong>, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
 		
 <ol id="list-adjustment">
 	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
@@ -147,7 +148,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
 		
-<p>If you are attending in-person programmes that are not milestone programmes, please scan your attendance using your NRIC at one of the kiosks found on levels 1, 3 and 4.)</p>		
+<p><strong>During the pilot phase, please scan your attendance using your NRIC at any kiosk found on levels 1 to 5 if you are attending in-person programmes that are not milestone programmes.</strong></p>		
 		
 		
 		
