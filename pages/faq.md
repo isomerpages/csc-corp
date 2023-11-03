@@ -62,7 +62,7 @@ list-style-type: none;
 <details><summary>For Learners</summary>
 <div class="Accordion-Paragraph">
 
-<p id="back">Find out how to register for programmes here.</p>	
+<p>Find out how to register for programmes here.</p>	
 	
 <div id="questions">
 <ul>
@@ -180,7 +180,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <br>		
 		
-<div id="top"><a href="#back">Back to Top</a></div>	
+<div id="top"><a href="#questions">Back to Top</a></div>	
 	
 </div>
 	</details>
