@@ -39,7 +39,7 @@ details {
 
 .mini-header {
 	font-weight: bold;
-	margin-bottom: 0;
+	margin-bottom: 1em ;
 	}
 	
 #list-adjustment
