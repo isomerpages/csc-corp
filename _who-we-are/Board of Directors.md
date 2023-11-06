@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /board-of-directors/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -143,7 +144,7 @@ font-size: 15px;
 <div class="BOD-float-child"><h4>Mr Yeo Li Pheow</h4>
 <p class="role">Member</p>
 <div class="TheTitle">Executive Director,</div>
-<div class="TheTitle">Institute of Adult Learning</div>
+<div class="TheTitle">Institute for Adult Learning</div>
 
 
 </div>
