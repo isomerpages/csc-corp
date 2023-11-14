@@ -2,6 +2,7 @@
 title: Rent Our Facility
 permalink: /reach-us/rent-our-facility/
 description: ""
+variant: markdown
 ---
 <style>
 
@@ -94,8 +95,6 @@ description: ""
 <b>Hosting Events</b>
 <p>Are you looking for a space to run your events? Does it fit the intent of fostering a culture of innovation, collaboration, experimentation, and continuous learning?</p>
 
-<b>Learning Journey</b>
-<p>INN x CSC have hosted learning journeys for agencies such as HDB, NP, IRAS, MINDEF, MOE and many more.</p>
 
 <b>Keen to know more?</b>
 <p>Email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a> to find out more about our learning spaces and how you can apply the design principles at work.</p>
