@@ -128,7 +128,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
 		
-<p>From 6 November 2023 onwards, CSC will be piloting a new e-attendance process in phases. If you are attending <strong>a virtual programme or a milestone programme</strong>, you may mark your attendance by <b>“checking in”</b> to your programme. Here is how:</p> 		
+<p>You may mark your attendance by “checking in” to your programme on CSC's eAttendance page. Here is how:</p> 		
 		
 <ol id="list-adjustment">
 	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
@@ -148,10 +148,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
 		
-<p><strong>During the pilot phase, please scan your attendance using your NRIC at any kiosk found on levels 1 to 5 if you are attending in-person non-milestone programmes.</strong></p>		
-		
-		
-		
+
 <h4>Withdrawing Your Registration</h4>
 		
 <p class="mini-header" id="withdraw-application">Withdrawing your application before Training Coordinator (TC) approval</p>
@@ -300,7 +297,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	
 <h4 id="officers-attendance">Attendance of Your Officers</h4>
 	
-<p>From 6 November 2023 onwards, CSC will be launching a new e-attendance process, in phases. If your officers are attending <strong>a virtual programme or a milestone programme</strong>, they may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
+<p>Your officers may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
 
 <p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the eAttendance page.</p>	
 	
@@ -316,9 +313,6 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
 <a target="_blank" href="https://go.gov.sg/no-show-appeal">here</a>.</p>
-	
-<p><strong>For in-person programmes that are not milestone programmes, officers will still need to take their attendance by scanning their NRICs at any kiosk found on levels 1 to 5, until the next launch phase in 2 January 2024 for all programmes.</strong></p>
-	
 	
 	
 <p class="mini-header">Where to get assistance</p>
@@ -387,7 +381,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <p>We’ll respond within 3 – 5 working days. </p>
 	
-
+	<p>Click <a target="blank" href="https://go.gov.sg/csc-aemanager">here</a> to find out who your Agency Engagement Manager is.</p> 
 	
 	
 		
