@@ -37,9 +37,7 @@ font-size: 15px;
 <p class="role">Chairman</p>
 <div class="TheTitles">Permanent Secretary,</div>
 <div class="TheTitles">Public Service Division,</div>
-<div class="TheTitles">Prime Minister's Office</div>&nbsp;
-<div class="TheTitles">Permanent Secretary,</div> 
-<div class="TheTitles">Ministry of Culture, Community and Youth</div>
+<div class="TheTitles">Prime Minister's Office</div>
 </div>
 
 <div class="BOD-float-child">
