@@ -1,0 +1,9 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - About Us.md
+      - Board of Directors.md
+      - Organisational Structure.md
+      - Fellowships.md
+      - Our Partners.md

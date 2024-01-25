@@ -1,0 +1,20 @@
+collections:
+  fellowship-members-bios:
+    output: true
+    order:
+      - Augustine O'Donnell.md
+      - Jocelyne Bourgon.md
+      - Peter Hawkins.md
+      - Peter Shergold.md
+      - Chee Wee Kiong.md
+      - Khoo Boon Hui.md
+      - Lim Siong Guan.md
+      - Lim Soo Hoon.md
+      - Peter Ho Hak Ean.md
+      - Peter Ong Boon Kwee.md
+      - Yong Ying I.md
+      - Catherine Fieschi.md
+      - Martin Richard John Knapp.md
+      - Richard Brown.md
+      - Rory Gallagher.md
+      - Ang Hak Seng.md

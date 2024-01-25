@@ -1,0 +1,10 @@
+logo: /images/Brand Elements/csc_logo_100px.png
+links:
+  - title: Who We Are
+    collection: who-we-are
+  - title: What We Do
+    url: /what-we-do
+  - title: Join Us
+    url: /join-us
+  - title: Reach Us
+    collection: reach-us
