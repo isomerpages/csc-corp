@@ -2,6 +2,7 @@
 title: Become an Associate Trainer
 permalink: /become-an-associatetrainer/
 description: ""
+variant: markdown
 ---
 <p>External experts such as associate trainers, coaches and consultants bring valuable knowledge to our public officers' learning. As our partner, you'll grow your own practice and gain unparalleled exposure to diverse participants from across the Public Service.</p>
 
@@ -18,7 +19,7 @@ description: ""
 <p>Join our pool of associate trainers, facilitators and consultants to conduct training programmes and provide consultancy services for projects. We work in these focus areas:</p>
 <ul>
 	<li><a href="/files/associate-trainer---data_digitalisation.pdf">Digitalisation and Data Analytics</a></li>
-	<li><a href="https://www.csc.gov.sg/docs/default-source/default-document-library/associate-trainer---enforcement.pdf">Enforcement</a></li>
+	<li><a href="/files/aassociate_trainer__enforcement.pdf">Enforcement</a></li>
   <li>Global Orientation</li>
   <li>Leadership &amp; Organisation Development</li>
   <li>Partnership and Engagement</li>
@@ -26,7 +27,7 @@ description: ""
   <li>Public Administration</li>
   <li>Public Communications</li>
   <li>Public Policy &amp; Governance</li>
-	<li><a href="https://www.csc.gov.sg/docs/default-source/default-document-library/associate-trainer-service-management.pdf">Service Management</a></li>
+	<li><a href="/files/aassociate_trainer__service_management.pdf">Service Management</a></li>
 </ul>
 
 <p>Confident that you
