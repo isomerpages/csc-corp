@@ -2,6 +2,7 @@
 title: Join Us
 permalink: /join-us/
 description: ""
+variant: markdown
 ---
 <style>
 .triple-column-div {
