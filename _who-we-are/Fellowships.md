@@ -104,12 +104,12 @@ variant: markdown
 
 <p>We aim to forge strong links with international thought leaders, leverage the rich experiences of policy practitioners and harness the diverse views of academics.</p>
 
-<!-- Start of Senior Visting Fellows Section -->
+
 <h3 class="header-fellows-middle">Senior Visiting Fellows</h3>
 <div class="grid-container">
-	<!-- First Senior Visiting Fellowship card Augustine O'Donnell -->
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Augustine_Odonnell_2x6.jpg">
@@ -125,7 +125,7 @@ variant: markdown
 </div>
 
 	
-<!-- 2nd Senior Visiting Fellowship Card Jocelyne Bourgon -->	
+	
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
@@ -142,11 +142,11 @@ variant: markdown
 </div>
 
 
-<!-- Second Layer ( 3rd and 4th cards )-->
+
 <div class="grid-container">
-	<!-- 3rd Senior  Visiting Fellowship Card Peter Hawkins -->	
+		
 	<div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
@@ -163,9 +163,9 @@ variant: markdown
 </div>
 
 
-<!-- 4th Senior Visiting Fellowship Card Peter Shergold -->	
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-shergold@2x.jpg">
@@ -179,16 +179,16 @@ variant: markdown
 	</div>
 </div>
 </div>
-<!-- End of Senior Visiting Fellows Section -->
+
 	
-<!--Start of the Senior Fellows Section-->
+
 <h3 class="header-fellows-middle">Senior Fellows</h3>
 
 
 <div class="grid-container">
-	<!-- First Senior Fellowship card ( Chee Wee Kiong )-->
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img src="/images/FellowshipImages/fellowships_chee%20wee%20kiong.jpg" class="fellowship-image">
@@ -204,9 +204,9 @@ variant: markdown
 </div>
 	
 	
-<!-- 2nd Senior Fellow Card ( Khoo Boon Hui )-->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Khoo_Boon_Hui_2x.jpg">
@@ -221,11 +221,11 @@ variant: markdown
  </div>
 </div>
 
-<!-- Second Layer of Senior Fellows (3rd and 4th)-->
+
 <div class="grid-container">
-<!-- 3rd Senior Fellow ( Lim Siong Guan ) -->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-siong-guan@2x.jpg">
@@ -240,9 +240,9 @@ variant: markdown
 	</div>
 </div>	
 
-<!-- 4th Senior Fellow ( Lim Soo Hoon ) -->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
@@ -259,13 +259,13 @@ variant: markdown
 
 </div>
 
-<!-- 3rd layer of Senior Fellows-->
+
 
 <div class="grid-container">
 
-<!-- 5th Senior Fellow ( Peter Ho Hak Ean ) -->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-ho-hak-ean@2x.jpg">
@@ -279,9 +279,9 @@ variant: markdown
 		</div>
 	</div>
 
-<!-- 6th Senior Fellow ( Peter Ong Boon Kwee ) -->	
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
@@ -296,12 +296,12 @@ variant: markdown
 </div>
 </div>
 
-<!-- 4th layer of Senior Fellows ( 7th Card )-->
+
 <div class="grid-container">
 
-<!-- 7th Senior Fellow ( Yong Ying-I ) -->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/ps-ying-i.jpg">
@@ -320,15 +320,15 @@ variant: markdown
 	
 	
 </div>
-<!-- End of Senior Fellows-->
 
-<!-- Start of Visiting fellows.-->
+
+
 
 <h3 class="header-fellows-middle">Visiting Fellows</h3>
 <div class="grid-container">
-	<!-- First Visiting Fellow ( Catherine Fieschi )-->
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	 <img class="fellowship-image" src="/images/FellowshipImages/fellowships_catherine_fieschi_2x.jpg">
@@ -342,9 +342,9 @@ variant: markdown
 	 </div>
 </div>
 	
-<!-- Second Visiting Fellow ( Martin Richard John Knapp )-->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 	<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/profknapp.png">
@@ -360,11 +360,11 @@ variant: markdown
 </div>
 
 
-<!-- Second layer of Visiting Fellows. ( 3rd and 4th cards )-->
+
 <div class="grid-container">
-	<!-- 3rd Visiting Fellow ( Richard Brown )-->
+	
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-richard-brown@2x.jpg">
@@ -379,31 +379,31 @@ variant: markdown
 	</div>
 
 	
-<!-- Fourth Visiting Fellow ( Rory Gallagher )-->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-rory-gallagher@2x.jpg">
 			</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Rory Gallagher</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher is managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit')</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher, until recently, was managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit').</div></div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/rory-gallagher">Read Bio</a>
 			</div>	
 		</div>
 	</div>
 </div>
-<!-- End of Visiting Fellows section -->
 
-<!-- Start of Fellows section -->
+
+
 <h3 class="header-fellows-middle">Fellows</h3>
 <div class="grid-container">
 
-<!-- First Fellows Card ( Ang Hak Seng )-->
+
 <div class="fellow-card">
-<!-- Below is the HTML that is contained inside the card.-->		
+		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
