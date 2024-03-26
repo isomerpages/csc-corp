@@ -2,7 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Ravi Menon.md
       - Augustine O'Donnell.md
       - Jocelyne Bourgon.md
       - Peter Hawkins.md
@@ -13,6 +12,7 @@ collections:
       - Lim Soo Hoon.md
       - Peter Ho Hak Ean.md
       - Peter Ong Boon Kwee.md
+      - Ravi Menon.md
       - Yong Ying I.md
       - Catherine Fieschi.md
       - Martin Richard John Knapp.md
