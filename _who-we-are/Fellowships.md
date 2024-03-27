@@ -297,9 +297,26 @@ variant: markdown
 </div>
 
 
+
 <div class="grid-container">
 
 
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon.jpg">
+	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ravi Menon</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2024 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Menon served for 36 years in the Singapore Public Service, including as Managing Director of the Monetary Authority of Singapore;&nbsp;&nbsp;Permanent Secretary at the Ministry of Trade and Industry; and Deputy Secretary at the Ministry of Finance.</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ravi-menon">Read Bio</a>
+			</div>
+		</div>
+	</div>
+
+	
 <div class="fellow-card">
 		
 	<div class="fellowship-text">
@@ -314,12 +331,8 @@ variant: markdown
 		</div>
   </div>
 </div>
-
-	
-	
-	
-	
 </div>
+
 
 
 
