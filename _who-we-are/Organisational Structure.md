@@ -153,7 +153,7 @@ details {
 
 <details>
 <summary>Learning and Development Office </summary>
-<p class="Accordion-Paragraph">Focus on developing CSC’s Learning &amp; Development (L&amp;D) strategy and implementing interventions to uplift L&amp;D capabilities, within CSC and across the Public Service.</p>
+<p class="Accordion-Paragraph">Focus on developing CSC’s Learning and Development (L&amp;D) strategy and implementing interventions to uplift L&amp;D capabilities, within CSC and across the Public Service.</p>
 </details>
 		
 <details><summary>Communications and Customer Engagement</summary><p class="Accordion-Paragraph">Steward corporate identity and customer intelligence, as well as communications and customer engagement with public agencies and public officers.</p></details>
