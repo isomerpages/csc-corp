@@ -61,7 +61,7 @@ details {
 </style>
 
 
-<p>CSC's Institutes, Enterprise Technology Group and Strategy and Corporate Group work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                            </p>
+<p>CSC's Institutes, Enterprise Technology Group, and Strategy and Corporate Group work to help us achieve our mission of preparing public officers for the future. Find out about how we're organised and what we do.                            </p>
 
 <hr>
 <div class="grid-container">
@@ -89,7 +89,7 @@ details {
 <details><summary>Institute of Leadership and Organisation Development</summary>
 <p class="Accordion-Paragraph">Develop leadership and organisation development (OD) capabilities through research, training and consultancy, so as to enable sustainable change and transformation in the Public Service.</p></details>
 	
-<details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, public finance and law, public service foundational competencies and enforcement practices.
+<details><summary>Institute of Public Administration and Management</summary><p class="Accordion-Paragraph">Build capabilities in the areas of service management and delivery, strategic human resource management, digital capabilities, public finance, public service foundational competencies and enforcement practices.
 </p>
 </details>
 	
