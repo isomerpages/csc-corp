@@ -305,7 +305,7 @@ variant: markdown
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon.jpg">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon_edited.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Ravi Menon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2024 - Present</p></div>
@@ -431,7 +431,21 @@ variant: markdown
 	</div>
 </div>
 
-
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_toonhui.jpg">
+	</div>
+<div class="fellowship-card-text"><p class="fellow-name">Ong Toon Hui</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Ong Toon Hui is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.</div>
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
+			</div>
+	</div>
+</div>
 
 
 
