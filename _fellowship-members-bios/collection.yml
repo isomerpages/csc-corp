@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Ong Toon Hui.md
       - Augustine O'Donnell.md
       - Jocelyne Bourgon.md
       - Peter Hawkins.md
