@@ -46,7 +46,7 @@ text-indent: 1em;
 
 <div class="fellow-img">
 
-<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships_Ravi_Menon.jpg">
+<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships_Ravi_Menon_edited.jpg">
 
 <p class="fellow-tenure">2024 - PRESENT</p>
 
