@@ -441,8 +441,11 @@ variant: markdown
 <div class="fellowship-card-text"><p class="fellow-name">Ang Hak Seng</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang  is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good.</div>				
-	</div>		
 	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ang-hak-seng">Read Bio</a>
+	</div>
+</div>
 </div>
 </div>
 
