@@ -419,6 +419,22 @@ variant: markdown
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Aaron_Maniam.jpg">
+	</div>
+<div class="fellowship-card-text"><p class="fellow-name">Aaron Maniam</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Maniam currently researches and teaches at the University of Oxford’s Blavatnik School of Government, on both Master of Public Policy and executive education programmes.</div>
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/aaron-maniam">Read Bio</a>
+			</div>
+	</div>
+</div>
+
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
 		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ang Hak Seng</p></div>
@@ -431,6 +447,10 @@ variant: markdown
 	</div>
 </div>
 
+	
+
+<div class="grid-container">
+
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -439,7 +459,7 @@ variant: markdown
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ong Toon Hui</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Ms Ong Toon Hui is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Ong is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.</div>
 	</div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
@@ -458,6 +478,4 @@ variant: markdown
 
 
 
-
-
-</div>
+</div></div>
