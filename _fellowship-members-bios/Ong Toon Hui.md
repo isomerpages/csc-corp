@@ -27,7 +27,7 @@ p {
 <h4 style="text-align:center;">FELLOW</h4>
 
 <div class="fellow-img">
-<img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_toonhui.jpg">
+<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowship_Ong_Toon_Hui.jpg">
 <p class="fellow-tenure">2024 - PRESENT</p>
 </div>
 
