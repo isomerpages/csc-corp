@@ -145,7 +145,7 @@ variant: markdown
 
 <div class="grid-container">
 		
-	<div class="fellow-card">
+<div class="fellow-card">
 		
 		
 <div class="fellowship-text">
@@ -413,8 +413,7 @@ variant: markdown
 
 <h3 class="header-fellows-middle">Fellows</h3>
 <div class="grid-container">
-
-
+	
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -427,35 +426,36 @@ variant: markdown
 	</div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/aaron-maniam">Read Bio</a>
-			</div>
 	</div>
 </div>
-
-<div class="fellow-card">
 		
+</div>
+
+	
+	
+<div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ang Hak Seng</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang  is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good.</div>
-	</div>
-	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/ang-hak-seng">Read Bio</a>
-			</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang  is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good.</div>				
+	</div>		
 	</div>
 </div>
+</div>
 
-	
+
 
 <div class="grid-container">
-
+		
 <div class="fellow-card">
+		
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_toonhui.jpg">
+			<img class="fellowship-image" src="/images/FellowshipImages/fellowships_toonhui.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ong Toon Hui</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
@@ -463,19 +463,12 @@ variant: markdown
 	</div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
-			</div>
 	</div>
+		
+</div>
 </div>
 
 
 
 
-
-
-
-
-
-
-
-
-</div></div>
+</div>
