@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Aaron Maniam.md
       - Augustine O'Donnell.md
       - Jocelyne Bourgon.md
       - Peter Hawkins.md
