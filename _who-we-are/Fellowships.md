@@ -243,7 +243,7 @@ variant: markdown
 
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
 		</div>
@@ -282,7 +282,7 @@ variant: markdown
 	
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
 		</div>
@@ -319,7 +319,7 @@ variant: markdown
 	
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/ps-ying-i.jpg">
 		</div>
@@ -358,7 +358,7 @@ variant: markdown
 
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/profknapp.png">
 		</div>
