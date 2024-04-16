@@ -27,12 +27,12 @@ p {
 <h4 style="text-align:center;">FELLOW</h4>
 
 <div class="fellow-img">
-<img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_toonhui.jpg">
+<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowship_Ong_Toon_Hui.jpg">
 <p class="fellow-tenure">2024 - PRESENT</p>
 </div>
 
 <p>
-Ms Ong Toon Hui is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.
+Ong Toon Hui is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.
 </p>
 <p>
 Prior to this role, Ms Ong served 30 years in the Singapore Public Service. She was the Dean and CEO of Singapore’s Civil Service College and concurrently Deputy Secretary (Leadership) in the Public Service Division.  She served in various capacities throughout her public sector career, in the Ministry of Health, Ministry of Education, Public Service Division and the Ministry of Social and Family Development.  Her public sector experience includes overseeing leadership development and human resource policies in the Public Service, policies on social safety nets, family development, social sector development and protection of vulnerable segments in the society.

@@ -2,6 +2,7 @@
 title: Jocelyne Bourgon
 permalink: /fellowship-members-bios/jocelyne-bourgon/
 description: ""
+variant: markdown
 ---
 <style>
 .fellow-image-pic {
@@ -26,7 +27,7 @@ p {
 <h4 style="text-align:center;">SENIOR VISITING FELLOW</h4>
 
 <div class="fellow-img">
-<img class="fellow-image-pic" src="/images/FellowshipImages/fellowships_jocelyne_bourgon_2x.jpg">
+<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships_Jocelyne_Bourgon.jpg">
 <p class="fellow-tenure">2013 - PRESENT</p>
 </div>
 

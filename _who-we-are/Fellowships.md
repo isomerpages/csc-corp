@@ -129,11 +129,11 @@ variant: markdown
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/fellowships_jocelyne_bourgon_2x.jpg">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Jocelyne_Bourgon.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Jocelyne Bourgon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canda School of Public Service. She advises governments on governance and public sector reforms.</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canada School of Public Service. She advises governments on governance and public sector reforms.</div></div>
 	<div class="fellowship-card-text card-link">
 		<a href="/fellowship-members-bios/jocelyne-bourgon">Read Bio</a>				
 	</div>		
@@ -145,7 +145,7 @@ variant: markdown
 
 <div class="grid-container">
 		
-	<div class="fellow-card">
+<div class="fellow-card">
 		
 		
 <div class="fellowship-text">
@@ -243,7 +243,7 @@ variant: markdown
 
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-lim-soo-hoon@2x.jpg">
 		</div>
@@ -282,7 +282,7 @@ variant: markdown
 	
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
 		</div>
@@ -319,7 +319,7 @@ variant: markdown
 	
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/ps-ying-i.jpg">
 		</div>
@@ -358,7 +358,7 @@ variant: markdown
 
 <div class="fellow-card">
 		
-	<div class="fellowship-text">
+<div class="fellowship-text">
 		<div class="fellowship-image-div">
 			<img class="fellowship-image" src="/images/FellowshipImages/profknapp.png">
 		</div>
@@ -413,49 +413,62 @@ variant: markdown
 
 <h3 class="header-fellows-middle">Fellows</h3>
 <div class="grid-container">
-
-
+	
 <div class="fellow-card">
 		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Aaron_Maniam.jpg">
+	</div>
+<div class="fellowship-card-text"><p class="fellow-name">Aaron Maniam</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Maniam currently researches and teaches at the University of Oxford’s Blavatnik School of Government, on both Master of Public Policy and executive education programmes.</div>
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/aaron-maniam">Read Bio</a>
+	</div>
+</div>
+		
+</div>
+
+	
+	
+<div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
 		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_anghakseng_2x.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ang Hak Seng</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang  is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Ang  is currently the Professor of Social Entrepreneurship with SUSS and serves as the Director for SUSS’s Centre of Excellence for Social Good.</div>				
 	</div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/ang-hak-seng">Read Bio</a>
-			</div>
 	</div>
 </div>
+</div>
+</div>
 
+
+
+<div class="grid-container">
+		
 <div class="fellow-card">
+		
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-		<img class="fellowship-image" src="/images/FellowshipImages/fellowships_toonhui.jpg">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Ong_Toon_Hui.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ong Toon Hui</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Ms Ong Toon Hui is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.</div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Ong is the Vice Dean and Executive Director of the Institute of Governance and Leadership at the Lee Kuan Yew School of Public Policy in the National University of Singapore.</div>
 	</div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
-			</div>
 	</div>
 </div>
-
-
-
-
-
-
-
-
-
-
+</div>
 
 
 
