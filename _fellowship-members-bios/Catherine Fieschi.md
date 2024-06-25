@@ -42,7 +42,7 @@ Currently a Fellow at the Robert Schuman Centre of the European University in Fl
 She is an adviser to the PEW Research Centre in Washington DC, a member of Singapore’s Centre for Strategic Futures, and is on the Board of the National Centre for Social Research in the UK.  Previously, she served as director of the UK’s leading think tank Demos, and as Director of Research at the British Council.  
 </p>
 <p>
-Widely published in academia and beyond, Dr Fieschi has a regular column in the Chatham House magazine, The World Today, is a regular political and social commentator (FT, The Guardian, Politico,  BBC, CNN, etc.). She is the author of several books including, most recently, <em>Populocracy: The Tyranny of Authenticity and the Rise of Populism (2019)</em>. 
+Widely published in academia and beyond, Dr Fieschi has a regular column in the Chatham House magazine, The World Today, is a regular political and social commentator (FT, The Guardian, Politico,  BBC, CNN, etc.). She is the author of several books including, most recently, <em>Populocracy: The Tyranny of Authenticity and the Rise of Populism</em> (2019). 
 </p>
 <p>
 A native speaker of French, Italian and English, Dr Fieschi holds a PhD in Comparative Politics from McGill University in Canada and lives in Paris.
