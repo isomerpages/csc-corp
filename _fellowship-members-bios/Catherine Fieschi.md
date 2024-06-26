@@ -2,6 +2,7 @@
 title: Catherine Fieschi
 permalink: /fellowship-members-bios/catherine-fieschi/
 description: ""
+variant: markdown
 ---
 <style>
 .fellow-image-pic {
@@ -32,11 +33,17 @@ p {
 </div>
 
 <p>
-Catherine Fieschi moved to the policy world after ten years as an academic, first as director of London-based think tank Demos, then as director of research at the British Council. She founded Counterpoint in 2011 to focus on new forms of risk and their impact on policy and politics.
+Catherine Fieschi is a leading European politics expert and global analyst. Her main focus is on the rise of populist and authoritarian politics in advanced democracies. She is a longstanding adviser to progressive political leaders and campaigns across the globe.
 </p>
 <p>
-A recognised expert on the politics of populism, Dr Fieschi is a long-standing adviser to European leaders and campaigns. She is a regular contributor to radio and television debates, and has written numerous pamphlets and articles on extremism, populism, citizen engagement and social innovation; Her most recent book is Populocracy (2019).
+Currently a Fellow at the Robert Schuman Centre of the European University in Florence, Europe’s foremost policy and research institute, she is also a Senior Advisor to Macro Advisory Partners (London). Dr Fieschi is the founder of Counterpoint, a UK-based think tank that provides governments and NGOs around the world with strategic insights on how to manage new forms of social and political risk, dissent and mobilisation. She served as its Executive Director until April 2023. 
 </p>
 <p>
-Dr Fieschi is a board member of the UK's National Center for Social Research and a member of the Forum for Democratic Participation at the EUI's School of Transnational Governance. Her key areas of focus include risk, strategy and policy. She received her PhD in comparative politics from McGill University.
+She is an adviser to the PEW Research Centre in Washington DC, a member of Singapore’s Centre for Strategic Futures, and is on the Board of the National Centre for Social Research in the UK.  Previously, she served as director of the UK’s leading think tank Demos, and as Director of Research at the British Council.  
+</p>
+<p>
+Widely published in academia and beyond, Dr Fieschi has a regular column in the Chatham House magazine, The World Today, is a regular political and social commentator (FT, The Guardian, Politico,  BBC, CNN, etc.). She is the author of several books including, most recently, <em>Populocracy: The Tyranny of Authenticity and the Rise of Populism</em> (2019). 
+</p>
+<p>
+A native speaker of French, Italian and English, Dr Fieschi holds a PhD in Comparative Politics from McGill University in Canada and lives in Paris.
 </p>
