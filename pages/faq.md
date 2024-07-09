@@ -194,7 +194,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 	<li><a href="#individual-bulk">Individual or bulk registration</a></li>	
 	<li><a href="#review">Reviewing your officer's registration</a></li>		
 	<li><a href="#covering-training">How to set "Covering Training Coordinator (TC)"?</a></li>	
-	<li><a href="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</a></li>	
+	<li><a href="#wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</a></li>	
 	<li><a href="#officers-attendance">Attendance of Your Officers</a></li>	
 	<li><a href="#request-in-house">Request for In-House Training</a></li>
 </ul>
