@@ -2,6 +2,7 @@
 title: What We Do
 permalink: /what-we-do/
 description: ""
+variant: markdown
 ---
 <style>
 	
@@ -96,7 +97,7 @@ hr {
 <p>To find out more about us, download our latest <a href="/files/csc%20annual%20report%20fy22.pdf">annual report</a>.</p>
 <hr>
 
-<p class="Orange-header">CSC Products and Offerings</p>
+<p class="Orange-header">CSC Products and Services</p>
 <div class="grid-container">
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-programmeportal"><img src="/images/What%20We%20Do/tile_progportal.jpg"></a></div>
 	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
