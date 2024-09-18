@@ -69,7 +69,7 @@ details {
 <div class="grid-child-OS-2">
 	<ul>
 	<li>Mr Han Neng Hsiu, Dean and CEO</li>
-	<li>Mr Hoe Wee Meng, Assistant CEO (Strategy and Corporate Group)</li>
+	<li>Ms Lee Cher Farn, Assistant CEO (Strategy and Corporate Group)</li>
 	<li>Mr Patrick Lau, Assistant CEO (Enterprise Technology Group)</li>
 	<li>Mr Roger Tan, Assistant CEO (International)</li>
 </ul>
