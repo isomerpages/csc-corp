@@ -129,7 +129,7 @@ variant: markdown
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Jocelyne_Bourgon.jpg">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships__Jocelyne_Bourgon_2.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Jocelyne Bourgon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
