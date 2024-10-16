@@ -27,7 +27,7 @@ p {
 <h4 style="text-align:center;">SENIOR VISITING FELLOW</h4>
 
 <div class="fellow-img">
-<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships_Jocelyne_Bourgon.jpg">
+<img class="fellow-image-pic" src="/images/FellowshipImages/Fellowships__Jocelyne_Bourgon_2.jpg">
 <p class="fellow-tenure">2013 - PRESENT</p>
 </div>
 
