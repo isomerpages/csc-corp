@@ -436,7 +436,7 @@ variant: markdown
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-		<img class="fellowship-image" src="/images//images/FellowshipImages/Fellowship_Ong_Toon_Hui.jpg">
+		<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Ong_Toon_Hui.jpg">
 	</div>
 <div class="fellowship-card-text"><p class="fellow-name">Ong Toon Hui</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2024 - Present</p></div>
@@ -448,8 +448,3 @@ variant: markdown
 </div>
 </div>
 </div>
-
-
-
-
-
