@@ -128,7 +128,7 @@ details {
 
 <details>
 <summary>ETG Programme Office</summary><p class="Accordion-Paragraph">
-Enhance the planning, development, implementation and governance of ETG initiatives and priorities for tech-enabled CSC.</p></details>
+Enhance the planning, development, implementation and governance of ETG initiatives and priorities for a tech-enabled CSC.</p></details>
 		
 <details>
 <summary>Programme Experience and Operations</summary>
