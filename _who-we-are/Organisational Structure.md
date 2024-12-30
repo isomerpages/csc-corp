@@ -108,7 +108,7 @@ details {
 <hr>
 <div class="grid-container">
 <div class="grid-child-OS-1">
-<h4 class="header-left">Enterprise Technology Group</h4>
+<h4 class="header-left">Enterprise Technology Group (ETG)</h4>
 </div>
 <div class="grid-child-OS-2">
 	
@@ -125,6 +125,10 @@ details {
 <details>
 <summary>Data Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the development of data capabilities.</p></details>
 
+
+<details>
+<summary>ETG Programme Office</summary><p class="Accordion-Paragraph">
+Enhance the planning, development, implementation and governance of ETG initiatives and priorities for tech-enabled CSC.</p></details>
 		
 <details>
 <summary>Programme Experience and Operations</summary>
