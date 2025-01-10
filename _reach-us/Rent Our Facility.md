@@ -63,7 +63,8 @@ variant: markdown
 </tbody></table>
 
 <b>View Facilities and Rates</b>
-<p>You can find information on our facilities and rates <a href="/files/Room_Rental_Updated_as_on_Dec_23.pdf">here</a>.</p>
+<p>You can find information on our facilities and rates <a href="https://go.gov.sg/cscfy25roomrental">here</a>. For further details, please email <a href="mailto:cscollege_cd-training-support@cscollege.gov.sg">cscollege_cd-training-support@cscollege.gov.sg</a>.</p>
+
 
 <br>
 
