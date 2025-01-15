@@ -25,19 +25,22 @@ variant: markdown
 
 <p class="theheader">Civil Service College 
 	<br>at North Buona Vista Road</p>
-<p>We have an extensive suite of facilities and services to meet your training or event needs. Over here, you can view our available rooms and rates, and contact us to make a booking.</p>
+<p>We provide comprehensive facilities and services that cater to your training and event requirements. Below, you will find our available rooms, rates, and the online booking form.</p>
 
 <b>Convenient Location</b>
-<p>We're close to both Buona Vista and Holland Village MRT stations. <a href="/getting-to-csc/">View our location details.</a></p>
+<p>We're near both Buona Vista and Holland Village MRT stations. <a href="/getting-to-csc/">View our location details.</a></p>
 
 <b>Fully Equipped Rooms</b>
-<p>Our rooms are equipped with audio-visual and IT capabilities such as projectors and computers.</p>
+<p>Our rooms are equipped with audio-visual and IT capabilities such as projector(s) and a laptop for the trainer.</p>
 
-<b>Multiple Room Types and Configurations</b>
-<p>From a formal auditorium to casual meeting rooms, you can choose a facility and configuration that meets your needs.</p>
+<b>Room Types, Configurations and Rates</b>
+<p>From an auditorium to smaller rooms, you can select a facility and configuration that suits your requirements.
+Detailed information on our facilities and rates is available <a href="https://go.gov.sg/cscfy25roomrental">here</a>.</p>
 
-<b>How to Rent</b>
-<p>To rent a facility, <a href="https://form.gov.sg/5fb4a7501321980011f4de98"> submit a request here</a> and we will be glad to help you.</p>
+<b>Timeline for Booking</b>
+<p>CSC programmes have priority for room bookings. External clients may book rooms subject to availability, with the following booking windows:</p>
+<p>Auditorium: Opens 2 calendar months before the event date</p>
+<p>Other rooms (Arena, Studio &amp; Pod): Opens 2 calendar weeks before the event date. </p>
 
 <p>You can choose from 4-hour or 8-hour slots:</p>
 
@@ -55,15 +58,15 @@ variant: markdown
     <td>2pm to 6pm</td>
     <td></td>
   </tr>
-  <tr>
-    <td>6.30pm to 10.30pm</td>
-    <td></td>
-  </tr>
+
 
 </tbody></table>
 
-<b>View Facilities and Rates</b>
-<p>You can find information on our facilities and rates <a href="https://go.gov.sg/cscfy25roomrental">here</a>. For further details, please email <a href="mailto:cscollege_cd-training-support@cscollege.gov.sg">cscollege_cd-training-support@cscollege.gov.sg</a>.</p>
+
+<b>How to Rent</b> 
+<p>To rent a facility, <a href="https://go.gov.sg/cscfy25roomrental">submit your request</a> here.</p>
+
+<p>For further queries on our facilities, please email to <a href="mailto:cscollege-cd_training_support@cscollege.gov.sg">cscollege-cd_training_support@cscollege.gov.sg</a>.</p>
 
 
 <br>
