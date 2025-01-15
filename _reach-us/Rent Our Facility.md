@@ -65,7 +65,7 @@ Detailed information on our facilities and rates is available <a href="https://g
 
 
 <b>How to Rent</b> 
-<p>To rent a facility, <a href="https://go.gov.sg/cscfy25roomrental">submit your request</a> here.</p>
+<p>To rent a facility, <a href="https://form.gov.sg/5fb4a7501321980011f4de98">submit your request</a> here.</p>
 
 <p>For further queries on our facilities, please email to <a href="mailto:cscollege-cd_training_support@cscollege.gov.sg">cscollege-cd_training_support@cscollege.gov.sg</a>.</p>
 
