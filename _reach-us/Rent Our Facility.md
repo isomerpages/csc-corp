@@ -38,9 +38,10 @@ variant: markdown
 Detailed information on our facilities and rates is available <a href="https://go.gov.sg/cscfy25roomrental">here</a>.</p>
 
 <b>Timeline for Booking</b>
-<p>CSC programmes have priority for room bookings. External clients may book rooms subject to availability, with the following booking windows:</p>
-<p>Auditorium: Opens 2 calendar months before the event date</p>
-<p>Other rooms (Arena, Studio &amp; Pod): Opens 2 calendar weeks before the event date. </p>
+<p>CSC programmes have priority for room bookings. External clients may book rooms subject to availability, with the following booking windows:
+<br>Auditorium: Opens 2 calendar months before the event date.<br>
+Other rooms (Arena, Studio and Pod): Opens 2 calendar weeks before the event date. <br>
+</p>
 
 <p>You can choose from 4-hour or 8-hour slots:</p>
 
