@@ -41,7 +41,7 @@ Detailed information on our facilities and rates is available <a href="https://g
 <p>CSC programmes have priority for room bookings. External clients may book rooms subject to availability, with the following booking windows:
 </p>
 <ul><li>Auditorium: Opens 2 calendar months before the event date.</li>
-<li>Other rooms (Arena, Studio and Pod): Opens 2 calendar weeks before the event date. </li></ul>
+<li>Arena, Studio and Pod: Opens 2 calendar weeks before the event date. </li></ul>
 
 <p>You can choose from 4-hour or 8-hour slots:</p>
 
