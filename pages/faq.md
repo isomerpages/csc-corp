@@ -111,7 +111,7 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 		
 <p class="mini-header" id="classroom-details">Where do I find the classroom details?</p>
 		
-<p>A system-generated Welcome Email, from CSCOLLEGE Donotreply, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
+<p>A system-generated Welcome Email, from CSCOLLEGE Notification, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
 <p>Here is how:</p>		
 		
