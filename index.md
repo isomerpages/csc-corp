@@ -15,7 +15,7 @@ sections:
       background: /images/Landing Page/cover_option2a.jpg
       key_highlights:
         - title: Learn at CSC
-          description: ""
+          description: "Moving to new LEARN: May 2025"
           url: https://go.gov.sg/csc-corporatewebsite-programmeportal
         - title: About CSC
           description: ""
