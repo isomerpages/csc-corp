@@ -2,6 +2,7 @@
 title: Locate Us and FAQ
 permalink: /reach-us/
 description: ""
+variant: markdown
 ---
 <style>
 .grid-container {
@@ -52,7 +53,7 @@ We're always happy to help. Find out where we're located, how you can get here, 
 <div class="grid-container">
 
 <div><a href="/getting-to-csc"><img src="/images/Reach Us/GettingHere_CSC_BV.jpg"></a></div>
-	<div><a href="/getting-to-innxcsc"><img src="/images/Reach Us/GettingHere_CSC_INN.jpg"></a></div>
+
 
 </div>
 
