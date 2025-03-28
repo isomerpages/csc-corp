@@ -11,13 +11,6 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Civil Service College
-  - address:
-      - 9 Jurong Town Hall Road
-      - Level 3
-      - Singapore 609431
-    operating_hours: []
-    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.3287218&lng=103.7419323
-    title: INN x CSC
 contacts:
   - content:
       - phone: ""
