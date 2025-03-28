@@ -20,9 +20,6 @@ variant: markdown
 	}	
 </style>
 
-<p>We currently operate on two premises - Civil Service College at North Buona Vista Road and INN x CSC at Jurong Town Hall.</p>
-
-
 <p class="theheader">Civil Service College 
 	<br>at North Buona Vista Road</p>
 <p>We provide comprehensive facilities and services that cater to your training and event requirements. Below, you will find our available rooms, rates, and the online booking form.</p>
@@ -70,36 +67,3 @@ Detailed information on our facilities and rates is available <a href="https://g
 <p>For further queries on our facilities, please email to <a href="mailto:cscollege-cd_training_support@cscollege.gov.sg">cscollege-cd_training_support@cscollege.gov.sg</a>.</p>
 
 
-<br>
-
-<p class="theheader">INN x CSC <br>at Jurong Town Hall</p>
-
-<b>Highly configurable learning spaces</b>
-
-<p>Our learning spaces were designed based on INN x CSC Design Principles of:</p>
-<ul>
-	<li>Maximising interaction and <b>collaboration</b></li>	
-	<li>Building <b>activity-based</b> spaces that engage the head, heart, hands</li>	
-	<li>Making learning a continuous experience, <b>in and outside of the workplace</b></li>	
-	<li>Creating a <b>safe space to ideate</b>, test, learn, and discover</li>	
-	<li>Integrating <b>learning &amp; doing</b>, to maximise transfer and impact at work.</li>	
-	</ul>
-<b>INN x CSC Learning Spaces</b>
-<div class="grid-container">
-	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20welcomezone.jpg"> </div>
-	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innfinity.jpg"></div>
-	<div> <img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inntegrate.jpg"> </div>
-</div>
-<div class="grid-container">
-	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innsight.jpg"></div>
-	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20inngenious.jpg"></div>
-	<div><img src="/images/Reach%20Us/INN%20Facilities/inn_facilities%20innvent.jpg"></div>
-
-</div>
-
-<b>Hosting Events</b>
-<p>Are you looking for a space to run your events? Does it fit the intent of fostering a culture of innovation, collaboration, experimentation, and continuous learning?</p>
-
-
-<b>Keen to know more?</b>
-<p>Email us at <a href="mailto:innxcsc@cscollege.gov.sg">innxcsc@cscollege.gov.sg</a> to find out more about our learning spaces and how you can apply the design principles at work.</p>
