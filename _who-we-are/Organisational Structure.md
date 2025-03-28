@@ -123,7 +123,7 @@ details {
 <summary>Infocomm Technology</summary><p class="Accordion-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>	
 
 <details>
-<summary>Data Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the development of data capabilities.</p></details>
+<summary>Data and AI Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the development of data capabilities, while enhancing AI governance and strategy implementation across CSC.</p></details>
 
 
 <details>
