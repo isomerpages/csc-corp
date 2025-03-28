@@ -76,19 +76,6 @@ hr {
 <p>Dive deep into key domain areas and emerging disciplines to conduct impactful research that influences policymaking at all levels.</p>
 
 
-<hr>
-
-
-
-<div class="grid-container-by2">
-	<div>
-		<p class="Orange-header">CSC 360° Virtual Tour</p>
-		<p>Explore CSC and enjoy a 360-degree view from inside the building. Learn about CSC's history and how we continue to be the heart of learning excellence and development for the Singapore Public Service.</p></div>
-	<div><a href="https://chio.space/virtual-tour/civil-service-college"><img src="/images/What We Do/csc360tour.jpg"></a></div>
-
-
-</div>
-
 
 <hr>
 
@@ -101,14 +88,12 @@ hr {
 <p class="Orange-header">CSC Products and Services</p>
 <div class="grid-container">
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-programmeportal"><img src="/images/What%20We%20Do/tile_progportal.jpg"></a></div>
-	<div><a href="/innxcsc"><img src="/images/What%20We%20Do/Tile_INNxCSC.jpg"></a></div>
+	<div><a href="https://go.gov.sg/csc-corporatewebsite-learn"><img src="/images/What%20We%20Do/tile_learn.jpg"></a></div>
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-learndc"><img src="/images/What%20We%20Do/tile_learn dc.jpg"></a></div>
 </div>
 <div class="grid-container">
 	<div><a href="https://knowledge.csc.gov.sg"><img src="/images/What%20We%20Do/Tile_Knowledge_v2.jpg"></a></div>
-	<div><a href="https://go.gov.sg/csc-corporatewebsite-learn"><img src="/images/What%20We%20Do/tile_learn.jpg"></a></div>
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-odex"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
-
 
 </div>
 

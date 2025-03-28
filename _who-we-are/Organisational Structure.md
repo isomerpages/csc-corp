@@ -69,7 +69,7 @@ details {
 <div class="grid-child-OS-2">
 	<ul>
 	<li>Mr Han Neng Hsiu, Dean and CEO</li>
-	<li>Ms Lee Cher Farn, Assistant CEO (Strategy and Corporate Group)</li>
+	<li>Ms Lee Cher Farn, Deputy CEO (Strategy and Corporate Group)</li>
 	<li>Mr Patrick Lau, Assistant CEO (Enterprise Technology Group)</li>
 	<li>Mr Roger Tan, Assistant CEO (International)</li>
 </ul>
@@ -123,7 +123,7 @@ details {
 <summary>Infocomm Technology</summary><p class="Accordion-Paragraph">Develop technical infrastructure and harness digital technology to boost business efficiency and deliver good customer experience.</p></details>	
 
 <details>
-<summary>Data Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the development of data capabilities.</p></details>
+<summary>Data and AI Office</summary><p class="Accordion-Paragraph">Strengthen data infrastructure and expedite the development of data capabilities, while enhancing AI governance and strategy implementation across CSC.</p></details>
 
 
 <details>
