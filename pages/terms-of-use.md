@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 <style>
 ol.alphabetical-orderedlist {
@@ -110,25 +111,28 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <ol start="16">
 	<li>The CSC Website (“Website”) and CSC-related and CSC-owned digital platforms are not linked to any training systems (e.g. HRP and Workday). Please seek your Supervisor’s and/or Training Coordinator’s approval before you register for any programmes offered on CSC’s Digital platforms. For Organisations on HRP and Workday, you are strongly encouraged to use HRP and Workday instead. For attendance at complimentary programmes, please note that you or your Training Coordinator will have to manually update your training records in HRP and Workday. </li>
-
+<br>
 <li>Online application of programmes on any of CSC’s Digital platforms are subject to the following conditions:</li>
 	<ol class="alphabetical-orderedlist">
 		<li style="font-weight:bold;">Paid Synchronous (instructor-led programmes taking place in real-time) Programmes </li>
 		 <ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the programme 3 weeks before the class commences in the form of the Programme Placement Letter.</li>
+			 <br>
         <li>Withdrawal and/or Replacement<br>
             For programmes with Development Grant, departments will be charged the full programme fees for any withdrawal/absentees. Development Grant is only given to learners who have fully attended the programme. No fees will be charged should CSC cancel a programme due to unforeseen circumstances.<br>
             <br>
-            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal (https://register.csc.gov.sg). The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 3 working days.<br>
+            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal (https://register.csc.gov.sg). The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 5 working days.<br>
             <br>
             If the withdrawal/replacement/transfer request is submitted 3 weeks before class commencement date, or after the Programme Placement Letter has been issued (whichever is later), a penalty of 25% of programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
             <br>
             These terms may be subject to change from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
+			 <br>
         <li>Replacement and Transfer<br>
-            Replacement requests should be submitted at least 5 working days before class starts. Transfer requests should be submitted before the class commencement date, and at least 5 working days before the new class commencement date.<br>
+            Replacement requests should be submitted at least 5 working days before class starts. Transfer requests should be submitted at least 5 working days before the class commencement date, and at least 5 working days before the new class commencement date.<br>
             <br>
             No penalty charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.</li>
+			 <br>
 				<li>Absenteeism<br>
             The full programme fee will be charged for the absentee, regardless of provision of Development Grant. The Development Grant, if any, is only given to those who fulfil the attendance of the programme.</li>
 		</ol>
@@ -136,48 +140,53 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
             Only withdrawals through emails will be acknowledged.<br>
             <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
+            If you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
             <br>
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
 		<li style="font-weight: bold;">Paid E-learning (Asynchronous) Programmes</li>
 		<ol class="lower-roman-orderedlist">
-        <li>Confirmation and Notification of Emplacement<br>
-            Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
-        <li>Withdrawal<br>
-            Only withdrawals through emails will be acknowledged.<br>
-            <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
-            <br>
-            Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
+        <li>Confirmation and Notification of Enrolment<br>
+            Learners can expect to receive a welcome email (which includes login details and link, with link to any programme materials) within 5 days of training coordinators (TC) approving the registration. Only registered learners will receive the welcome email. <br>
+					<br>
+			An invoice will be issued to the agency after CSC issues the Enrolment Confirmation email to the learner.</li>
+			<br>
+        <li>Withdrawal and Replacement<br>
+            Withdrawal and replacement for e-Learning programmes are only allowed before the training coordinator (TC) has approved the registration in CSC programme portal. Once the TC has approved the registration in the programme portal, any request to withdraw and/or replace learners will not be accepted.</li>
+			<br>
+        <li>Access Period<br>
+            Learner will have up to 90 days (or 120 days for ELFUS13) to complete each e-learning programme. Thereafter, the access will expire and learner will have to re-register for the e-learning programme to gain access for another 90 days (or 120 days for ELFUS13).</li>
+        <br>
     </ol>
 		<li style="font-weight: bold;">Paid Events</li>
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
-            Participants will be notified of their emplacement in the complimentary programme 1 week before the class commences in the form of a Confirmation Note.</li>
+            Participants will be notified of their emplacement in the event 1 week before the event commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
-            Only withdrawals through emails will be acknowledged.<br>
-            <br>
-            In the event that you are unable to attend, you are to inform CSC before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
-            <br>
-            Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
+            Only withdrawals through emails will be acknowledged. Confirmed participants who withdraw after registration has been confirmed will be charged the full fee of the event.</li>
+						<br>
+        <li>Replacement<br>
+            No penalty charges will be imposed if a replacement is provided and accepted for a participant who wishes to withdraw his/her registration for an event.</li>
     </ol>
 		<li style="font-weight: bold;">Complimentary Events</li>
 		<ol class="lower-roman-orderedlist">
         <li>Confirmation and Notification of Emplacement<br>
             Participants will be notified of their emplacement in the complimentary event 1 week before the event commences in the form of a Confirmation Note.</li>
+			<br>
         <li>Withdrawal<br>
             Only withdrawals through emails will be acknowledged.<br>
             <br>
-            In the event that you are unable to attend, you are to inform the Civil Service College before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
+            If you are unable to attend, you are to inform the Civil Service College before the date specified by CSC. If notice of your absence is not received by the stipulated date, a no-show charge will be imposed.<br>
             <br>
             Where applicable, a follow-up request for Billing Officer's details will be sent to you after the event.</li>
     </ol>
 </ol>
-	<li>These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
+These terms may be changed from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.
 </ol>
 
 
