@@ -52,20 +52,28 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 </ol>
 
 <li>Without prejudice to the generality of Clause 2, you agree not to reproduce, display or otherwise provide access to LEARN, LEARN Digital Classroom (LEARN-DC), CSC Content, or Third Party User Content on another website or server, for example through framing, mirroring, linking, spidering, scraping or any other technological means (including any technology available in the future), without the prior written permission of CSC.</li>	
+	<br>
 	
 <li>All CSC Content are copyrighted work of CSC or its Content or software providers, and CSC reserves and retains all rights in the CSC Content. Use of some CSC Content may be governed by the terms of an accompanying end user license agreement.</li>	
+	<br>
 	
 <li>CSC grants you non-exclusive, non-transferable, limited permission to access and display programme related content, on your Computer and for your non-commercial use.</li>	
+	<br>
 	
 <li>You may download any Content for which a downloading option is offered. Unless otherwise specifically stated, you shall not copy, reproduce, transmit, publish, distribute, display or make available to the public, sell, or otherwise exploit any of the downloaded Content for any purposes without the prior written consent of CSC or the respective licensors of the Content. For the avoidance of doubt, you may not alter or modify any of the downloaded Content.</li>
+	<br>
 	
 <li>Notwithstanding the foregoing, any software and other Content that are made available for downloading, access, or other use from LEARN and LEARN -DC with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices.</li>
+	<br>
 	
 <li>You agree not to circumvent, disable or otherwise interfere with the security-related features or features that prevent or restrict use or copying of any Content or enforce limitations on use of the Website, LEARN and LEARN-DC or the Content therein.</li>
+	<br>
 	
 <li>In the event of your failure to comply with the Agreement, CSC reserves the right to terminate any rights granted to you, without prior notice to you, and you must immediately destroy all copies of downloaded Content in your possession or control.</li>
+	<br>
 	
 <li>Modification of any of the Content or use of the Contents for any other purpose will be a violation of CSC’s and/or third party’s copyright and other intellectual property rights. Graphics and images on the Website, LEARN and LEARN-DC are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of CSC.</li>
+	<br>
 	
 <li>Any unauthorised use of LEARN, LEARN-DC CSC Content, and/or Third Party User Content may give rise to a claim for damages and/or be a criminal offence.</li>
 	
@@ -122,7 +130,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
         <li>Withdrawal and/or Replacement<br>
             For programmes with Development Grant, departments will be charged the full programme fees for any withdrawal/absentees. Development Grant is only given to learners who have fully attended the programme. No fees will be charged should CSC cancel a programme due to unforeseen circumstances.<br>
             <br>
-            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal (https://register.csc.gov.sg). The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 5 working days.<br>
+            All requests for withdrawal and/or replacement should be submitted by the Training Coordinator (TC) via a Withdrawal/Replacement/Transfer Form on the CSC Programme Portal <a href="https://register.csc.gov.sg">(https://register.csc.gov.sg)</a>. The TC may indicate the reasons for withdrawal/or replacement/or transfer in the form. The request will be assessed by CSC and an email to inform of the outcome of the request will be sent within 5 working days.<br>
             <br>
             If the withdrawal/replacement/transfer request is submitted 3 weeks before class commencement date, or after the Programme Placement Letter has been issued (whichever is later), a penalty of 25% of programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
             <br>
@@ -194,6 +202,7 @@ These terms may be changed from time to time. Changes will be posted on this pag
 <h4>Online User Behaviour (Acceptable Use)</h4>
 <ol start="19">
 	<li>All CSC-related Digital Platforms (LEARN, LEARN-DC and CSC Programme Portal) are intended for use by Singapore Public Service Officers and/or Singapore Public Service Agencies (“Agency”). You shall only access and/or use these platforms by an authorised account and your Account can only be used by you and must not be shared with any other third party (within the Singapore Public Service or otherwise). Your access and/or usage shall be in accordance with your Agency’s instructions.</li>
+	<br>
 	<li>You further adhere to refrain from posting and/or engaging in the following on our digital platforms:</li>
 	<ol class="alphabetical-orderedlist">
         <li>Action that defames, harasses or threatens others;</li>
@@ -210,6 +219,7 @@ These terms may be changed from time to time. Changes will be posted on this pag
 <h4>Terms of Use</h4>
 <ol start="22">
 	<li>By accessing and using this Website, you shall be deemed to have accepted to be legally bound by the Terms of Use.</li>
+	<br>
 	<li>You further agree to allow CSC use of any and all photographs and/or videos for publicity that may have been taken during your programme/event. </li>
 	
 </ol>
