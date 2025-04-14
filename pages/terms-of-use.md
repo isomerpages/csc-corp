@@ -137,7 +137,9 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
             These terms may be subject to change from time to time. Changes will be posted on this page or in similar pages and your use of this Website after such changes have been posted will constitute your agreement.</li>
 			 <br>
         <li>Replacement and Transfer<br>
-            Replacement requests should be submitted at least 5 working days before class starts. Transfer requests should be submitted at least 5 working days before the class commencement date, and at least 5 working days before the new class commencement date.<br>
+            Replacement requests should be submitted at least 5 working days before class starts. <br>
+				<br>
+					Transfer requests should be submitted at least 5 working days before the class commencement date, and at least 5 working days before the new class commencement date.<br>
             <br>
             No penalty charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.</li>
 			 <br>
