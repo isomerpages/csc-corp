@@ -135,7 +135,7 @@ variant: markdown
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2025 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Dr Worley is the Research Professor Emeritus of Management at Pepperdine University’s Graziadio School of Business, a clinical professor of strategy and organisation at the Rennes School of Business (France), and a research affiliate at USC’s Marshall Center for Effective Organisations.</div></div>
 	<div class="fellowship-card-text card-link">
-		<a href="/fellowship-members-bios/jocelyne-bourgon">Read Bio</a>				
+		<a href="/fellowship-members-bios/christopher-worley">Read Bio</a>				
 	</div>		
 	</div>
 </div>
