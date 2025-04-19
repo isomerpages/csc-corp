@@ -2,7 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Goh Soon Poh.md
       - Augustine O'Donnell.md
       - Christopher Worley.md
       - Jocelyne Bourgon.md
@@ -20,4 +19,5 @@ collections:
       - Richard Brown.md
       - Aaron Maniam.md
       - Ang Hak Seng.md
+      - Goh Soon Poh.md
       - Ong Toon Hui.md
