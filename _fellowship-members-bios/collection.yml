@@ -2,8 +2,8 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Christopher Worley.md
       - Augustine O'Donnell.md
+      - Christopher Worley.md
       - Jocelyne Bourgon.md
       - Peter Hawkins.md
       - Chee Wee Kiong.md
