@@ -124,16 +124,16 @@ variant: markdown
 		
 </div>
 
-	
+
 	
 <div class="fellow-card">
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships__Jocelyne_Bourgon_2.jpg">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships__Worley_Christopher.jpg">
 	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Jocelyne Bourgon</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canada School of Public Service. She advises governments on governance and public sector reforms.</div></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Christopher Worley</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Dr Worley is the Research Professor Emeritus of Management at Pepperdine University’s Graziadio School of Business, a clinical professor of strategy and organisation at the Rennes School of Business (France), and a research affiliate at USC’s Marshall Center for Effective Organisations.</div></div>
 	<div class="fellowship-card-text card-link">
 		<a href="/fellowship-members-bios/jocelyne-bourgon">Read Bio</a>				
 	</div>		
@@ -145,6 +145,22 @@ variant: markdown
 
 <div class="grid-container">
 		
+<div class="fellow-card">
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships__Jocelyne_Bourgon_2.jpg">
+	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Jocelyne Bourgon</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2013 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Madame Bourgon is President Emeritus of the Canada School of Public Service. She advises governments on governance and public sector reforms.</div></div>
+	<div class="fellowship-card-text card-link">
+		<a href="/fellowship-members-bios/jocelyne-bourgon">Read Bio</a>
+	</div>
+		
+</div>
+</div>
+
+
 <div class="fellow-card">
 		
 		
@@ -161,23 +177,8 @@ variant: markdown
 		
 </div>
 </div>
-
-
 	
-<div class="fellow-card">
-		
-<div class="fellowship-text">
-	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-shergold@2x.jpg">
-	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Peter Shergold</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR VISITING FELLOW, 2012- Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Professor Shergold was Australia's most senior public administrator from 2003 to 2008. His academic and public service career spans over three decades.</div></div>
-		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/peter-shergold">Read Bio</a>
-	</div>
-	</div>
-</div>
+
 </div>
 
 	
@@ -392,21 +393,6 @@ variant: markdown
 	</div>
 
 	
-
-<div class="fellow-card">
-		
-<div class="fellowship-text">
-	<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/fellowships-rory-gallagher@2x.jpg">
-			</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Rory Gallagher</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2014 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Dr Gallagher, until recently, was managing advisor and director of international programmes for the UK's Behavioural Insights Team (commonly known as the 'Nudge Unit').</div></div>
-	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/rory-gallagher">Read Bio</a>
-			</div>	
-		</div>
-	</div>
 </div>
 
 
@@ -431,7 +417,25 @@ variant: markdown
 		
 </div>
 
+
 	
+<div class="fellow-card">
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/Fellowships__Goh_Soon_Poh.jpg">
+	</div>
+<div class="fellowship-card-text"><p class="fellow-name">Goh Soon Poh</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Ms Goh served 40 years in the Singapore Public Service before she retired in February 2025 upon completion of a 6-year term as the Auditor-General of Singapore.</div>				
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
+	</div>
+</div>
+</div>
+</div>
+
+<div class="grid-container">
 	
 <div class="fellow-card">
 <div class="fellowship-text">
