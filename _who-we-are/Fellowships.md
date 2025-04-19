@@ -429,7 +429,7 @@ variant: markdown
 						<div class="fellowship-card-text"><div class="fellow-summary">Ms Goh served 40 years in the Singapore Public Service before she retired in February 2025 upon completion of a 6-year term as the Auditor-General of Singapore.</div>				
 	</div>
 	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/ong-toon-hui">Read Bio</a>
+			<a href="/fellowship-members-bios/goh-soon-poh">Read Bio</a>
 	</div>
 </div>
 </div>
