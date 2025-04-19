@@ -2,6 +2,7 @@
 title: Augustine O'Donnell
 permalink: /fellowship-members-bios/augustine-o-donnell/
 description: ""
+variant: markdown
 ---
 <style>
 .fellow-image-pic {
