@@ -14,23 +14,17 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: cscollege@cscollege.gov.sg
-      - other: ""
+      - email: ""
+      - other: Please use this <a href="https://go.gov.sg/csc-feedback">Online Form</a>
+          to get in touch with us.
     title: General and LEARN Enquiries
   - content:
       - phone: ""
       - email: ""
-      - other: If you need to reach us urgently, please submit the details using this <a
-          href="https://go.gov.sg/csc-feedback">Online Form</a>.
-    title: Urgent Enquiries
-  - content:
-      - phone: ""
-      - email: ""
-      - other: For service-related feedback, please contact the Quality Service Manager
-          (QSM) line at <a href="tel:1800 874 0604">1800 874 0604</a>. Please
-          note that this line is not for programme matters or urgent enquiries.
-          For urgent enquiries, use our online form; otherwise, please send us
-          an email.
-    title: Service-related Matters
+      - other: For feedback related to our customer service, please contact the Quality
+          Service Manager (QSM) line at <a href="tel:1800 874 0604">1800 874
+          0604</a>. Please note that this line is not for programme matters or
+          urgent enquiries. For urgent enquiries, please use our online form.
+    title: Customer Service Feedback
 feedback: ""
 ---
