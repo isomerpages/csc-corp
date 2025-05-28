@@ -84,18 +84,13 @@ hr {
 <p>To find out more about us, download our latest <a href="/files/CSC_Annual_Report_FY2023.pdf">annual report</a>.</p>
 <hr>
 
-
 <p class="Orange-header">CSC Products and Services</p>
 <div class="grid-container">
-	<div><a href="https://go.gov.sg/csc-corporatewebsite-programmeportal"><img src="/images/What%20We%20Do/tile_progportal.jpg"></a></div>
-	<div><a href="https://go.gov.sg/csc-corporatewebsite-learn"><img src="/images/What%20We%20Do/tile_learn.jpg"></a></div>
-	<div><a href="https://go.gov.sg/csc-corporatewebsite-learndc"><img src="/images/What%20We%20Do/tile_learn dc.jpg"></a></div>
-</div>
-<div class="grid-container">
+	<div><a href="https://go.gov.sg/csc-corporatewebsite-newlearn"><img src="/images/What%20We%20Do/tile_newlearn.jpg"></a></div>
 	<div><a href="https://knowledge.csc.gov.sg"><img src="/images/What%20We%20Do/Tile_Knowledge_v2.jpg"></a></div>
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-odex"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
-
 </div>
+<br>
 
 <hr>
 
