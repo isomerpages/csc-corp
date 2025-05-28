@@ -90,7 +90,6 @@ hr {
 	<div><a href="https://knowledge.csc.gov.sg"><img src="/images/What%20We%20Do/Tile_Knowledge_v2.jpg"></a></div>
 	<div><a href="https://go.gov.sg/csc-corporatewebsite-odex"><img src="/images/What%20We%20Do/Tile_ODEX.jpg"></a></div>
 </div>
-<br>
 
 <hr>
 
