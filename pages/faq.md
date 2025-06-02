@@ -70,7 +70,7 @@ font-size:16px;
 	<li><a href="#classroom-details">Where do I find the classroom details?</a></li>	
 	<li><a href="#mark-attendance">How do I mark my attendance?</a></li>	
 	<li><a href="#missed-check-in">What if I missed my check-in?</a></li>		
-	<li><a href="#withdraw-application">Withdrawing your application before Training Coordinator (TC) approval</a></li>	
+	<li><a href="#withdraw-application">Cancelling my application before Training Coordinator (TC) approval</a></li>	
 	<li><a href="#withdraw-registration">Withdrawing your registration after programme placement</a></li>
 </ul>
 </div>		
@@ -81,7 +81,7 @@ font-size:16px;
 <h4>Register for a Programme:</h4>
 <p class="mini-header">Searching for a programme</p> 
 
-<p>You can search for your preferred programmes on <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. 
+<p>Discover programmes that interest you on <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. 
 You will be able to filter your search by Programme Type, Domain, Target Audience and Provider. For a more targeted search using competencies, please log in as a public officer. Click on the menu icon in the top left. Select <b>“Explore Learning Products”</b> and choose your domain. Then browse and select the competencies you're interested in to see matching learning products. </p>
 
 		
@@ -145,11 +145,11 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 
 <h4>Withdrawing Your Registration</h4>
 		
-<p class="mini-header" id="withdraw-application">Cancelling your application before Training Coordinator (TC) approval</p>
+<p class="mini-header" id="withdraw-application">Cancelling my application before Training Coordinator (TC) approval</p>
 		
 <p>To cancel your pending application in the CSC LEARN platform, start by clicking on <b>“My Applications”</b>. Find and click on the application you want to cancel to view its details. Look for the text <b>“You may cancel this application here”</b> and click this link to cancel. Once completed, your application status will change to <b>“Cancelled”</b>. </p>
 		
-<p class="mini-header" id="withdraw-registration">Withdrawing your registration after programme placement</p>			
+<p class="mini-header" id="withdraw-registration">Withdrawing my registration after programme placement</p>			
 
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
