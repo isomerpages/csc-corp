@@ -81,26 +81,20 @@ font-size:16px;
 <h4>Register for a Programme:</h4>
 <p class="mini-header">Searching for a programme</p> 
 
-<p>You can search for your preferred programmes on <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme portal</a>. 
-You will be able to filter your search by Domain, Programme Type, Audience, Duration, Period and Cost. To filter by Domain, please log in as a public officer, and click on the <b>“Discover Our Programmes”</b> button at the top of the page. A small pop-out window will appear, and you can select your preferred domains by clicking on the <b>“Select a Domain”</b> field. A list of programmes from the selected domain will be displayed, with the rest of the filters located on the left side of the page.</p>
+<p>You can search for your preferred programmes on <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. 
+You will be able to filter your search by Programme Type, Domain, Target Audience and Provider. For a more targeted search using competencies, please log in as a public officer. Click on the menu icon in the top left. Select <b>“Explore Learning Products”</b> and choose your domain. Then browse and select the competencies you're interested in to see matching learning products. </p>
 
-<p class="mini-header">No suitable dates for your desired programme?</p>
-
-<p>Get notified when new dates are published – click the <b>‘Add to Watchlist’</b> button to receive email notifications when new classes are opened.</p>
 		
 <p class="mini-header" id="register">How to register for a programme?</p>
 		
-<p>You can register via our <a target="_blank" href="https://register.csc.gov.sg/">CSC Programme Portal</a>. Navigate to your desired programme, and click on the <b>"Apply Now”</b> button. Your Training Coordinator has up to 3 working days to approve your registration request. Once it’s been approved, you’ll receive an email notification. A simple guide on how you can register for a programme on the programme portal is linked <a target="_blank" href="https://go.gov.sg/reg-pp">here</a>.</p>
+<p>You can register via <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Navigate to your desired programme, and click <b>"Apply Now”</b> to select the available class dates, or choose <b>"View More Dates”</b> to see other options. Select your Training Coordinator from the list. Review your application details before clicking <b>"Submit”</b> to complete your registration. Your Training Coordinator has up to 3 working days to approve your registration request. You'll receive both a LEARN notification and an email once your application is approve. 
 
-<p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
-	
-	
-<p class="mini-header">When to register?</p>
-<p>Register for a programme at least 1 month before the start date. Most programmes accept registrations on a first-come, first-serve basis, so it is better to register early. Registration normally closes 7 working days before each programme’s start date, unless otherwise stated.</p>
+</p><p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
+
 		
-<p class="mini-header">Confirming your registration</p>
+<p class="mini-header">How do I check my application status?</p>
 		
-<p>We will inform you of your registration status 2 to 3 weeks before the programme starts. Once your registration is confirmed, we will send you a Programme Placement Letter (PPL) via a system-generated email from CSCOLLEGE Donotreply. While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
+<p>To check your application status, click on the menu icon in the CSC LEARN platform and select <b>"My Applications”</b>. This will show you the status of all your submitted applications. Once your registration is successful, you'll receive a Programme Placement Letter (PPL) via email from CSCOLLEGE Notification 2-3 weeks before the programme starts. While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
 <p class="mini-header" id="disabilities">Learning with disabilities</p>
 	
@@ -151,9 +145,9 @@ You will be able to filter your search by Domain, Programme Type, Audience, Dura
 
 <h4>Withdrawing Your Registration</h4>
 		
-<p class="mini-header" id="withdraw-application">Withdrawing your application before Training Coordinator (TC) approval</p>
+<p class="mini-header" id="withdraw-application">Cancelling your application before Training Coordinator (TC) approval</p>
 		
-<p>You may withdraw any application that your TC has not yet approved on the portal directly under the <b>“Check Application Status”</b> page by clicking on the <b>“Withdraw”</b> button on the relevant application under the <b>“Pending Applications”</b> section. A simple guide on the steps to cancel a pending application on the programme portal is linked <a target="_blank" href="https://go.gov.sg/cancel-appln-pp">here</a></p>
+<p>To cancel your pending application in the CSC LEARN platform, start by clicking on <b>“My Applications”</b>. Find and click on the application you want to cancel to view its details. Look for the text <b>“You may cancel this application here”</b> and click this link to cancel. Once completed, your application status will change to <b>“Cancelled”</b>. </p>
 		
 <p class="mini-header" id="withdraw-registration">Withdrawing your registration after programme placement</p>			
 
