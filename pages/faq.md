@@ -195,43 +195,38 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 </div>			
 	
 			
-<h4>Managing Your Training Coordinator Account</h4>
-
-<p class="mini-header">Creating / removing a Training Coordinator account</p>
-	
-<p>Please submit the Training Coordinator’s information in <a target="_blank" href="https://go.gov.sg/add-remove-tc-bc">this form</a> and the account will be created/removed within 3 to 5 working days. The form can also be found on the TC’s Dashboard on the programme portal.</p>	
-			
-<p class="mini-header">Update your agency's contact list</p>	
-<p>Email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> with the updates.</p>
-
-
 <h4>Registering Your Officers for Programmes</h4>
 
-<p id="individual-bulk" class="mini-header">Individual or bulk registration</p>
+<p id="individual-bulk" class="mini-header">Individual or bulk Upload</p>
 	
-<p>You may register your officers individually or by "bulk” by using the <b>“Bulk Registration”</b> function . We will contact you if we are unable to accept all or some of your registrations. When submitting your registration, please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails. A simple guide on how you may submit registrations for your officers is linked <a target="_blank" href="https://go.gov.sg/bulkreg-tc">here</a>.</p>
+<p>Click the top left menu icon in CSC LEARN platform, select the building icon, then choose <b>“Applications”</b> and click <b>“New Applications”</b> in the top right corner. </p>
+
+<p>You can submit applications in two ways: </p>
+	
+<p>For individual application, click <b>“Add Application”</b> on the left side of the page. Select your preferred class session and click <b>“Next”</b>. Choose your learner(s), click <b>“Next”</b>, then select your billing contact and click <b>“Confirm”</b>. Review all information on the registration summary page and click <b>“Confirm”</b> to complete your submission.</p>
+	
+<p> For Bulk Upload, click <b>“Bulk Upload”</b> on the right side of the page. Download and fill in the template, then upload your completed file. Please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails.</p>
 	
 	
 <p class="mini-header">Registration closing dates</p>
 
-<p>Registration normally closes 7 working days before the start date, unless otherwise stated. If your officer chooses to register just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
+<p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to apply just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 	
 	
-<p class="mini-header" id="review">Reviewing your officer’s registration</p>
+<p class="mini-header" id="review">Reviewing your officer’s application</p>
 
-<p>When your officer registers for a programme, you have up to 3 working days to review and approve the registration request. Once you’ve approved it, your officer will be notified via email. However, if you register on an officer’s behalf, there is no review or approval required. A simple guide on the steps to approve your officer’s application on the programme portal is linked <a href="https://go.gov.sg/appr-appl-tc" target="_blank">here.</a></p>
+<p>When your officer register for a programme, you have up to 3 working days to review and approve the application. Once you’ve approved it, your officer will be notified via the CSC LEARN platform and email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
 		
 
 <p class="mini-header">Unable to review registrations in time</p>
 			
-<p>If you don’t respond to a registration request by the end of the second day, it will be routed to your Covering TC (if any). Both the officer and you will be cc-ed in the email to your Covering TC. Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. The officer can re-submit a new application if the application has lapsed.</p>
+<p>Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. Your officer will need to submit a new application. Please review your officer's registration promptly to ensure timely enrolment in programmes. Check your <b>“My Tasks”</b> dashboard regularly and review pending applications as quickly as possible.</p>
 	
 	
 <p class="mini-header" id="covering-training">How to set “Covering Training Coordinator (TC)”</p>
 	
-<p>A Covering TC is another TC whom a pending application would be routed to for approval, if the selected TC does not approve the application by the end of the second day. You can set your Covering TC on the<b>“Profile”</b>page by clicking on the “Covering TC” button.</p>
+<p>On the CSC LEARN platform, click the profile icon in the top right and select <b>“My Profile”</b>. Then click the <b>“Work”</b> tab on the left sidebar. You can assign up to three covering TCs for your organisation.</p>
 	
-<p> Only one Covering TC can be assigned to each TC. A simple guide on the steps to set a Covering TC on the programme portal is linked <a target="_blank" href="https://go.gov.sg/set-coveringtc">here</a>.</p>
 	
 <p class="mini-header">Registration status</p>
 					
@@ -246,14 +241,11 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
 
-
-<p class="mini-header">Contacting us</p>
-	<p>Find out more on our <a target="_blank" href="/contact-us">Contact Us</a> page</p>
 	
 	
 <h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
 	
-<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form in the TC module on the CSC Programme Portal. CSC will no longer handle email requests from learners, and will re-direct them back to their TCs.</p>
+<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
 	
 <p>TCs will be prompted to provide the following information:</p>
@@ -303,7 +295,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p class="mini-header">What happens if my officer is absent for the class?</p>	
 	
-<p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the ‘Appeal for Waiver of No-show Penalty Form’ via your TC dashboard in CSC’s Programme Portal no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
+<p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the ‘Appeal for Waiver of No-show Penalty Form’ via the CSC LEARN platform no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
 
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. More information on the No-show process is linked&nbsp;
 <a target="_blank" href="https://go.gov.sg/no-show-appeal">here</a>.</p>
@@ -311,7 +303,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p class="mini-header">Where to get assistance</p>
 	
-<p>Officers can email us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a> if they require assistance before their programme. If they require assistance on the day of their programme, they can approach the Trainers or Programme Administrators.</p>
+<p>For assistance before the programme, officers may submit their enquiries through our&nbsp;<a href="https://go.gov.sg/csc-feedback">Online Form</a>. During the programme, they can seek help directly from our Trainers or Programme Experience Partners.</p>
 	
 	
 <p class="mini-header">More questions?</p>
@@ -375,7 +367,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 
 <p>We’ll respond within 3 – 5 working days. </p>
 	
-	<p>Click <a target="blank" href="https://go.gov.sg/csc-aemanager">here</a> to find out who your Agency Engagement Manager is.</p> 
+<p>Click <a target="blank" href="https://go.gov.sg/csc-aemanager">here</a> to find out who your Agency Engagement Manager is.</p> 
 	
 	
 		
