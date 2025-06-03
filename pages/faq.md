@@ -222,9 +222,9 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <p>Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. Your officer will need to submit a new application. Please review your officer's registration promptly to ensure timely enrolment in programmes. Check your <b>“My Tasks”</b> dashboard on the CSC LEARN platform regularly and review pending applications as quickly as possible.</p>
 	
 	
-<p class="mini-header" id="covering-training">How to set “Covering Training Coordinator (TC)”?</p>
+<p class="mini-header" id="covering-training">How to set “Covering Training Coordinator”?</p>
 	
-<p>On the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, click the profile icon in the top right and select <b>“My Profile”</b>. Then click the <b>“Work”</b> tab on the left sidebar. You can assign up to three covering TCs for your organisation.</p>
+<p>On the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, click the profile icon in the top right and select <b>“My Profile”</b>. Then click the <b>“Work”</b> tab on the left sidebar. You can assign up to three covering training coordinators for your organisation.</p>
 	
 	
 <p class="mini-header">How do I check registration status?</p>
@@ -245,7 +245,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 </p><h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
 	
-<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
+<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s training coordinator (TC) via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
 	
 <p>TCs will be prompted to provide the following information:</p>
