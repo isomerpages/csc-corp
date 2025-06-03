@@ -154,7 +154,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
 <ol id="list-adjustment">
-<li>Notify your training coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal / replacement / transfer requests have to be submitted by your TC.</li>	
+<li>Notify your Training Coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal / replacement / transfer requests have to be submitted by your TC.</li>	
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
 <li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 <li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
@@ -245,7 +245,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 </p><h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
 	
-<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s training coordinator (TC) via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
+<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s Training Coordinator (TC) via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
 	
 <p>TCs will be prompted to provide the following information:</p>
