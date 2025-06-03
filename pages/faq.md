@@ -295,7 +295,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p class="mini-header">What happens if my officer is absent for the class?</p>	
 	
-<p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the <a target="_blank" href="https://go.gov.sg/no-show-appeal">‘Appeal for Waiver of No-show Penalty Form’</a> no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
+<p>Officers who do not meet the minimum attendance or are absent without valid reasons will be charged the full programme fee (before Training Subsidy). You will be informed to check with your officer on the reason for the absence. If your officer has a valid reason, please submit the <a target="_blank" href="https://go.gov.sg/no-show-appeal">Appeal for Waiver of No-show Penalty Form</a> no later than 5 working days from class end date. If we do not hear from you by then, the full programme fee will be charged to your agency.</p>	
 
 <p>CSC’s decision on the waiver is final, and no further appeals will be considered. </p>
 	
