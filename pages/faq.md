@@ -79,7 +79,7 @@ font-size:16px;
 	
 	
 <h4>Register for a Programme:</h4>
-<p class="mini-header">Searching for a programme</p> 
+<p class="mini-header">How do I search for a programme?</p> 
 
 <p>Discover programmes that interest you on <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. 
 You will be able to filter your search by Programme Type, Domain, Target Audience and Provider. For a more targeted search using competencies, please log in as a public officer. Click on the menu icon in the top left. Select <b>“Explore Learning Products”</b> and choose your domain. Then browse and select the competencies you're interested in to see matching learning products. </p>
@@ -94,7 +94,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 		
 <p class="mini-header">How do I check my application status?</p>
 		
-<p>To check your application status, click on the menu icon in the CSC LEARN platform and select <b>"My Applications”</b>. This will show you the status of all your submitted applications. Once your registration is successful, you'll receive a Programme Placement Letter (PPL) via email from CSCOLLEGE Notification 2-3 weeks before the programme starts. While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
+<p>To check your application status, log in to the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, click on the menu icon and select <b>"My Applications”</b>. This will show you the status of all your submitted applications. Once your registration is successful, you'll receive a Programme Placement Letter (PPL) via email 2 to 3 weeks before the programme starts. While we will always do our best to confirm your registration as early as possible, classes may sometimes be postponed or cancelled due to unforeseen circumstances.</p>
 		
 <p class="mini-header" id="disabilities">Learning with disabilities</p>
 	
@@ -105,7 +105,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 		
 <p class="mini-header" id="classroom-details">Where do I find the classroom details?</p>
 		
-<p>A system-generated Welcome Email, from CSCOLLEGE Notification, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
+<p>A Welcome Email, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
 <p>Here is how:</p>		
 		
@@ -145,11 +145,11 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 
 <h4>Withdrawing Your Registration</h4>
 		
-<p class="mini-header" id="withdraw-application">Cancelling my application before Training Coordinator (TC) approval</p>
+<p class="mini-header" id="withdraw-application">Can I cancel my application while it's pending Training Coordinator's approval?</p>
 		
-<p>To cancel your pending application in the CSC LEARN platform, start by clicking on <b>“My Applications”</b>. Find and click on the application you want to cancel to view its details. Look for the text <b>“You may cancel this application here”</b> and click this link to cancel. Once completed, your application status will change to <b>“Cancelled”</b>. </p>
+<p>To cancel your pending application in the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, click on the menu icon and select <b>"My Applications”</b>. Find and click on the application you want to cancel to view its details. Look for the text <b>“You may cancel this application here”</b> and click this link to cancel. Once completed, your application status will change to <b>“Cancelled”</b>. </p>
 		
-<p class="mini-header" id="withdraw-registration">Withdrawing my registration after programme placement</p>			
+<p class="mini-header" id="withdraw-registration">Can I withdraw my registration after programme placement?</p>			
 
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
@@ -197,38 +197,37 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 			
 <h4>Registering Your Officers for Programmes</h4>
 
-<p id="individual-bulk" class="mini-header">Individual or bulk Upload</p>
+<p id="individual-bulk" class="mini-header">How do I register my officers for CSC's programmes?</p>
 	
-<p>Click the top left menu icon in CSC LEARN platform, select the building icon, then choose <b>“Applications”</b> and click <b>“New Applications”</b> in the top right corner. </p>
 
-<p>You can submit applications in two ways: </p>
+<p>You can submit applications in two ways on the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, Individual or Bulk Upload: </p>
 	
 <p>For individual application, click <b>“Add Application”</b> on the left side of the page. Select your preferred class session and click <b>“Next”</b>. Choose your learner(s), click <b>“Next”</b>, then select your billing contact and click <b>“Confirm”</b>. Review all information on the registration summary page and click <b>“Confirm”</b> to complete your submission.</p>
 	
 <p> For Bulk Upload, click <b>“Bulk Upload”</b> on the right side of the page. Download and fill in the template, then upload your completed file. Please ensure that you have entered your officers’ email addresses correctly as all subsequent communications would be sent to the listed email addresses directly. Incorrect emails may result in officers not receiving their Programme Placement Letters and Welcome emails.</p>
 	
 	
-<p class="mini-header">Registration closing dates</p>
+<p class="mini-header">When is the closing date for registration?</p>
 
 <p>Registration normally closes 5 working days before the start date, unless otherwise stated. If your officer chooses to apply just before the closing date, you may need to submit the application directly on their behalf to avoid unsuccessful registration. </p>
 	
 	
-<p class="mini-header" id="review">Reviewing your officer’s application</p>
+<p class="mini-header" id="review">What is the review and approval process?</p>
 
-<p>When your officer register for a programme, you have up to 3 working days to review and approve the application. Once you’ve approved it, your officer will be notified via the CSC LEARN platform and email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
+<p>When your officer register for a programme, you have up to 3 working days to review and approve the application in the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Once you’ve approved it, your officer will be notified via the CSC LEARN platform and email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
 		
 
-<p class="mini-header">Unable to review registrations in time</p>
+<p class="mini-header">What happens when I do not review registrations in time?</p>
 			
-<p>Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. Your officer will need to submit a new application. Please review your officer's registration promptly to ensure timely enrolment in programmes. Check your <b>“My Tasks”</b> dashboard regularly and review pending applications as quickly as possible.</p>
+<p>Any registration request not approved after the 3 working day period will lapse and cannot be reactivated. Your officer will need to submit a new application. Please review your officer's registration promptly to ensure timely enrolment in programmes. Check your <b>“My Tasks”</b> dashboard on the CSC LEARN platform regularly and review pending applications as quickly as possible.</p>
 	
 	
-<p class="mini-header" id="covering-training">How to set “Covering Training Coordinator (TC)”</p>
+<p class="mini-header" id="covering-training">How to set “Covering Training Coordinator (TC)”?</p>
 	
-<p>On the CSC LEARN platform, click the profile icon in the top right and select <b>“My Profile”</b>. Then click the <b>“Work”</b> tab on the left sidebar. You can assign up to three covering TCs for your organisation.</p>
+<p>On the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>, click the profile icon in the top right and select <b>“My Profile”</b>. Then click the <b>“Work”</b> tab on the left sidebar. You can assign up to three covering TCs for your organisation.</p>
 	
 	
-<p class="mini-header">Registration status</p>
+<p class="mini-header">How do I check registration status?</p>
 					
 	
 <p>We will email the officer and you about the registration status 2 to 3 weeks before the programme starts. If registration is successful:</p>
@@ -240,10 +239,11 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 </ul>
 	
 <p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
-
+	
+<p>You may also log in to the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a> to check officer's registration status.
 	
 	
-<h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
+</p><h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
 	
 <p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s TC via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
@@ -301,7 +301,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <a target="_blank" href="https://go.gov.sg/no-show-appeal">here</a>.</p>
 	
 	
-<p class="mini-header">Where to get assistance</p>
+<p class="mini-header">Where to get assistance?</p>
 	
 <p>For assistance before the programme, officers may submit their enquiries through our&nbsp;<a href="https://go.gov.sg/csc-feedback">Online Form</a>. During the programme, they can seek help directly from our Trainers or Programme Experience Partners.</p>
 	
@@ -365,7 +365,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 				<li>Standard in-house or customised programme request</li>
 </ul>
 
-<p>We’ll respond within 3 – 5 working days. </p>
+<p>We’ll respond within 3 to 5 working days. </p>
 	
 <p>Click <a target="blank" href="https://go.gov.sg/csc-aemanager">here</a> to find out who your Agency Engagement Manager is.</p> 
 	
