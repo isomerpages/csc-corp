@@ -2,7 +2,7 @@ collections:
   reach-us:
     output: true
     order:
-      - Locate Us.md
+      - Locate Us and FAQ.md
       - Getting to CSC.md
       - Rent Our Facility.md
       - Our Amenities.md
