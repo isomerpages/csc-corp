@@ -2,7 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Tan Ching Yee.md
       - Augustine O'Donnell.md
       - Christopher Worley.md
       - Jocelyne Bourgon.md
@@ -14,6 +13,7 @@ collections:
       - Peter Ho Hak Ean.md
       - Peter Ong Boon Kwee.md
       - Ravi Menon.md
+      - Tan Ching Yee.md
       - Yong Ying I.md
       - Catherine Fieschi.md
       - Martin Richard John Knapp.md
