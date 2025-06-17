@@ -326,7 +326,7 @@ variant: markdown
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
 						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Tan served for over 38 years in the Singapore Public Service, in various appointments in the Ministries of Trade and Industry, Education, then-Information, Communications and the Arts, Health, Finance, and the Prime Minister’s Office.</div></div>
 	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/tan-ching-yee/">Read Bio</a>
+			<a href="/fellowship-members-bios/tan-ching-yee">Read Bio</a>
 		</div>
   </div>
 </div>
