@@ -1,6 +1,6 @@
 ---
 title: Tan Ching Yee
-permalink: /tan-ching-yee/
+permalink: /fellowship-members-bios/tan-ching-yee/
 variant: markdown
 description: ""
 ---
