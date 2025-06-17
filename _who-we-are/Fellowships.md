@@ -297,8 +297,6 @@ variant: markdown
 </div>
 </div>
 
-
-
 <div class="grid-container">
 
 
@@ -318,6 +316,24 @@ variant: markdown
 	</div>
 
 	
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Tan_CY.jpg">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Tan Ching Yee</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Tan served for over 38 years in the Singapore Public Service, in various appointments in the Ministries of Trade and Industry, Education, then-Information, Communications and the Arts, Health, Finance, and the Prime Minister’s Office.</div></div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/tan-ching-yee">Read Bio</a>
+		</div>
+  </div>
+</div>
+</div>
+
+<div class="grid-container">
+
 <div class="fellow-card">
 		
 <div class="fellowship-text">
