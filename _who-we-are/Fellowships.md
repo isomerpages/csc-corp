@@ -320,7 +320,7 @@ variant: markdown
 		
 <div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/Tan_Ching_Yee.jpg">
+			<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Tan_CY.jpg">
 		</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Tan Ching Yee</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
