@@ -12,7 +12,7 @@ notification: We discovered a FAKE Telegram account (cscsingapura) claiming to
   Helpline at 1799 if you are unsure.
 sections:
   - hero:
-      background: /images/Landing Page/cover_option2a.jpg
+      background: /images/Landing Page/CSC_LandingPage_2025.jpg
       key_highlights:
         - title: Learn at CSC
           description: ""
