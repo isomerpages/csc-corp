@@ -44,7 +44,7 @@ hr {
 
 
 
-<img src="/images/What%20We%20Do/WhatWeDo_Opt1.jpg">
+<img src="/images/What%20We%20Do/What_We_Do_2025.jpg">
 
 <p>As the public sector's main institution for learning, research and staff development, the Civil Service College is committed to designing and developing programmes that support competency-driven growth in public officers, ensuring that they have the ability to not only grow in the Public Service, but to thrive.</p>
 
