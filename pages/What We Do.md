@@ -54,7 +54,7 @@ hr {
 
 <div class="grid-container">
 	<div><img src="/images/What%20We%20Do/WhatWeDo%2001.jpg"></div>
-	<div><img src="/images/What%20We%20Do/WhatWeDo%2002.jpg"></div>
+	<div><img src="/images/What%20We%20Do/What_We_Do_New_LEARN.jpg"></div>
 	<div><img src="/images/What%20We%20Do/WhatWeDo%2003.jpg"></div>
 </div>
 <div class="grid-container">
