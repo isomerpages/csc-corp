@@ -4,6 +4,14 @@ permalink: /getting-to-csc/
 description: ""
 variant: markdown
 ---
+  <style>
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+
 <style>
 table {
 	border: black 1px solid;
