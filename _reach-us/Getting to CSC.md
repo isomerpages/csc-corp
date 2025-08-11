@@ -2,6 +2,7 @@
 title: Getting to CSC
 permalink: /getting-to-csc/
 description: ""
+variant: markdown
 ---
 <style>
 table {
@@ -60,10 +61,11 @@ table {
 <b>By Car</b>	
 <p>We have limited parking lots at CSC. It might be easier and faster to find a parking lot at these nearby carparks: </p>
 
+<p>
+
+<img alt="Alternative Parking 2025" style="max-width: 100%; height: auto;" src="/images/Reach%20Us/Alternative_Parking_2025.jpg"></p>
 
 
-
-<img style="width:1000px;height:650px;" src="/images/Reach%20Us/alternativeparking_2023.jpg">
 
 <br>
 <b>Parking at CSC</b>
