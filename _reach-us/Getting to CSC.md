@@ -5,14 +5,6 @@ description: ""
 variant: markdown
 ---
 <style>
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-    }
-  </style>
-
-<style>
 table {
 	border: black 1px solid;
   border-collapse: collapse;
@@ -70,7 +62,8 @@ table {
 <p>We have limited parking lots at CSC. It might be easier and faster to find a parking lot at these nearby carparks: </p>
 
 <p>
-<img style="width:1000px;height:650px;" src="/images/Reach%20Us/Alternative_Parking_2025.jpg"></p>
+
+<img style="width:1000px;height:Auto;" src="/images/Reach%20Us/Alternative_Parking_2025.jpg"></p>
 
 <br>
 <b>Parking at CSC</b>
