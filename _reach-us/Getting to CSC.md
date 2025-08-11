@@ -4,7 +4,7 @@ permalink: /getting-to-csc/
 description: ""
 variant: markdown
 ---
-  <style>
+<style>
     img {
       max-width: 100%;
       height: auto;
