@@ -63,7 +63,9 @@ table {
 
 <p>
 
-<img style="width:1000px;height:Auto;" src="/images/Reach%20Us/Alternative_Parking_2025.jpg"></p>
+<img alt="Alternative Parking 2025" style="max-width: 100%; height: auto;" src="/images/Reach%20Us/Alternative_Parking_2025.jpg"></p>
+
+
 
 <br>
 <b>Parking at CSC</b>
