@@ -99,8 +99,8 @@ font-size: 15px;
 </div>
 <div class="BOD-float-child"><h4>Ms Lim Cheng-Cheng</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Group Chief Corporate Officer,</div>
-<div class="TheTitle">Singapore Telecommunications Limited</div>
+<div class="TheTitle">Group Chief Financial Officer,</div>
+<div class="TheTitle">Surbana Jurong Group</div>
 </div>
 
 <div class="BOD-float-child"><h4>Mr Paul Choo</h4><p class="role">Member</p>
@@ -141,7 +141,7 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Mr Yeo Li Pheow</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Executive Director,</div>
+<div class="TheTitle">Associate Professor (Practice) and Executive Director,</div>
 <div class="TheTitle">Institute for Adult Learning</div>
 
 
