@@ -141,7 +141,7 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Mr Yeo Li Pheow</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Executive Director,</div>
+<div class="TheTitle">Associate Professor (Practice) and Executive Director,</div>
 <div class="TheTitle">Institute for Adult Learning</div>
 
 
