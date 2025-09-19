@@ -185,9 +185,24 @@ variant: markdown
 
 <h3 class="header-fellows-middle">Senior Fellows</h3>
 
-
 <div class="grid-container">
-	
+
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+	<img src="/images/FellowshipImages/Chan_Yeng_Kit.png" class="fellowship-image">
+	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Chan Yeng Kit</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Chan was appointed Chief Executive Officer of SPH Media in July 2024. Prior to this, Mr Chan was Permanent Secretary (Health) from 2019 to 2024, helming the Ministry of Health through the COVID-19 pandemic years.</div>
+	</div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/chan-yeng-kit/">Read Bio</a></div>
+</div>
+		
+</div>
+		
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -203,8 +218,12 @@ variant: markdown
 </div>
 		
 </div>
+</div>	
 	
-	
+
+
+
+<div class="grid-container">
 
 <div class="fellow-card">
 		
@@ -220,10 +239,7 @@ variant: markdown
 	 </div>								
   </div>
  </div>
-</div>
 
-
-<div class="grid-container">
 
 <div class="fellow-card">
 		
@@ -240,7 +256,9 @@ variant: markdown
 			</div>
 	</div>
 </div>	
+</div>
 
+<div class="grid-container">
 
 <div class="fellow-card">
 		
@@ -256,6 +274,22 @@ variant: markdown
 		</div>						
   </div>
 	</div>
+
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/Mrs_Ow_HS.jpg">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ow Foong Pheng</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Ow is the Chairman of the Urban Redevelopment Authority and Special Advisor to the Minister for National Development. She served more than 38 years in the Singapore Public Service before her retirement on 1 April 2025.</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ow-foong-pheng">Read Bio</a>
+		</div>
+ </div>
+	</div>
+
 	
 
 </div>
