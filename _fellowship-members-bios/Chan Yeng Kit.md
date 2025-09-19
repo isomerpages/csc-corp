@@ -1,6 +1,6 @@
 ---
 title: Chan Yeng Kit
-permalink: /chan-yeng-kit/
+permalink: /fellowship-members-bios/chan-yeng-kit/
 variant: markdown
 description: ""
 ---

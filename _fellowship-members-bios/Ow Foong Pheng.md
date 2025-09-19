@@ -1,6 +1,6 @@
 ---
 title: Ow Foong Pheng
-permalink: /ow-foong-pheng/
+permalink: /fellowship-members-bios/ow-foong-pheng/
 variant: markdown
 description: ""
 ---
