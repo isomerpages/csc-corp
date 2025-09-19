@@ -2,6 +2,7 @@ collections:
   fellowship-members-bios:
     output: true
     order:
+      - Chan Yeng Kit.md
       - Augustine O'Donnell.md
       - Christopher Worley.md
       - Jocelyne Bourgon.md
