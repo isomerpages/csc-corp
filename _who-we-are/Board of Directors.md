@@ -73,16 +73,16 @@ font-size: 15px;
 <div class="TheTitles">Care Corner</div>
 </div>
 
-<div class="BOD-float-child"><h4>Mr Clarence Ti</h4>
-<p class="role">Member</p>
-<div class="TheTitles">Deputy President (Administration),</div>
-<div class="TheTitles">National University of Singapore</div>
-</div>
-	
 <div class="BOD-float-child"><h4>Mr David Yeo</h4>
 <p class="role">Member</p>
 <div class="TheTitle">Chairman and Chief Executive Officer,</div>
 <div class="TheTitle">Kydon Group</div>
+</div>
+	
+<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
+<p class="role">Member</p>
+<div class="TheTitle">Associate Professor (Organisational Behaviour),</div>
+<div class="TheTitle">INSEAD</div>
 </div>
 
 </div>
@@ -91,10 +91,10 @@ font-size: 15px;
 
 <div class="grid-container">
 
-<div class="BOD-float-child"><h4>Mr Henrik Bresman</h4>
+<div class="BOD-float-child"><h4>Mr Hoirul Hafiidz bin Maksom</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Associate Professor (Organisational Behaviour),</div>
-<div class="TheTitle">INSEAD</div>
+<div class="TheTitle">Director,</div>
+<div class="TheTitle">Sea Limited</div>
 
 </div>
 <div class="BOD-float-child"><h4>Ms Lim Cheng-Cheng</h4>
@@ -103,33 +103,32 @@ font-size: 15px;
 <div class="TheTitle">Surbana Jurong Group</div>
 </div>
 
+<div class="BOD-float-child"><h4>Ms Ngiam Xin Wei</h4><p class="role">Member</p>
+<div class="TheTitle">Senior Managing Director and Head of Deliveries and ACE,</div>
+<div class="TheTitle">Grab</div>
+</div>
+
+</div>
+
+<br>
+
+<div class="grid-container">
+
 <div class="BOD-float-child"><h4>Mr Paul Choo</h4><p class="role">Member</p>
 <div class="TheTitle">Chief Human Resources Officer,</div>
 <div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
 </div>
 
+<div class="BOD-float-child"><h4>Associate Professor Terence Ho</h4>
+<p class="role">Member</p>
+<div class="TheTitle">Deputy Executive Director, </div>
+<div class="TheTitle">Institute for Adult Learning Singapore</div>
 </div>
 
-<br>
-
-<div class="grid-container">
-
-<div class="BOD-float-child"><h4>Ms Sasha Foo</h4>
+<div class="BOD-float-child"><h4>Ms Trillion So</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Managing Director,</div>
-<div class="TheTitle">DBS</div>
-</div>
-
-<div class="BOD-float-child"><h4>Mr Shariq Barmaky</h4>
-<p class="role">Member</p>
-<div class="TheTitle">Chief Executive Officer, </div>
-<div class="TheTitle">Deloitte Singapore</div>
-</div>
-
-<div class="BOD-float-child"><h4>Mr Wahab Yusoff</h4>
-<p class="role">Member</p>
-<div class="TheTitle">Founding Partner and Acting CEO,</div>
-<div class="TheTitle">Rekanext Capital Pte Ltd</div>
+<div class="TheTitle">Audit Partner,</div>
+<div class="TheTitle">PwC Singapore</div>
 
 </div>
 
@@ -139,10 +138,10 @@ font-size: 15px;
 
 <div class="grid-container">
 
-<div class="BOD-float-child"><h4>Mr Yeo Li Pheow</h4>
+<div class="BOD-float-child"><h4>Mr Vincent Wu</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Associate Professor (Practice) and Executive Director,</div>
-<div class="TheTitle">Institute for Adult Learning</div>
+<div class="TheTitle">Deputy Secretary (Policy),</div>
+<div class="TheTitle">Ministry of Health</div>
 
 
 </div>
