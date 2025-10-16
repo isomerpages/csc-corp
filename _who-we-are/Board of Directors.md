@@ -129,7 +129,7 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Ms Trillion So</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Audit Partner,</div>
+<div class="TheTitle">Audit Partner, </div>
 <div class="TheTitle">PwC Singapore</div>
 
 </div>
