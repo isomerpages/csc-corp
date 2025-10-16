@@ -34,7 +34,7 @@ font-size: 15px;
 <div class="grid-container">
 
 <div class="BOD-float-child"><h4>Ms Tan Gee Keow</h4>
-<p class="role">Chairman</p>
+<p class="role">Chairman, Ex-Officio</p>
 <div class="TheTitles">Permanent Secretary,</div>
 <div class="TheTitles">Public Service Division,</div>
 <div class="TheTitles">Prime Minister's Office</div>
@@ -43,7 +43,7 @@ font-size: 15px;
 <div class="BOD-float-child">
 
 <h4>Mr Han Neng Hsiu</h4>
-<p class="role">Member</p>
+<p class="role">Member, Ex-Officio</p>
 <div class="TheTitles">Dean and CEO,</div>
 <div class="TheTitles">Civil Service College</div>&nbsp;
 <div class="TheTitles">Deputy Secretary (Leadership),</div>
