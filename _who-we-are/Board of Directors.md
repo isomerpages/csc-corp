@@ -104,7 +104,7 @@ font-size: 15px;
 </div>
 
 <div class="BOD-float-child"><h4>Ms Ngiam Xin Wei</h4><p class="role">Member</p>
-<div class="TheTitle">Senior Managing Director and Head of Deliveries and ACE,</div>
+<div class="TheTitle">Senior Managing Director &amp; Head of Deliveries and ACE,</div>
 <div class="TheTitle">Grab</div>
 </div>
 
