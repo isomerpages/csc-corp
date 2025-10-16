@@ -97,7 +97,7 @@ font-size: 15px;
 <div class="TheTitle">Sea Limited</div>
 
 </div>
-<div class="BOD-float-child"><h4>Ms Lim Cheng-Cheng</h4>
+<div class="BOD-float-child"><h4>Ms Lim Cheng Cheng</h4>
 <p class="role">Member</p>
 <div class="TheTitle">Group Chief Financial Officer,</div>
 <div class="TheTitle">Surbana Jurong Group</div>
@@ -121,7 +121,7 @@ font-size: 15px;
 <div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
 </div>
 
-<div class="BOD-float-child"><h4>Associate Professor Terence Ho</h4>
+<div class="BOD-float-child"><h4>Mr Terence Ho</h4>
 <p class="role">Member</p>
 <div class="TheTitle">Deputy Executive Director, </div>
 <div class="TheTitle">Institute for Adult Learning Singapore</div>
