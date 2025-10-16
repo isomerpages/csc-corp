@@ -98,14 +98,14 @@ font-size: 15px;
 
 </div>
 <div class="BOD-float-child"><h4>Ms Lim Cheng-Cheng</h4>
-	<br>
+		<br><br>
 <p class="role">Member</p>
 <div class="TheTitle">Group Chief Financial Officer,</div>
 <div class="TheTitle">Surbana Jurong Group</div>
 </div>
 
 <div class="BOD-float-child"><h4>Ms Ngiam Xin Wei</h4>
-	<br>
+		<br><br>
 	<p class="role">Member</p>
 <div class="TheTitle">Senior Managing Director &amp; Head of Deliveries and ACE,</div>
 <div class="TheTitle">Grab</div>
@@ -118,7 +118,7 @@ font-size: 15px;
 <div class="grid-container">
 
 <div class="BOD-float-child"><h4>Mr Paul Choo</h4>
-	<br>
+		<br><br>
 	<p class="role">Member</p>
 <div class="TheTitle">Chief Human Resources Officer,</div>
 <div class="TheTitle">Bridgestone Asia Pacific Pte. Ltd.</div>
@@ -131,7 +131,7 @@ font-size: 15px;
 </div>
 
 <div class="BOD-float-child"><h4>Ms Trillion So</h4>
-	<br>
+	<br><br>
 <p class="role">Member</p>
 <div class="TheTitle">Audit Partner,</div>
 <div class="TheTitle">PwC Singapore</div>
