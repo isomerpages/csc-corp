@@ -125,16 +125,11 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <p>You may mark your attendance by “checking in” to your programme on CSC's eAttendance page. Here is how:</p> 		
 		
 <ol id="list-adjustment">
-	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the eAttendance page.</li>	
+	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the attendance page.</li>	
 	<li>Log in with your SingPass App.</li>	
 	<li>Check that the details of your class are correct, and click on “Check-in”.</li>	
-	<li>Confirm your check-in by clicking on the “Check-in” button in the pop-up.</li>	
-	<li>Make sure that your attendance is captured under the “My Session Today” page</li>	
+
 </ol>		
-		
-<p>Here’s a simple guide to help you along.</p>			
-		
-<img src="/images/FAQ/eatt%20steps_website%20faq.png">	
 		
 <p>To ensure your attendance is captured in a timely manner, please download the Singpass App on your mobile devices with camera functionality and set up your Singpass account (if you have yet to do so) prior to your class. We also recommend that you arrive at least 15 minutes before the class start time to have sufficient time to complete this check-in process.</p>
 		
@@ -283,11 +278,10 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <h4 id="officers-attendance">Attendance of Your Officers</h4>
 	
-<p>Your officers may mark their attendance by “checking in” to their programme, on CSC’s eAttendance page.</p>
+<p>Your officers may mark their attendance by “checking in” to their programme on LEARN.</p>
 
-<p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the eAttendance page.</p>	
-	
-<img src="/images/FAQ/eatt%20steps_website%20faq.png">	
+<p>A QR code and/or URL will be provided by their trainers at the start of their class. They can either scan the QR code or input the URL on their mobile web browser to launch the attendance page.</p>	
+
 	
 <p>To ensure that your officers’ attendance is captured in a timely manner, officers are highly encouraged to download the Singpass application on their mobile devices with camera functionality and set up their Singpass account (if they have yet to do so) prior to their class. We also recommend that they arrive at least 15 minutes before the class’s start time to have sufficient time to complete this process.</p>
 
