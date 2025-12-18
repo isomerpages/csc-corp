@@ -48,7 +48,7 @@ sections:
         Excellence 2023 award at the 8th Singapore OpenGov Leadership Forum for
         LEARN.
       button: Find out more
-      url: https://opengovasia.com/awards/singapore-awards/2023-2/
+      url: https://archive.opengovasia.com/awards-custom/civil-service-college/
       image: /images/Landing Page/opengov_award_tile.jpg
       alt: Image alt text
 ---
