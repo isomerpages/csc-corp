@@ -27,7 +27,7 @@ variant: markdown
   <li>Public Administration</li>
   <li>Public Communications</li>
   <li>Public Policy &amp; Governance</li>
-	<li><a href="/files/Associate_Trainer___Service_Management.pdf">Service Management</a></li>
+	<li><a href="/files/Associate_Trainer_Service_Management_2026.pdf">Service Management</a></li>
 </ul>
 
 <p>Confident that you
