@@ -42,13 +42,12 @@ sections:
       alt: Image alt text
       subtitle: Publications
   - infopic:
-      title: Recognition of Excellence 2023 Award
+      title: Digital Trailblazer 2025 Award
       subtitle: Award
-      description: We are excited to announce that CSC received the Recognition of
-        Excellence 2023 award at the 8th Singapore OpenGov Leadership Forum for
-        LEARN.
+      description: We’re proud to be recognised as Digital Trailblazer at the
+        inaugural OutSystems Regional Awards 2025 for our LEARN initiative.
       button: Find out more
-      url: https://archive.opengovasia.com/awards-custom/civil-service-college/
-      image: /images/Landing Page/opengov_award_tile.jpg
+      url: https://en.prnasia.com/releases/apac/outsystems-recognises-singapore-s-digital-innovation-leaders-with-inaugural-regional-awards-511723.shtml
+      image: /images/Landing Page/Digital_Trailblazer_Award_2025.jpg
       alt: Image alt text
 ---
