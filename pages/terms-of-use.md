@@ -71,7 +71,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <ol class="alphabetical-orderedlist">
 
-<li><p>LEARN and LEARN Digital Classroom (LEARN-DC)</p></li>
+<li><p>LEARN</p></li>
 
 <li><p>any CSC Content, except to the extent permitted, with the prior written consent of CSC or unless expressly permitted in this Agreement; or</p></li>
 
@@ -83,7 +83,7 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
   
 
-<li>Without prejudice to the generality of Clause 2, you agree not to reproduce, display or otherwise provide access to LEARN, LEARN Digital Classroom (LEARN-DC), CSC Content, or Third Party User Content on another website or server, for example through framing, mirroring, linking, spidering, scraping or any other technological means (including any technology available in the future), without the prior written permission of CSC.</li>
+<li>Without prejudice to the generality of Clause 2, you agree not to reproduce, display or otherwise provide access to LEARN, CSC Content, or Third Party User Content on another website or server, for example through framing, mirroring, linking, spidering, scraping or any other technological means (including any technology available in the future), without the prior written permission of CSC.</li>
 
 <br>
 
@@ -99,11 +99,11 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <br>
 
-<li>Notwithstanding the foregoing, any software and other Content that are made available for downloading, access, or other use from LEARN and LEARN -DC with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices.</li>
+<li>Notwithstanding the foregoing, any software and other Content that are made available for downloading, access, or other use from LEARN with their own license terms, conditions, and notices will be governed by such terms, conditions, and notices.</li>
 
 <br>
 
-<li>You agree not to circumvent, disable or otherwise interfere with the security-related features or features that prevent or restrict use or copying of any Content or enforce limitations on use of the Website, LEARN and LEARN-DC or the Content therein.</li>
+<li>You agree not to circumvent, disable or otherwise interfere with the security-related features or features that prevent or restrict use or copying of any Content or enforce limitations on use of the Website, LEARN or the Content therein.</li>
 
 <br>
 
@@ -111,11 +111,11 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <br>
 
-<li>Modification of any of the Content or use of the Contents for any other purpose will be a violation of CSC’s and/or third party’s copyright and other intellectual property rights. Graphics and images on the Website, LEARN and LEARN-DC are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of CSC.</li>
+<li>Modification of any of the Content or use of the Contents for any other purpose will be a violation of CSC’s and/or third party’s copyright and other intellectual property rights. Graphics and images on the Website, LEARN are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of CSC.</li>
 
 <br>
 
-<li>Any unauthorised use of LEARN, LEARN-DC CSC Content, and/or Third Party User Content may give rise to a claim for damages and/or be a criminal offence.</li>
+<li>Any unauthorised use of LEARN, CSC Content, and/or Third Party User Content may give rise to a claim for damages and/or be a criminal offence.</li>
 
 </ol>
 
@@ -143,9 +143,9 @@ CSC reserves the right to change these Terms of Use at any time. All changes wil
 
 <ol class="alphabetical-orderedlist">
 
-<li>Your access to or use of this Website, LEARN and LEARN-DC;</li>
+<li>Your access to or use of this Website, LEARN;</li>
 
-<li>Any loss of access to or use of this Website, LEARN and LEARN-DC, howsoever caused;</li>
+<li>Any loss of access to or use of this Website, LEARN, howsoever caused;</li>
 
 <li>Any inaccuracy or incompleteness in, or errors or omissions in the transmission of the Contents;</li>
 
@@ -322,7 +322,7 @@ These terms may be changed from time to time. Changes will be posted on this pag
 
 <ol start="19">
 
-<li>All CSC-related Digital Platforms (LEARN, LEARN-DC and CSC Programme Portal) are intended for use by Singapore Public Service Officers and/or Singapore Public Service Agencies (“Agency”). You shall only access and/or use these platforms by an authorised account and your Account can only be used by you and must not be shared with any other third party (within the Singapore Public Service or otherwise). Your access and/or usage shall be in accordance with your Agency’s instructions.</li>
+<li>All CSC-related Digital Platforms are intended for use by Singapore Public Service Officers and/or Singapore Public Service Agencies (“Agency”). You shall only access and/or use these platforms by an authorised account and your Account can only be used by you and must not be shared with any other third party (within the Singapore Public Service or otherwise). Your access and/or usage shall be in accordance with your Agency’s instructions.</li>
 <br>
 
 <li>You further adhere to refrain from posting and/or engaging in the following on our digital platforms:</li>
