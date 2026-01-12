@@ -257,7 +257,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 
 </ol>
 	
-<img src="/images/FAQ/overview_process_timeline.jpg">
+
 	
 <p>More FAQs on the Withdrawal, Replacement and Transfer process is linked <a target="_blank" href="https://go.gov.sg/wdl-rpl-faq">here</a>.</p>
 	
