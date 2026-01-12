@@ -105,20 +105,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 		
 <p class="mini-header" id="classroom-details">Where do I find the classroom details?</p>
 		
-<p>A Welcome Email, will be sent to you at least 1 week before to the class commencement date with log-in instructions to CSC's <a target="_blank" href="https://dc.learn.gov.sg/">Learn Digital Classroom</a>, where you will find all the details you need to attend your programme, including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
-		
-<p>Here is how:</p>		
-		
-<ol id="list-adjustment">
-	<li>Log in to <a target="_blank" href="https://dc.learn.gov.sg">https://dc.learn.gov.sg</a> and scroll down to <b>“My Programmes”</b> to select the grid containing the name of the course you are attending.</li>
-	<li>Scroll down to the <b>“Table of Contents”</b> to find:</li>
-		<ul>
-			<li>The pre-learning materials under the <b>“Pre-course Preparations”</b> grid. Please complete any pre-course assignments that are required for the class</li>
-			<li>Classroom link/details under the <b>“Classroom Details”</b> grid</li>
-	</ul>
-</ol>		
-		
-<p>A simple guide on the steps to login to Learn-DC and access the programme information is linked <a target="_blank" href="https://go.gov.sg/learndc-proginfo">here</a>.</p>		
+<p>Log in to <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a> to access the classroom details , including classroom details (for in-person programmes), zoom link (for virtual programmes), pre-learning materials and assignments (if any), and programme materials.</p> 
 		
 <p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
 		
