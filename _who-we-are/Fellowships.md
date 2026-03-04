@@ -279,18 +279,17 @@ variant: markdown
 		
 <div class="fellowship-text">
 		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/Mrs_Ow_HS.jpg">
+			<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Ng_Chee_Khern.jpg"> 
 		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Ow Foong Pheng</p></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ng Chee Khern</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Ow is the Chairman of the Urban Redevelopment Authority and Special Advisor to the Minister for National Development. She served more than 38 years in the Singapore Public Service before her retirement on 1 April 2025.</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Ng was previously the Permanent Secretary of the Ministry of Manpower where he placed strong emphasis on initiatives to help workers and local workforce develop their careers and access good jobs.</div></div>
 		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/ow-foong-pheng">Read Bio</a>
+			<a href="/fellowship-members-bios/ng-chee-khern">Read Bio</a>
 		</div>
  </div>
 	</div>
 
-	
 
 </div>
 
@@ -299,6 +298,22 @@ variant: markdown
 <div class="grid-container">
 
 
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/Mrs_Ow_HS.jpg">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Ow Foong Pheng</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Ow is the Chairman of the Urban Redevelopment Authority and Special Advisor to the Minister for National Development. She served more than 38 years in the Singapore Public Service before her retirement on 1 April 2025.</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/ow-foong-pheng">Read Bio</a>
+			</div>
+		</div>
+	</div>
+
+	
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -310,22 +325,6 @@ variant: markdown
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Ho's career in the public service spans more than 34 years. He served as Head of Civil Service and Permanent Secretary for 15 years.</div></div>
 		<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/peter-ho-hak-ean">Read Bio</a>
-			</div>
-		</div>
-	</div>
-
-	
-<div class="fellow-card">
-		
-<div class="fellowship-text">
-		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
-		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Peter Ong Boon Kwee</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Mr Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
-	<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/peter-ong-boon-kwee">Read Bio</a>
 		</div>				
   </div>
 </div>
@@ -337,6 +336,22 @@ variant: markdown
 <div class="fellow-card">
 		
 <div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/peterongboonkwee.png">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Peter Ong Boon Kwee</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2017 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Ong was formerly Head of Civil Service. He was conferred the (Honorary) Knight of the Most Distinguished Order of The Crown by The Yang di-Pertuan Agong Malaysia XIV in 2012.</div></div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-ong-boon-kwee">Read Bio</a>
+			</div>
+		</div>
+	</div>
+
+	
+<div class="fellow-card">
+		
+<div class="fellowship-text">
 	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon_edited.jpg">
 	</div>
@@ -345,11 +360,14 @@ variant: markdown
 						<div class="fellowship-card-text"><div class="fellow-summary">Mr Menon served for 36 years in the Singapore Public Service, including as Managing Director of the Monetary Authority of Singapore;&nbsp;&nbsp;Permanent Secretary at the Ministry of Trade and Industry; and Deputy Secretary at the Ministry of Finance.</div></div>
 		<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/ravi-menon">Read Bio</a>
-			</div>
 		</div>
-	</div>
+  </div>
+</div>
+</div>
 
-	
+<div class="grid-container">
+
+
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -361,13 +379,11 @@ variant: markdown
 						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Tan served for over 38 years in the Singapore Public Service, in various appointments in the Ministries of Trade and Industry, Education, then-Information, Communications and the Arts, Health, Finance, and the Prime Minister’s Office.</div></div>
 	<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/tan-ching-yee">Read Bio</a>
+			</div>
 		</div>
-  </div>
-</div>
-</div>
+	</div>
 
-<div class="grid-container">
-
+	
 <div class="fellow-card">
 		
 <div class="fellowship-text">
@@ -383,6 +399,8 @@ variant: markdown
   </div>
 </div>
 </div>
+
+
 
 
 
