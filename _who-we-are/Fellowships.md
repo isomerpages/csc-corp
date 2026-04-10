@@ -413,42 +413,6 @@ variant: markdown
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	 <img class="fellowship-image" src="/images/FellowshipImages/fellowships_catherine_fieschi_2x.jpg">
-	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Catherine Fieschi</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2016 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Dr Fieschi is a leading European politics expert and global analyst.</div></div>
-			<div class="fellowship-card-text card-link">
-				<a href="/fellowship-members-bios/catherine-fieschi">Read Bio</a>
-		</div>					
-	 </div>
-</div>
-	
-
-<div class="fellow-card">
-		
-<div class="fellowship-text">
-		<div class="fellowship-image-div">
-			<img class="fellowship-image" src="/images/FellowshipImages/profknapp.png">
-		</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Martin Richard John Knapp</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">VISITING FELLOW, 2018 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Professor Knapp is a recipient of the Queen's Anniversary Prize for Higher and Further Education in 2009.</div></div>
-		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/martin-richard-john-knapp">Read Bio</a>
-		</div>			
-	</div>
-</div>
-</div>
-
-
-
-<div class="grid-container">
-	
-<div class="fellow-card">
-		
-<div class="fellowship-text">
-	<div class="fellowship-image-div">
 	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-richard-brown@2x.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Richard Brown</p></div>
