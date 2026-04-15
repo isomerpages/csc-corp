@@ -123,7 +123,7 @@ font-size: 15px;
 
 <div class="BOD-float-child"><h4>Mr Terence Ho</h4>
 <p class="role">Member</p>
-<div class="TheTitle">Deputy Executive Director, </div>
+<div class="TheTitle">Executive Director, </div>
 <div class="TheTitle">Institute for Adult Learning Singapore</div>
 </div>
 
