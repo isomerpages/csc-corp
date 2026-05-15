@@ -195,7 +195,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p class="mini-header" id="review">What is the review and approval process?</p>
 
-<p>When your officer register for a programme, you have up to 3 working days to review and approve the application in the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Once you’ve approved it, your officer will be notified via the CSC LEARN platform and email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
+<p>When your officer registers for a programme, you have up to 3 working days to review and approve the application in the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Once you’ve approved it, your officer will be notified via the CSC LEARN platform and email. However, if you register on an officer’s behalf, there is no review or approval required.</p>
 		
 
 <p class="mini-header">What happens when I do not review registrations in time?</p>
@@ -219,14 +219,14 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 
 </ul>
 	
-<p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. In most cases, we can only confirm the programme 3 weeks before it starts.</p>
+<p><b>Note:</b> Whenever possible, we will send the PPLs as soon as the programme is confirmed. On average, most programmes are confirmed 3 weeks before it starts.</p>
 	
 <p>You may also log in to the <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a> to check officer's registration status.
 	
 	
-</p><h4 id="wrt-officers">Withdrawing / Replacing / Transferring Your Officers for Programmes</h4>
+</p><h4 id="wrt-officers">Withdrawing / Replacing Your Officers for Programmes</h4>
 	
-<p>All requests for withdrawal, replacement and/or transfer of participants are to be submitted by an agency’s Training Coordinator (TC) via a Withdrawal / Replacement / Transfer Request Form on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
+<p>All requests for withdrawal and replacement of participants are to be submitted by an agency’s Training Coordinator (TC) via the Withdrawal / Replacement function on the CSC LEARN platform. CSC will not handle email requests from learners, and will re-direct them back to their TCs.</p>
 	
 	
 <p>TCs will be prompted to provide the following information:</p>
@@ -236,16 +236,15 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <li>Details of the programme that officer is withdrawing from</li>
 <li>Details of withdrawing officer</li>
 <li>Reasons for withdrawing</li>
-<li>If transferring to another session, the dates of the session to be transferred to</li>
-<li>If there is one, the replacement officer’s details</li>
+<li>If there is a replacement, the replacement officer’s details</li>
 <li>Replacement Officer’s TC details and Billing Contact Details</li>
 </ul>
 	
-<p>It is important to note that penalty fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:</p> 
+<p>It is important to note that withdrawal fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:</p> 
 	
 <img src="/images/FAQ/process_timeline_tcs.jpg">
 	
-<p>If penalty fees are incurred, CSC will assess if the penalty can be waived based on the reasons provided by the TC in the form. CSC will then inform the TC of the outcome over email within 5 working days.</p>
+<p>Where fees are incurred, CSC will assess if the charges can be waived based on the reasons provided by the TC. CSC will then inform the TC of the outcome over email within 5 working days.</p>
 
 <p>Please also note the timelines for replacements and transfers:</p>
 	
@@ -258,7 +257,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 
 	
-<p>More FAQs on the Withdrawal, Replacement and Transfer process is linked <a target="_blank" href="https://go.gov.sg/wdl-rpl-faq">here</a>.</p>
+<p>More FAQs on the Withdrawal and Replacement process is linked <a target="_blank" href="https://go.gov.sg/wdl-rpl-faq">here</a>.</p>
 	
 	
 	
@@ -287,64 +286,52 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p class="mini-header">More questions?</p>
 
-<p>If you have any questions not addressed above, you can contact us at <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg.</a></p>
+<p>If you have any questions not addressed above, please get in touch with us via our Online Form <a href="https://go.gov.sg/csc-feedback">Online Form</a>.</p>
 	
 
 <h4 id="request-in-house">Request for In-House Training</h4>
 	
 <p class="mini-header">In-house training</p>
-		
-<ul>
 
-<li>We offer in-house training programmes to meet your agency’s specific needs and challenges. You can choose from standard or customised in-house programmes.</li>
+<p>CSC offers in-house programmes to give agencies the flexibility to organise training programmes specifically for their officers.</p>  
+
+<p>Class Size: <br>
+Minimum and maximum class size for in-house programmes are fixed. Please refer to the standard in-house guide (via the link below) on the class size for each in-house programme. </p> 
+
+<p>Venue: <br>
+In-house programmes can be conducted at CSC or your preferred venue. Please note that programmes requiring heavy logistics or specialised equipment can only be conducted at CSC.</p> 
+<p>
+Agencies may choose between the following options: </p>
 	
-</ul>
-	
-<p class="mini-header">Standard in-house programmes</p>
-
 <ul>
+	
+<p class="mini-header"></p><li>Standard in-house programmes<p></p>
 
-<li>A standard in-house programme covers the same material as a public run programme. The advantage is that your organisation can choose the location and timing of the programme, and which officers to participate in it. Most programmes have an in-house option. Submit your request for standard in-house programmes <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a></li>
+
+
+A standard in-house programme is allowed for standard in-house programmes.is allowed for standard in-house programmes. 
+
+Agencies can now book standard in-house programmes directly via CSC direct booking platform, making it faster and more convenient to confirm your standard in-house class. For more details, please refer to the <a target="_blank" href="https://go.gov.sg/csc-inhouse-process-guide">Standard In-house Guide</a>.</li>
+	
+			
+<p class="mini-header"></p><li>Customised in-house programmes<p></p>
+
+
+A customised in-house programme allows agencies to tailor the programme to your agency's specific learning needs and work context. 
+
+
+If you are keen to customise an in-house programme, please complete this <a target="_blank" href="https://go.gov.sg/training-needs-analysis-form">form</a> and share it with your Agency Engagement Manager. We will get back to you within 3 to 5 working days to discuss further on your customised requirements.
+	
+
+The cost for a customised in-house programme depends on the extent of customisation required. For a cost estimate, please contact your Agency Engagement Manager. 
+
+
+<i>A 3-month lead time is required for new customised in-house programmes. This allows CSC and the trainer to design and develop content tailored to your agency’s needs. </i>
+</li>
 	
 </ul>	
-			
-<p class="mini-header">Customised in-house programmes</p>
 
-<ul>	
-
-<li>If your agency has specific work challenges, a standard in-house programme may not meet your needs. We can customise our programmes by working with you to analyse and determine your agency’s training needs. Please submit your agency’s request <a target="_blank" href="https://form.gov.sg/60545d6f248bbc0012cc8ae5">here</a>.</li>
 	
-
-
-</ul>	
-	
-<p><b><i>Note: There is a development fee for customised programmes which will be in addition to the programme fee.</i></b></p>
-	
-<p class="mini-header">Class sizes</p>
-	
-<p>The minimum and maximum class sizes for in-house training are fixed. If your agency does not meet the minimum class size, please register them for a public run instead.</p>
-	
-<p class="mini-header">Costs</p>
-		
-<p>Please contact your Agency Engagement Manager to ask for a cost estimate.</p>
-			
-<p class="mini-header">Venues</p>
-			
-<p>We can conduct in-house programmes at CSC or at a location of your choice, as long as heavy logistics or specialised equipment are not required. You can reduce costs by having the programme conducted at your office.</p>
-			
-<p class="mini-header">How to apply for in-house training</p>
-<p>Email your Agency Engagement Manager with the following:</p>
-	
-<ul>
-				<li>Programme title</li>
-				<li>Course code</li>
-				<li>Preferred venue (CSC or your agency’s venue)</li>
-				<li>Preferred training period (please allow a lead time of 8 weeks)</li>
-				<li>Number of times you’d like to run the programme</li>
-				<li>Standard in-house or customised programme request</li>
-</ul>
-
-<p>We’ll respond within 3 to 5 working days. </p>
 	
 <p>Click <a target="blank" href="https://go.gov.sg/csc-aemanager">here</a> to find out who your Agency Engagement Manager is.</p> 
 	
