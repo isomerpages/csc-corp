@@ -82,12 +82,12 @@ font-size:16px;
 <p class="mini-header">How do I search for a programme?</p> 
 
 <p>Discover programmes that interest you on <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. 
-You will be able to filter your search by Programme Type, Domain, Target Audience and Provider. For a more targeted search using competencies, please log in as a public officer. Click on the menu icon in the top left. Select <b>“Explore Learning Products”</b> and choose your domain. Then browse and select the competencies you're interested in to see matching learning products. </p>
+You will be able to filter your search by Programme Type, Domain, Target Audience and Provider. For a more targeted search using competencies, please log in as a public officer. Click on the menu icon on the top left. Select <b>“Explore Learning Products”</b> and choose your domain. Then browse and select the competencies you're interested in to see matching learning products. </p>
 
 		
 <p class="mini-header" id="register">How to register for a programme?</p>
 		
-<p>You can register via <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Navigate to your desired programme, and click <b>"Apply Now”</b> to select the available class dates, or choose <b>"View More Dates”</b> to see other options. Select your Training Coordinator from the list. Review your application details before clicking <b>"Submit”</b> to complete your registration. Your Training Coordinator has up to 3 working days to approve your registration request. You'll receive both a LEARN notification and an email once your application is approve. 
+<p>You can register via <a target="_blank" href="https://www.learn.gov.sg/">CSC LEARN platform</a>. Navigate to your desired programme, and click <b>"Apply Now”</b> to select the available class dates, or choose <b>"View More Dates”</b> to see other options. Select your Training Coordinator from the list. Review your application details before clicking <b>"Submit”</b> to complete your registration. Your Training Coordinator has up to 3 working days to approve your registration request. You'll receive both a LEARN notification and an email once your application is approved. 
 
 </p><p><b>Note:</b> To attend milestone programmes, you have to be nominated by your agency. Contact your Training Coordinator to find out more.</p>
 
@@ -109,20 +109,19 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 		
 <p class="mini-header" id="mark-attendance">How do I mark my attendance?</p>
 		
-<p>You may mark your attendance by “checking in” to your programme on CSC's eAttendance page. Here is how:</p> 		
+<p>You may mark your attendance by “checking in” to your programme on CSC's eAttendance page.</p> 		
 		
 <ol id="list-adjustment">
-	<li>At the start of the class, your trainer will provide you with a QR code and a URL. Scan the QR code with your mobile devices or manually input the URL in your web browser to launch the attendance page.</li>	
-	<li>Log in with your SingPass App.</li>	
+	<li>At the start of the class, scan the QR code provided by your trainer with your mobile device or manually input the URL in your web browser to launch the attendance page.</li>	
 	<li>Check that the details of your class are correct, and click on “Check-in”.</li>	
 
 </ol>		
 		
-<p>To ensure your attendance is captured in a timely manner, please download the Singpass App on your mobile devices with camera functionality and set up your Singpass account (if you have yet to do so) prior to your class. We also recommend that you arrive at least 15 minutes before the class start time to have sufficient time to complete this check-in process.</p>
+<p>To ensure your attendance is captured in a timely manner, please download the Singpass App on your mobile device with camera functionality and set up your Singpass account (if you have yet to do so) prior to your class. We also recommend that you arrive at least 15 minutes before the class start time to have sufficient time to complete this check-in process.</p>
 		
 <p class="mini-header" id="missed-check-in">What if I missed my check-in?</p>		
 
-<p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification will be sent to your Training Coordinator to inform him/her that you have yet to check in. If you arrive after the check-in time, please inform your trainer and provide reasons for being late.</p>		
+<p>Check-in will close 90 minutes after the class has started. Thereafter, an email notification regarding your check-in status will be sent to your Training Coordinator. If you arrive after the check-in time, please inform your trainer and provide reasons for being late. </p>		
 		
 
 <h4>Withdrawing Your Registration</h4>
@@ -136,9 +135,9 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <p>If you are scheduled for an upcoming CSC programme and you are unable to attend, here is what you need to do:</p>
 		
 <ol id="list-adjustment">
-<li>Notify your Training Coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a penalty fee may be incurred. All withdrawal / replacement / transfer requests have to be submitted by your TC.</li>	
+<li>Notify your Training Coordinator (TC) early, preferably at least 3 weeks before the class start date, otherwise a withdrawal fee may be incurred. All withdrawal / replacement requests have to be submitted by your TC.</li>	
 <li>Concurrently, check among your colleagues if anyone is able to take your place for the programme. If yes, remember to seek your respective RO’s support, and provide the details (name, NRIC, email address) of your colleague to your TC.</li>
-<li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. If a penalty is incurred due to late notice, CSC will assess the reasons provided and determine if the penalty can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
+<li>If you have not found a replacement, please provide your TC the reason(s) you are unable to attend. Where fees are incurred due to late notice, CSC will assess the reasons provided and determine if the charges can be waived. Do note that reasons such as going on leave/vacation will not be accepted as these should have been planned ahead of time.</li> 
 <li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
 
 <figure>
