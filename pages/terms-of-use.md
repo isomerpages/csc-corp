@@ -213,15 +213,15 @@ Participants will receive their Programme Placement Letter 3 weeks before the cl
 <li>Withdrawal and/or Replacement<br>
 For programmes with grants, agencies will be charged the full programme fees for any withdrawal/absentees once the class has started. Grants are only given to learners who have fully attended the programme. No fees will be charged should CSC cancel a programme due to unforeseen circumstances.<br>
 <br>
-All requests for withdrawal, replacement and/or transfer should be submitted by the Training Coordinator (TC) via the Withdrawal/Replacement/Transfer Form on the CSC LEARN platform <a href="https://www.learn.gov.sg">(https://www.learn.gov.sg)</a>. The TC may indicate the reasons for withdrawal in the form. CSC will assess the request and notify the TC on the outcome of the request via email within 5 working days.<br>
+All requests for withdrawal, replacement and/or transfer should be submitted by the Training Coordinator (TC) via the Withdrawal/Replacement Form on the CSC LEARN platform <a href="https://www.learn.gov.sg">(https://www.learn.gov.sg)</a>. The TC may indicate the reasons for withdrawal in the form. CSC will assess the request and notify the TC on the outcome of the request via email within 5 working days.<br>
 <br>
-If the withdrawal request is submitted less than 3 weeks before the class starts, or after the Programme Placement Letter has been issued (whichever is later), a penalty of 25% of the full programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
+If the withdrawal request is submitted less than 3 weeks before the class starts, or after the Programme Placement Letter has been issued (whichever is later), a withdrawal fee of 25% of the full programme fee will be charged. For programmes with additional course materials purchased prior to the withdrawal, 25% of the programme fee or additional course material fee will be charged, whichever is higher.<br>
 
 <br>
 Replacement requests should be submitted at least 5 working days before the class starts. Transfer requests should be submitted at least 5 working days before the original class start date and at least 5 working days before the selected new class start date.</li>
 
 <br>
-No penalty charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.
+No charges will be imposed if a replacement or transfer is provided and accepted for a participant who wishes to withdraw his/her registration for a programme.
 <br>
 
 <br>
@@ -252,7 +252,7 @@ Agencies will be charged the full Digital Learning programme (pay-per-use) fees 
 <br>
 
 <li>Access Period<br>
- Learners will have up to 90 days (or 120 days for ELFUS13) to complete each Digital Learning programme (pay-per-use). Thereafter, the access will expire, and learners will have to re-register for the programme to gain access for another 90 days (or 120 days for ELFUS13).</li>
+Learners will have up to 90 days (or 120 days for ELFUS13) to complete each Digital Learning programme (pay-per-use). Thereafter, the access will expire, and learners will have to re-register for the programme to gain access for another 90 days (or 120 days for ELFUS13).</li>
 <br>
 
 </ol>
@@ -286,11 +286,11 @@ Participants will be notified of their placement in the event 1 week before the 
 <br>
 
 <li>Withdrawal<br>
- Only withdrawals through emails will be acknowledged. Confirmed participants who withdraw after registration has been confirmed will be charged the full fee of the event.</li>
+Only withdrawals through emails will be acknowledged. Confirmed participants who withdraw after registration has been confirmed will be charged the full fee of the event.</li>
 <br>
 
 <li>Replacement<br>
-No penalty charges will be imposed if a replacement is provided and accepted for a participant who wishes to withdraw his/her registration for an event.</li>
+No charges will be imposed if a replacement is provided and accepted for a participant who wishes to withdraw his/her registration for an event.</li>
 
 </ol>
 
@@ -368,7 +368,7 @@ These terms may be changed from time to time. Changes will be posted on this pag
 
 <ol start="24">
 
-<li>If you have any queries on these Registration Terms, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>.</li>
+<li>If you have any queries on these terms, please submit them via this <a href="https://go.gov.sg/csc-feedback">link</a>.</li>
 
 
 
