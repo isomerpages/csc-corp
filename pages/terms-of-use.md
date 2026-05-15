@@ -368,7 +368,7 @@ These terms may be changed from time to time. Changes will be posted on this pag
 
 <ol start="24">
 
-<li>If you have any queries on these Registration Terms, please send your queries to <a href="mailto:cscollege@cscollege.gov.sg">cscollege@cscollege.gov.sg</a>.</li>
+<li>If you have any queries on these terms, please submit them via this <a href="https://go.gov.sg/csc-feedback">link</a>.</li>
 
 
 
