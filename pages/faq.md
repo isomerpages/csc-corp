@@ -141,7 +141,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 <li>Do note the withdrawal timelines below to avoid any penalties:</li></ol>
 
 <figure>
-<img src="/images/FAQ/process_timeline_learner.jpg">
+<img src="/images/FAQ/process_timeline_tcs_May_2026.jpg">
 
 <figcaption>
 <p>For more information, please refer to this <a target="_blank" href="https://go.gov.sg/wdl-rpl-faq">FAQ</a>.</p>
@@ -242,7 +242,7 @@ You will be able to filter your search by Programme Type, Domain, Target Audienc
 	
 <p>It is important to note that withdrawal fees will be levied if the notification to withdraw is received after the Programme Placement Letter has been sent, or less than 3 weeks before the class start date, whichever is later. Please see timeline below:</p> 
 	
-<img src="/images/FAQ/process_timeline_tcs.jpg">
+<img src="/images/FAQ/process_timeline_tcs_May_2026.jpg">
 	
 <p>Where fees are incurred, CSC will assess if the charges can be waived based on the reasons provided by the TC. CSC will then inform the TC of the outcome over email within 5 working days.</p>
 
