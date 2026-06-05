@@ -69,9 +69,8 @@ details {
 <div class="grid-child-OS-2">
 	<ul>
 	<li>Mr Han Neng Hsiu, Dean and CEO</li>
-	<li>Ms Lee Cher Farn, Deputy CEO (Strategy and Corporate Group)</li>
-	<li>Mr Patrick Lau, Assistant CEO (Enterprise Technology Group)</li>
-	<li>Mr Roger Tan, Assistant CEO (International)</li>
+	<li>Ms Lee Cher Farn, Deputy CEO (Corporate and Technology)</li>
+
 </ul>
 </div>
 </div>
@@ -134,10 +133,7 @@ Oversee and govern the planning, development and implementation of ETG initiativ
 <summary>Programme Experience and Operations</summary>
 <p class="Accordion-Paragraph">Partner Institutes to provide end-to-end administrative and logistics support for programmes so that learners enjoy a seamless experience.</p>
 </details>
-		
-<details><summary>Project INEX (INtegrated EXperience)</summary>
-<p class="Accordion-Paragraph">Drive the consolidation and integration of business requirements and needs across the systems in CSC and develop an aligned and coherent view in order to provide a seamless learner and agency experience.</p>
-</details>
+
 
 	
 </div>
