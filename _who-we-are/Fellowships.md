@@ -387,7 +387,25 @@ variant: markdown
 		</div>
   </div>
 </div>
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/leo-yip.jpg">
+	</div>
+		<div class="fellowship-card-text"><p class="fellow-name">Leo Yip</p></div>
+			<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2026 - Present</p></div>
+				<div class="fellowship-card-text">
+					<div class="fellow-summary">
+						Mr Leo Yip is currently serving as Deputy Chairman, Board of Trustees of the National University of Singapore (NUS), and Senior Advisor, Public Service Division (PSD).
+					</div>
+				</div>
+	<div class="fellowship-card-text card-link">
+		<a href="/fellowship-members-bios/leo-yip">Read Bio</a>
+	</div>
+</div>
 
+</div>
 </div>
 
 
