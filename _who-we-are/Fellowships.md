@@ -401,7 +401,7 @@ variant: markdown
 					</div>
 				</div>
 	<div class="fellowship-card-text card-link">
-		<a href="/fellowship-members-bios/leo-yip">Read Bio</a>
+		<a href="/fellowship-members-bios/leo-yip/">Read Bio</a>
 	</div>
 </div>
 
