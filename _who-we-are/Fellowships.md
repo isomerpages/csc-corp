@@ -391,7 +391,7 @@ variant: markdown
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-		<img class="fellowship-image" src="/images/FellowshipImages/leo-yip.jpg">
+		<img class="fellowship-image" src="/images/FellowshipImages/Leo_Yip.png">
 	</div>
 		<div class="fellowship-card-text"><p class="fellow-name">Leo Yip</p></div>
 			<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2026 - Present</p></div>
