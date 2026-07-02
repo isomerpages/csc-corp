@@ -34,7 +34,7 @@ p {
 </div>
 
 <p>
-Mr Leo Yip joined the Singapore Public Service in 1982 as a police officer. He holds degrees from the University of Cambridge, the University of Warwick and Harvard University. In 2000, he was appointed Principal Private Secretary to Senior Minister Lee Kuan Yew, serving until 2002 when he joined the Ministry of Manpower as Deputy Secretary. From 2003, he concurrently served as Chief Executive of the Singapore Workforce Development Agency (WDA).
+Leo Yip joined the Singapore Public Service in 1982 as a police officer. He holds degrees from the University of Cambridge, the University of Warwick and Harvard University. In 2000, he was appointed Principal Private Secretary to Senior Minister Lee Kuan Yew, serving until 2002 when he joined the Ministry of Manpower as Deputy Secretary. From 2003, he concurrently served as Chief Executive of the Singapore Workforce Development Agency (WDA).
 </p>
 
 <p>
