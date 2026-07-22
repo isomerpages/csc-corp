@@ -324,7 +324,7 @@ variant: markdown
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Pang Kin Keong</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2026 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Mr Pang served as Permanent Secretary of the Ministry of Home Affairs from 2017 to 2026, after holding senior leadership roles in the Ministries of Transport and Law, the Internal Security Department,</div></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Pang served as Permanent Secretary of the Ministry of Home Affairs from 2017 to 2026, after holding senior leadership roles in the Ministries of Transport and Law, the Internal Security Department, and the Prime Minister's Office.</div></div>
 		<div class="fellowship-card-text card-link">
 			<a href="/fellowship-members-bios/pang-kin-keong">Read Bio</a>
 		</div>
