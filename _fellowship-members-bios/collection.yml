@@ -2,7 +2,6 @@ collections:
   fellowship-members-bios:
     output: true
     order:
-      - Pang Kin Keong.md
       - Augustine O'Donnell.md
       - Christopher Worley.md
       - Jocelyne Bourgon.md
@@ -14,6 +13,7 @@ collections:
       - Lim Soo Hoon.md
       - Ng Chee Khern.md
       - Ow Foong Pheng.md
+      - Pang Kin Keong.md
       - Peter Ho Hak Ean.md
       - Peter Ong Boon Kwee.md
       - Ravi Menon.md
