@@ -34,7 +34,7 @@ p {
 </div>
 
 <p>
-Kin Keong was the Permanent Secretary of the Ministry of Home Affairs from 2017 to 2026.
+Pang Kin Keong was the Permanent Secretary of the Ministry of Home Affairs from 2017 to 2026.
 </p>
 
 <p>
