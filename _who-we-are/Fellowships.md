@@ -299,7 +299,6 @@ variant: markdown
 </div>
 
 
-
 <div class="grid-container">
 
 <div class="fellow-card">
@@ -321,15 +320,15 @@ variant: markdown
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-ho-hak-ean@2x.jpg">
+		<img class="fellowship-image" src="/images/FellowshipImages/pang_kin_keong.png">
 	</div>
-			<div class="fellowship-card-text"><p class="fellow-name">Peter Ho Hak Ean</p></div>
-				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
-						<div class="fellowship-card-text"><div class="fellow-summary">Peter Ho is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow of the Civil Service College. </div></div>
+			<div class="fellowship-card-text"><p class="fellow-name">Pang Kin Keong</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2026 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mr Pang served as Permanent Secretary of the Ministry of Home Affairs from 2017 to 2026, after holding senior leadership roles in the Ministries of Transport and Law, the Internal Security Department, and the Prime Minister's Office.</div></div>
 		<div class="fellowship-card-text card-link">
-			<a href="/fellowship-members-bios/peter-ho-hak-ean">Read Bio</a>
-		</div>				
-  </div>
+			<a href="/fellowship-members-bios/pang-kin-keong">Read Bio</a>
+		</div>
+	</div>
 </div>
 
 </div>
@@ -337,6 +336,21 @@ variant: markdown
 
 
 <div class="grid-container">
+
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+	<div class="fellowship-image-div">
+		<img class="fellowship-image" src="/images/FellowshipImages/fellowships-peter-ho-hak-ean@2x.jpg">
+	</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Peter Ho Hak Ean</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2010 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Peter Ho is the Senior Advisor to the Centre for Strategic Futures and a Senior Fellow of the Civil Service College.</div></div>
+		<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/peter-ho-hak-ean">Read Bio</a>
+		</div>				
+	</div>
+</div>
 
 <div class="fellow-card">
 		
@@ -353,11 +367,17 @@ variant: markdown
 		</div>
 	</div>
 
+</div>
+
+
+
+<div class="grid-container">
+
 <div class="fellow-card">
 		
 <div class="fellowship-text">
 	<div class="fellowship-image-div">
-	<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon_edited.jpg">
+		<img class="fellowship-image" src="/images/FellowshipImages/Fellowships_Ravi_Menon_edited.jpg">
 	</div>
 			<div class="fellowship-card-text"><p class="fellow-name">Ravi Menon</p></div>
 				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2024 - Present</p></div>
@@ -368,7 +388,25 @@ variant: markdown
   </div>
 </div>
 
+<div class="fellow-card">
+		
+<div class="fellowship-text">
+		<div class="fellowship-image-div">
+			<img class="fellowship-image" src="/images/FellowshipImages/Fellowship_Tan_CY.jpg">
+		</div>
+			<div class="fellowship-card-text"><p class="fellow-name">Tan Ching Yee</p></div>
+				<div class="fellowship-card-text"><p class="fellow-duration">SENIOR FELLOW, 2025 - Present</p></div>
+						<div class="fellowship-card-text"><div class="fellow-summary">Mrs Tan served for over 38 years in the Singapore Public Service, in various appointments in the Ministries of Trade and Industry, Education, then-Information, Communications and the Arts, Health, Finance, and the Prime Minister’s Office.</div></div>
+	<div class="fellowship-card-text card-link">
+			<a href="/fellowship-members-bios/tan-ching-yee">Read Bio</a>
+			</div>
+		</div>
+	</div>
+
 </div>
+
+
+
 
 
 

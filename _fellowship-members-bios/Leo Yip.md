@@ -30,7 +30,7 @@ p {
 
 <div class="fellow-img">
 	<img class="fellow-image-pic" src="/images/FellowshipImages/Leo_Yip.png">
-	<p class="fellow-tenure">2025 - PRESENT</p>
+	<p class="fellow-tenure">2026 - PRESENT</p>
 </div>
 
 <p>
