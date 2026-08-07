@@ -37,7 +37,7 @@ Ng Chee Khern was previously the Permanent Secretary of the Ministry of Manpower
 </p>
 
 <p>
-Mr Ng is the Deputy Chairman of the Civil Aviation Authority of Singapore (CAAS), serving on the Boards of Hong Leong Asia Ltd and SIA Engineering Company Limited as an Independent Non-Executive Director, Senior Fellow of Civil Service College and Public Sector Training Institution Network and Chairman of the Advisory Board to NTU’s College of Computing and Data Science.
+Mr Ng is the Chairman of the Civil Aviation Authority of Singapore (CAAS), serving on the Boards of Hong Leong Asia Ltd and SIA Engineering Company Limited and NCS Pte Ltd as an Independent Non-Executive Director. He is a Senior Fellow of Civil Service College, LKYSPP Distinguished Practitioner Fellow and Professor of Practice, and Public Sector Training Institution Network and Chairman of the Advisory Board to NTU’s College of Computing and Data Science.
 </p>
 <p>
 Mr Ng was previously the Chairman of the Government Technology Agency of Singapore (GovTech) board, and served as a board member of the National Research Foundation (NRF), Civil Aviation Authority of Singapore (CAAS), Singapore Technologies Engineering Ltd, and CapitaLand Mall Trust.
